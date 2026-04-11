@@ -215,7 +215,7 @@ En resumen: puedes usar, modificar y distribuir este software libremente, siempr
 
 ## Autor
 
-José Conti - [joseconti.com](https://plugins.joseconti.com)
+José Conti - [plugins.joseconti.com](https://plugins.joseconti.com)
 
 ---
 
