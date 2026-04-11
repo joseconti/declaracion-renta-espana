@@ -1,5 +1,7 @@
 # Declaración de la Renta - España (IRPF 2025)
 
+> **Ejercicio fiscal 2025** · Campaña: 2 de abril – 30 de junio de 2026
+
 Skill para Claude / Cowork que asiste al contribuyente español en la revisión y optimización de su declaración del Impuesto sobre la Renta de las Personas Físicas (IRPF), ejercicio 2025.
 
 ---
@@ -213,7 +215,7 @@ En resumen: puedes usar, modificar y distribuir este software libremente, siempr
 
 ## Autor
 
-José Conti - [joseconti.com](https://joseconti.com)
+José Conti - [joseconti.com](https://plugins.joseconti.com)
 
 ---
 
