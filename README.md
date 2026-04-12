@@ -267,7 +267,7 @@ Toda la informacion fiscal de este skill procede exclusivamente de fuentes ofici
 - 15 comunidades autonomas de regimen comun cubiertas
 - 4 territorios forales cubiertos (Navarra, Alava, Bizkaia, Gipuzkoa) con IRPF completo propio
 - 2 ciudades autonomas (Ceuta y Melilla) con regimen especial
-- Mas de 350 deducciones autonomicas documentadas con porcentajes, limites y requisitos
+- Mas de 350 deducciones autonomicas documentadas con porcentajes, limites, requisitos de acceso y condiciones de elegibilidad
 - 11 categorias de deducciones estatales
 - 8 regimenes y casos especiales (Beckham, cripto, no residentes, etc.)
 - 56 preguntas de descubrimiento organizadas en 6 categorias
@@ -286,6 +286,7 @@ Toda la informacion fiscal de este skill procede exclusivamente de fuentes ofici
 - **Ejercicio 2025 unicamente.** La normativa de ejercicios anteriores puede diferir.
 - **Canarias requiere revision manual.** Muchas deducciones canarias no aparecen automaticamente en el borrador de la AEAT.
 - **Cuantias aproximadas en algunos casos.** Aunque la fuente principal es el PDF oficial de 1.903 paginas de la AEAT, algunas deducciones autonomicas tienen formulas y condiciones muy complejas. Cuando no ha sido posible condensar todos los matices, se indica que se consulte la fuente oficial.
+- **Deducciones restringidas.** Muchas deducciones autonomicas (especialmente las de alquiler de vivienda) existen en la normativa pero solo son aplicables a perfiles concretos (jovenes, desempleados, discapacitados, familias numerosas, etc.). Los requisitos de acceso estan documentados en cada archivo regional, pero el skill advierte siempre de que la existencia de una deduccion no implica que sea aplicable a todos los contribuyentes.
 
 ---
 
