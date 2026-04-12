@@ -1,74 +1,312 @@
-# IRPF 2025 - Deducciones Autonómicas: Comunidad de Madrid
+# IRPF 2025 - Deducciones Autonomicas: Madrid
 
-Fuente oficial: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-madrid.html
+Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
+https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
 
 ---
 
-## DEDUCCIONES DISPONIBLES
+## DEDUCCIONES
 
-### 1. Por alquiler de vivienda habitual (menores de 40 años)
-- Porcentaje: 30% de cantidades pagadas
-- Límite: 1.237,20 euros
-- Requisitos: pagar al menos 20% de base imponible en alquiler
-- Límite renta: suma base imponible general + ahorro <= 26.414,22 euros (individual) o <= 37.322,20 euros (conjunta)
-- Renta unidad familiar <= 61.860 euros
+### 1. Por nacimiento o adopcion de hijos
 
-### 2. Por arrendamiento de viviendas vacias
-- Hasta 1.000 euros por inmueble si llevaba vacia >= 1 año
-- Requisitos: contrato >= 3 años; no más de 5 inmuebles residenciales
+- **Cuantia/Porcentaje:** 721,70 euros por hijo (desde 2023); 600 euros (antes de 2023)
+- **Base maxima:** Aplicable en ano de nacimiento/adopcion + 2 anos posteriores
+- **Limite renta:** 
+  - 30.930 euros (tributacion individual)
+  - 37.322,20 euros (tributacion conjunta)
+  - Unidad familiar: 61.860 euros total
+- **Requisitos:**
+  - Hijo nacido/adoptado a partir de 1 enero 2023 (721,70 euros)
+  - Antes de esa fecha: 600 euros
+  - Partos/adopciones multiples: incremento de 721,70 euros en primer periodo
+  - Convivencia efectiva con padres
+  - Si ambos padres tributan individual: prorrata por partes iguales
+- **Incompatibilidades:** Compatible con "Por adopcion internacional"
+- **Novedad 2025:** Tipos diferenciados segun ano de nacimiento
 
-### 3. Por reparación de inmuebles
-- Porcentaje: 10% de gastos de reparación/conservación/seguros/certificación energética
-- Límite: 154,65 euros
+### 2. Por adopcion internacional de ninos
 
-### 4. Por intereses hipotecarios para jóvenes (< 30 años)
-- Porcentaje: 25% de intereses satisfechos
-- Límite: 1.031 euros
+- **Cuantia/Porcentaje:** 721,70 euros por hijo adoptado
+- **Base maxima:** Incremento del 50% si conviven ambos padres adoptivos
+- **Limite:** Sin limite de renta especificado
+- **Requisitos:**
+  - Adopcion de caracter internacional acreditada
+  - Si ambos padres: incremento 50% y prorrata si tributacion individual
+  - Convivencia con padres adoptivos
+- **Incompatibilidades:** Compatible con "Por nacimiento o adopcion"
+- **Novedad 2025:** Ninguna
 
-### 5. Por adquisición de vivienda por nacimiento/adopción
-- Porcentaje: 10% del precio (compras desde 2023)
-- Límite: 1.546,50 euros anuales
-- Prorrateable en 10 años
+### 3. Por acogimiento familiar de menores
 
-### 6. Por nacimiento o adopción
-- Cuantía: 721,70 euros por hijo (desde 2023)
-- Cuantía anterior: 600 euros (antes de 2023)
-- Aplicable: año del nacimiento + 2 años siguientes
+- **Cuantia/Porcentaje:** 
+  - 618,60 euros (primer menor)
+  - 773,25 euros (segundo menor)
+  - 927,90 euros (tercero y siguientes)
+- **Base maxima:** Segun numero de menores acogidos
+- **Limite renta:** 
+  - 26.414,22 euros (tributacion individual)
+  - 37.322,20 euros (tributacion conjunta)
+- **Requisitos:**
+  - Acogimiento familiar simple, permanente o preadoptivo
+  - Acogimiento administrativo o judicial
+  - Permanencia superior a 183 dias en el ano
+  - Excluyente: si adoption se produce en el mismo ano
+  - Certificado de acogimiento expedido por Comunidad de Madrid
+  - Si matrimonios/uniones de hecho: prorrata por partes iguales
+- **Incompatibilidades:** No aplica si hay adopcion en el mismo ano
+- **Novedad 2025:** Ninguna
 
-### 7. Por ascendientes a cargo
-- Cuantía: 515,50 euros por ascendiente
-- Requisitos: edad >= 65 o discapacidad >= 33%
+### 4. Por acogimiento no remunerado de mayores de 65 anos y/o con discapacidad
 
-### 8. Por inversión en empresas de nueva creación
-- Límite: 9.279 euros
-- Sociedad Laboral/Cooperativa/universidad: 50% deducción, máximo 12.372 euros
+- **Cuantia/Porcentaje:** 1.546,50 euros por persona acogida
+- **Base maxima:** Por cada persona con requisitos cumplidos
+- **Limite renta:** Sin limite especificado
+- **Requisitos:**
+  - Mayor de 65 anos o discapacidad >= 33%
+  - Convivencia >= 183 dias/ano en acogimiento sin contraprestacion
+  - No debe generar ayudas/subvenciones de Madrid
+  - Para > 65: parentesco > 4 grado (no aplica si discapacidad >= 33%)
+  - Acogimiento documentado
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
 
-### 9. Por inversión en empresas del MAB (BME Growth)
-- Porcentaje: 20% de inversión
-- Límite: 10.310 euros
+### 5. Por cuidado de menores en centros especializados
 
-### 10. Otras deducciones
-- Por acogimiento familiar de menores
-- Por acogimiento no remunerado de mayores de 65 años
-- Por gastos educativos (enseñanza de idiomas, uniformes, adquisición de vestuario de uso exclusivo escolar)
-- Por donativos a fundaciones
-- Consultar detalle completo en fuente oficial
+- **Cuantia/Porcentaje:** 15% de cantidades satisfechas
+- **Base maxima:** 600 euros anuales
+- **Limite renta:** 26.414,22 euros (individual) o 37.322,20 euros (conjunta)
+- **Requisitos:**
+  - Hijos menores de 3 anos
+  - Centros autorizados de educacion infantil
+  - Ambos padres con actividad laboral
+  - Documentacion de gastos y alta en centro
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 6. Por acogimiento de menores en centro de accion educativa
+
+- **Cuantia/Porcentaje:** Pendiente de concretar
+- **Base maxima:** No especificado
+- **Limite:** Normativa autonomica
+- **Requisitos:**
+  - Menor acogido en centro educativo especializado
+  - Requisitos adicionales de programa
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 7. Por pagos de pension alimenticia o compensacion economica por matrimonio
+
+- **Cuantia/Porcentaje:** 400 euros anuales
+- **Base maxima:** Por cada obligacion de pago
+- **Limite:** Segun obligaciones legales
+- **Requisitos:**
+  - Pago de pension alimenticia a conyuge o hijo
+  - Resolucion judicial o acuerdo homologado
+  - Documentacion de pagos realizados
+  - Acreedor sin ingresos superiores a limite
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 8. Por donaciones a entidades publicas o privadas
+
+- **Cuantia/Porcentaje:** Segun cuantia donada
+- **Base maxima:** No especificado
+- **Limite:** Normativa autonomica
+- **Requisitos:**
+  - Donaciones a entidades acreditadas
+  - Documentacion de donaciones
+  - Entidades de caracter publico o privado sin animo de lucro
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 9. Por gastos de libros, material y actividades escolares
+
+- **Cuantia/Porcentaje:** 100% de gasto en libros de texto
+- **Base maxima:** 300 euros por descendiente
+- **Limite renta:** 27.000 euros
+- **Requisitos:**
+  - Descendiente del contribuyente
+  - Centro educativo publico (desde 2024)
+  - Acreditacion de gastos
+  - Renta per capita <= 27.000 euros
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Cambio a educacion publica desde 2024
+
+### 10. Por inversiones en entidades de nueva creacion
+
+- **Cuantia/Porcentaje:** 20% de inversion realizada
+- **Base maxima:** Pendiente de concretar
+- **Limite:** 3.000 euros (anuales)
+- **Requisitos:**
+  - Entidades constituidas hace <= 2 anos
+  - Ejercicio actividad economica
+  - No inmobiliario residencial
+  - Aportacion realizada
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 11. Por rehabilitacion de viviendas unifamiliares en zonas rurales
+
+- **Cuantia/Porcentaje:** Pendiente de concretar
+- **Base maxima:** No especificado
+- **Limite:** Normativa autonomica
+- **Requisitos:**
+  - Vivienda unifamiliar en zona rural
+  - Obras de rehabilitacion acreditadas
+  - Vivienda habitual
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 12. Por instalacion de sistemas de aprovechamiento de energia solar
+
+- **Cuantia/Porcentaje:** Pendiente de concretar
+- **Base maxima:** No especificado
+- **Limite:** Segun capacidad instalada
+- **Requisitos:**
+  - Sistemas de energia solar en vivienda habitual
+  - Certificacion de instalacion
+  - Requisitos tecnicos de normativa
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 13. Por adquisicion de vivienda por menores de 35 anos
+
+- **Cuantia/Porcentaje:** 20% del precio de adquisicion
+- **Base maxima:** 9.000 euros
+- **Limite renta:** 38.632,80 euros
+- **Requisitos:**
+  - Contribuyente menor de 35 anos
+  - Primera vivienda
+  - Vivienda habitual
+  - Empadronamiento en Madrid
+  - Contrato de hipoteca formalizado
+  - Renta <= 38.632,80 euros
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 14. Por rehabilitacion de inmuebles declarados como BIC
+
+- **Cuantia/Porcentaje:** Pendiente de concretar
+- **Base maxima:** No especificado
+- **Limite:** Normativa autonomica
+- **Requisitos:**
+  - Inmueble declarado Bien de Interes Cultural
+  - Obras de rehabilitacion autorizadas
+  - Documentacion de costes
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 15. Por arrendamiento de viviendas vacias
+
+- **Cuantia/Porcentaje:** Pendiente de concretar
+- **Base maxima:** No especificado
+- **Limite:** Segun ingresos por renta
+- **Requisitos:**
+  - Vivienda puesta en el mercado de alquiler
+  - Vivienda vacia durante 2 anos previos
+  - Contrato de arrendamiento formalizado
+  - Requisitos de renta de inquilino
+- **Incompatibilidades:** Ninguna especificada
+- **Novedad 2025:** Ninguna
+
+### 16. Por cuidado de ascendientes
+
+- **Cuantia/Porcentaje:** A determinar segun normativa
+- **Requisitos:**
+  - Ascendiente a cargo del contribuyente
+  - Convivencia con ascendiente
+  - Requisitos de edad/dependencia
+
+### 17. Por gastos derivados del arrendamiento de viviendas
+
+- **Cuantia/Porcentaje:** Gastos especificos deducibles
+- **Requisitos:**
+  - Arrendamiento de vivienda documentado
+  - Gastos asociados al arrendamiento
+  - Acreditacion mediante facturas
+
+### 18. Por donativos a fundaciones y clubs deportivos
+
+- **Porcentaje:** 25% de donaciones
+- **Limite:** Hasta 10% de base liquidable
+- **Requisitos:**
+  - Donaciones a fundaciones acreditadas
+  - Clubs deportivos oficialmente registrados
+  - Documentacion de donacion
+
+### 19. Por incremento de costes de financiacion ajena
+
+- **Cuantia/Porcentaje:** Interes de prestamos para vivienda
+- **Requisitos:**
+  - Prestamo para adquisicion de vivienda habitual
+  - Documentacion de contrato hipotecario
+
+### 20. Por cambio de residencia a municipio en riesgo de despoblacion
+
+- **Cuantia:** Porcentaje de gastos asociados
+- **Requisitos:**
+  - Cambio de residencia a municipio con riesgo demografico
+  - Acreditacion de empadronamiento
+
+### 21. Por adquisicion de vivienda habitual en municipios en riesgo de despoblacion
+
+- **Cuantia/Porcentaje:** A determinar
+- **Requisitos:**
+  - Vivienda en municipio en riesgo de despoblacion
+  - Primera vivienda habitual
+  - Contrato formalizado
+
+### 22. Por gastos educativos
+
+- **Cuantia/Porcentaje:** 100% de gastos en educacion publica
+- **Limite maximo:** 300 euros por descendiente
+- **Limite renta:** 27.000 euros
+- **Requisitos:**
+  - Gastos en libros de texto educacion publica
+  - Descendiente del contribuyente
+  - Acreditacion de gastos
+  - Renta per capita <= 27.000 euros
+
+### 23. Por cuidado de hijos menores de 3 anos, mayores dependientes y personas con discapacidad
+
+- **Porcentaje:** 15% de cantidades satisfechas
+- **Limite maximo:** 600 euros
+- **Limite renta:** 26.414,22 euros (individual) o 37.322,20 euros (conjunta)
+- **Requisitos:**
+  - Hijos menores de 3 anos en centros autorizados
+  - Mayores dependientes o personas con discapacidad
+  - Ambos padres con actividad laboral
+  - Documentacion de gastos
+
+---
+
+### ANEXO: Municipios en riesgo de despoblacion
+
+Las deducciones por cambio de residencia y por adquisicion de vivienda habitual en municipios en riesgo de despoblacion de la Comunidad de Madrid requieren que el municipio este clasificado como tal por la normativa autonomica.
+
+La lista de municipios en riesgo de despoblacion se aprueba mediante Orden de la Consejeria competente. El contribuyente debe verificar que su municipio esta incluido en la lista vigente para el ejercicio 2025 antes de aplicar estas deducciones.
+
+Consultar en: Comunidad de Madrid - Portal de Transparencia - Municipios en riesgo de despoblacion
+https://www.comunidad.madrid
 
 ---
 
 ## PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
 
-1. Pagas alquiler y tienes menos de 40 anos?
-2. Tu base imponible es inferior a 26.414,22 euros (individual)?
-3. Has tenido o adoptado hijos en 2025?
-4. Has comprado vivienda tras un nacimiento/adopción?
-5. Tienes ascendientes mayores de 65 años o con discapacidad a tu cargo?
-6. Has invertido en startups o empresas del MAB?
-7. Tienes viviendas vacias que has puesto en alquiler?
-8. Tienes menos de 30 años y pagas hipoteca?
-9. Tienes gastos educativos (idiomas, uniformes)?
+1. Tienes hijos nacidos o adoptados? Cuando nacieron (2023 o antes)?
+2. Has adoptado internacionalmente? Cual es la situacion de ambos padres?
+3. Tienes menores en acogimiento familiar? Cuantos y cuanto tiempo hace?
+4. Cuantas personas mayores de 65 anos o con discapacidad acoge sin remuneracion?
+5. Tus hijos menores de 3 anos utilizan guarderias autorizadas?
+6. Cual es tu renta base imponible (individual o familiar segun caso)?
+7. Has realizado inversiones en entidades de nueva creacion?
+8. Tienes gastos en educacion publica? Cuanto gastas en libros de texto?
+9. Eres menor de 35 anos y has comprado vivienda habitual?
+10. Alquilas viviendas vacias o tienes inmuebles para rehabilitar?
 
 ---
 
 ## FUENTES
-- AEAT Deducciones Madrid: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-madrid.html
+
+- Manual Practico Renta 2025 Parte 2 Deducciones Autonomicas: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+- AEAT Comunidad de Madrid: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-madrid.html

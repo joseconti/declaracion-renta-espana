@@ -1,89 +1,296 @@
-# IRPF 2025 - Deducciones Autonómicas: Castilla-La Mancha
+# IRPF 2025 - Deducciones Autonomicas: Castilla-La Mancha
 
-Fuente oficial: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-castilla-mancha.html
+Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
+https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
 
 ---
 
-## DEDUCCIONES DISPONIBLES (27 deducciones)
+## DEDUCCIONES
 
-### 1. Por nacimiento o adopción
-- 1 hijo: 100 euros
-- 2 hijos: 500 euros
-- 3 o más hijos: 900 euros
-- Límite de renta: base imponible no superior a 27.000 euros (individual) o 36.000 euros (conjunta)
+### 1. Por nacimiento o adopcion de hijos
+
+- **Cuantia:** 
+  - 1 hijo: 100 euros
+  - 2 hijos: 500 euros
+  - 3 o mas hijos: 900 euros
+- **Limite de renta:** Base imponible no superior a 27.000 euros (individual) o 36.000 euros (conjunta)
+- **Requisitos:** Hijo nacido o adoptado en el periodo impositivo 2025
+- **Aplicacion:** En declaracion individual de cada progenitor
 
 ### 2. Por familia numerosa
-- Categoria general: 200 euros
-- Categoria especial: 400 euros
-- Discapacidad >= 65%: 300 euros general, 900 euros especial
+
+- **Cuantia:**
+  - Categoria general (3+ hijos): 200 euros
+  - Categoria especial (minimo 5 hijos o 4 con discapacitado): 400 euros
+  - Con discapacidad >= 65%: 300 euros (general), 900 euros (especial)
+- **Requisitos:** Reconocimiento oficial de familia numerosa
+- **Aplicacion:** En declaracion individual de cada progenitor
 
 ### 3. Por familia monoparental
-- Cuantía: 200 euros
 
-### 4. Por guarderia/cuidado de menores (< 3 años)
-- Porcentaje: 30% de gastos
-- Límite: 500 euros por hijo
+- **Cuantia:** 200 euros
+- **Requisitos:** Progenitor unico con hijos menores a cargo
+- **Aplicacion:** Deduccion adicional a otros beneficios familiares
 
-### 5. Por alquiler de vivienda (menores de 36 años)
-- Porcentaje general: 15%
-- Zonas rurales: 20%
-- Límites: 500 euros general, 612 euros rurales
-- Base imponible máxima: 12.500 euros (individual), 25.000 euros (conjunta)
+### 4. Por gastos en la adquisicion de libros de texto, enseñanza de idiomas y otros gastos educativos
 
-### 6. Por compra de primera vivienda (menores de 36)
-- Porcentaje: 15% de depósitos de ahorro
-- Límite: 3.000 euros total, 750 euros anuales
-- Requisito: adquisición dentro de 6 años
+- **Cuantia:** 
+  - Porcentaje del gasto: 15% (puede variar por nivel)
+  - Limite individual: 100 euros
+  - Limite conjunta: 200 euros
+- **Aplicable a:**
+  - Educacion infantil
+  - Primaria y educacion secundaria obligatoria
+  - Educacion post-obligatoria
+  - Enseñanza de idiomas
+- **Base:** Facturas justificativas
 
-### 7. Por adquisición/rehabilitación en zonas rurales
-- Porcentaje: 15% de deducción
-- Límite: 12.000 euros anuales (180.000 euros total)
-- Municipios: menos de 5.000 habitantes en zonas de despoblación
+### 5. Por gastos de guarderia
 
-### 8. Por discapacidad
-- Contribuyente >= 65%: 300 euros
-- Dependientes: 300 euros por dependiente
-- Mayores de 75 años: 150 euros
+- **Cuantia:** 30% de gastos de asistencia a menores en guarderia
+- **Limite maximo:** 500 euros anuales por hijo menor de 3 anos
+- **Base:** Cantidades justificadas con factura satisfechas mediante tarjeta, transferencia u otros medios documentados
 
-### 9. Por libros de texto y material escolar
-- Deducción: 15%
-- Límites: 200 euros (conjunta), 100 euros (individual)
+### 6. Por discapacidad del contribuyente
 
-### 10. Por inversiones empresariales
-- Porcentaje: 20% en acciones/participaciones
-- Límite: 4.000 euros
-- Requisito: mantener 3+ anos
+- **Cuantia:**
+  - Grado de discapacidad >= 65%: 300 euros
+  - Otros grados: a determinar por normativa
+- **Acreditacion:** Segun certificacion de discapacidad
+- **Incremento:** Pueden existir incrementos por discapacidad severa
 
-### 11. Por donaciones
-- Desarrollo internacional/social: 15%
-- Investigación científica: 15%
-- Patrimonio cultural: 15%
-- Límite de deducción: 10% de base imponible
+### 7. Por discapacidad de ascendientes o descendientes
 
-### 12. Por cuidado de animales de compania (perros asistencia)
-- Porcentaje: 30% de costos veterinarios/vacunacion
-- Límite: 100 euros anuales
+- **Cuantia:** 300 euros por familiar dependiente con discapacidad >= 65%
+- **Requisitos:**
+  - Grado de discapacidad igual o superior al 65% o 33% segun tipo
+  - Convivencia con el contribuyente
+  - Que no tenga rentas superiores a limite establecido (IPREM o similar)
+- **Aplicable:** Ascendientes y descendientes
 
-### 13-27. Otras deducciones
-- Por gastos funerarios
-- Por arrendamiento de vivienda habitual general
-- Por eficiencia energética
-- Consultar detalle completo en fuente oficial
+### 8. Para contribuyentes mayores de 75 anos
+
+- **Cuantia:** 150 euros
+- **Base imponible maxima:**
+  - 27.000 euros (individual)
+  - 36.000 euros (conjunta)
+- **Requisitos:**
+  - Mayor de 75 anos cumplidos a 31 de diciembre
+  - Base imponible dentro de limites
+- **Incompatibilidades:**
+  - Incompatible con deduccion por discapacidad del contribuyente (si discapacidad >= 65%)
+  - No compatible con deduccion "Por cuidado de ascendientes mayores de 75 anos" aplicada al mismo sujeto
+- **Restriccion:** No aplica si reside mas de 30 dias en Centros Residenciales de Mayores
+
+### 9. Por el cuidado de ascendientes mayores de 75 anos
+
+- **Cuantia:** 150 euros por ascendiente
+- **Requisitos:**
+  - Ascendiente mayor de 75 anos
+  - Convivencia durante el periodo impositivo
+  - Que ascendiente no tenga rentas superiores a limite (6.000 euros u IPREM)
+  - Causa derecho a minimo por ascendientes
+- **Documentacion:** Comprobantes de gastos de mantenimiento
+
+### 10. Por acogimiento familiar no remunerado de menores
+
+- **Cuantia:** Deduccion por menor acogido
+- **Requisitos:**
+  - Acogimiento administrativo o judicial
+  - Seleccion por entidad publica de proteccion de menores
+  - Sin parentesco previo con el menor
+  - Convivencia durante el periodo impositivo
+- **Tipos de acogimiento:** Temporal, permanente o preadoptivo
+
+### 11. Por acogimiento no remunerado de mayores de 65 anos o con discapacidad
+
+- **Cuantia:** Deduccion por persona mayor acogida
+- **Requisitos:**
+  - Mayor de 65 anos o con discapacidad >= 33%
+  - Acogimiento no remunerado
+  - Sin parentesco con acogedor
+  - Supervision por entidad competente
+
+### 12. Por arrendamiento de vivienda habitual por menores de 36 anos
+
+- **Cuantia:**
+  - Porcentaje general: 15% de las cantidades satisfechas en alquiler
+  - Zonas rurales designadas: 20%
+- **Limite maximo:**
+  - Zona general: 500 euros anuales
+  - Zonas rurales: 612 euros anuales
+- **Base imponible maxima:**
+  - 12.500 euros (individual)
+  - 25.000 euros (conjunta)
+- **Requisitos:**
+  - Edad inferior a 36 anos cumplidos
+  - Vivienda habitual del contribuyente
+  - Contrato de arrendamiento
+- **Base:** Cantidades justificadas mediante medios documentados de pago
+
+### 13. Por arrendamiento de vivienda habitual vinculado a determinadas operaciones de dacion en pago
+
+- **Cuantia:** Deduccion especial por arrendamiento en situaciones especificas
+- **Requisitos:** Operaciones especificadas en normativa autonomica
+
+### 14. Por arrendamiento de vivienda habitual por familias numerosas
+
+- **Cuantia:** Deduccion adicional para familias numerosas en alquiler
+- **Requisitos:**
+  - Reconocimiento de familia numerosa
+  - Vivienda habitual
+- **Aplicacion:** Complementario a otras deducciones de alquiler
+
+### 15. Por arrendamiento de vivienda habitual por familias monoparentales
+
+- **Cuantia:** Deduccion especial para monoparentales en alquiler
+- **Requisitos:**
+  - Familia monoparental reconocida
+  - Vivienda habitual
+
+### 16. Por arrendamiento de vivienda habitual por personas con discapacidad
+
+- **Cuantia:** Porcentaje deducible del alquiler pagado
+- **Requisitos:**
+  - Grado de discapacidad >= 33% acreditado
+  - Arrendamiento de vivienda habitual
+  - Contrato de arrendamiento formalizado
+  - Pagos documentados
+- **Base:** Cantidades satisfechas mediante medios documentados de pago
+
+### 17. Por cantidades donadas para la cooperacion internacional al desarrollo y a las entidades para la lucha contra la pobreza, la exclusion social y la ayuda a personas con discapacidad
+
+- **Cuantia:** Porcentaje de cantidades donadas
+- **Requisitos:**
+  - Donaciones a organismos de cooperacion internacional
+  - Fines de desarrollo
+  - Entidades habilitadas
+- **Limite:** Aplicacion de limite general de donaciones (10% base liquidable)
+
+### 18. Por donaciones con finalidad en investigacion y desarrollo cientifico e innovacion empresarial
+
+- **Cuantia:** Deduccion por donaciones a I+D
+- **Requisitos:**
+  - Donaciones a entidades de investigacion
+  - Proyectos de investigacion y desarrollo
+  - Centros ubicados en Castilla-La Mancha cuando aplique
+- **Limite:** General de donaciones
+
+### 19. Por donaciones de bienes culturales y contribuciones a favor de la conservacion, reparacion y restauracion de bienes pertenecientes al patrimonio cultural de Castilla-La Mancha, y para fines culturales, incluidos en el plan de mecenazgo cultural
+
+- **Cuantia:** Deduccion por donaciones culturales
+- **Requisitos:**
+  - Bienes con interes cultural o historico
+  - Donacion a administracion publica o entidad cultural reconocida
+  - Evaluacion de valor cultural
+- **Acreditacion:** Informe de valor y destino
+
+### 20. Por los gastos en intereses por la financiacion ajena de la adquisicion de primera vivienda habitual por menores de 40 anos
+
+- **Cuantia:** Deduccion sobre intereses de hipoteca
+- **Aplicable a:** Primera vivienda por contribuyentes menores de 40 anos
+- **Requisitos:**
+  - Primera vivienda adquirida con financiacion ajena
+  - Edad menor de 40 anos cumplidos
+  - Residencia habitual
+- **Documentacion:** Certificado bancario de intereses
+
+### 21. Por residencia habitual en zonas rurales
+
+- **Cuantia:** Deduccion por residencia permanente en zonas rurales
+- **Base imponible maxima:**
+  - 27.000 euros (individual)
+  - 36.000 euros (conjunta)
+- **Requisitos:**
+  - Residencia habitual en municipio rural (menos de 5.000 habitantes)
+  - Permanencia durante el periodo impositivo
+  - Cumplimiento de criterios de ruralidad
+- **Documentacion:** Constancia de residencia habitual
+
+### 22. Por adquisicion o rehabilitacion de la vivienda habitual en zonas rurales
+
+- **Cuantia:** Deduccion por inversion en vivienda rural
+- **Limite maximo:**
+  - 12.000 euros anuales
+  - 180.000 euros total acumulado
+- **Requisitos:**
+  - Vivienda nueva o rehabilitacion
+  - Ubicacion en municipio rural (menos de 5.000 habitantes)
+  - Residencia habitual durante minimo 3 anos
+- **Documentacion:** Documento de propiedad, contrato compra-venta, presupuesto obras
+
+### 23. Por traslado de vivienda habitual
+
+- **Cuantia:** Deduccion por gastos de mudanza
+- **Requisitos:**
+  - Cambio de residencia habitual
+  - Traslado dentro o hacia Castilla-La Mancha
+- **Documentacion:** Gastos justificados de traslado
+
+### 24. Por inversion en la adquisicion de acciones y participaciones sociales como consecuencia de acuerdos de constitucion de sociedades o ampliacion de capital en las sociedades mercantiles
+
+- **Cuantia:** 15% de las cantidades invertidas
+- **Limite maximo:** 4.000 euros
+- **Requisitos:**
+  - Nuevas entidades o constituidas en ultimos 3 anos
+  - PYMES segun definicion Comision Europea
+  - Domicilio en Castilla-La Mancha
+  - Mantenimiento minimo de 3 anos
+  - Cumplimiento de requisitos de empleo
+- **Acreditacion:** Documento constitucional, escritura publica de inversion
+
+### 25. Por inversion en entidades de la economia social
+
+- **Cuantia:** Deduccion por inversiones en cooperativas y similares
+- **Requisitos:**
+  - Cooperativas, sociedades laborales u otras entidades de economia social
+  - Domicilio en Castilla-La Mancha
+  - Actividad economica genuina
+
+### 26. Por ahorro-inversion en la adquisicion o construccion de la primera vivienda habitual
+
+- **Cuantia:** 15% de los depositos de ahorro para adquisicion de vivienda
+- **Limite maximo:** 
+  - 750 euros anuales
+  - 3.000 euros total acumulado
+- **Requisitos:**
+  - Menor de 36 anos
+  - Adquisicion dentro de 6 anos siguientes
+  - Primera vivienda
+  - Depositos en cuentas bancarias documentadas
+- **Aplicacion:** Deduccion en el ano del deposito
+
+### 27. Por gastos derivados de controles veterinarios y vacunacion por la tenencia de perros de asistencia
+
+- **Cuantia:** 30% de costos veterinarios y vacunacion
+- **Limite maximo:** 100 euros anuales
+- **Requisitos:**
+  - Perros de asistencia (guia, asistencia, etc.)
+  - Acreditacion de tenencia
+  - Facturas de veterinaria
+- **Documentacion:** Constancia de utilidad del animal
+- **Novedad 2025:** Referido especificamente a perros de asistencia
 
 ---
 
 ## PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
 
-1. Has tenido hijos en 2025?
-2. Eres familia numerosa o monoparental?
-3. Tienes hijos menores de 3 años en guarderia?
-4. Pagas alquiler y tienes menos de 36 años?
-5. Has comprado vivienda en una zona rural de menos de 5.000 habitantes?
-6. Tienes reconocida alguna discapacidad?
-7. Tienes gastos de libros de texto o material escolar?
-8. Has invertido en empresas de nueva creación?
+1. Ha habido nacimiento o adopcion de hijo/a en 2025?
+2. Tu familia tiene reconocimiento oficial de familia numerosa o monoparental?
+3. Tienes hijos menores de 3 anos en guarderia o centro de educacion infantil?
+4. Pagas alquiler por tu vivienda habitual y tienes menos de 36 anos?
+5. Resides en zona rural de menos de 5.000 habitantes y tienes gastos de hipoteca o rehabilitacion?
+6. Tienes reconocida discapacidad >= 65% o tienes familiares con discapacidad a cargo?
+7. Tienes ascendientes mayores de 75 anos que conviven contigo?
+8. Tienes menores acogidos en tu hogar sin relacion de parentesco?
+9. Realizas gastos en libros de texto, material escolar e idiomas?
+10. Has invertido en acciones o participaciones de nuevas empresas en Castilla-La Mancha?
+11. Resides de forma habitual en un municipio rural de Castilla-La Mancha?
+12. Has realizado obras de rehabilitacion de tu vivienda habitual en zonas rurales?
 
 ---
 
 ## FUENTES
-- AEAT Deducciones Castilla-La Mancha: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-castilla-mancha.html
+
+- Manual Practico Renta 2025 Parte 2: Deducciones Autonomicas - Comunidad Autonoma de Castilla-La Mancha
+- AEAT: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-castilla-mancha.html
