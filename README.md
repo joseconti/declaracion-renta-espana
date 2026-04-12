@@ -86,6 +86,10 @@ declaracion-renta-espana/
 |       |-- comunidad-valenciana.md   # 41 deducciones
 |       |-- ceuta.md                  # Regimen especial (60%)
 |       |-- melilla.md                # Regimen especial (60%)
+|       |-- navarra.md                # IRPF foral completo (11 tramos)
+|       |-- alava.md                  # IRPF foral completo (7 tramos)
+|       |-- bizkaia.md                # IRPF foral 2024 (8 tramos)
+|       |-- gipuzkoa.md               # IRPF foral completo (8 tramos)
 ```
 
 ---
@@ -142,9 +146,14 @@ Andalucia, Aragon, Principado de Asturias, Illes Balears, Canarias, Cantabria, C
 
 Ceuta y Melilla (regimen especial con deduccion del 60%).
 
-### Regimen foral (NO cubierto)
+### Territorios forales (cubiertos)
 
-Navarra y Pais Vasco (Alava, Bizkaia, Gipuzkoa) tienen haciendas forales propias con un IRPF diferente al estatal. Sus contribuyentes NO presentan la declaracion ante la AEAT sino ante sus respectivas Haciendas Forales. Este skill NO cubre dichos territorios.
+Navarra y Pais Vasco (Alava, Bizkaia, Gipuzkoa) tienen haciendas forales propias con un IRPF completamente independiente del estatal. Sus contribuyentes NO presentan la declaracion ante la AEAT sino ante sus respectivas Haciendas Forales. Este skill incluye archivos de referencia completos para los 4 territorios forales, con sus propias escalas, minimos, reducciones y deducciones.
+
+- **Navarra:** IRPF foral 2025, escala general 13%-52% (11 tramos), escala ahorro 20%-28% (6 tramos). Fuente: Manual Practico IRPF 2025 de Hacienda Foral de Navarra (308 paginas).
+- **Alava/Araba:** IRPF foral 2025, escala general 23%-49% (7 tramos), escala ahorro 20%-25% (5 tramos). Fuente: Manual Practico IRPF 2025 de la Diputacion Foral de Alava (243 paginas).
+- **Gipuzkoa:** IRPF foral 2025, escala general 23%-49% (8 tramos), escala ahorro 20%-25% (5 tramos). Fuente: Manual Practico IRPF 2025 de la Diputacion Foral de Gipuzkoa (214 paginas).
+- **Bizkaia:** IRPF foral 2024 (manual 2025 no publicado al cierre de este skill), escala general 23%-49% (8 tramos), escala ahorro 20%-25% (5 tramos). Fuente: Manual Practico IRPF 2024 de la Diputacion Foral de Bizkaia (546 paginas).
 
 ---
 
@@ -228,6 +237,13 @@ Toda la informacion fiscal de este skill procede exclusivamente de fuentes ofici
 - [Deduccion rentas Ceuta/Melilla](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota/deduccion-rentas-obtenidas-ceuta-melilla.html)
 - [Pagina general de manuales practicos](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html)
 
+### Haciendas Forales
+
+- [Hacienda Foral de Navarra - Manual Practico IRPF 2025](https://hacienda.navarra.es)
+- [Diputacion Foral de Alava - Manual Practico IRPF 2025](https://web.araba.eus/es/hacienda)
+- [Diputacion Foral de Bizkaia - Manual Practico IRPF 2024](https://www.bizkaia.eus/es/hacienda-y-finanzas)
+- [Diputacion Foral de Gipuzkoa - Manual Practico IRPF 2025](https://www.gipuzkoa.eus/es/hacienda-y-finanzas)
+
 ### Boletin Oficial del Estado (BOE)
 
 - [Orden HAC/277/2026 - Modelos declaracion Renta 2025](https://www.boe.es/buscar/act.php?id=BOE-A-2026-7041)
@@ -239,7 +255,9 @@ Toda la informacion fiscal de este skill procede exclusivamente de fuentes ofici
 ## Cifras del skill
 
 - 1.903 paginas del Manual Practico de la AEAT condensadas y estructuradas
+- 1.311 paginas adicionales de los 4 manuales forales (Navarra 308p, Alava 243p, Gipuzkoa 214p, Bizkaia 546p)
 - 15 comunidades autonomas de regimen comun cubiertas
+- 4 territorios forales cubiertos (Navarra, Alava, Bizkaia, Gipuzkoa) con IRPF completo propio
 - 2 ciudades autonomas (Ceuta y Melilla) con regimen especial
 - Mas de 350 deducciones autonomicas documentadas con porcentajes, limites y requisitos
 - 11 categorias de deducciones estatales
@@ -252,7 +270,7 @@ Toda la informacion fiscal de este skill procede exclusivamente de fuentes ofici
 
 ## Limitaciones conocidas
 
-- **No cubre regimen foral** (Navarra, Pais Vasco). Estos territorios tienen normativa fiscal propia.
+- **Bizkaia usa datos de 2024.** El manual 2025 de Bizkaia no estaba publicado al cierre de este skill. Las cuantias pueden variar ligeramente.
 - **No calcula el impuesto.** Este skill identifica deducciones y orienta, pero no genera la autoliquidacion.
 - **No accede a los sistemas de la AEAT.** No puede consultar datos fiscales reales del contribuyente; trabaja con la informacion que el usuario le facilita.
 - **Ejercicio 2025 unicamente.** La normativa de ejercicios anteriores puede diferir.
@@ -268,7 +286,7 @@ Las contribuciones son bienvenidas, especialmente:
 - Correcciones de datos fiscales con referencia a la fuente oficial (pagina del PDF o URL de la AEAT)
 - Actualizaciones cuando cambie la normativa
 - Ampliacion de cuantias en deducciones autonomicas que falten detalle
-- Inclusion de territorios forales (Navarra, Pais Vasco)
+- Actualizacion del manual de Bizkaia cuando se publique el ejercicio 2025
 - Traducciones (catalan, euskera, gallego, valenciano)
 
 Para contribuir, abre un issue o pull request. Toda aportacion debe incluir la fuente oficial que respalde el dato.

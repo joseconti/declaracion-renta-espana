@@ -76,9 +76,17 @@ Si no tiene el borrador, pasar directamente a Fase 2 recogiendo datos manualment
 
 Confirmar con el usuario los siguientes datos esenciales:
 
-1. **Comunidad autonoma de residencia fiscal** a 31/12/2025
+1. **Comunidad autonoma o territorio foral de residencia fiscal** a 31/12/2025
    - Esto determina que deducciones autonomicas aplican
    - Cargar el archivo regional correspondiente de `references/regiones/`
+   - **Si el contribuyente reside en Navarra, Alava, Bizkaia o Gipuzkoa:**
+     El flujo cambia significativamente. Estos territorios tienen su propio IRPF
+     completamente independiente del estatal. Cargar el archivo foral correspondiente
+     (navarra.md, alava.md, bizkaia.md o gipuzkoa.md) EN LUGAR de nacional.md.
+     NO usar el borrador de la AEAT (no existe para contribuyentes forales).
+     Preguntar si tienen el borrador de su Hacienda Foral correspondiente.
+     Las escalas, minimos, reducciones y deducciones son las del archivo foral,
+     NO las del regimen comun.
 
 2. **Situacion personal y familiar:**
    - Estado civil a 31/12/2025
@@ -233,11 +241,23 @@ los que sean necesarios segun el caso:
 - `references/regiones/indice-regiones.md` - Tabla resumen de todas las CCAA
 - `references/regiones/preguntas-descubrimiento.md` - Cuestionario por categorias
 
-Archivos regionales disponibles:
+Archivos regionales disponibles (regimen comun):
 - andalucia.md, aragon.md, asturias.md, baleares.md, canarias.md,
   cantabria.md, castilla-la-mancha.md, castilla-y-leon.md, cataluna.md,
   extremadura.md, galicia.md, madrid.md, murcia.md, la-rioja.md,
   comunidad-valenciana.md, ceuta.md, melilla.md
+
+### Territorios forales (cargar si el contribuyente reside en territorio foral)
+- `references/regiones/navarra.md` - IRPF foral completo de Navarra (escalas, minimos, deducciones)
+- `references/regiones/alava.md` - IRPF foral completo de Alava/Araba
+- `references/regiones/bizkaia.md` - IRPF foral de Bizkaia (ejercicio 2024, pendiente 2025)
+- `references/regiones/gipuzkoa.md` - IRPF foral completo de Gipuzkoa
+
+NOTA: Los territorios forales tienen un IRPF completamente independiente del estatal.
+Sus contribuyentes NO presentan declaracion ante la AEAT sino ante sus respectivas
+Haciendas Forales. No les aplica `references/nacional.md` ni las deducciones autonomicas
+del regimen comun. Cada archivo foral contiene las escalas, minimos, reducciones y
+deducciones propias de ese territorio.
 
 ### Casos especiales (cargar solo si aplica)
 - `references/casos-especiales.md` - Ley Beckham, criptomonedas, no residentes,

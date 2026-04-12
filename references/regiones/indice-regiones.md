@@ -29,9 +29,21 @@ Guia rapida para localizar las deducciones por comunidad autonoma.
 | Ceuta | ceuta.md | Deduccion estatal 60% |
 | Melilla | melilla.md | Deduccion estatal 60% |
 
-## Nota sobre regimen foral
+## Territorios Forales (IRPF propio, NO regimen comun)
 
-Navarra y Pais Vasco (Alava, Bizkaia, Gipuzkoa) tienen haciendas forales propias con un IRPF diferente al estatal. Sus contribuyentes NO presentan la declaracion ante la AEAT sino ante sus respectivas Haciendas Forales.
+Navarra y Pais Vasco (Alava, Bizkaia, Gipuzkoa) tienen haciendas forales propias con un IRPF completamente independiente del estatal. Sus contribuyentes NO presentan la declaracion ante la AEAT sino ante sus respectivas Haciendas Forales. Cada archivo foral incluye escalas, minimos, reducciones y deducciones completas de su sistema propio.
 
-## Fuente general
+| Territorio | Archivo | Escala general | Escala ahorro | Aspectos destacados |
+|---|---|---|---|---|
+| Navarra | navarra.md | 13%-52% (11 tramos) | 20%-28% (6 tramos) | IRPF foral propio, alquiler 15%, energias renovables |
+| Alava/Araba | alava.md | 23%-49% (7 tramos) | 20%-25% (5 tramos) | Descendientes 668-2.151 EUR, EPSV, municipios pequenos +15% |
+| Bizkaia | bizkaia.md | 23%-49% (8 tramos) | 20%-25% (5 tramos) | Ejercicio 2024 (2025 pendiente), bonificaciones trabajo |
+| Gipuzkoa | gipuzkoa.md | 23%-49% (8 tramos) | 20%-25% (5 tramos) | Reduccion trabajo 8.000 EUR, act. economicas 23% |
+
+## Fuentes generales
+
 - AEAT Guia deducciones autonomicas 2025: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/guia-deducciones-autonomicas.html
+- Hacienda Foral de Navarra: https://hacienda.navarra.es
+- Diputacion Foral de Alava: https://web.araba.eus/es/hacienda
+- Diputacion Foral de Bizkaia: https://www.bizkaia.eus/es/hacienda-y-finanzas
+- Diputacion Foral de Gipuzkoa: https://www.gipuzkoa.eus/es/hacienda-y-finanzas
