@@ -222,14 +222,16 @@ https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manual
 
 ### 19. Por alquiler de vivienda habitual
 
-- **Porcentaje:**
-  - 15% para contribuyentes jovenes (< 36 anos) o > 65 anos sin actividad: limite 530 euros
-  - 20% para menores de 30 anos, discapacidad >= 33%, familias numerosas/monoparentales: limite 650 euros
+- **Porcentaje:** 24% de cantidades satisfechas por alquiler de vivienda habitual
+- **Limite maximo:** 740 euros anuales por contribuyente (760 euros si menor de 40 anos o mayor de 75 anos)
+- **Base imponible:** Suma de base imponible general y del ahorro no supera 45.500 euros (individual) o 60.500 euros (conjunta)
 - **Requisitos:**
-  - Vivienda habitual en territorio Canarias
-  - Contrato de arrendamiento >= 1 ano
-  - Base imponible dentro de limites
-  - Solo titulares del contrato
+  - Vivienda habitual en territorio Canarias (residencia superior a un ano)
+  - Contrato de arrendamiento con durata
+  - Cantidades pagadas por alquiler deben superar 10% de base imponible general
+  - Declaracion obligatoria de: NIF del arrendador, identificacion catastral de la vivienda, canon arrendaticio anual
+  - Solo titulares del contrato de arrendamiento
+  - Base se minora por ayudas publicas que cubran gastos (consideradas rentas exentas)
 
 ### 20. Por arrendamiento de vivienda habitual vinculado a determinadas operaciones de dación en pago
 

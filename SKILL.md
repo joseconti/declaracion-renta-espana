@@ -191,10 +191,34 @@ Con toda la informacion recogida, cruzar los datos con:
    - Rentas del extranjero
    - Ganancias patrimoniales complejas
 
-Para cada deduccion identificada que NO este en el borrador, informar:
+**IMPORTANTE: Verificar siempre los requisitos de acceso a cada deduccion.**
+Muchas deducciones autonomicas existen en la normativa pero tienen requisitos
+restrictivos que hacen que NO sean aplicables a todos los contribuyentes. Antes
+de informar al usuario de que tiene derecho a una deduccion, verificar:
+- **Edad:** Algunas deducciones solo aplican a menores de 35/36 anos, mayores de 65, etc.
+- **Limites de renta:** Bases imponibles maximas (individual y conjunta) que no se pueden superar.
+- **Situacion personal:** Algunas requieren desempleo, discapacidad, viudedad, familia numerosa/monoparental.
+- **Fecha del contrato/compra:** Regimenes transitorios con fechas limite (ej: vivienda pre-2013).
+- **Incompatibilidades:** Deducciones que no se pueden aplicar simultaneamente.
+
+No confundir "deduccion eliminada" con "deduccion restringida":
+- **Eliminada:** La deduccion estatal por alquiler de vivienda habitual fue suprimida
+  en 2015. Solo se mantiene un regimen transitorio para contratos anteriores al
+  1 de enero de 2015.
+- **Restringida:** Muchas CCAA mantienen deducciones autonomicas por alquiler,
+  pero solo para perfiles concretos (jovenes, desempleados, discapacitados, familias
+  numerosas, etc.). Que la deduccion exista en el archivo regional NO significa
+  que el contribuyente pueda aplicarla. Hay que verificar TODOS los requisitos.
+
+Si el contribuyente NO cumple los requisitos de una deduccion, decirlo claramente
+y explicar por que, para que entienda que no es un error del borrador sino una
+limitacion normativa.
+
+Para cada deduccion identificada que NO este en el borrador y que el contribuyente
+SI pueda aplicar, informar:
 - Nombre de la deduccion
 - Cuantia estimada (o rango)
-- Requisitos y condiciones que debe cumplir
+- Requisitos y condiciones que debe cumplir (y confirmacion de que los cumple)
 - Documentacion necesaria
 - Casilla aproximada en la declaracion
 
@@ -292,6 +316,19 @@ deducciones propias de ese territorio.
 
 8. **Tributacion conjunta vs individual.** Siempre valorar ambas opciones si hay
    conyuge. La diferencia puede ser significativa.
+
+9. **No asumir que una deduccion es aplicable solo porque existe.** Muchas
+   deducciones autonomicas tienen requisitos de edad, renta, situacion personal
+   o familiar que las limitan a perfiles muy concretos. Verificar SIEMPRE los
+   requisitos antes de recomendar una deduccion. Es preferible informar al
+   contribuyente de que una deduccion existe pero que no la puede aplicar (y
+   explicar por que) a que descubra despues que no cumple los requisitos.
+
+10. **Distinguir entre deducciones estatales suprimidas y autonomicas vigentes.**
+    Es frecuente la confusion entre deducciones estatales eliminadas (como la
+    deduccion estatal por alquiler, suprimida en 2015 salvo regimen transitorio)
+    y deducciones autonomicas que siguen vigentes pero con requisitos restrictivos.
+    Aclarar siempre esta distincion cuando el contribuyente pregunte.
 
 ---
 

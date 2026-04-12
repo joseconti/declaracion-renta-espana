@@ -9,41 +9,45 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 1. Por trabajo dependiente
 
-- **Cuantia:** Deduccion autonomica por trabajo dependiente
+- **Cuantia:** 10% de las rentas de trabajo dependiente
+- **Limite maximo:** 150 euros anuales
 - **Requisitos:**
   - Contribuyente con rentas de trabajo dependiente en Extremadura
-  - Cumplimiento de requisitos de renta y residencia
-- **Documentacion:** Resumen de retenciones, recibos de trabajo
+  - Residencia habitual en Extremadura durante el periodo impositivo
+- **Documentacion:** Resumen de retenciones, recibos de trabajo satisfechos mediante medios de pago documentados
 
 ### 2. Por partos multiples
 
-- **Cuantia:** Deduccion por nacimiento simultaneo de multiples hijos
-- **Aplicable a:**
-  - Gemelos: cantidad X
-  - Trillizos o mas: cantidad mayor
-- **Requisitos:** Partos multiples acaecidos en el periodo impositivo
-- **Documentacion:** Certificado de nacimiento de todos los hijos
+- **Cuantia:**
+  - Gemelos: 1.200 euros
+  - Trillizos o mas: 2.400 euros
+- **Requisitos:**
+  - Partos multiples acaecidos en el periodo impositivo 2025
+  - Todos los hijos deben constar en el censo de poblacion de España
+- **Documentacion:** Certificados de nacimiento de todos los hijos emitidos por Registro Civil
 
 ### 3. Por acogimiento de menores
 
-- **Cuantia:** Cantidad por menor acogido
+- **Cuantia:** 600 euros por menor acogido
 - **Requisitos:**
   - Acogimiento administrativo o judicial
   - Seleccion por entidad publica de proteccion de menores
-  - Sin parentesco previo
-  - Convivencia durante el ano
-- **Aplicacion:** Por cada menor diferente acogido
+  - Sin parentesco previo con el menor
+  - Convivencia durante todo el periodo impositivo
+- **Aplicacion:** Por cada menor diferente acogido; limite maximo de 1.800 euros (tres menores)
 
 ### 4. Por cuidado de familiares con discapacidad
 
-- **Cuantia:** 
-  - Por ascendiente o descendiente con discapacidad >= 65%: cantidad fija (10% sobre base minima de 1.600 euros en familia)
-  - Incrementos para multiples dependientes
+- **Cuantia:**
+  - Por ascendiente o descendiente con discapacidad >= 65%: 150 euros
+  - Por ascendiente o descendiente judicialmente incapacitado o con curatela representativa: 150 euros
+  - Incremento a 220 euros si se ha reconocido asistencia en cuidados de la dependencia
 - **Requisitos:**
-  - Grado de discapacidad igual o superior al 65%
-  - Convivencia con el contribuyente
-  - Mantenimiento durante el ano
-- **Regimen matrimonial:** En matrimonios, el limite de 400 euros se aplica a la pareja; se pondera entre los cnyuges
+  - Grado de discapacidad igual o superior al 65%, o incapacidad judicial, o curatela representativa
+  - Convivencia con el contribuyente durante el periodo impositivo
+  - Rentas brutas del ascendiente/descendiente no superiores a 2 veces el IPREM (16.800 euros en 2025)
+- **Regimen matrimonial:** En matrimonios, el limite de deduccion se aplica al conjunto de la pareja
+- **Nota:** Cada descendiente o ascendiente genera una deduccion independiente
 
 ### 5. Por cuidado de hijos menores (hasta 14 anos inclusive)
 
@@ -78,13 +82,26 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 8. Por arrendamiento de vivienda habitual
 
-- **Cuantia:** Porcentaje de pagos de alquiler
-- **Limite maximo:** Cantidad anual (a determinar por normativa)
-- **Requisitos:**
-  - Vivienda habitual en Extremadura
-  - Contrato de arrendamiento
-  - Pagos documentados
-- **Aplicacion:** Deduccion sobre gastos efectivos de alquiler
+- **Cuantia:** 30% de las cantidades satisfechas en concepto de alquiler
+- **Limite maximo:**
+  - 1.000 euros anuales (vivienda general)
+  - 1.500 euros anuales (vivienda en municipios rurales, menos de 3.000 habitantes)
+- **Requisitos de elegibilidad:** El contribuyente debe cumplir AL MENOS UNA de estas condiciones:
+  - Tener menos de 36 anos cumplidos a 31 de diciembre
+  - Ser miembro de familia numerosa reconocida oficialmente
+  - Ascendiente separado legalmente (sin vinculo matrimonial) con dos hijos sin derecho a percibir anualidades por alimentos
+  - Tener discapacidad >= 65% acreditada
+  - Estar incapacitado judicialmente o bajo curatela representativa
+- **Requisitos de vivienda:**
+  - Vivienda habitual ubicada en Extremadura
+  - Ocupada efectivamente por el contribuyente
+  - Contrato de arrendamiento documentado
+- **Requisitos patrimoniales:** No pueden ser titulares (en pleno dominio o usufructo) de otra vivienda a menos de 75 km
+- **Requisitos de renta:** Suma base imponible general + ahorro no superior a:
+  - 28.000 euros (individual) - excepto municipios rurales o familias numerosas/monoparentales con 2+ hijos
+  - 45.000 euros (conjunta)
+- **Base:** Cantidades justificadas mediante medios documentados de pago (transferencia, tarjeta de credito/debito, cheque)
+- **Documentacion adicional:** Impuesto sobre Transmisiones Patrimoniales y Actos Juridicos Documentados (o certificacion de exencion)
 
 ### 9. Por arrendadores de viviendas vacias
 
@@ -154,12 +171,14 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 16. Por donaciones de dinero a entidades culturales, ambientales, naturales o de patrocinio deportivo
 
-- **Cuantia:** Porcentaje de donaciones
+- **Cuantia:** 25% de cantidades donadas
+- **Limite maximo:** 10% de la cuota integra autonomica
 - **Requisitos:**
-  - Donaciones a entidades reconocidas
-  - Fines culturales, ambientales, naturales o deportivos
-  - Entidades domiciliadas en Extremadura cuando aplique
-- **Documentacion:** Certificacion de donacion
+  - Donaciones a entidades sin fines lucrativos
+  - Fines culturales, ambientales, naturales (proteccion espacios naturales) o patrocinio deportivo
+  - Entidades domiciliadas en Extremadura o con actividad en la region
+  - Entidades inscritas en registros correspondientes
+- **Documentacion:** Certificacion de la entidad beneficiaria de la donacion
 
 ### 17. Por traslado de residencia a Extremadura
 

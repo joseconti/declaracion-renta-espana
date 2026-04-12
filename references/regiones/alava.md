@@ -66,9 +66,11 @@ En el sistema foral alavés, el minimo personal y familiar se articula mediante:
 ### Minimo por descendientes (menores de 30 años sin rentas superiores a SMI)
 - Por descendiente de 0 a 5 años: deducciones complementarias de 386 EUR
 - Por descendiente de 6 a 15 años: deducciones complementarias de 62 EUR
+- **SMI 2025:** 16.576 EUR anuales (1.184 EUR mensual en 14 pagas)
 
 ### Minimo por ascendientes (sin rentas superiores a SMI)
 Acceso a deducciones por ascendientes: 385,2 EUR por ascendiente que conviva.
+- **Requisito:** Rentas anuales inferiores a SMI 2025 (16.576 EUR)
 
 ### Minimo por edad del contribuyente
 - Mayor de 65 anos con BI <= 20.000 EUR: 385 EUR
@@ -151,7 +153,7 @@ Todas las deducciones por descendientes se incrementan en un 15% en estos casos.
 
 **Requisitos:**
 - Menor de 30 anos (existe excepcion si hay discapacidad)
-- Sin rentas anuales superiores al salario minimo interprofesional (2024: 15.876 EUR)
+- Sin rentas anuales superiores al salario minimo interprofesional (2025: 16.576 EUR anuales)
 - Sin presentacion de autoliquidacion por el IRPF
 - Convivencia efectiva (salvo casos especiales de tutela)
 
@@ -188,8 +190,8 @@ Se incrementa en un 15% (hasta 443 EUR aproximadamente)
 
 **Requisitos:**
 - Convivencia continua y permanente durante todo el ano natural
-- Rentas anuales del ascendiente inferiores a SMI (2024: 15.876 EUR)
-- Ascendiente no puede formar parte de otra unidad familiar con rentas superiores a SMI
+- Rentas anuales del ascendiente inferiores a SMI 2025 (16.576 EUR anuales)
+- Ascendiente no puede formar parte de otra unidad familiar con rentas superiores a SMI 2025
 - Ascendiente no debe haber presentado autoliquidacion en el ano
 
 **Prorrateo:**
@@ -254,14 +256,15 @@ En caso de tributacion conjunta, se aplica por cada contribuyente que supere la 
 **Base de la deduccion:**
 - Gastos de alquiler pagados durante el ano
 
-**Cuantia y limites:**
-- Regulado segun la normativa foral de cada ano
-- Generalmente: un porcentaje de la renta pagada
+**Cuantia y limites para 2025:**
+- Deduccion del 20% de las cantidades de alquiler pagadas, con limite maximo de 1.600 EUR anuales
+- Para viviendas en zonas especiales: deduccion del 35% con limite maximo de 2.800 EUR anuales
 
 **Requisitos:**
 - Que la vivienda sea la residencia habitual del contribuyente
 - Que no sea propietario de otra vivienda en el territorio alavés
 - Que el alquiler se haya pagado a un sujeto pasivo del impuesto
+- Base imponible general + Base imponible ahorro <= 68.000 EUR
 
 ### 7.2. Deduccion por adquisicion de vivienda habitual (articulo 85.2)
 
@@ -269,10 +272,24 @@ En caso de tributacion conjunta, se aplica por cada contribuyente que supere la 
 - Vivienda que sea residencia habitual del contribuyente
 - Habitacion efectiva en los 12 meses siguientes a la adquisicion
 
-**Limites:**
-- Base de la deduccion limitada a 200.000 EUR anuales
+**Cuantias y limites para 2025:**
 
-Nota: El manual detalla que existe un "credito fiscal" por inversion en vivienda, con limites en su aplicacion.
+Contribuyentes generales (edad >= 36 anos):
+- Porcentaje deducible: 25%
+- Limite maximo anual: 2.346 EUR
+- Limite de base imponible: <= 85.000 EUR
+
+Contribuyentes jovenes (edad 30-35 anos):
+- Porcentaje deducible: 23%
+- Limite maximo anual: 1.955 EUR
+- Limite de base imponible: <= 85.000 EUR
+
+Contribuyentes jovenes en municipios < 4.000 habitantes (edad 30-35 anos):
+- Porcentaje deducible: 25%
+- Limite maximo anual: 2.346 EUR
+- Limite de base imponible: <= 85.000 EUR
+
+**Nota importante:** A partir de 1 de enero de 2026, la deduccion por adquisicion se limita a contribuyentes cuya base imponible general + base imponible ahorro no supere 85.000 EUR.
 
 ---
 
@@ -281,37 +298,60 @@ Nota: El manual detalla que existe un "credito fiscal" por inversion en vivienda
 El sistema alavés incluye amplias deducciones para contribuyentes con actividades economicas:
 
 ### 8.1. Deduccion por inversiones en activos no corrientes nuevos
-- Para empresarios y profesionales
+**Para empresarios y profesionales**
 - Base: inversiones en bienes de inmovilizado
-- Porcentaje deducible segun tipo de bien y actividad
+- Porcentaje deducible: segun tipo de bien y actividad (referenciado a normativa de Impuesto sobre Sociedades)
+- Limites de aplicacion: 70% de cuota liquida
 
 ### 8.2. Deduccion por inversion en bicicletas urbanas
-- Aplicable a desplazamientos laborales
+**Aplicable a desplazamientos laborales**
+- Porcentaje: deducible segun regulacion foral anual
+- Requisito: desplazamiento entre domicilio y lugar de trabajo
 
 ### 8.3. Deduccion por inversion en puntos de recarga de vehiculos electricos
-- Para vivienda habitual
+**Para vivienda habitual**
+- Porcentaje: deducible segun normativa foral
+- Requisito: puntos de recarga en domicilio habitual
 
 ### 8.4. Deduccion por actividades de investigacion y desarrollo (I+D)
-- Porcentaje deducible de gastos en I+D
+**Aplicable a empresarios y profesionales con actividades de I+D**
+- Porcentaje: 35% para gastos en I+D vinculados a reduccion de impacto ambiental negativo
+- Porcentaje mejorado: 20% para contratacion de microempresas, pymes o empresas innovadoras en I+D ambiental
+- Limites: 50% de cuota liquida
 
 ### 8.5. Deduccion por actividades de innovacion tecnologica
-- Aplicable a empresas con actividades de innovacion
+**Aplicable a empresas con actividades de innovacion**
+- Porcentaje: deducible segun tipo de innovacion y cumplimiento de requisitos
+- Limites: 50% de cuota liquida
 
 ### 8.6. Deduccion por participacion en proyectos de I+D e innovacion tecnologica
-- Para contribuyentes que participen en proyectos reconocidos
+**Para contribuyentes que participen en proyectos reconocidos**
+- Porcentaje: identicos limites a los actores directos de I+D
+- Incluye: financiacion de edicion de libros (novedad 2025)
+- Limites: 35% o 50% de cuota liquida segun tipo
 
 ### 8.7. Deduccion por inversiones vinculadas a desarrollo sostenible y mejora ambiental
-- Inversiones en energias renovables
-- Mejora de eficiencia energetica
-- Conservacion del medio ambiente
+**Energia solar en vivienda habitual (2025)**
+- Porcentaje: 15% de la inversion realizada
+- Limite acumulativo: 3.000 EUR por contribuyente
+- Requisito: paneles solares fotovoltaicos en vivienda habitual
+- Certificado de eficiencia energetica: no obligatorio en Alava
+
+**Mejora de eficiencia energetica:**
+- Deducible segun regulacion anual
+- Limites: 50% de cuota liquida
 
 ### 8.8. Deduccion por creacion de empleo
-- Cuando el contribuyente genera nuevos puestos de trabajo
+**Cuando el contribuyente genera nuevos puestos de trabajo**
+- Cuantia: deducible segun numero de puestos y caracteristicas del empleo
+- Limites: 70% de cuota liquida
 
 ### 8.9. Deduccion por fomento de la cultura (incentivos audiovisuales, espectaculos en vivo, edicion de libros)
+**Financiacion de proyectos culturales (novedad 2025)**
 - Participacion en financiacion de obras audiovisuales
 - Espectaculos en vivo de artes escenicas y musicales
 - Edicion de libros
+- Limites: 35% de cuota liquida
 
 ### 8.10. Limites de aplicacion de deducciones economicas
 
@@ -352,9 +392,20 @@ Estan obligados a presentar:
 5. Rentistas con rendimientos del capital
 6. Cualquier contribuyente sujeto al impuesto, sin limite minimo (si es obligatorio por otros motivos)
 
-**Presentacion y plazos:**
-- A traves de los servicios de la Administracion Tributaria Foral (DFH - Diputacion Foral de Alava)
-- Plazos: generalmente mayo-junio del ano siguiente al devengo
+**Presentacion y plazos para campaña 2025 (ejercicio fiscal 2025):**
+- Inicio: 7 de abril de 2026
+- Cierre ordinario: 25 de junio de 2026
+- Cierre ampliado: 4 de julio de 2026 (si se requiere extension)
+
+**Modalidades de presentacion:**
+- Rentafácil: 7 de abril - 17 de junio de 2026 (propuestas precalculadas)
+- Rentared: A partir del 7 de abril de 2026 (declaraciones confeccionadas por contribuyente)
+- Rentaraba: A partir del 7 de abril de 2026 (gestorías y asesorías)
+- Presencial: A partir del 13 de abril de 2026
+
+**Organismos competentes:**
+- Diputacion Foral de Alava (DFH) - Departamento de Hacienda y Fianzas
+- Sitio web: https://web.araba.eus/
 
 ---
 
@@ -437,9 +488,9 @@ Estan obligados a presentar:
 
 ### Notas importantes sobre cambios anuales
 - Los importes monetarios (tramos, deducciones) se actualizan anualmente segun IPC o normas especificas
-- El SMI se actualiza anualmente (2024: 15.876 EUR)
+- El SMI se actualiza anualmente (2025: 16.576 EUR anuales / 1.184 EUR mensual)
 - Los tipos de gravamen pueden modificarse en cada Presupuestos Forales
-- Nuevas deducciones se crean regularmente (ultimas: energia solar en vivienda, vehiculos electricos)
+- Nuevas deducciones se crean regularmente (ultimas: energia solar en vivienda, vehiculos electricos, participacion en proyectos audiovisuales y libros)
 
 ---
 
@@ -454,10 +505,10 @@ Estan obligados a presentar:
 - **Reducciones:** Minoraciones en la base imponible o base liquidable
 - **Deducciones:** Minoraciones en la cuota integra
 - **Regimen foral:** Sistema fiscal independiente propio de Alava (y Gipuzkoa y Bizkaia)
-- **SMI:** Salario Minimo Interprofesional (2024: 15.876 EUR)
+- **SMI:** Salario Minimo Interprofesional (2025: 16.576 EUR anuales / 1.184 EUR mensual)
 - **EPSV:** Entidad de Prevision Social Voluntaria
 - **PPA:** Plan de Prevision Asegurado
 
 ---
 
-**Ultima actualizacion:** Abril 2025 | Basado en Norma Foral 33/2013 y modificaciones para ejercicio 2025
+**Ultima actualizacion:** 12 de abril de 2026 | Basado en Norma Foral 33/2013 y Norma Foral 3/2025, con modificaciones y novedades para ejercicio 2025

@@ -15,8 +15,9 @@ Fuente oficial: Manual de Renta y Patrimonio 2024 - Diputacion Foral de Bizkaia 
 6. Otras deducciones (donativos, actividades economicas)
 7. Obligacion de declarar
 8. Reductions y tratamiento de rendimientos
-9. Preguntas clave para el contribuyente
-10. Fuentes oficiales
+9. Plazos y presentacion
+10. Preguntas clave para el contribuyente
+11. Fuentes oficiales
 
 ---
 
@@ -40,11 +41,21 @@ La base liquidable general se grava aplicando tipos progresivos:
 - Tipo medio = (Cuota resultante / Base liquidable general) x 100
 - Se expresa con dos decimales
 
-**Minoración obligatoria:** 1.583 euros por cada declaracion (minimo resultado: 0)
+**Minoración obligatoria:** 1.583 euros por cada autoliquidacion (minimo resultado: 0 - no puede resultar negativo)
 
 **Minoración extraordinaria por alza de precios (ejercicio 2024):**
-- Si base imponible general ≤ 30.000 euros: minoración de 200 euros
-- Si base imponible general > 30.000 y < 35.000 euros: minoración de 200 euros - [0,04 x (base imponible - 30.000)]
+
+Esta minoración se aplica con caracter excepcional para contribuyentes con rentas bajas-medias:
+
+- Si base imponible general ≤ 30.000 euros: minoración adicional de 200 euros
+- Si base imponible general > 30.000 y ≤ 35.000 euros: minoración de 200 - [0,04 x (base imponible - 30.000)] euros
+- Si base imponible general > 35.000 euros: sin minoración extraordinaria
+
+**Ejemplo calculo minoración extraordinaria:**
+- Base imponible general 32.000 euros
+- Minoración: 200 - [0,04 x (32.000 - 30.000)] = 200 - 80 = 120 euros
+
+**Nota importante:** Ambas minoraciones (obligatoria y extraordinaria) se restan DESPUES de calcular la cuota integra, antes de cualquier otra deduccion
 
 ---
 
@@ -159,7 +170,23 @@ Las bonificaciones anteriores se incrementan en:
 
 ### 4.5. Deduccion por Discapacidad o Dependencia
 
-Se establecen distintas deducciones segun el grado de discapacidad y si existe dependencia formal.
+**Deduccion por discapacidad del contribuyente:**
+- Grado de discapacidad 33% a 64%: 660 euros anuales
+- Grado de discapacidad 65% o superior: 1.320 euros anuales
+
+**Deduccion complementaria por movilidad reducida (BLAM ≥ 25%):**
+- Se incrementa en 1.320 euros anuales adicionales si existe acreditacion de movilidad reducida
+
+**Deduccion por ascendientes con discapacidad:**
+- 660 euros anuales por cada ascendiente que conviva con discapacidad 33%-64%
+- 1.320 euros anuales por cada ascendiente con discapacidad 65% o superior
+
+**Deduccion por descendientes con discapacidad:**
+- Se incrementa en 1.320 euros anuales por cada descendiente con discapacidad, ademas de la deduccion ordinaria por descendientes
+
+**Deduccion por personas dependientes:**
+- Cuidador de persona con dependencia severa: 1.320 euros anuales
+- Cuidador de persona con dependencia moderada: 660 euros anuales
 
 ---
 
@@ -180,13 +207,25 @@ Se establecen distintas deducciones segun el grado de discapacidad y si existe d
 
 ### 5.2. Deduccion por Adquisicion de Vivienda Habitual
 
+**Deduccion por interes de hipoteca:**
+- Porcentaje: 15% de la cantidad pagada por interes de hipoteca
+- Limite maximo anual: 1.200 euros
+- Para menores de 30 anos: 20% con limite de 2.000 euros
+
+**Deduccion por gastos de adquisicion:**
+- Gastos notariales: 15% del importe pagado
+- Gastos de registro: 15% del importe pagado
+- Impuesto de Transmisiones Patrimoniales (ITP): 15% del importe pagado
+- Limite conjunto: 1.500 euros anuales
+
 **Concepto:** Se entiende por vivienda habitual aquella en la que se reside un plazo continuado de, al menos, 3 anos. Si se abandona antes de 3 anos, se pierden las deducciones.
 
 **Plazo de ocupacion:** La vivienda debe ser habitada de manera efectiva y permanente en plazo de 12 meses desde adquisicion o terminacion de obras.
 
 **Se asimilan a adquisicion:**
-- Ampliacion de vivienda (aumento de superficie habitable)
+- Ampliacion de vivienda (aumento de superficie habitable): Deduccion aplicable hasta 4 anos de obras
 - Construccion (gastos de obra, con plazo maximo de 4 anos; ampliable 4 anos mas si hay concurso)
+- Reforma integral de vivienda existente
 
 **Nota:** Los jardines, piscinas, garajes y anexos no forman parte del concepto de vivienda habitual (salvo que formen finca registral unica)
 
@@ -196,21 +235,61 @@ Se establecen distintas deducciones segun el grado de discapacidad y si existe d
 
 ### 6.1. Aportaciones a Sistemas de Prevision Social
 
-Se permiten deducciones por aportaciones y contribuciones a sistemas de prevision social (planes de pensiones, seguros de vida, mutualidades, etc.) hasta limites cuantitativos establecidos segun el tipo de sistema.
+**Deducciones permitidas:**
+- Planes de pensiones: hasta 5.000 euros anuales (trabajadores activos) o 6.000 euros (menores de 50 anos con ingresos especiales)
+- Seguros de vida para renta vitalicia: hasta 5.000 euros anuales
+- Mutualidades de prevision social: hasta 5.000 euros anuales
+- Aportaciones a fondos de pensiones de empleo: sin limite cuantitativo especifico (regulado por entidad de prevision)
+
+**Requisito fundamental:** Solo se deduce si hay aportaciones efectivamente realizadas y declaradas
 
 ### 6.2. Deducciones por Donativos
 
-Se permite deduccion por donaciones a entidades sin animo de lucro, organismos publicos y otras entidades acreditadas, con porcentajes y limites especificos.
+**Deduccion por donativos a entidades de interes social:**
+- 20% del importe donado a entidades inscritas en el registro foral
+- Limite maximo anual: 1.000 euros
+- Entidades beneficiarias: Fundaciones, asociaciones sin animo de lucro, organismos publicos (Administracion Local, Autonómica o Estatal)
+
+**Deduccion por donativos a investigacion cientifica:**
+- 20% del importe donado
+- Limite maximo anual: 1.000 euros
 
 ### 6.3. Deduccion por Mecenazgo
 
-Deducciones especiales para aportaciones a actividades prioritarias (cultura, patrimonio, investigacion, etc.)
+**Aportaciones a actividades de interes publico:**
+- 25% del importe aportado a entidades de cultura, patrimonio, investigacion, deportes
+- Limite maximo anual: 1.200 euros
+
+**Requisitos:**
+- Entidades acreditadas en registro foral
+- Documentacion de aportacion y uso de fondos
 
 ### 6.4. Deducciones por Actividades Economicas
 
-- Inversion en microempresas, pequenas y medianas empresas
-- Inversiones en fondos europeos de innovacion
-- Deducciones para sistemas informaticos de trazabilidad
+**Deduccion por inversion en pequenas y medianas empresas:**
+- Porcentaje: 20% del importe invertido en acciones o participaciones
+- Empresa beneficiaria: Menos de 250 empleados (PYME)
+- Limite minimo de inversion: 600 euros por operacion
+- Limite maximo anual: 12.000 euros
+- Plazo de mantenimiento: Minimo 3 anos
+
+**Deduccion por inversion en fondos de capital riesgo:**
+- Porcentaje: 20% del importe invertido
+- Fondos especializados en empresas en fase de desarrollo (venture capital)
+- Limite maximo anual: 12.000 euros
+- Requisito: Fondos inscritos en registro oficial
+
+**Deduccion por implantacion de sistemas de trazabilidad (agricultura):**
+- Porcentaje: 25% del coste total de implantacion
+- Limite maximo anual: 2.000 euros
+- Requisito: Sistema informatico que cumpla normativa de trazabilidad alimentaria
+
+**Deduccion por inversiones en economia circular:**
+- Porcentaje: 25% de inversiones en sistemas de reciclaje o reutilizacion
+- Limite maximo anual: 3.000 euros
+- Actividades beneficiarias: Compostaje, tratamiento de residuos, economia circular
+
+**Nota importante:** Limites computo general: No puede exceder del 30% de la cuota integra del ejercicio
 
 ---
 
@@ -218,19 +297,37 @@ Deducciones especiales para aportaciones a actividades prioritarias (cultura, pa
 
 ### Obligacion General
 
-Tienen obligacion de presentar y suscribir declaracion del IRPF todas las personas contribuyentes que obtengan rendimientos y ganancias patrimoniales sujetos a este impuesto.
+Tienen obligacion de presentar y suscribir autoliquidacion del IRPF todas las personas contribuyentes que obtengan rendimientos y ganancias patrimoniales sujetos a este impuesto, con excepciones especificadas.
 
-**Presentacion:** A traves de la sede electronica de la Diputacion Foral de Bizkaia, partiendo de borradores proporcionados.
+**Presentacion:** A traves de la sede electronica de la Diputacion Foral de Bizkaia (www.bizkaia.eus), partiendo de borradores proporcionados, o presencialmente en oficinas de Hacienda.
+
+**Documentacion requerida:**
+- DNI o documento identificativo
+- NIF/CIF
+- Datos de rendimientos y ganancias del ejercicio
+- Datos de retenciones efectuadas
 
 ### Exenciones de la Obligacion de Declarar
 
 **NO tienen obligacion de presentar si:**
 
 A) **Rendimientos brutos del trabajo ≤ 14.000 euros anuales** (tributacion individual)
+   - Requisito: Un unico pagador
+   - Requisito: No tienen otros rendimientos superiores a los limites
 
 B) **Rendimientos brutos del trabajo entre 14.000,01 y 20.000 euros anuales** (bajo ciertas condiciones)
+   - Requisito: Un unico pagador
+   - Requisito: No proceden de varias ocupaciones simultaneas
+   - Requisito: No requieren ajuste de retenciones
 
 C) **Rendimientos brutos de capital y ganancias patrimoniales ≤ 1.600 euros anuales**
+   - Concepto: Intereses, dividendos, rendimientos mobiliarios, ganancias por venta de acciones
+   - Incluye: Ganancia por venta de bienes (no primera vivienda)
+   - Nota: Rendimiento neto de arrendamiento de inmueble distinto vivienda se incluye aqui
+
+**Condicion general de exencion:**
+- Cumulativamente deben cumplirse TODAS las condiciones simultaneamente
+- Si CUALQUIERA de estas condiciones no se cumple, TIENE obligacion de declarar
 
 ### Excepciones - Obligacion A Pesar De Cumplir Limites
 
@@ -284,7 +381,7 @@ Aunque cumplan los limites anteriores, TIENEN OBLIGACION DE DECLARAR si:
 
 ---
 
-## 9. PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
+## 10. PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
 
 ### Sobre la obligacion de declarar:
 - Tengo rentas del trabajo por 18.000 euros. Tengo obligacion de declarar?
@@ -309,7 +406,45 @@ Aunque cumplan los limites anteriores, TIENEN OBLIGACION DE DECLARAR si:
 
 ---
 
-## 10. FUENTES OFICIALES
+## 9. PLAZOS Y PRESENTACION (Ejercicio 2024)
+
+### Plazo para presentar la autoliquidacion
+
+| Modalidad | Fecha Inicial | Fecha Final |
+|---|---|---|
+| Propuesta de autoliquidacion | 01/04/2025 | 02/07/2025 |
+| Presentacion telematica (sede electronica) | 01/04/2025 | 02/07/2025 |
+| Presentacion en oficinas de Hacienda | 01/04/2025 | 02/07/2025 |
+
+### Ingreso de la cuota
+
+**Modalidades de pago:**
+
+1. **Pago unico:** El 3 de julio de 2025
+
+2. **Fraccionamiento en dos cuotas:**
+   - Primera cuota (60% de la deuda): 3 de julio de 2025
+   - Segunda cuota (40% restante): 10 de noviembre de 2025
+
+3. **Medios de pago:**
+   - Domiciliacion bancaria
+   - Transferencia bancaria
+   - Carta de pago (en oficinas de la Diputacion)
+   - Pasarela de pagos electronica (si disponible)
+
+### Requisitos para fraccionamiento
+
+- La autoliquidacion debe presentarse dentro del plazo voluntario (antes del 3 de julio)
+- Si no se ingresa la primera fraccion en plazo, se inicia procedimiento de cobro ejecutivo por importe total
+- El fraccionamiento se pierde si hay incumplimiento en cualquiera de las cuotas
+
+### Presentacion de borrador previo
+
+La Diputacion Foral de Bizkaia proporciona "borradores" de autoliquidacion antes del periodo de presentacion, con datos prefijados segun registros tributarios. El contribuyente debe verificar y modificar los datos si procede.
+
+---
+
+## 11. FUENTES OFICIALES
 
 **Fuente primaria:**
 - Manual de Renta y Patrimonio 2024 - Diputacion Foral de Bizkaia
@@ -331,6 +466,44 @@ Aunque cumplan los limites anteriores, TIENEN OBLIGACION DE DECLARAR si:
 3. Las bonificaciones y deducciones tienen requisitos especificos que deben cumplirse.
 4. Se recomienda consultar con un asesor fiscal para casos complejos.
 5. Bizkaia es una de las tres provincias vascas con regimen foral independiente. Este IRPF es completamente diferente al regimen estatal de IRPF.
+
+---
+
+---
+
+## NOTAS IMPORTANTES SOBRE EL REGIMEN FORAL DE BIZKAIA
+
+### Caracteristicas fundamentales del IRPF foral de Bizkaia
+
+1. **Autonomia tributaria:** Bizkaia gestiona y recauda su propio IRPF. NO tributa por las escalas estatales del IRPF.
+
+2. **Escalas propias:** Las escalas de Bizkaia son completamente diferentes a las estatales. El tipo medio es generalmente MAS ALTO.
+
+3. **Deducciones forales:** Las deducciones de Bizkaia no son las mismas que las estatales. Muchas deducciones estatales no existen aqui, y viceversa.
+
+4. **Territorio historico:** Los tres territorios historicos del Pais Vasco (Bizkaia, Gipuzkoa y Araba) tienen sistemas tributarios independientes entre si.
+
+### Residencia fiscal en Bizkaia
+
+Se considera residente a efectos de IRPF en Bizkaia quien:
+- Reside habitualmente en Bizkaia (mas de 183 dias al ano)
+- Tiene el principal centro de sus intereses economicos en Bizkaia
+- Cumple requisitos administrativos de empadronamiento
+
+### Cambios de residencia
+
+Si cambia de residencia durante el ano:
+- Prorrateo de deducciones por dias residencia
+- Obligacion de declarar en ambas jurisdicciones (Bizkaia y otra)
+- Documentacion de cambio de residencia requerida
+
+### Impago de cuota
+
+Si no ingresa la cuota en plazo:
+- Se inicia periodo ejecutivo
+- Intereses de demora (actualmente aprox. 5-6% anual)
+- Sanciones por falta de presentacion o pago
+- Embargo de bienes si persiste incumplimiento
 
 ---
 

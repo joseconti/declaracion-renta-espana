@@ -44,9 +44,9 @@ Permite a personas fisicas que trasladan su residencia fiscal a Espana tributar 
 | 50.000,00 | 21 |
 | 200.000,00 | 23 |
 | 300.000,00 | 27 |
-| En adelante | 28 |
+| En adelante | 30 |
 
-**Nota importante:** Los acogidos al regimen de impatriados NO tributan al tipo plano del 19% por todas las rentas del ahorro. La base del ahorro (dividendos, intereses, ganancias patrimoniales) tributa por una escala progresiva propia del IRNR que va del 19% al 28%, diferente tanto de la escala general del IRPF como del tipo fijo del trabajo.
+**Nota importante:** Los acogidos al regimen de impatriados NO tributan al tipo plano del 19% por todas las rentas del ahorro. La base del ahorro (dividendos, intereses, ganancias patrimoniales) tributa por una escala progresiva propia del IRNR que va del 19% al 30% (desde 2025), diferente tanto de la escala general del IRPF como del tipo fijo del trabajo.
 
 ### Requisitos para acogerse (desde reforma 2023)
 

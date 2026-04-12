@@ -165,19 +165,28 @@ Se práctica por descendientes, ascendientes y personas con discapacidad que cum
 
 ### 4.1. Reducción General de Rendimientos del Trabajo
 
-Los rendimientos del trabajo se reducen por una cantidad fija calculada conforme al TRIRPF.
+Los rendimientos del trabajo se reducen por una cantidad que depende del nivel de ingresos.
 
 **Requisito:** Tener rentas del trabajo en el periodo impositivo.
+
+**Cuantía de la reducción:**
+- Rendimientos netos del trabajo hasta 10.500 euros: reducción de 1.400 euros
+- Rendimientos netos del trabajo entre 10.500,01 y 17.500 euros: 1.400 EUR - (0,1 x (Rendimiento neto - 10.500))
+- Rendimientos netos del trabajo superiores a 17.500 euros: sin derecho a reducción
+
+**Ejemplo:** Rendimiento neto de 15.000 euros: 1.400 - (0,1 x 4.500) = 950 euros de reducción
 
 **Aplicación:** Se resta de los rendimientos íntegros del trabajo para obtener el rendimiento neto.
 
 ### 4.2. Casos de No Obligación de Declarar por Rendimientos del Trabajo
 
-No están obligados a declarar:
+No están obligados a declarar (a partir de 2026):
 
-1. Contribuyentes con rendimientos del trabajo inferiores a 14.500 euros brutos anuales (cuando sea el único tipo de renta o junto con otras rentas que no superen ciertos límites)
+1. Contribuyentes con rendimientos del trabajo inferiores a 17.000 euros brutos anuales (cuando sea el único tipo de renta o junto con otras rentas que no superen ciertos límites)
 
 2. Contribuyentes con otros tipos de rentas (arrendamiento, capital mobiliario, etc.) que no superen 1.600 euros brutos anuales en conjunto, excluidos los rendimientos derivados de profesiones liberales
+
+**Nota:** Este umbral se eleva de 14.500 euros (ejercicio 2025) a 17.000 euros (a partir de 2026)
 
 ---
 
@@ -311,7 +320,7 @@ En caso de que no todos los miembros de la unidad familiar residan en Navarra:
 
 ### 8.3. Supuestos de No Obligación
 
-No están obligados a declarar por IRPF:
+No están obligados a declarar por IRPF (ejercicio 2025):
 
 1. Contribuyentes con rendimientos del trabajo < 14.500 euros brutos (cuando sea el único tipo de renta)
 
@@ -319,7 +328,15 @@ No están obligados a declarar por IRPF:
 
 3. Contribuyentes con ganancias patrimoniales no derivadas de actividades económicas profesionales < 1.500 euros anuales
 
-**Nota:** Estos límites se aplican según normativa estatal (TRIRPF) sin que puedan existir excepciones foral autonómicas diferenciadas.
+**A partir de 2026:** Los umbrales cambian:
+- Rendimientos del trabajo: < 17.000 euros brutos
+- Otras rentas: < 1.600 euros brutos anuales (se mantiene)
+
+### 8.4. Obligación de Declarar Patrimonio
+
+**No existe obligación de presentar declaración de Impuesto sobre el Patrimonio** cuando el valor de los bienes y derechos (incluidos los exentos) sea inferior a 1.000.000 euros.
+
+**Nota:** Estos límites se aplican según normativa foral de Navarra sin que puedan existir excepciones estatal diferenciadas.
 
 ### 8.4. Sujetos Pasivos Especiales
 
@@ -331,17 +348,21 @@ No están obligados a declarar por IRPF:
 
 ### 9.1. Plazo General de Presentación
 
-El plazo de presentación de declaraciones de IRPF es anual y se publica en Orden Foral de la Hacienda Foral de Navarra.
+El plazo de presentación de declaraciones de IRPF en Navarra es anual, publicado en Orden Foral de la Hacienda Foral de Navarra.
 
-**Últimos días de plazo por año (histórico y actual):**
+**Campaña 2025 (Ejercicio Fiscal 2025):**
+- Inicio: 9 de abril de 2026
+- Cierre: 25 de junio de 2026
 
-| Año | Último día plazo |
-|---|---|
-| 2021 | 24-06-2022 |
-| 2022 | 23-06-2023 |
-| 2023 | 27-06-2024 |
-| 2024 | 26-06-2025 |
-| **2025** | **25-06-2026** |
+**Histórico de últimos días de plazo:**
+
+| Año Fiscal | Último día plazo | Año de presentación |
+|---|---|---|
+| 2021 | 24-06-2022 | 2022 |
+| 2022 | 23-06-2023 | 2023 |
+| 2023 | 27-06-2024 | 2024 |
+| 2024 | 26-06-2025 | 2025 |
+| 2025 | 25-06-2026 | 2026 |
 
 ### 9.2. Plazo de Ingreso de Cuota
 
@@ -483,6 +504,6 @@ En convenios internacionales de doble imposición, las rentas exentas se tienen 
 
 ---
 
-**Fecha de actualización de este documento:** 02-02-2026 (conforme a Manual Teórico 2025)
+**Fecha de actualización de este documento:** 12 de abril de 2026 (auditoria de completitud y correcciones de datos)
 
 **Exención de responsabilidad:** Este documento es una referencia con fines informativos. La aplicación concreta de la normativa tributaria requiere análisis individual de cada situación. Consulte con profesionales colegiados para asuntos tributarios específicos.

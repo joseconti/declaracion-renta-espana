@@ -40,12 +40,16 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 4. Por gastos de adopcion
 
-- **Cuantia:** 
-  - Adopcion nacional/internacional: cantidad fija (a determinar por normativa)
-  - Con discapacidad: cantidad incrementada
-- **Requisitos:** Gastos justificados de adopcion, tramites legales
-- **Documentacion:** Facturas de gestorias, abogados, tasas administrativas
-- **Transicion:** Finaliza aplicacion de anos anteriores en 2025
+- **Cuantia:**
+  - Adopcion nacional: 784 euros
+  - Adopcion internacional: 3.625 euros
+- **Requisitos:**
+  - Adopcion tramitada en el periodo impositivo 2025
+  - Hijo adoptado debe generar derecho a minimo por descendiente
+  - Para adopcion internacional: conforme a legislacion actual y tratados/convenios firmados por España
+- **Documentacion:** Sentencia de adopcion, documentacion legal de tramites de adopcion
+- **Aplicacion:** Deduccion por cada hijo adoptado
+- **Transicion:** Se aplica obligatoriamente en 2025 el importe generado en ejercicios anteriores
 
 ### 5. Por cuidado de hijos menores
 
@@ -193,12 +197,19 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 17. Por adquisicion de vivienda de nueva construccion para residencia habitual
 
+- **Cuantia:** 7,5% de cantidades satisfechas por adquisicion de vivienda
+- **Base maxima:** 9.040 euros anuales
+- **Periodo de aplicacion:** Aplicable durante el ejercicio en que se satisfaga la primera cantidad y en los 4 ejercicios siguientes
 - **Requisitos:**
-  - Vivienda de nueva construccion
+  - Vivienda de nueva construccion (no ampliacion ni rehabilitacion)
   - Constituira residencia habitual del contribuyente
+  - Primera vivienda del contribuyente
   - Ubicacion en Castilla y Leon
-- **Documentacion:** Escritura publica de compraventa
-- **Novedad 2025:** Aplicable en ejercicio 2025
+  - Residencia habitual en Castilla y Leon
+- **Documentacion:** 
+  - Escritura publica de compraventa
+  - Fecha de visado del proyecto (consignada en Anexo B.4)
+  - Facturas de construccion si aplica pago durante construccion
 
 ### 18. Orden de aplicacion de las deducciones sobre la cuota integra autonomica
 

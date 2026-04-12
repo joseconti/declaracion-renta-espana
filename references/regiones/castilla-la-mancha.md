@@ -55,9 +55,11 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 - **Cuantia:**
   - Grado de discapacidad >= 65%: 300 euros
-  - Otros grados: a determinar por normativa
-- **Acreditacion:** Segun certificacion de discapacidad
-- **Incremento:** Pueden existir incrementos por discapacidad severa
+- **Limite de base imponible:**
+  - 27.000 euros (individual)
+  - 36.000 euros (conjunta)
+- **Acreditacion:** Certificacion oficial de discapacidad con grado >= 65%
+- **Incompatibilidades:** Incompatible con deduccion por discapacidad de ascendientes o descendientes respecto a la misma persona, y con deduccion por mayores de 75 anos
 
 ### 7. Por discapacidad de ascendientes o descendientes
 
@@ -119,14 +121,15 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 - **Limite maximo:**
   - Zona general: 500 euros anuales
   - Zonas rurales: 612 euros anuales
-- **Base imponible maxima:**
+- **Base imponible maxima:** La suma de la base imponible general + base imponible del ahorro no superior a:
   - 12.500 euros (individual)
   - 25.000 euros (conjunta)
 - **Requisitos:**
-  - Edad inferior a 36 anos cumplidos
-  - Vivienda habitual del contribuyente
-  - Contrato de arrendamiento
-- **Base:** Cantidades justificadas mediante medios documentados de pago
+  - Edad inferior a 36 anos cumplidos a 31 de diciembre del ejercicio
+  - Vivienda habitual del contribuyente ubicada en Castilla-La Mancha
+  - Contrato de arrendamiento documentado
+  - Contribuyente debe ser titular del contrato
+- **Base:** Cantidades justificadas mediante medios documentados de pago (transferencia bancaria, tarjeta de credito/debito, cheque nominativo)
 
 ### 13. Por arrendamiento de vivienda habitual vinculado a determinadas operaciones de dacion en pago
 
@@ -160,30 +163,31 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 17. Por cantidades donadas para la cooperacion internacional al desarrollo y a las entidades para la lucha contra la pobreza, la exclusion social y la ayuda a personas con discapacidad
 
-- **Cuantia:** Porcentaje de cantidades donadas
+- **Cuantia:** 15% de cantidades donadas
 - **Requisitos:**
   - Donaciones a organismos de cooperacion internacional
-  - Fines de desarrollo
-  - Entidades habilitadas
-- **Limite:** Aplicacion de limite general de donaciones (10% base liquidable)
+  - Organismos sin fines lucrativos con fines de desarrollo
+  - Entidades habilitadas y registradas
+- **Limite maximo:** 10% de la base liquidable general y del ahorro
 
 ### 18. Por donaciones con finalidad en investigacion y desarrollo cientifico e innovacion empresarial
 
-- **Cuantia:** Deduccion por donaciones a I+D
+- **Cuantia:** 15% de cantidades donadas
 - **Requisitos:**
-  - Donaciones a entidades de investigacion
-  - Proyectos de investigacion y desarrollo
-  - Centros ubicados en Castilla-La Mancha cuando aplique
-- **Limite:** General de donaciones
+  - Donaciones a Administracion Regional de Castilla-La Mancha o entidades dependientes
+  - Donaciones a entidades sin fines lucrativos con fines de investigacion y desarrollo cientifico e innovacion empresarial
+  - Entidades inscritas en registros correspondientes
+- **Limite maximo:** 10% de la cuota integra autonomica
 
 ### 19. Por donaciones de bienes culturales y contribuciones a favor de la conservacion, reparacion y restauracion de bienes pertenecientes al patrimonio cultural de Castilla-La Mancha, y para fines culturales, incluidos en el plan de mecenazgo cultural
 
-- **Cuantia:** Deduccion por donaciones culturales
+- **Cuantia:** 15% de cantidades donadas
 - **Requisitos:**
-  - Bienes con interes cultural o historico
+  - Bienes con interes cultural o historico inscritos en registros competentes
   - Donacion a administracion publica o entidad cultural reconocida
-  - Evaluacion de valor cultural
-- **Acreditacion:** Informe de valor y destino
+  - Entidades domiciliadas en Castilla-La Mancha
+  - Proyectos incluidos en plan de mecenazgo cultural regional
+- **Acreditacion:** Documentacion de donacion y destino conforme a normativa
 
 ### 20. Por los gastos en intereses por la financiacion ajena de la adquisicion de primera vivienda habitual por menores de 40 anos
 

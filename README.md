@@ -36,7 +36,9 @@ Para dar una idea del volumen de informacion que maneja este skill:
 
 **Casos especiales (references/casos-especiales.md):** regimenes fiscales no habituales como la Ley Beckham (con su escala propia del 24%/47% para trabajo y del 19%-28% para ahorro), la tributacion de criptomonedas (metodo FIFO, casillas especificas, modelos 721/172/173), el exit tax, la exencion del articulo 7.p para trabajo en el extranjero, el regimen de nomadas digitales, y las ganancias patrimoniales complejas con coeficientes de abatimiento.
 
-**Fuente principal:** Toda esta informacion procede del Manual Practico de Renta 2025 publicado por la AEAT, un documento oficial de 1.903 paginas dividido en dos tomos PDF (1.270 paginas de normativa general + 633 paginas de deducciones autonomicas). Este skill condensa, estructura y organiza esas 1.903 paginas en archivos de referencia que Claude puede consultar de forma eficiente durante la conversacion con el contribuyente.
+**Territorios forales (references/regiones/navarra.md, alava.md, bizkaia.md, gipuzkoa.md):** Navarra y las tres provincias vascas (Alava, Bizkaia, Gipuzkoa) tienen un IRPF completamente independiente del estatal, con sus propias escalas de gravamen, minimos personales y familiares, reducciones y deducciones. Cada archivo foral es un sistema fiscal completo en si mismo. Por ejemplo, Navarra tiene 11 tramos del 13% al 52% (frente a los 6 tramos estatales), y las tres provincias vascas comparten una estructura de 7-8 tramos del 23% al 49% pero con deducciones propias cada una.
+
+**Fuentes:** Toda esta informacion procede exclusivamente de documentacion oficial. La fuente principal para el regimen comun es el Manual Practico de Renta 2025 de la AEAT (1.903 paginas en dos tomos PDF). Para los territorios forales, se han procesado los manuales oficiales de las cuatro haciendas forales (1.311 paginas adicionales: Navarra 308p, Alava 243p, Gipuzkoa 214p, Bizkaia 546p). En total, **3.214 paginas de documentacion oficial** condensadas y estructuradas en archivos de referencia que Claude puede consultar durante la conversacion con el contribuyente.
 
 ---
 
@@ -44,11 +46,13 @@ Para dar una idea del volumen de informacion que maneja este skill:
 
 Es un conjunto de archivos de referencia fiscal y un flujo de trabajo guiado que permite a Claude:
 
-1. Recibir y analizar el borrador de la AEAT (PDF o datos manuales)
-2. Confirmar datos personales, familiares y de residencia
+1. Recibir y analizar el borrador de la AEAT o de la Hacienda Foral correspondiente (PDF o datos manuales)
+2. Confirmar datos personales, familiares y de residencia (incluyendo deteccion automatica de regimen foral)
 3. Formular preguntas dirigidas para descubrir posibles deducciones no incluidas
-4. Cruzar la informacion con la normativa estatal y autonomica vigente
+4. Cruzar la informacion con la normativa estatal, autonomica o foral vigente segun corresponda
 5. Presentar un informe con deducciones adicionales identificadas y ahorro estimado
+
+**Nota sobre territorios forales:** Si el contribuyente reside en Navarra, Alava, Bizkaia o Gipuzkoa, el skill detecta automaticamente que se trata de un regimen foral y adapta el flujo: utiliza las escalas, minimos y deducciones del territorio foral correspondiente en lugar de la normativa estatal.
 
 ---
 
@@ -86,10 +90,12 @@ declaracion-renta-espana/
 |       |-- comunidad-valenciana.md   # 41 deducciones
 |       |-- ceuta.md                  # Regimen especial (60%)
 |       |-- melilla.md                # Regimen especial (60%)
-|       |-- navarra.md                # IRPF foral completo (11 tramos)
-|       |-- alava.md                  # IRPF foral completo (7 tramos)
-|       |-- bizkaia.md                # IRPF foral 2024 (8 tramos)
-|       |-- gipuzkoa.md               # IRPF foral completo (8 tramos)
+|       |--                           #
+|       |-- # --- Territorios forales (IRPF propio independiente) ---
+|       |-- navarra.md                # IRPF foral 2025 completo (13%-52%, 11 tramos)
+|       |-- alava.md                  # IRPF foral 2025 completo (23%-49%, 7 tramos)
+|       |-- bizkaia.md                # IRPF foral 2024 (23%-49%, 8 tramos) *pendiente 2025
+|       |-- gipuzkoa.md               # IRPF foral 2025 completo (23%-49%, 8 tramos)
 ```
 
 ---
@@ -122,11 +128,13 @@ Una vez instalado, el skill se activa automaticamente cuando mencionas temas rel
 - "Mi gestor ha preparado mi declaracion, puedes comprobar si falta alguna deduccion?"
 - "Tengo criptomonedas, como las declaro?"
 - "Me he mudado a Espana, puedo acogerme a la Ley Beckham?"
+- "Vivo en Gipuzkoa, que deducciones me corresponden?"
+- "Soy de Navarra, como funciona mi IRPF foral?"
 
 ### Flujo tipico de uso
 
-1. **Sube tu borrador** (PDF de Renta WEB) o facilita tus datos manualmente
-2. **Confirma tu comunidad autonoma** de residencia y situacion personal
+1. **Sube tu borrador** (PDF de Renta WEB de la AEAT o de tu Hacienda Foral) o facilita tus datos manualmente
+2. **Confirma tu comunidad autonoma o territorio foral** de residencia y situacion personal
 3. **Responde a las preguntas** que Claude te ira formulando por tematicas
 4. **Recibe un informe** con:
    - Deducciones que ya aplicas correctamente
@@ -215,7 +223,7 @@ Otras CCAA (Castilla-La Mancha, Castilla y Leon, Galicia, Asturias) tambien tien
 
 ## Fuentes oficiales
 
-Toda la informacion fiscal de este skill procede exclusivamente de fuentes oficiales. La fuente principal y mas completa es el Manual Practico de Renta 2025 de la AEAT, un documento de 1.903 paginas que la Agencia Tributaria publica cada ejercicio con la normativa consolidada.
+Toda la informacion fiscal de este skill procede exclusivamente de fuentes oficiales. Para el regimen comun, la fuente principal es el Manual Practico de Renta 2025 de la AEAT (1.903 paginas). Para los territorios forales, se han utilizado los manuales oficiales publicados por cada hacienda foral (1.311 paginas adicionales).
 
 ### Fuente principal: Manual Practico de Renta 2025 (AEAT)
 
@@ -264,7 +272,9 @@ Toda la informacion fiscal de este skill procede exclusivamente de fuentes ofici
 - 8 regimenes y casos especiales (Beckham, cripto, no residentes, etc.)
 - 56 preguntas de descubrimiento organizadas en 6 categorias
 - 6 tramos de la escala general estatal + 5 tramos de la escala del ahorro
-- Minimos personales y familiares por edad, parentesco y discapacidad
+- 4 escalas forales completas (Navarra 11 tramos, Alava 7, Bizkaia 8, Gipuzkoa 8)
+- Minimos personales y familiares por edad, parentesco y discapacidad (estatales y forales)
+- 3.214 paginas de documentacion oficial procesadas en total
 
 ---
 

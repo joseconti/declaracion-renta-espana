@@ -99,15 +99,18 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 7. Por adquisicion de vehiculos electricos nuevos
 
-- **Cuantia/Porcentaje:** Segun tipo adquisicion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por vehiculo electrico
+- **Cuantia/Porcentaje:** 15% del precio de adquisicion
+- **Base maxima:** 3.000 euros anuales (maximo deducible)
+- **Limite:** Precio vehiculo <= 50.000 euros
 - **Requisitos:**
-  - Vehiculo electrico nuevo adquirido
+  - Vehiculo electrico nuevo (enchufable, bateria, combustible)
+  - Primera compra por contribuyente en el ejercicio
   - Matriculacion en La Rioja
-  - Documentacion de compra
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+  - Documentacion de compra (factura concesionario)
+  - No uso profesional/actividad economica
+  - Solo comprador que aparece en documentacion compra
+- **Incompatibilidades:** Solo una deduccion por persona ano
+- **Novedad 2025:** Ninguna (mantiene regulacion)
 
 ### 8. Para fomentar la fijacion de poblacion ocupada en el medio rural
 
@@ -124,78 +127,97 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 9. Por acceso a Internet para los jovenes emancipados
 
-- **Cuantia/Porcentaje:** Segun gastos Internet
-- **Base maxima:** Normativa autonomica
-- **Limite:** Segun coste servicios
+- **Cuantia/Porcentaje:** 30% del importe gastos anuales; 40% si monoparental o municipio pequeno
+- **Base maxima:** Limite segun base liquidable
+- **Limite:** Base liquidable general <= 18.030 euros (individual) o <= 30.050 euros (conjunta) (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Joven emancipado
-  - Menor de 36 anos
-  - Contratacion servicio Internet
-  - Documentacion de gastos
+  - Joven emancipado residente La Rioja
+  - Edad <= 36 anos (o especificamente <= 35 anos segun normativa)
+  - Municipio pequeno de La Rioja (ver lista anexo)
+  - Contratacion servicio Internet/banda ancha para vivienda
+  - Documentacion de gastos (recibos, facturas)
+  - Permanencia minima 3 anos en municipio
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Municipios elegibles en Anexo 1. Cuantias en regulacion autonomica
 
 ### 10. Por suministro de luz y gas de uso domestico para los jovenes emancipados
 
-- **Cuantia/Porcentaje:** Segun gastos suministros
-- **Base maxima:** Normativa autonomica
-- **Limite:** Segun consumo
+- **Cuantia/Porcentaje:** 15% del importe gastos anuales
+- **Base maxima:** Limite segun base liquidable
+- **Limite:** Base liquidable general <= 18.030 euros (individual) o <= 30.050 euros (conjunta) (dato del Manual AEAT 2025)
 - **Requisitos:**
   - Joven emancipado menor de 36 anos
-  - Gastos suministros basicos (luz, gas)
-  - Documentacion de pagos
+  - Residente La Rioja en municipio pequeno (ver anexo)
+  - Gastos suministros basicos (luz, gas natural, butano)
+  - Vivienda habitual/permanencia principal
+  - Documentacion de pagos (recibos servicios)
+  - Permanencia minima 3 anos en municipio
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Municipios elegibles en Anexo 1. Cuantias en regulacion autonomica
 
 ### 11. Por inversion en vivienda habitual de jovenes menores de 36 anos
 
-- **Cuantia/Porcentaje:** Segun coste adquisicion/construccion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por vivienda
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica La Rioja
+- **Limite:** Por vivienda primera adquisicion (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Contribuyente menor de 36 anos
-  - Primera vivienda
-  - Vivienda habitual
-  - Documentacion de adquisicion/construccion
+  - Contribuyente menor de 36 anos (en fecha devengo)
+  - Primera vivienda habitual
+  - Adquisicion, construccion o reforma vivienda
+  - Destinada a residencia principal
+  - Documentacion compra/construccion (contrato, factura, escritura)
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica La Rioja. Compatibilidad con deduccion estatal
 
 ### 12. Por arrendamiento vivienda habitual para menores de 36 anos
 
-- **Cuantia/Porcentaje:** Segun alquiler pagado
-- **Base maxima:** Normativa autonomica
-- **Limite:** Cantidad alquiler
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica La Rioja
+- **Limite:** Normativa autonomica La Rioja (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Contribuyente menor de 36 anos
-  - Arrendamiento vivienda habitual
-  - Contrato formalizado
-  - Documentacion de pagos
+  - Contribuyente menor de 36 anos (en fecha devengo)
+  - Arrendamiento vivienda habitual en La Rioja
+  - Contrato de arrendamiento formalizado
+  - Renta de mercado razonable
+  - Documentacion de pagos (recibos alquiler)
+  - Municipio pequeno (ver anexo) o cualquier municipio segun normativa
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica de La Rioja
 
 ### 13. Por adquisicion de bicicletas de pedaleo no asistido
 
-- **Cuantia/Porcentaje:** Segun coste adquisicion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por bicicleta
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025 (existe deduccion por bicicletas electricas)
+- **Base maxima:** 300 euros (bicicletas electricas/vehículos L); 225 euros (bicicletas pedaleo asistido)
+- **Limite:** Por bicicleta adquirida (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Bicicleta no motorizada adquirida
-  - Documentacion de compra
+  - Bicicleta no motorizada (pedaleo manual)
+  - Adquisicion nueva durante ejercicio
+  - Documentacion de compra (factura concesionario)
   - Uso en La Rioja
+  - Destino transporte urbano/actividad
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica La Rioja. Medida movilidad sostenible
 
 ### 14. Por las cantidades invertidas en obras de rehabilitacion de la vivienda habitual
 
-- **Cuantia/Porcentaje:** Segun costes rehabilitacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Gasto total rehabilitacion
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica La Rioja
+- **Limite:** Gasto total rehabilitacion (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Obras rehabilitacion vivienda habitual
-  - Documentacion de costes
-  - Certificacion obras
+  - Obras de rehabilitacion en vivienda habitual
+  - Mejora estructura, instalaciones, accesibilidad, eficiencia
+  - Proyecto tecnico de obra
+  - Documentacion de costes (presupuestos, facturas)
+  - Certificacion de finalizacion obra
+  - Vivienda principal del contribuyente
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica de La Rioja. Compatibilidad con deduccion estatal
 
 ### 15. Por cantidades invertidas en adquisicion o construccion de vivienda habitual para jovenes
 
@@ -262,15 +284,18 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 20. Para fomentar el ejercicio fisico y la practica deportiva
 
-- **Cuantia/Porcentaje:** Segun gastos deporte
-- **Base maxima:** Normativa autonomica
-- **Limite:** Cantidades satisfechas
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica La Rioja
+- **Limite:** Normativa autonomica La Rioja (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Gastos actividades deporte/ejercicio fisico
-  - Centros autorizados
-  - Documentacion de gastos
+  - Gastos en actividades deporte/ejercicio fisico
+  - Centros autorizados/registrados (clubs, gimnasios, escuelas)
+  - Membresias, cuotas, clases
+  - Documentacion de gastos (facturas, recibos)
+  - Beneficiarios: miembros familia
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y centros elegibles en regulacion autonomica de La Rioja
 
 ### 21. Destinada a los enfermos de ELA (Esclerosis Lateral Amiotrofica)
 

@@ -42,14 +42,26 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 - **Cuantia:** 10% de las cantidades satisfechas en concepto de alquiler
 - **Limite maximo:**
-  - 500 euros anuales (declaracion individual)
-  - 1.000 euros anuales (declaracion conjunta)
-- **Requisitos:**
-  - Vivienda habitual del contribuyente
-  - Contrato de arrendamiento documentado
-  - Cantidades satisfechas mediante medios de pago documentados
-- **Base:** Pagos de alquiler justificados con contrato y recibos
-- **Incompatibilidades:** No puede aplicarse simultaneamente con otras deducciones de vivienda para la misma vivienda
+  - 500 euros anuales (declaracion individual, situacion A)
+  - 1.000 euros anuales (declaracion conjunta, situacion A)
+  - 1.000 euros anuales (familias numerosas o monoparentales, situacion B)
+  - 1.000 euros por vivienda (limite absoluto)
+- **Situacion A - Requisito obligatorio:** el contribuyente debe cumplir AL MENOS UNA de estas condiciones:
+  - Tener 35 anos o menos a fecha de devengo (31/12/2025)
+  - Haber estado en situacion de desempleo durante 183 dias o mas durante el ejercicio
+  - Tener un grado de discapacidad igual o superior al 65%
+  - Ser viudo/a con 65 anos o mas
+- **Situacion B - Familias numerosas o monoparentales:**
+  - Pertenecer a familia numerosa o monoparental a fecha de devengo
+- **Limite de renta:**
+  - Base imponible general + base imponible del ahorro - minimo personal y familiar no superior a 30.000 euros (individual)
+  - No superior a 45.000 euros (conjunta)
+- **Otros requisitos:**
+  - Identificacion obligatoria del arrendador (NIF en la declaracion)
+  - Justificacion documental de las cantidades satisfechas
+  - En matrimonios en regimen de gananciales, solo tiene derecho quien figure como titular en el contrato
+- **NOTA:** Si no se cumple ninguna de las condiciones de la Situacion A ni de la Situacion B, la deduccion NO es aplicable. No confundir con la deduccion estatal por alquiler, que fue suprimida en 2015 (salvo regimen transitorio para contratos anteriores al 1 de enero de 2015)
+- **Solo se aplica una vez** por contribuyente, independientemente de que concurran varias situaciones
 
 ### 4. Por rehabilitacion de la vivienda habitual
 
@@ -76,44 +88,50 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 6. Por donativos a entidades que fomentan el uso de la lengua catalana y occitana
 
-- **Cuantia:** Porcentaje de donaciones (a determinar por normativa)
+- **Cuantia:** 15% de cantidades donadas
 - **Requisitos:**
-  - Donaciones a entidades sin fines lucrativos
-  - Fines de promocion de uso de lengua catalana u occitana
-  - Entidades inscriptas segun requisitos
-- **Limite:** Aplicacion de limite general de donaciones
+  - Donaciones a Instituto de Estudios Catalanes
+  - Donaciones a Instituto de Estudios Araneses - Academia Aranesa de la Lengua Occitana
+  - Donaciones a entidades sin fines lucrativos, sindicatos, organizaciones empresariales o asociaciones profesionales que promuevan lengua catalana u occitana
+  - Entidades inscritas conforme a normativa
+- **Limite maximo:** 10% de la cuota integra autonomica
+- **Documentacion:** Entidad beneficiaria debe remitir listado de donantes a Agencia Tributaria de Cataluña dentro de los primeros 20 dias del ano
 
 ### 7. Por donativos a entidades que fomentan la investigacion cientifica, desarrollo e innovacion
 
-- **Cuantia:** Porcentaje de cantidades donadas
+- **Cuantia:** 15% de cantidades donadas
 - **Requisitos:**
-  - Donaciones a entidades de investigacion
-  - Centros tecnologicos, universidades
+  - Donaciones a entidades de investigacion, centros tecnologicos, universidades
   - Proyectos de investigacion, desarrollo e innovacion
-- **Limite:** Limite general de donaciones aplicable
+  - Entidades con sede en Cataluna o desarrollando actividad en la region
+- **Limite maximo:** 10% de la cuota integra autonomica
 
 ### 8. Por donaciones a determinadas entidades en materias culturales, ambientales, naturales o de patrimonio
 
-- **Cuantia:** Porcentaje de donaciones
+- **Cuantia:** 15% de cantidades donadas
 - **Requisitos:**
   - Donaciones a entidades culturales
   - Conservacion de patrimonio historico y natural
   - Proteccion de espacios naturales
-  - Entidades reconocidas
-- **Documentacion:** Certificacion de donacion y destino
+  - Entidades inscritas en registros correspondientes
+- **Limite maximo:** 10% de la cuota integra autonomica
+- **Documentacion:** Certificacion de la entidad beneficiaria de la donacion
 
 ### 9. Por inversion por un angel inversor para la adquisicion de acciones o participaciones
 
 - **Cuantia:**
   - 40% de la cantidad invertida (caso general)
   - 50% de la cantidad invertida (si empresa creada por universidad o centro de investigacion)
-- **Limite maximo:** 12.000 euros en ambos casos
+- **Limite maximo:** 12.000 euros anuales en ambos casos
 - **Requisitos:**
-  - Inversion en acciones o participaciones de empresas nuevas o recientes
-  - Angel inversor segun definicion
-  - Empresa en Cataluna
-  - Mantenimiento de la participacion durante periodo minimo
-- **Acreditacion:** Documento de inversion, certificacion de entidad beneficiaria
+  - Inversion en acciones o participaciones de empresas nuevas o de reciente creacion
+  - Empresa domiciliada en Cataluna
+  - Desarrollo de actividad economica real
+  - No superar 1 millon de euros de facturacion anual
+  - Minimo 1 trabajador a jornada completa dado de alta en Seguridad Social
+  - Inversor: no puede ejercer funciones ejecutivas ni mantener relacion laboral con la sociedad (puede estar en consejo de administracion)
+  - Mantenimiento de participacion durante minimo 3 anos
+- **Acreditacion:** Documento de inversion, certificacion de la entidad beneficiaria
 
 ### 10. Por obligacion de presentar la declaracion del IRPF por razon de tener mas de un pagador
 

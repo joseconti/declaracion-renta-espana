@@ -60,7 +60,7 @@ https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manual
 - **Limite maximo:** 1.500 euros (individual y conjunta)
 - **Base imponible:** No supera 35.000 euros (individual) o 45.000 euros (conjunta)
 - **Beneficiarios:**
-  - Jovenes de hasta 35 anos
+  - Jovenes de hasta 35 anos (derechos se pierden al cumplir 36 anos)
   - Familias numerosas
   - Familias monoparentales
   - Mujeres victimas de violencia de genero
@@ -128,11 +128,13 @@ https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manual
 ### 10. Por nacimiento o adopcion de hijo
 
 - **Cuantia:** 1.000 euros por cada hijo nacido o adoptado
+- **Base imponible:** No supera 35.000 euros (individual) o 45.000 euros (conjunta)
 - **Requisitos:**
   - Nacimiento/adopcion en periodo impositivo
   - Menor convive con progenitor/adoptante en fecha de devengo
   - Si conviven multiples contribuyentes, se prorratea
   - Adopcion se realiza en ejercicio de inscripcion en Registro Civil
+- **Notas:** Deduccion se minora por ayudas del Principado de Asturias que cubran gastos
 
 ### 11. Por gastos de guarderia de menores de 3 anos
 
@@ -229,27 +231,44 @@ https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manual
 
 ### 21. Para contribuyentes que se establezcan como trabajadores autonomos en concejos en riesgo de despoblamiento
 
-- **Cuantia:** Pendiente de concretar segun normativa
+- **Cuantia:** 1.000 euros por contribuyente que se establezca como autonomo
+- **Base imponible:** No supera 35.000 euros (individual) o 45.000 euros (conjunta)
 - **Requisitos:**
   - Establecimiento como trabajador autonomo por cuenta propia
-  - Residencia en concejo en riesgo de despoblamiento o crisis demografica
-  - Inicio de actividad a partir de fecha determinada
+  - Alta en Regimen Especial de Trabajadores Autonomos (RETA) en el periodo impositivo
+  - Residencia habitual en concejo en riesgo de despoblamiento o crisis demografica
+  - Poblacion de hasta 20.000 habitantes con reduccion >= 10% desde 2000
+  - No haber ejercido la misma actividad en los 6 meses anteriores al inicio
+  - Mantener alta en RETA al menos 1 ano
 
 ### 22. Por gastos de formacion en contribuyentes que desarrollen trabajos cualificados
 
-- **Porcentaje:** Por determinarse
+- **Cuantia:** Importe de gastos de formacion satisfechos
+- **Limite maximo:** 2.000 euros
 - **Requisitos:**
   - Desarrollo de trabajos especialmente cualificados en investigacion y desarrollo, ciencia o tecnica
-  - Gastos de formacion relacionados directamente con la actividad
+  - Categoria profesional Grupo de Cotizacion 1 del Regimen General SS
+  - No hayan transcurrido mas de 3 anos desde finalizacion de formacion academica
+  - Residencia habitual en Asturias mantenida durante minimo 3 anos
+  - Si cuenta ajena: existencia de contrato de trabajo
+  - Gastos de formacion directamente relacionados con la actividad cualificada
   - Acreditacion documentada
+- **Notas:** Incompatible con deduccion "Para contribuyentes que trasladen domicilio fiscal por motivos laborales"
 
 ### 23. Para contribuyentes que trasladen domicilio fiscal al Principado por motivos laborales
 
-- **Cuantia/Porcentaje:** Por determinarse
+- **Porcentaje:** 15% de los gastos que se generen por el traslado
+- **Limite maximo:** 1.000 euros (caso general) o 2.000 euros (trabajos investigacion, desarrollo, cientificos o tecnicos)
 - **Requisitos:**
-  - Traslado de domicilio fiscal a Asturias
-  - Motivos laborales justificados
-  - Residencia efectiva durante periodo establecido
+  - No haber residido en Asturias durante los 4 anos previos al traslado
+  - Establecer residencia habitual en Asturias y mantenerla al menos 3 anos
+  - Contar con contrato laboral (si es cuenta ajena) o estar dado de alta SS (si es autonomo)
+  - Aplicable en ejercicio del traslado y 3 ejercicios posteriores
+- **Gastos deducibles:**
+  - Viajes y mudanza necesarios
+  - Escolarizacion de descendientes en Asturias
+  - Adquisicion o arrendamiento de vivienda habitual y servicios asociados
+- **Incompatibilidades:** No compatible con deduccion "Por gastos de formacion en trabajos cualificados"
 
 ### 24. Por emancipacion de jovenes de hasta 35 anos de edad
 
@@ -257,44 +276,66 @@ https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manual
 - **Limite maximo:**
   - Hasta 25 anos: 2.000 euros
   - De 26 a 30 anos: 1.500 euros
-  - De 31 a 35 anos: 1.000 euros
-- **Base imponible:** No supera 28.000 euros
+  - De 31 a 35 anos: 1.000 euros (puede aplicarse el ano que cumple 36 si emancipacion fue previa)
+- **Base imponible:** No supera 28.000 euros (suma bases imponibles general y ahorro)
 - **Requisitos:**
-  - Contribuyente de hasta 35 anos de edad
-  - Acreditacion documental de gastos mediante factura
+  - Dejar de convivir con ascendientes
+  - Trasladar domicilio a nueva vivienda habitual en Asturias
+  - No retornar al hogar familiar antes de transcurridos 3 anos
+  - Documentar gastos mediante factura u otro medio validez juridica
+- **Gastos deducibles:**
+  - Mobiliario
+  - Transporte
+  - Arrendamiento o adquisicion de vivienda habitual
 
 ### 25. Por los gastos vitales en que incurran los contribuyentes de hasta 35 anos
 
-- **Cuantia/Limite:**
+- **Limite maximo:**
   - Hasta 25 anos: 2.000 euros
   - De 26 a 30 anos: 1.500 euros
   - De 31 a 35 anos: 1.000 euros
-- **Base imponible:** No supera 28.000 euros
+- **Base imponible:** No supera 28.000 euros (suma bases imponibles general y ahorro)
 - **Gastos incluidos:**
-  - Gastos de vivienda y suministros
+  - Gastos de vivienda y suministros (incluyendo arrendamiento)
   - Gastos educativos
   - Gastos de transporte y movilidad
   - Gastos en tecnologia
   - Gastos deportivos
   - Gastos culturales
 - **Requisitos:**
-  - Acreditacion mediante factura o medio de trafico juridico
+  - Contribuyente de hasta 35 anos de edad
+  - En tributacion conjunta: limite aplicable por cada miembro que cumpla requisitos
+  - Acreditacion mediante factura o medio de trafico juridico admitido en Derecho
 
 ### 26. Por gastos derivados del arrendamiento de viviendas
 
-- **Cuantia/Porcentaje:** 100% de gastos especificos derivados del arrendamiento
+- **Porcentaje:** 100% de gastos especificos derivados del arrendamiento
+- **Limite maximo:** 500 euros por contribuyente anuales
 - **Requisitos:**
-  - Renta mensual del alquiler no exceda valor de referencia
-  - Gastos asociados al arrendamiento documentados
-  - Contrato de arrendamiento vigente
+  - Destino de alquiler sea vivienda habitual del inquilino
+  - Arrendamiento a precios con sostenibilidad social
+  - No necesario que la vivienda este arrendada en la fecha de pago (gastos vinculados a inversion previa)
+- **Gastos deducibles:**
+  - Reparacion y mantenimiento
+  - Gastos de formalizacion de contrato de arrendamiento
+  - Primas de seguros por danios e impago
+  - Gastos necesarios para obtener certificados eficiencia energetica
+- **Exclusiones:**
+  - No incluir gastos responsabilidad del inquilino segun contrato (IBI, basuras, cuotas comunidad, servicios, actualizaciones renta)
+- **Tributacion conjunta:** Deduccion aplicable por cada miembro que realice la inversion con ingresos propios
 
 ### 27. Por la obtencion de ayudas o subvenciones por Esclerosis Lateral Amiotrofica
 
-- **Cuantia:** Deduccion de ayudas/subvenciones obtenidas
+- **Cuantia:** Resultado de aplicar tipos medios de gravamen a la cuantia de la subvencion o ayuda que se integre en base liquidable
 - **Requisitos:**
-  - Diagnostico oficial de ELA
+  - Diagnostico oficial de ELA (Esclerosis Lateral Amiotrofica)
   - Obtencion de ayudas o subvenciones del Principado de Asturias
-  - Acreditacion mediante resolucion administrativa
+  - Ayuda debe aparecer como ingreso integrado en base liquidable
+  - Residencia en Principado de Asturias
+  - Acreditacion del diagnostico en registros oficiales de enfermedades raras
+  - Reconocimiento del grado de dependencia
+  - Cumplimiento obligaciones administrativas y fiscales
+- **Notas:** Esta deduccion compensa la integracion de la subvencion como ingreso en la declaracion
 
 ---
 

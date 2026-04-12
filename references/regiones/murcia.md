@@ -131,27 +131,33 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 10. Por gastos adquisicion material escolar y libros de texto
 
-- **Cuantia/Porcentaje:** Segun gastos material
-- **Base maxima:** Limit por descendiente
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 120 euros por descendiente
+- **Base maxima:** 120 euros por descendiente
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Material escolar y libros de texto
-  - Descendientes que cumplen requisitos minimo
-  - Documentacion de compras
+  - Material escolar y libros de texto adquiridos
+  - Descendientes del contribuyente cumpliendo requisitos minimo
+  - Centros educativos autorizados
+  - Documentacion de compras (facturas, recibos)
+  - Gasto efectivo satisfecho durante periodo impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y limites en normativa autonomica de Region Murcia
 
 ### 11. Por nacimiento o adopcion
 
-- **Cuantia/Porcentaje:** Cantidad por nacimiento/adopcion
-- **Base maxima:** Por hijo/descendiente
-- **Limite renta:** Normativa autonomica
+- **Cuantia/Porcentaje:** Variable segun circunstancias (300-900 euros)
+- **Base maxima:** Por hijo/descendiente nacido o adoptado
+- **Limite renta:** Normativa autonomica (tipicamente 30.000-47.000 segun tributacion)
 - **Requisitos:**
   - Nacimiento o adopcion durante periodo impositivo
-  - Hijo cumple requisitos minimo descendientes
-  - Acogimiento familiar formalizado
+  - Hijo cumple requisitos minimo por descendientes
+  - Convivencia con contribuyente 31 diciembre
+  - Acogimiento familiar formalizado si aplica
+  - Documentacion nacimiento/adopcion
 - **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Novedad 2025:** Cuantias pueden variar segun normativa
+- **NOTA:** Cuantias exactas en regulacion autonomica Murcia
 
 ### 12. Para contribuyentes con discapacidad
 
@@ -167,26 +173,34 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 13. Por conciliacion
 
-- **Cuantia/Porcentaje:** Segun tipo conciliacion
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** Integrada en deducciones de cuidado (empleada hogar + guarderia); limite total 800 euros
+- **Base maxima:** 800 euros anuales (limite total si aplican ambas)
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Gastos de conciliacion vida familiar y laboral
-  - Documentacion servicios/gastos
+  - Gastos de conciliacion vida familiar y laboral documentados
+  - Servicios de guarderia, campamentos, extraescolares autorizados
+  - Documentacion de gastos satisfechos (facturas)
+  - Beneficiarios: trabajadores activos con menores/dependientes
+  - Periodo del gasto durante ano impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y servicios elegibles en regulacion autonomica de Murcia
 
 ### 14. Por acogimiento no remunerado de mayores 65 anos y/o personas con discapacidad
 
-- **Cuantia/Porcentaje:** Segun tipo acogimiento
-- **Base maxima:** Por persona acogida
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 600 euros por persona acogida
+- **Base maxima:** 600 euros por persona (mayor 65 anos o discapacidad >= 33%)
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Acogimiento no remunerado formalizado
-  - Persona acogida cumple requisitos
-  - Documentacion acreditativa
+  - Acogimiento no remunerado formalizado documentalmente
+  - Persona acogida mayor 65 anos O discapacidad >= 33%
+  - Convivencia >= 183 dias ano
+  - Sin percepcion de ayudas publicas por acogimiento
+  - Certificacion de acogimiento
+  - Certificacion grado discapacidad si aplica
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica de Murcia
 
 ### 15. Por arrendamiento de vivienda habitual
 
@@ -203,15 +217,18 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 16. Para mujeres trabajadoras
 
-- **Cuantia/Porcentaje:** Cantidad especifica
-- **Base maxima:** Segun modalidad
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 300 euros (primer hijo), 350 euros (segundo), 400 euros (tercero o sucesivos); 400 euros por persona dependiente
+- **Base maxima:** Segun numero de hijos/dependientes
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
   - Contribuyente mujer
-  - Realizando actividad laboral
-  - Documentacion acreditativa
+  - Realizando actividad laboral (por cuenta propia o ajena)
+  - Activa durante el periodo impositivo
+  - Documentacion acreditativa de actividad (nómina, recibos autonoma)
+  - Cumplimiento requisitos especificos programa apoyo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y condiciones en programa apoyo mujeres trabajadoras de Murcia
 
 ### 17. Por adquisicion nueva vivienda o ampliacion por familias numerosas
 
@@ -238,26 +255,32 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 19. Por gastos enseñanza de idiomas
 
-- **Cuantia/Porcentaje:** Segun gastos educacion
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 15% de cantidades pagadas
+- **Base maxima:** 300 euros por hijo
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Clases de idiomas realizadas
-  - Centro autorizado
-  - Documentacion acreditativa
+  - Clases de idiomas realizadas y pagadas
+  - Centro de enseñanza autorizado/acreditado
+  - Descendientes del contribuyente (requisitos minimo)
+  - Documentacion acreditativa (facturas, certificado asistencia)
+  - Periodo del gasto durante ano impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y centros elegibles en regulacion autonomica Murcia
 
 ### 20. Por gastos acceso a Internet
 
-- **Cuantia/Porcentaje:** Segun gastos conexion
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 30% de cuotas mensuales y alta de linea
+- **Base maxima:** 300 euros anuales
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Servicios internet y telecomunicaciones
-  - Documentacion recibos
+  - Servicios internet y telecomunicaciones pagados
+  - Conexion domiciliaria (vivienda habitual)
+  - Documentacion de pagos (recibos, facturas)
+  - Beneficiarios: familias, jovenes emancipados, trabajadores remotos
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica de Murcia
 
 ### 21. Por gastos adquisicion vehiculos electricos
 
@@ -287,51 +310,64 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 23. Por cristales graduados, lentes contacto y soluciones limpieza
 
-- **Cuantia/Porcentaje:** Segun gastos visuales
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 30% de cantidades satisfechas (menores de 12 anos)
+- **Base maxima:** 150 euros anuales por contribuyente
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Adquisicion cristales/lentes oftalmologicas
-  - Prescripcion facultativa
-  - Documentacion compra
+  - Adquisicion cristales graduados/lentes de contacto
+  - Prescripcion facultativa (medico oftalmologista)
+  - Soluciones de limpieza para lentes
+  - Documentacion de compra (facturas)
+  - Gasto satisfecho durante periodo impositivo
+  - Beneficiarios: contribuyente, conyuge, hijos menores
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica Murcia
 
 ### 24. Por gastos deporte y actividades saludables
 
-- **Cuantia/Porcentaje:** Segun gastos actividades
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 30% de cantidades satisfechas
+- **Base maxima:** 100 euros anuales
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Actividades deportivas/saludables
-  - Centros autorizados
-  - Documentacion de gastos
+  - Gastos en actividades deportivas/saludables
+  - Centros autorizados/registrados (clubs, gimnasios, etc.)
+  - Documentacion de gastos (facturas, cuotas)
+  - Beneficiarios: miembros familia
+  - Gasto efectivo durante periodo impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y centros elegibles en regulacion autonomica Murcia
 
 ### 25. Por gastos enfermedades raras
 
-- **Cuantia/Porcentaje:** Segun gastos medicos
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 100% de cantidades satisfechas para tratamiento/cuidado
+- **Base maxima:** Sin limite especificado
+- **Limite:** Normativa autonomica Murcia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Diagnostico enfermedad rara acreditado
+  - Diagnostico enfermedad rara acreditado por centro medico
+  - Incluida en listado oficial ISCIII o equivalente
   - Gastos medicos/farmaceuticos documentados
-  - Documentacion medica
+  - Facturas y recibos de pagos
+  - Documentacion medica acreditativa
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica de Murcia. Listado enfermedades raras oficial
 
 ### 26. Por inversion en entidades economia social
 
-- **Cuantia/Porcentaje:** Segun tipo inversion
-- **Base maxima:** Segun limite inversion
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** No existe deduccion especifica en Murcia (se aplican deduciones estatales)
+- **Base maxima:** Segun limite inversion regulado
+- **Limite:** Normativa estatal (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Inversiones en economia social
-  - Entidades acreditadas
-  - Documentacion inversion
+  - Inversiones en entidades de economia social (cooperativas, sociedades laborales, etc.)
+  - Entidades acreditadas como economia social
+  - Participacion accionarial del contribuyente
+  - Documentacion inversion y acreditacion entidad
+  - Cumplimiento requisitos economia social
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica de Murcia. Entidades acreditadas por CEPES
 
 ### 27. Por gastos veterinarios
 

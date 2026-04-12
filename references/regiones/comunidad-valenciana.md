@@ -80,14 +80,19 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 6. Por conciliacion del trabajo con la vida familiar
 
-- **Cuantia/Porcentaje:** Cantidad segun tipo conciliacion
-- **Base maxima:** Segun tipo gastos
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Comunitat Valenciana
+- **Limite:** Normativa autonomica Comunitat Valenciana (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Gastos conciliacion vida familiar y laboral
-  - Documentacion de servicios/gastos
+  - Gastos de conciliacion vida familiar y laboral documentados
+  - Servicios: guarderias, campamentos, actividades extraescolares, cuidado dependientes
+  - Centros/servicios autorizados
+  - Ambos progenitores con actividad laboral (si aplica)
+  - Documentacion de gastos (facturas)
+  - Periodo gasto durante ano impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica Comunitat Valenciana
 
 ### 7. Por contribuyentes con discapacidad >= 33%, edad >= 65 anos
 
@@ -214,15 +219,17 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 17. Por donaciones con finalidad ecologica
 
-- **Cuantia/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Donacion realizada
+- **Cuantia/Porcentaje:** 20% primeros 250 euros; 25% resto de donacion
+- **Base maxima:** Sin limite maximo de donacion
+- **Limite:** Applicable a donaciones dinerarias puras
 - **Requisitos:**
-  - Donaciones para proteccion medio ambiente
-  - Entidades acreditadas
-  - Documentacion donacion
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+  - Donaciones para defensa/conservacion medio ambiente
+  - Entidades receptoras: Generalitat, Corporaciones Locales, entidades publicas ambientales, ONG sin animo de lucro
+  - Transferencia bancaria obligatoria
+  - Certificacion entidad beneficiaria
+  - Irrevocabilidad de donacion
+- **Incompatibilidades:** Compatible con deduccion estatal en limites
+- **Novedad 2025:** Incremento: antes 150 euros al 20%, ahora 250 euros; resto antes 20%, ahora 25%
 
 ### 18. Por donaciones de bienes patrimonio cultural valenciano
 
@@ -310,15 +317,18 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 25. Por contribuyentes con dos o mas descendientes
 
-- **Cuantia/Porcentaje:** Cantidad adicional
-- **Base maxima:** Por contribuyente
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Comunitat Valenciana
+- **Limite:** Normativa autonomica Comunitat Valenciana (no incluida en Manual AEAT)
 - **Requisitos:**
   - 2 o mas descendientes en nucleo familiar
-  - Cumple requisitos minimo
-  - Documentacion filiacion
+  - Descendientes cumplen requisitos minimo por descendientes
+  - Convivencia con contribuyente 31 diciembre
+  - Documentacion de filiacion/adopcion
+  - Requisitos especiales si una se aplica (discapacidad, etc.)
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica de Comunitat Valenciana
 
 ### 26. Por incremento costes financiacion ajena en inversion vivienda habitual
 
@@ -433,16 +443,19 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 35. Por cantidades gastos de salud (determinados)
 
-- **Cuantia/Porcentaje:** 30% de gastos salud
-- **Base maxima:** Normativa autonomica
+- **Cuantia/Porcentaje:** 30% de gastos salud mental
+- **Base maxima:** No especificado en AEAT
 - **Limite:** Gastos acreditados
 - **Requisitos:**
-  - Gastos profesionales salud mental
-  - Enfermedades cronicas/raras
-  - Diagnostico acreditado
+  - Gastos profesionales salud mental (psicologos, psiquiatras)
+  - Enfermedades cronicas/raras acreditadas
+  - Tratamientos especializados autorizados
+  - Diagnostico acreditado por profesional
   - Documentacion medica/psicologica
+  - Factura/recibo centro sanitario
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias maximas en regulacion autonomica de Comunitat Valenciana
 
 ### 36. Por gastos deporte y actividades saludables
 
@@ -458,15 +471,19 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 37. Por gastos fomento y formacion musicales
 
-- **Cuantia/Porcentaje:** Segun gastos formacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Clases musica
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Comunitat Valenciana
+- **Limite:** Normativa autonomica Comunitat Valenciana (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Clases musica/formacion musical
-  - Centro autorizado
-  - Documentacion inscripcion/asistencia
+  - Gastos en clases de musica/formacion musical
+  - Centro autorizado de enseñanza musical
+  - Descendientes del contribuyente (menores edad tipicamente)
+  - Documentacion inscripcion y asistencia
+  - Facturas de pago de cuotas educativas
+  - Periodo gasto durante ano impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion autonomica de Comunitat Valenciana
 
 ### 38. EXCEPCIONAL: Por ayudas ERTE y conciliacion familiar (Covid-19)
 

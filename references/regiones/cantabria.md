@@ -137,8 +137,14 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 11. Por gastos de traslado por razon de estudios en municipios con despoblamiento
 
-- **Cuantia:** Deduccion en euros (cantidad fija a determinar)
-- **Condiciones:** Para menores que residen en municipios con despoblamiento y deben trasladarse para estudios
+- **Cuantia:** 200 euros por menor
+- **Requisitos:**
+  - Menor de 25 anos residiendo en municipio afectado por riesgo de despoblamiento
+  - Estudios de educacion secundaria, formacion profesional, o estudios universitarios fuera del municipio
+  - Menor sin rentas laborales superiores a 8.000 euros en el periodo impositivo
+  - El menor debe estar matriculado en centro educativo fuera de su municipio
+- **Aplicacion:** En declaracion individual de los progenitores, se prorratea por partes iguales
+- **Documentacion:** Certificado de matricula y comprobante de residencia en municipio con despoblamiento
 
 ### 12. Por gastos de guarderia de nuevos residentes fiscales extranjeros
 
@@ -151,13 +157,29 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 13. Por gastos de educacion
 
-- **Cuantia:** Deduccion vinculada a gastos de educacion (detalles por PDF)
-- **Requisitos:** Especificados en PDF
+- **Cuantia:**
+  - 100% de gastos en adquisicion de libros de texto para educacion obligatoria
+  - 15% de gastos en enseñanza de idiomas como actividad extraescolar
+- **Limite maximo:** 200 euros por unidad familiar
+- **Requisitos:**
+  - Hijos o descendientes en educacion obligatoria
+  - Libros de texto publicados para educacion obligatoria
+  - Enseñanza de idiomas como actividad extraescolar
+- **Base:** Cantidades justificadas con factura y satisfechas mediante tarjeta de credito/debito, transferencia bancaria, cheque nominativo o ingreso en cuentas de credito
+- **Restriccion:** No se admiten cantidades pagadas en efectivo
+- **Aplicacion:** En caso de declaracion individual, se prorratea por partes iguales entre progenitores
 
 ### 14. Por ayuda domestica
 
-- **Cuantia:** Deduccion por gastos de empleado del hogar (detalles por PDF)
-- **Requisitos:** Especificados en PDF
+- **Cuantia:** 20% de aportaciones a la Seguridad Social del empleado/a del hogar
+- **Limite maximo:** 300 euros anuales
+- **Requisitos:**
+  - Empleado/a del hogar familiar inscrito/a en el Sistema Especial del Régimen General de la Seguridad Social de Empleados del Hogar en Cantabria
+  - Titular del hogar familiar o cónyuge/pareja de hecho debe tener:
+    - UNO O MAS HIJOS MENORES DE EDAD y ambos perciban rentas de trabajo o rendimientos de actividades economicas
+    - O ser familia monoparental con uno o mas hijos
+  - O bien, el contribuyente o su cónyuge/pareja sea mayor de 75 anos
+- **Documentacion:** Justificante de afiliacion a la Seguridad Social y comprobantes de cotizacion
 
 ### 15. Por arrendamiento de vivienda situada en municipios afectados por riesgo de despoblamiento
 

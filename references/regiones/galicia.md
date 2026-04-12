@@ -112,36 +112,48 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 8. Por gastos dirigidos al uso de nuevas tecnologias en hogares gallegos
 
-- **Cuantia/Porcentaje:** Pendiente de concretar en normativa autonomica
-- **Base maxima:** No especificado
-- **Limite:** No especificado
+- **Cuantia/Porcentaje:** 30% de las cantidades satisfechas en cuota de alta y cuotas mensuales de Internet de alta velocidad
+- **Base maxima:** 100 euros (tanto en tributacion individual como conjunta)
+- **Limite:** Aplicable a todas las cantidades satisfechas durante el ejercicio (un solo contrato o varios simultaneos)
 - **Requisitos:**
   - Residente en Galicia
-  - Requisitos adicionales en normativa autonomica
+  - Contratacion de lineas de alta velocidad para acceso a Internet
+  - Cuotas de alta y mensuales durante el ejercicio
+  - Para matrimonios en sociedad legal de gananciales: maximo 50 euros por conyuge
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Deduccion del 30% de gastos de Internet de alta velocidad, limitada a 100 euros anuales (Manual AEAT 2025, Art. 5.Ocho)
 
 ### 9. Por inversion en acciones o participaciones de entidades nuevas
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** Limite segun inversion
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 30% de lo invertido en capital social
+- **Base maxima:** 20.000 euros (ampliable a 29.000 para empresas innovadoras)
+- **Limite:** 20.000 euros anuales (incrementable 45% si empresas innovadoras/pymes)
 - **Requisitos:**
-  - Entidades nuevas o creacion reciente
-  - Requisitos segun normativa
+  - Entidades nuevas creadas hace <= 2 anos
+  - Domicilio social y fiscal en Galicia
+  - Ejercicio de actividad economica
+  - Contratacion minima: 1 persona a jornada completa durante 3 anos
+  - Participacion entre 1%-40% del capital
+  - Mantenimiento de participaciones 3 anos minimo
 - **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Novedad 2025:** Requisitos de mantenimiento 3 anos confirmados
 
 ### 10. Por inversion en acciones en segmento MAB (Mercado Alternativo Bolsista)
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** Segun normativa
+- **Cuantia/Porcentaje:** 15% de las cantidades invertidas en adquisicion de acciones
+- **Base maxima:** 4.000 euros de deduccion maxima
+- **Limite:** Deduccion se prorratea por partes iguales en el ano de inversion y 3 anos siguientes
 - **Requisitos:**
-  - Empresas del segmento MAB
-  - Acciones cotizadas en MAB
-- **Incompatibilidades:** Ninguna especificada
+  - Acciones mediante acuerdos de ampliacion de capital en segmento de empresas en expansion del MAB
+  - Participacion conseguida <= 10% del capital social
+  - Acciones mantenidas minimo 3 anos en patrimonio
+  - Domicilio social y fiscal de la sociedad en Galicia
+  - Actividad principal no sea gestion de patrimonio mobiliario/inmobiliario
+  - Operaciones formalizadas en escritura publica
+- **Incompatibilidades:** Incompatible con deducciones por inversion en entidades nuevas, empresas agrarias, proyectos de interes publico
 - **Novedad 2025:** Ninguna
+- **NOTA:** Deduccion del 15% de inversiones en empresas del segmento MAB (Manual AEAT 2025, Art. 5.Once)
 
 ### 11. Por donaciones con finalidad en investigacion y desarrollo cientifico e innovacion tecnologica
 
@@ -157,39 +169,48 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 12. Por inversion en instalaciones de climatizacion y/o agua caliente sanitaria con energias renovables
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** No especificado
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Galicia
+- **Limite:** Normativa autonomica Galicia (no incluida en Manual AEAT)
 - **Requisitos:**
   - Instalaciones en vivienda habitual
-  - Energias renovables
-  - Requisitos tecnicos de normativa
+  - Energias renovables (placas solares termicas, aerotermia, biomasa, etc.)
+  - Climatizacion o agua caliente sanitaria
+  - Certificacion tecnica de instalacion conforme normas
+  - Obra realizada durante periodo impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Regulacion completa en normativa autonomica de Galicia
 
 ### 13. Por rehabilitacion de bienes inmuebles situados en centros historicos
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** Segun coste de obra
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Galicia
+- **Limite:** Normativa autonomica Galicia (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Inmuebles en centro historico declarado
-  - Obras de rehabilitacion
-  - Residencia habitual o rental
+  - Inmuebles situados en centro historico declarado por administracion
+  - Obras de rehabilitacion/conservacion/restauracion
+  - Vivienda habitual, secundaria o inversion (rental)
+  - Documentacion obra (proyectos, facturas, certificaciones)
+  - Cumplimiento normativa arquitectonica
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y limites en regulacion autonomica de Xunta de Galicia
 
 ### 14. Por inversion en empresas que desarrollen actividades agrarias
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Galicia
+- **Limite:** Normativa autonomica Galicia (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Empresas agrarias
-  - Nuevas o con ampliacion
-  - Contribuyente o minimo en la propiedad
+  - Empresas desarrollando actividades agrarias (produccion, transformacion, comercializacion)
+  - Nuevas empresas o ampliacion de existentes
+  - Participacion del contribuyente en capital
+  - Minimo de participacion accionarial requerido
+  - Residencia de empresa en Galicia
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias en regulacion especifica de Xunta de Galicia (consejeria agricola)
 
 ### 15. Por subvenciones y ayudas por danos de incendios forestales
 
@@ -205,15 +226,18 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 16. Por obras de mejora de eficiencia energetica en edificios
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Galicia
+- **Limite:** Normativa autonomica Galicia (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Mejoras de eficiencia energetica
-  - Certificacion de mejora
-  - Inmueble principal o secundario
+  - Obras de mejora de eficiencia energetica (aislamiento, ventanas, calderas, etc.)
+  - Certificacion de mejora energetica (certificado energetico previo/posterior)
+  - Vivienda habitual, secundaria o inmueble de inversion
+  - Documentacion obra (proyectos, certificaciones, facturas)
+  - Cumplimiento normas tecnicas de eficiencia
 - **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Novedad 2025:** Vigente
+- **NOTA:** Cuantias en regulacion autonomica de Galicia
 
 ### 17. Por ayudas a deportistas de alto nivel
 
@@ -229,51 +253,64 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 18. Por adquisicion y rehabilitacion de viviendas en proyectos de aldeas modelo
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 15% de cantidades satisfechas en adquisicion o rehabilitacion
+- **Base maxima:** Segun coste total de obra/adquisicion
+- **Limite:** Normativa autonomica Galicia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Viviendas en proyectos de aldeas modelo declaradas
-  - Vivienda habitual
-  - Obra nueva o rehabilitacion
+  - Viviendas ubicadas en proyectos de aldeas modelo declarados
+  - Reconocimiento oficial por Xunta de Galicia
+  - Vivienda habitual (residencia principal)
+  - Adquisicion, construccion o rehabilitacion
+  - Documentacion de proyecto y adquisicion
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Aldeas modelo deben estar oficialmente declaradas. Cuantias en normativa autonomica
 
 ### 19. Por inversiones en proyectos de interes publico, social o economico
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** Segun proyecto
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Galicia
+- **Limite:** Segun tipo proyecto e inversion (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Proyectos declarados de interes publico/social/economico
-  - Inversion minima
-  - Documentacion del proyecto
+  - Proyectos declarados de interes publico, social o economico
+  - Resolucion oficial de declaracion
+  - Inversion capital minimo requerido
+  - Participacion accionarial del contribuyente
+  - Documentacion proyecto y certificacion de inversion
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y tipos en normativa de declaracion de interes publico de Galicia
 
 ### 20. Por gastos derivados de adecuacion de inmueble vacio con destino al arrendamiento
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Base maxima:** Consultar normativa especifica Galicia
+- **Limite:** Normativa autonomica Galicia (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Inmueble vacio adecuado para rental
-  - Arrendamiento para vivienda habitual
-  - Documentacion de gastos
+  - Inmueble vacio durante periodo previo arrendamiento
+  - Adecuacion/reforma para ponerlo en condiciones rental
+  - Contrato de arrendamiento posterior para vivienda habitual
+  - Documentacion de gastos de adecuacion (facturas)
+  - Documentacion contrato arrendamiento
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Cuantias y condiciones en regulacion autonomica de Galicia
 
 ### 21. Por el arrendamiento de viviendas vacias
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 500 euros por cada inmueble
+- **Base maxima:** 500 euros por vivienda
+- **Limite:** Normativa autonomica Galicia (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Viviendas vacas arrendadas para vivienda habitual
+  - Vivienda vacia durante minimo 2 anos previos al arrendamiento
+  - Arrendamiento para vivienda habitual del inquilino
   - Contrato de arrendamiento formalizado
-  - Documentacion de ingresos
+  - Vivienda puesta en mercado de alquiler
+  - Documentacion de contrato y pagos alquiler
+  - Control cumplimiento: entrega de claves, habilitacion vivienda
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
+- **NOTA:** Destinado a potenciar alquiler de viviendas desocupadas. Cuantias en regulacion autonomica
 
 ### 22. Por ayudas para personas con ELA (Esclerosis Lateral Amiotrofica)
 
@@ -314,15 +351,20 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autono
 
 ### 25. Por inversiones en entidades que cotizan en segmento de empresas en crecimiento
 
-- **Cuantia/Porcentaje:** Pendiente de concretar
-- **Base maxima:** No especificado
-- **Limite:** Normativa autonomica
+- **Cuantia/Porcentaje:** 15% de las cantidades invertidas en adquisicion de acciones (o 45% si se dan circunstancias adicionales: PYME innovadora, iniciativa base tecnologica, participada por universidades)
+- **Base maxima:** 4.000 euros en caso general; 35.000 euros si se dan circunstancias adicionales
+- **Limite:** Deduccion se prorratea por partes iguales en el ano de inversion y 3 anos siguientes
 - **Requisitos:**
-  - Empresas en crecimiento cotizadas
-  - Acciones de nueva emision
-  - Periodo de tenencia requerido
-- **Incompatibilidades:** Ninguna especificada
+  - Acciones mediante acuerdos de ampliacion de capital en segmento de empresas en expansion del MAB
+  - Participacion conseguida <= 10% del capital social
+  - Acciones mantenidas minimo 3 anos en patrimonio
+  - Domicilio social y fiscal en Galicia
+  - Actividad principal no sea gestion de patrimonio
+  - Operaciones formalizadas en escritura publica
+  - Para incremento 45%: PYME innovadora, iniciativa base tecnologica, o participada por universidades
+- **Incompatibilidades:** Incompatible con deducciones por inversion en entidades nuevas, empresas agrarias, proyectos de interes publico
 - **Novedad 2025:** Ninguna
+- **NOTA:** Deduccion del 15% (o 45% con circunstancias especiales) por inversiones en empresas del segmento de expansion (Manual AEAT 2025, Art. 5.Once)
 
 ---
 
