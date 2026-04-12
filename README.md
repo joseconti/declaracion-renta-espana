@@ -113,7 +113,7 @@ declaracion-renta-espana/
 
 ```bash
 cd tu-proyecto/.claude/skills/
-git clone https://github.com/joseconti/declaracion-renta-espana-2025.git declaracion-renta-espana
+git clone https://github.com/joseconti/declaracion-renta-espana.git declaracion-renta-espana
 ```
 
 ---
@@ -316,7 +316,7 @@ En resumen: puedes usar, modificar y distribuir este software libremente, siempr
 
 ## Autor
 
-Jose Conti - [plugins.joseconti.com](https://plugins.joseconti.com)
+Jose Conti - [joseconti.com](https://joseconti.com)
 
 ---
 
