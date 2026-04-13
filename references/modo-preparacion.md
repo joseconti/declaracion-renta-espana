@@ -180,7 +180,7 @@ Agregar TODAS las retenciones de todos los bloques anteriores:
 
 ### 2.8 Aportaciones y donativos deducibles
 
-- **Planes de pensiones**: límite 1 500 EUR anual (o 4 250 EUR si autónomo con reducción especial, o 8 500 EUR si hay aportación complementaria empresarial)
+- **Planes de pensiones**: límite 1 500 EUR anual (o 4 250 EUR si autónomo con reducción especial, o 8 500 EUR si hay aportación complementaria empresarial). *Requisito temporal: la aportación debe estar ingresada antes del 31/12 del ejercicio declarado; el plazo de presentación de la renta NO amplía el plazo de aportación.*
 - **Pensiones compensatorias**: al ex-cónyuge por resolución judicial
 - **Donativos**: a entidades acogidas a Ley de Mecenazgo: 80% primeros 250 EUR, 40% resto (45% si recurrente)
 - **Cuotas sindicales**: deducibles como gasto de trabajo (ya incluidas en 2.2) o como deducción de base

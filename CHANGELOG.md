@@ -4,6 +4,15 @@ Todas las versiones notables de este skill se documentan en este archivo.
 
 ---
 
+## v2025-4.2 -- Correcciones de alucinaciones sobre plan de pensiones
+
+**Fecha:** 13 de abril de 2026
+
+- `references/nacional.md`, `references/modo-preparacion.md`, `SKILL.md` -- Nota explicita en todos los puntos donde se menciona la reduccion por aportaciones a planes de pensiones: el plazo de aportacion del ejercicio N cierra el **31/12 de N**, y NO se amplia con el plazo de presentacion de la renta (25/06 o 30/06 de N+1). Corrige una alucinacion observada en campana en la que el modelo confundia ambos plazos y sugeria aportar durante abril-junio para reducir base del ejercicio anterior.
+- `references/nacional.md` -- Nueva seccion **10.1.bis** dedicada al regimen especial del **Art. 53 LIRPF** (aportaciones a sistemas de prevision social constituidos a favor de personas con discapacidad). Sustituye a la fila compacta anterior de la tabla 10.1 que mezclaba incorrectamente el tope del 30% de rendimientos (propio del regimen general) con los importes del regimen especial. Ahora se detalla: perfil del beneficiario elegible (fisica/sensorial >= 65%, psiquica >= 33%, incapacidad judicial), aportantes permitidos (titular, parientes hasta 3er grado en linea directa o colateral, conyuge, tutor/acogedor), limites individuales (24.250 euros titular, 10.000 euros por aportante tercero), limite conjunto (24.250 euros/ano) y traslado del exceso a 5 ejercicios.
+
+---
+
 ## v2025-4.1 -- Auditoría completa vs Manual AEAT y correcciones
 
 **Fecha:** 13 de abril de 2026

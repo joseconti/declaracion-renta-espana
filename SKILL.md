@@ -269,9 +269,11 @@ Con toda la información recogida, cruzar los datos con:
    - Comparar con las que ya aparecen en el borrador
 
 3. **Reducciones de la base** (`references/nacional.md`, sección 10):
-   - Planes de pensiones
+   - Planes de pensiones (régimen general 10.1 y régimen especial 10.1.bis para personas con discapacidad)
    - Pensiones compensatorias
    - Patrimonios protegidos
+
+   **No sugerir "aportar ahora" a un plan de pensiones durante la campaña de renta:** el plazo de aportación del ejercicio N cierra el 31/12 del propio N. Cuando se revisa la declaración (abril–junio del año N+1), todas las aportaciones del ejercicio ya están cerradas. No confundir el plazo de presentación (hasta 30/06, o 25/06 con domiciliación) con el plazo de aportación.
 
 4. **Casos especiales** (si aplican, leer `references/casos-especiales.md`):
    - Ley Beckham / impatriados
@@ -339,7 +341,8 @@ correspondiente). El flujo detallado está en `references/modo-preparacion.md` s
      (con límites de compensación)
 
 3. **Reducciones de la base** (sección 10 de nacional.md):
-   - Planes de pensiones, pensiones compensatorias, patrimonios protegidos
+   - Planes de pensiones (10.1 general / 10.1.bis personas con discapacidad), pensiones compensatorias, patrimonios protegidos
+   - Recordatorio: las aportaciones del ejercicio N debieron hacerse antes del 31/12 de N. No proponer aportaciones "a tiempo" durante la campaña.
    - Base liquidable general = base imponible general - reducciones
    - Base liquidable del ahorro = base imponible del ahorro - remanente (si hay)
 

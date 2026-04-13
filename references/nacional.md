@@ -755,9 +755,27 @@ Ganancia/Perdida = Valor de transmision - Valor de adquisicion
 | Aportacion empresarial (planes de empleo) | Hasta 8.500 euros adicionales |
 | Limite conjunto total | 10.000 euros (o 30% de rendimientos netos del trabajo + actividades económicas) |
 | Aportaciones a favor del conyuge (sin rentas o < 8.000 euros) | 1.000 euros |
-| Aportaciones a planes de pensiones de personas con discapacidad >= 65% o movilidad reducida | Hasta 24.250 euros anuales si la realiza el titular con discapacidad, o hasta 10.000 euros (30% rendimientos) si la realizan terceros |
+| Sistemas de previsión social constituidos a favor de personas con discapacidad | Ver seccion 10.1.bis (regimen especial del Art. 53 LIRPF) |
 
 **Autonomos:** Limite adicional de 4.250 euros por aportaciones a planes de empleo simplificados o sectoriales.
+
+> **Plazo de aportacion (MUY IMPORTANTE):** para que una aportacion reduzca la base imponible del ejercicio N, debe estar ingresada en el plan **antes del 31 de diciembre del ejercicio N**. El plazo de presentacion de la declaracion (abril-junio del ano N+1) NO amplia el plazo de aportacion. Cuando el contribuyente revisa su renta en la campana (abril-junio), todas las aportaciones del ejercicio declarado ya estan cerradas: NO sugerir "aportar ahora" como via para reducir la base del ejercicio que se esta declarando.
+
+### 10.1.bis Aportaciones a sistemas de previsión social constituidos a favor de personas con discapacidad (Art. 53 LIRPF)
+
+Régimen especial, independiente de los limites generales de la seccion 10.1. No se le aplica el tope de 1.500 euros ni el 30 % de rendimientos del trabajo / actividades economicas.
+
+**Beneficiario elegible:** persona con discapacidad fisica o sensorial >= 65 %, psiquica >= 33 %, o con incapacidad declarada judicialmente (cualquier grado).
+
+**Aportantes y limites individuales:**
+- Aportaciones realizadas por el **propio titular** con discapacidad: hasta **24.250 euros/ano**.
+- Aportaciones realizadas a su favor por **parientes en linea directa o colateral hasta el 3.er grado inclusive**, por el **conyuge**, o por quienes le tengan a cargo en regimen de **tutela o acogimiento**: hasta **10.000 euros/ano por cada aportante**. Reducen la base imponible del propio aportante.
+
+**Limite conjunto (titular + todos los terceros sobre el mismo beneficiario):** **24.250 euros/ano**. Si el total de aportaciones supera este conjunto, el exceso puede trasladarse a los 5 ejercicios siguientes.
+
+**No acumulable** con la reduccion general de la 10.1 aportada sobre el mismo plan: las aportaciones a este regimen especial se declaran en casillas propias y no computan contra el limite de 1.500 euros de la 10.1.
+
+Se aplica tambien el plazo de aportacion del 31/12 del ejercicio N indicado en la 10.1.
 
 ### 10.2. Aportaciones a patrimonios protegidos de personas con discapacidad
 
