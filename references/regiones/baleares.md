@@ -1,7 +1,83 @@
-# IRPF 2025 - Deducciones Autonomicas: Illes Balears
+# IRPF 2025 - Comunidad Autonoma de las Illes Balears
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-illes-balears.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en las Illes Balears a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Illes Balears: Decreto Legislativo 1/2014, de 6 de junio
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 1 DLeg 1/2014.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0 | 0 | 10.000 | 9,00 |
+| 10.000 | 900 | 8.000 | 11,25 |
+| 18.000 | 1.800 | 12.000 | 14,25 |
+| 30.000 | 3.510 | 18.000 | 17,50 |
+| 48.000 | 6.660 | 22.000 | 19,00 |
+| 70.000 | 10.840 | 20.000 | 21,75 |
+| 90.000 | 15.190 | 30.000 | 22,75 |
+| 120.000 | 22.015 | 55.000 | 23,75 |
+| 175.000 | 35.077,50 | En adelante | 24,75 |
+
+**Tipo marginal maximo autonomico: 24,75%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 24,75% + 24,50% = **49,25%** para rentas superiores a 300.000 EUR.
+
+Baleares es la unica CCAA cuyo primer tramo arranca en 10.000 EUR (no en 12.450 ni 13.000).
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: art. 2 DLeg 1/2014.
+
+Las Illes Balears han aprobado importes propios para varios elementos del minimo personal y familiar (mayores de 65 anos, segundo descendiente y siguientes, ascendientes, discapacidad). Para el resto se aplican los importes estatales de `nacional.md §4`.
+
+### Minimo del contribuyente
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| General | 5.550 (estatal) |
+| Mayores de 65 anos | **6.105** (importe propio) |
+| Incremento mayores de 65 anos | +1.265 |
+| Incremento adicional mayores de 75 anos | +1.540 |
+
+### Minimo por descendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Primer descendiente | 2.400 (estatal) |
+| Segundo descendiente | **2.970** (propio) |
+| Tercer descendiente | **4.400** (propio) |
+| Cuarto y siguientes | **4.950** (propio) |
+| Incremento por descendiente menor de 3 anos | +2.800 (estatal) |
+
+### Minimo por ascendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Por ascendiente > 65 anos o con discapacidad | **1.265** (propio) |
+| Incremento por ascendiente > 75 anos | +1.540 (propio) |
+
+### Minimo por discapacidad
+
+| Grado | Cuantia anual (euros) |
+|---|---|
+| 33% - 65% | **3.300** (propio) |
+| >= 65% | **9.900** (propio) |
+| Incremento por ayuda de terceros o movilidad reducida | +3.300 (gastos de asistencia, propio) |
 
 ---
 

@@ -1,7 +1,80 @@
-# IRPF 2025 - Deducciones Autonomicas: Madrid
+# IRPF 2025 - Comunidad de Madrid
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en la Comunidad de Madrid a 31/12/2025. Incluye escala autonomica general, escala del ahorro, minimos personales y familiares autonomicos y deducciones autonomicas de la cuota.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT), capitulos 14 y 15: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Madrid: Decreto Legislativo 1/2010, de 21 de octubre
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 1 Texto Refundido de las disposiciones legales de la Comunidad de Madrid en materia de tributos cedidos por el Estado, aprobado por Decreto Legislativo 1/2010, de 21 de octubre.
+
+Aplicable al 50% de la base liquidable general de los contribuyentes residentes en Madrid (el otro 50% tributa por la escala estatal del art. 63.1 LIRPF, recogida en `nacional.md §2`).
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 13.362,22 | 8,50 |
+| 13.362,22 | 1.135,79 | 5.642,41 | 10,70 |
+| 19.004,63 | 1.739,53 | 16.421,05 | 12,80 |
+| 35.425,68 | 3.841,42 | 21.894,72 | 17,40 |
+| 57.320,40 | 7.651,10 | En adelante | 20,50 |
+
+**Tipo marginal maximo autonomico: 20,50%** (el mas bajo de Espana en 2025).
+
+**Tipo marginal maximo total (estatal + autonomico):** 20,50% + 24,50% = **45,00%** para rentas superiores a 300.000 EUR.
+
+Madrid aplica una deflactacion sostenida de su escala: los tramos estan claramente por encima de los estatales (primer tramo hasta 13.362,22 EUR frente a 12.450 EUR estatal), lo que reduce la carga sobre rentas medias y bajas.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+La escala autonomica del ahorro de Madrid es **identica a la estatal** (art. 76 LIRPF), como en todas las CCAA de regimen comun. Ver tabla completa en `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: arts. 2, 2 bis, 2 ter y 2 quater DLeg 1/2010.
+
+Madrid ha aprobado importes del minimo personal y familiar **distintos de los estatales** (aproximadamente un 7,3% por encima). Los contribuyentes residentes en Madrid deben aplicar estos importes a efectos del gravamen autonomico (Cuota 4 del flujo de `nacional.md §13.1`). A efectos del gravamen estatal (Cuota 3) se aplican los estatales de `nacional.md §4`.
+
+### Minimo del contribuyente
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| General | 5.956,65 |
+| Incremento mayores de 65 anos | +1.234,26 |
+| Incremento adicional mayores de 75 anos | +1.502,58 |
+
+### Minimo por descendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Primer descendiente | 2.575,85 |
+| Segundo descendiente | 2.897,83 |
+| Tercer descendiente | 4.400,00 |
+| Cuarto y siguientes | 4.950,00 |
+| Incremento por cada descendiente menor de 3 anos | +3.005,16 |
+
+### Minimo por ascendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Por cada ascendiente > 65 anos o con discapacidad | 1.234,26 |
+| Incremento por ascendiente > 75 anos | +1.502,58 |
+
+### Minimo por discapacidad
+
+| Grado de discapacidad | Cuantia anual (euros) |
+|---|---|
+| 33% - 65% | 3.219,81 |
+| >= 65% | 9.659,44 |
+| Incremento por ayuda de terceros o movilidad reducida | +3.219,81 |
 
 ---
 

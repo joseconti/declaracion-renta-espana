@@ -1,7 +1,84 @@
-# IRPF 2025 - Deducciones Autonomicas: Comunitat Valenciana
+# IRPF 2025 - Comunitat Valenciana
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en la Comunitat Valenciana a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Comunitat Valenciana: Ley 13/1997, de 23 de diciembre
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 2 Ley 13/1997, de 23 de diciembre, por la que se regula el tramo autonomico del IRPF y restantes tributos cedidos.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0 | 0 | 12.000 | 9,00 |
+| 12.000 | 1.080,00 | 10.000 | 12,00 |
+| 22.000 | 2.280,00 | 10.000 | 15,00 |
+| 32.000 | 3.780,00 | 10.000 | 17,50 |
+| 42.000 | 5.530,00 | 10.000 | 20,00 |
+| 52.000 | 7.530,00 | 10.000 | 22,50 |
+| 62.000 | 9.780,00 | 10.000 | 25,00 |
+| 72.000 | 12.280,00 | 28.000 | 26,50 |
+| 100.000 | 19.700,00 | 50.000 | 27,50 |
+| 150.000 | 33.450,00 | 50.000 | 28,50 |
+| 200.000 | 47.700,00 | En adelante | 29,50 |
+
+**Tipo marginal maximo autonomico: 29,50%** — **el mas alto de Espana en regimen comun**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 29,50% + 24,50% = **54,00%** para rentas superiores a 300.000 EUR. Es la presion fiscal maxima del IRPF en regimen comun.
+
+La Comunitat Valenciana es la CCAA con mas tramos autonomicos (11 tramos), con una progresividad muy acentuada.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: art. 2 bis Ley 13/1997.
+
+La Comunitat Valenciana ha aprobado importes propios del minimo personal y familiar (aproximadamente un 10% por encima de los estatales). Aplicar a efectos del gravamen autonomico (Cuota 4); para el gravamen estatal usar los importes estatales de `nacional.md §4`.
+
+### Minimo del contribuyente
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| General | 6.105 |
+| Incremento mayores de 65 anos | +1.265 |
+| Incremento adicional mayores de 75 anos | +1.540 |
+
+### Minimo por descendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Primer descendiente | 2.640 |
+| Segundo descendiente | 2.970 |
+| Tercer descendiente | 4.400 |
+| Cuarto y siguientes | 4.950 |
+| Incremento por descendiente menor de 3 anos | +3.080 |
+
+### Minimo por ascendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Por ascendiente > 65 anos o con discapacidad | 1.265 |
+| Incremento por ascendiente > 75 anos | +1.540 |
+
+### Minimo por discapacidad
+
+| Grado | Cuantia anual (euros) |
+|---|---|
+| 33% - 65% | 3.300 |
+| >= 65% | 9.900 |
+| Incremento por gastos de asistencia (movilidad reducida o discapacidad >= 65%) | +3.300 |
 
 ---
 

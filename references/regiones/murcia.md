@@ -1,7 +1,43 @@
-# IRPF 2025 - Deducciones Autonomicas: Region de Murcia
+# IRPF 2025 - Comunidad Autonoma de la Region de Murcia
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en la Region de Murcia a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Murcia: Decreto Legislativo 1/2010, de 5 de noviembre
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 2 DLeg 1/2010.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0 | 0 | 12.450,00 | 9,50 |
+| 12.450,00 | 1.182,75 | 7.750,00 | 11,20 |
+| 20.200,00 | 2.050,75 | 13.800,00 | 13,30 |
+| 34.000,00 | 3.886,15 | 26.000,00 | 17,90 |
+| 60.000,00 | 8.540,15 | En adelante | 22,50 |
+
+**Tipo marginal maximo autonomico: 22,50%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 22,50% + 24,50% = **47,00%** para rentas superiores a 300.000 EUR.
+
+Murcia tiene una de las escalas mas favorables a rentas medias (tipos por debajo de la estatal en los primeros tramos).
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+La Region de Murcia **no ha aprobado importes propios** del minimo personal y familiar. Aplicar los importes estatales de `nacional.md §4`.
 
 ---
 

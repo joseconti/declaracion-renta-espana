@@ -2,14 +2,17 @@
 name: declaracion-renta-espana
 description: >
   Asistente para la Declaracion de la Renta (IRPF) en Espana, ejercicio 2025.
-  Analiza borradores de la AEAT, identifica deducciones estatales y autonomicas
-  no aplicadas, y formula preguntas para descubrir oportunidades de ahorro fiscal.
-  Usa este skill siempre que el usuario mencione declaracion de la renta, IRPF,
-  borrador de Hacienda, deducciones fiscales en Espana, impuestos en Espana,
-  renta 2025, campaña de la renta, Agencia Tributaria, o cualquier consulta
-  relacionada con la fiscalidad personal en Espana. Tambien cuando el usuario
-  quiera revisar si su gestor ha incluido todas las deducciones posibles,
-  o cuando suba un PDF/documento del borrador de la AEAT.
+  Permite RECALCULAR la cuota completa del IRPF (estatal + autonomico, regimen
+  comun y forales: Navarra, Alava, Bizkaia, Gipuzkoa) y VERIFICAR borradores
+  de la AEAT paso a paso. Identifica deducciones estatales, autonomicas y
+  forales no aplicadas, y formula preguntas para descubrir oportunidades de
+  ahorro fiscal. Usa este skill siempre que el usuario mencione declaracion
+  de la renta, IRPF, borrador de Hacienda, deducciones fiscales en Espana,
+  impuestos en Espana, renta 2025, campaña de la renta, Agencia Tributaria,
+  hacienda foral, o cualquier consulta relacionada con la fiscalidad personal
+  en Espana. Tambien cuando el usuario quiera revisar si su gestor ha incluido
+  todas las deducciones posibles, recalcular su cuota, comparar tributacion en
+  distintas CCAA, o cuando suba un PDF/documento del borrador de la AEAT.
 ---
 
 # Declaracion de la Renta - Espana (IRPF 2025)
@@ -161,9 +164,36 @@ si esta en alguna de estas listas. Es una de las fuentes de ahorro mas desconoci
 Leer el archivo de la comunidad correspondiente y formular las preguntas clave
 que aparecen en la seccion "PREGUNTAS CLAVE PARA EL CONTRIBUYENTE".
 
-### FASE 4: Analisis y recomendaciones
+### FASE 4: Analisis y recomendaciones (incluye verificacion del calculo)
 
-Con toda la informacion recogida, cruzar los datos con:
+Con toda la informacion recogida, **PRIMERO** se debe verificar que el borrador de la AEAT esta correctamente calculado, y **DESPUES** identificar deducciones adicionales aplicables.
+
+#### Paso 4.0 (NUEVO): Verificacion del calculo de la cuota
+
+Antes de buscar deducciones olvidadas, recalcular la cuota completa del IRPF
+siguiendo el flujo de operaciones de `references/nacional.md §13`:
+
+1. **Cargar el archivo nacional** (`nacional.md`) y el archivo de la CCAA
+   (`references/regiones/[ccaa].md`) o el archivo foral correspondiente.
+2. **Reconstruir paso a paso**:
+   - Rendimientos integros → rendimientos netos → base imponible
+   - Reducciones de la base → base liquidable
+   - Aplicar las cuatro escalas (estatal/autonomica × general/ahorro)
+   - Aplicar el minimo personal y familiar (estatal y autonomico, segun CCAA)
+   - Restar deducciones de cuota (estatales + autonomicas)
+   - Restar retenciones y pagos a cuenta
+3. **Comparar el resultado con el borrador**. Si la diferencia es mayor de
+   unos pocos centimos, identificar el paso del flujo en el que se produce
+   la divergencia y avisar al contribuyente.
+4. **Importante**: si el calculo del skill discrepa del borrador, lo MAS
+   probable es que sea el skill quien tenga un dato incorrecto o que el
+   contribuyente no haya proporcionado todos los datos relevantes. NO afirmar
+   que el borrador esta mal sin antes proponer al contribuyente verificarlo
+   con un asesor profesional.
+
+#### Paso 4.1: Identificar deducciones aplicables
+
+Cruzar los datos con:
 
 1. **Deducciones estatales** (`references/nacional.md`, seccion 11):
    - Vivienda habitual (regimen transitorio pre-2013)
@@ -256,26 +286,41 @@ Cerrar SIEMPRE con el recordatorio:
 La informacion fiscal esta distribuida en archivos especializados. Cargar solo
 los que sean necesarios segun el caso:
 
-### Referencia nacional (cargar siempre)
-- `references/nacional.md` - Normativa estatal IRPF 2025 completa: tramos, minimos,
-  deducciones estatales, rendimientos, reducciones, tributacion conjunta/individual
+### Referencia nacional (cargar siempre para regimen comun)
+- `references/nacional.md` - Normativa estatal IRPF 2025 completa: tramos estatales,
+  minimos estatales, deducciones estatales, rendimientos, reducciones, tributacion
+  conjunta/individual, **flujo paso a paso del calculo del IRPF y retenciones (§13)**
 
 ### Referencia regional (cargar segun CCAA del contribuyente)
-- `references/regiones/[comunidad].md` - Deducciones autonomicas especificas
-- `references/regiones/indice-regiones.md` - Tabla resumen de todas las CCAA
+- `references/regiones/[comunidad].md` - Cada archivo regional incluye:
+  **escala autonomica general 2025**, escala autonomica del ahorro, **minimos
+  personales y familiares autonomicos** (cuando son distintos de los estatales)
+  y deducciones autonomicas especificas. Estos datos son IMPRESCINDIBLES para
+  recalcular la cuota.
+- `references/regiones/indice-regiones.md` - Tabla comparativa de marginales
+  maximos y minimos propios de todas las CCAA
 - `references/regiones/preguntas-descubrimiento.md` - Cuestionario por categorias
 
-Archivos regionales disponibles (regimen comun):
+Archivos regionales disponibles (regimen comun, cada uno con escala y minimos propios):
 - andalucia.md, aragon.md, asturias.md, baleares.md, canarias.md,
   cantabria.md, castilla-la-mancha.md, castilla-y-leon.md, cataluna.md,
   extremadura.md, galicia.md, madrid.md, murcia.md, la-rioja.md,
   comunidad-valenciana.md, ceuta.md, melilla.md
 
 ### Territorios forales (cargar si el contribuyente reside en territorio foral)
-- `references/regiones/navarra.md` - IRPF foral completo de Navarra (escalas, minimos, deducciones)
-- `references/regiones/alava.md` - IRPF foral completo de Alava/Araba
-- `references/regiones/bizkaia.md` - IRPF foral de Bizkaia (ejercicio 2024, pendiente 2025)
-- `references/regiones/gipuzkoa.md` - IRPF foral completo de Gipuzkoa
+- `references/regiones/navarra.md` - IRPF foral completo de Navarra 2025: escalas,
+  minimos como deducciones, capital mobiliario/inmobiliario, ganancias patrimoniales,
+  orden de calculo foral
+- `references/regiones/alava.md` - IRPF foral completo de Alava/Araba 2025: escalas,
+  deducciones personales, capital, ganancias, orden de calculo foral
+- `references/regiones/bizkaia.md` - IRPF foral de Bizkaia: **mezcla 2024 + cambios
+  confirmados de NF 2/2025 para 2025**. La Hacienda Foral de Bizkaia es la unica
+  que aun NO ha publicado su Manual Practico para el ejercicio 2025 (a fecha de
+  abril 2026). Los datos 2024 se aplican mientras no se confirmen cambios; los
+  cambios introducidos por la Norma Foral 2/2025 con efectos 1-1-2025 estan
+  marcados claramente en el archivo.
+- `references/regiones/gipuzkoa.md` - IRPF foral completo de Gipuzkoa 2025: escalas,
+  deducciones, capital, ganancias, tipo medio con rentas exentas, orden de calculo
 
 NOTA: Los territorios forales tienen un IRPF completamente independiente del estatal.
 Sus contribuyentes NO presentan declaracion ante la AEAT sino ante sus respectivas
@@ -330,12 +375,45 @@ deducciones propias de ese territorio.
     y deducciones autonomicas que siguen vigentes pero con requisitos restrictivos.
     Aclarar siempre esta distincion cuando el contribuyente pregunte.
 
+11. **Recalcular la cuota completa, no solo deducciones.** El skill puede recalcular
+    integramente la cuota del IRPF siguiendo el flujo paso a paso de `nacional.md §13`
+    para regimen comun y los flujos de cada archivo foral. Si el resultado del calculo
+    discrepa del borrador en mas de unos pocos centimos, advertir al contribuyente y
+    pedir verificacion profesional ANTES de afirmar que el borrador esta mal. Lo mas
+    probable es que el contribuyente no haya proporcionado todos los datos necesarios
+    o que algun dato del skill este desactualizado, no que la AEAT se haya equivocado.
+
+12. **Bizkaia 2025: prudencia adicional.** Bizkaia es la unica Hacienda Foral que aun
+    no ha publicado el Manual Practico para el ejercicio 2025 a fecha de abril de 2026.
+    El archivo `bizkaia.md` mezcla datos validos para 2024 con cambios confirmados de
+    la Norma Foral 2/2025 con efectos 1-1-2025. Avisar siempre al contribuyente de
+    Bizkaia de que las cifras pueden necesitar verificacion adicional cuando la
+    Hacienda Foral publique el manual completo.
+
+13. **Diferencias entre forales y regimen comun en el calculo.** En los cuatro
+    territorios forales (Navarra, Alava, Bizkaia, Gipuzkoa) los minimos personales
+    y familiares se aplican como DEDUCCIONES de la cuota, no como reducciones de la
+    base. Esto cambia significativamente el calculo respecto del regimen comun. No
+    aplicar nunca el flujo del regimen comun a un contribuyente foral ni viceversa.
+
 ---
 
 ## FUENTES OFICIALES
 
-Toda la informacion de referencia procede de:
-- AEAT Manual Practico Renta 2025: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100.html
+Toda la informacion de referencia procede de los documentos oficiales siguientes
+(en total **mas de 1.900 paginas** entre las dos partes del manual de la AEAT
+mas los manuales forales):
+
+**Regimen comun (AEAT):**
+- Manual Practico de Renta 2025 - Parte 1 (1.270 paginas, calculo, escalas, minimos, rendimientos, deducciones estatales): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico de Renta 2025 - Parte 2 (633 paginas, deducciones autonomicas por CCAA): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- AEAT Manual Practico Renta 2025 (HTML): https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100.html
 - AEAT Guia Deducciones Autonomicas 2025: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/guia-deducciones-autonomicas.html
-- BOE Orden HAC/277/2026: https://www.boe.es/buscar/act.php?id=BOE-A-2026-7041
+- BOE Orden HAC/277/2026 (modelo D-100): https://www.boe.es/buscar/act.php?id=BOE-A-2026-7041
 - AEAT Sede Electronica: https://sede.agenciatributaria.gob.es
+
+**Territorios forales:**
+- Hacienda Foral de Navarra: https://www.navarra.es/es/hacienda/renta-y-patrimonio/manuales (Manual Teorico IRPF 2025, actualizado 02-02-2026)
+- Diputacion Foral de Alava: https://www.araba.eus
+- Hacienda Foral de Bizkaia: https://www.bizkaia.eus (Manual Renta y Patrimonio 2024 + Norma Foral 2/2025 + Orden Foral 144/2026; **el manual completo 2025 NO esta publicado todavia a fecha 13 abril 2026**)
+- Diputacion Foral de Gipuzkoa: https://www.gipuzkoa.eus (Manual de Divulgacion IRPF Ejercicio 2025, edicion marzo 2026)

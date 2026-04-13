@@ -1,7 +1,81 @@
-# IRPF 2025 - Deducciones Autonomicas: Canarias
+# IRPF 2025 - Comunidad Autonoma de Canarias
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-canarias.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Canarias a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Canarias: Decreto Legislativo 1/2009, de 21 de abril
+- **Modificacion 2025:** Ley 9/2025, de 23 de diciembre, de Presupuestos Generales de la Comunidad Autonoma de Canarias para el ano 2026 (BOC 29-12-2025), modifica la escala autonomica para el periodo impositivo 2025
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 18 bis DLeg 1/2009, modificado por la Ley 9/2025.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0 | 0 | 13.748 | 9,00 |
+| 13.748 | 1.237,32 | 5.674 | 11,50 |
+| 19.422 | 1.889,83 | 16.502 | 14,00 |
+| 35.924 | 4.200,11 | 21.642 | 18,50 |
+| 57.566 | 8.203,88 | 35.702 | 23,50 |
+| 93.268 | 16.593,85 | 30.477 | 25,00 |
+| 123.745 | 24.213,10 | En adelante | 26,00 |
+
+**Tipo marginal maximo autonomico: 26,00%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 26,00% + 24,50% = **50,50%** para rentas superiores a 300.000 EUR.
+
+> **IMPORTANTE — Canarias y el borrador AEAT:** Las deducciones autonomicas de Canarias frecuentemente NO aparecen automaticamente en el borrador de Renta WEB. Verificar manualmente cada deduccion aplicable con el contribuyente.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: art. 18 quater DLeg 1/2009.
+
+Canarias ha aprobado importes propios del minimo personal y familiar (aproximadamente un 1% por encima de los estatales). Aplicar a efectos del gravamen autonomico (Cuota 4).
+
+### Minimo del contribuyente
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| General | 5.606 |
+| Incremento mayores de 65 anos | +1.162 |
+| Incremento adicional mayores de 75 anos | +1.414 |
+
+### Minimo por descendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Primer descendiente | 2.424 |
+| Segundo descendiente | 2.727 |
+| Tercer descendiente | 4.040 |
+| Cuarto y siguientes | 4.545 |
+| Incremento por descendiente menor de 3 anos | +2.828 |
+
+### Minimo por ascendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Por ascendiente > 65 anos o con discapacidad | 1.162 |
+| Incremento por ascendiente > 75 anos | +1.414 |
+
+### Minimo por discapacidad
+
+| Grado | Cuantia anual (euros) |
+|---|---|
+| 33% - 65% | 3.030 |
+| >= 65% | 9.090 |
+| Incremento por ayuda de terceros o movilidad reducida | +3.030 |
 
 ---
 

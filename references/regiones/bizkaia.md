@@ -1,8 +1,34 @@
-# IRPF 2024 - Bizkaia (Regimen Foral Vasco)
+# IRPF 2025 - Bizkaia (Territorio Historico - Hacienda Foral)
 
-NOTA IMPORTANTE: Este documento se basa en el manual de Renta y Patrimonio 2024 de la Diputacion Foral de Bizkaia (finalizacion de redaccion: 1 de marzo de 2025). Los datos corresponden al ejercicio 2024. La version del manual 2025 aun no habia sido publicada en el momento de esta extraccion. Aunque es probable que la mayoria de los datos se mantengan, es recomendable verificar los importes y porcentajes para el ejercicio 2025 en la sede electronica oficial.
+> **AVISO IMPORTANTE — Estado de la informacion (13 abril 2026):** A fecha de redaccion de este archivo, la **Hacienda Foral de Bizkaia NO ha publicado todavia el Manual de Renta y Patrimonio 2025**. Es la unica de las cuatro Haciendas Forales que sigue sin publicar el manual del ejercicio. La campana de la Renta de Bizkaia 2025 esta regulada por la **Orden Foral 144/2026**, de 17 de marzo, y se desarrolla del 15 de abril al 30 de junio de 2026.
+>
+> **Que SI esta publicado para el ejercicio 2025:**
+> - **Norma Foral 2/2025**, de 9 de abril, por la que se aprueban medidas para la revision del sistema fiscal del Territorio Historico de Bizkaia (BOB 22-04-2025), que modifica varios articulos de la NF 13/2013 con efectos 1-1-2025.
+> - **Resolucion 2/2025** de 7 de enero (criterios generales).
+> - **Tablas de retenciones 2025** (publicadas por la Diputacion Foral, sin cambios respecto de 2024 al margen de la deflactacion del 2,5%).
+> - **Decreto Foral** modificando el Reglamento del IRPF (DF 47/2014).
+>
+> **Estructura general 2025:** la **escala general** y la **escala del ahorro** del IRPF de Bizkaia para 2025 NO han sido modificadas por la NF 2/2025 — siguen siendo las mismas que en 2024 (las cifras de las secciones 1 y 2 de este archivo son validas tambien para 2025 salvo confirmacion en contra cuando se publique el manual oficial). La nueva escala progresiva del ahorro de 8 tramos (19%-28%) aprobada por la NF 2/2025 entra en vigor en **2026**, NO en 2025.
+>
+> **Cambios SI vigentes para 2025** (incorporados a las secciones correspondientes mas abajo):
+> - Indemnizacion por despido: limite exento elevado a 183.600 EUR (antes 180.000).
+> - Bonificacion por rendimientos del trabajo (art. 23 NF 13/2013): completamente reformulada (8.000 EUR maximo en lugar de 4.650 EUR).
+> - Reduccion por inicio de actividad para mujeres: nueva, 15% (antes solo 10% general).
+> - Bonificacion en arrendamiento de vivienda habitual: 30% (antes 20%); 70% en zonas tensionadas y programas Bizigune/ASAP.
+> - Aportaciones a sistemas de prevision social (EPSV, planes empleo): limite conjunto temporal de 12.000 EUR para 2025.
+> - Reduccion por tributacion conjunta: 4.800 EUR (clarificada).
+> - Vehiculos electricos: ampliacion de los limites de deducibilidad y valoracion al 14% (en lugar del 20%) para retribucion en especie.
+> - Criptoactivos: nuevo regimen FIFO para criptoactivos fungibles, con regla anti-lavado de 2 meses.
+>
+> **TODO:** Cuando la Hacienda Foral publique el Manual 2025 oficial, reemplazar este archivo por la version completa del ejercicio 2025. Mientras tanto, esta version mezcla datos validos para 2025 (los marcados explicitamente) con datos vigentes en 2024 que no han sido modificados por NF 2/2025 (el resto). Verificar siempre cifras y porcentajes con la sede oficial: https://www.bizkaia.eus
 
-Fuente oficial: Manual de Renta y Patrimonio 2024 - Diputacion Foral de Bizkaia - Departamento de Hacienda y Finanzas.
+**Fuentes oficiales:**
+- Hacienda Foral de Bizkaia: https://www.bizkaia.eus
+- Manual de Renta y Patrimonio 2024 (ultimo publicado): https://www.bizkaia.eus/documents/d/departamento-hacienda-y-finanzas/manual-renta-y-patrimonio-2024
+- Norma Foral 2/2025, de 9 de abril (BOB 22-04-2025)
+- Norma Foral 13/2013, de 5 de diciembre, del IRPF (texto consolidado)
+- DF 47/2014 (Reglamento del IRPF)
+- Orden Foral 144/2026 (campana 2025)
 
 ---
 
@@ -87,19 +113,29 @@ La base liquidable del ahorro se grava a tipos proporcionales:
 
 ## 3. BONIFICACIONES POR RENDIMIENTOS DEL TRABAJO
 
-Se aplican a la diferencia positiva entre rendimientos integrales y gastos deducibles:
+> **CAMBIO 2025 (NF 2/2025, art. 23 NF 13/2013):** El art. 23 ha sido completamente reformulado. Los importes para el ejercicio 2025 son SIGNIFICATIVAMENTE mas altos que en 2024.
 
-### Supuesto General
+Se aplican a la diferencia positiva entre rendimientos integros del trabajo y gastos deducibles (cotizaciones SS, etc.).
 
-| Diferencia (D) = RI - GD | Bonificacion (euros) |
+### Supuesto General — EJERCICIO 2025 (NF 2/2025)
+
+| Diferencia (D) = RI - GD | Bonificacion 2025 (euros) |
 |---|---|
-| D ≤ 7.500,00 | 4.650,00 |
-| 7.500,01 < D ≤ 15.000,00 | 4.650 - [0,22 x (D - 7.500)] |
-| D > 15.000,00 | 3.000,00 |
+| D ≤ 14.800,00 | **8.000,00** |
+| 14.800,01 < D ≤ 23.000,00 | 8.000 - [0,6098 x (D - 14.800)] |
+| D > 23.000,00 | **3.000,00** |
 
-**Excepciones a la bonificacion de 4.650 euros:**
+**Comparativa con 2024 (a efectos de referencia historica):**
+
+| Diferencia | Bonificacion 2024 |
+|---|---|
+| ≤ 7.500 | 4.650 |
+| 7.500-15.000 | 4.650 - 0,22×(D-7.500) |
+| > 15.000 | 3.000 |
+
+**Excepciones:**
 - Si rentas no procedentes de trabajo exceden 7.500 euros: bonificacion = 3.000 euros
-- Si diferencia > 15.000 euros: bonificacion = 3.000 euros
+- Si diferencia > 23.000 euros (2025) / 15.000 euros (2024): bonificacion = 3.000 euros
 
 ### Supuestos Especiales de Discapacidad
 
@@ -406,25 +442,27 @@ Aunque cumplan los limites anteriores, TIENEN OBLIGACION DE DECLARAR si:
 
 ---
 
-## 9. PLAZOS Y PRESENTACION (Ejercicio 2024)
+## 9. PLAZOS Y PRESENTACION (Ejercicio 2025 - Campana 2026)
 
 ### Plazo para presentar la autoliquidacion
 
+Regulada por la **Orden Foral 144/2026**, de 17 de marzo, por la que se establecen el procedimiento y los plazos para la presentacion de las autoliquidaciones del IRPF correspondientes al periodo impositivo 2025.
+
 | Modalidad | Fecha Inicial | Fecha Final |
 |---|---|---|
-| Propuesta de autoliquidacion | 01/04/2025 | 02/07/2025 |
-| Presentacion telematica (sede electronica) | 01/04/2025 | 02/07/2025 |
-| Presentacion en oficinas de Hacienda | 01/04/2025 | 02/07/2025 |
+| Propuesta de autoliquidacion (BizkaiBai) | 15/04/2026 | 30/06/2026 |
+| Presentacion telematica (sede electronica) | 15/04/2026 | 30/06/2026 |
+| Presentacion en oficinas de Hacienda | 15/04/2026 | 30/06/2026 |
 
 ### Ingreso de la cuota
 
 **Modalidades de pago:**
 
-1. **Pago unico:** El 3 de julio de 2025
+1. **Pago unico:** 1 de julio de 2026
 
 2. **Fraccionamiento en dos cuotas:**
-   - Primera cuota (60% de la deuda): 3 de julio de 2025
-   - Segunda cuota (40% restante): 10 de noviembre de 2025
+   - Primera cuota (60% de la deuda): 1 de julio de 2026
+   - Segunda cuota (40% restante): 10 de noviembre de 2026
 
 3. **Medios de pago:**
    - Domiciliacion bancaria
@@ -468,6 +506,160 @@ La Diputacion Foral de Bizkaia proporciona "borradores" de autoliquidacion antes
 5. Bizkaia es una de las tres provincias vascas con regimen foral independiente. Este IRPF es completamente diferente al regimen estatal de IRPF.
 
 ---
+
+---
+
+## 12. RENDIMIENTOS DEL CAPITAL INMOBILIARIO (Bizkaia)
+
+Normativa: art. 32 NF 13/2013 y art. 35-36 DF 47/2014, modificados por NF 2/2025 con efectos 2025.
+
+### Bonificacion por arrendamiento de viviendas (NUEVO 2025)
+
+| Tipo de arrendamiento | Bonificacion 2025 | Comentarios |
+|---|---|---|
+| Arrendamiento de inmueble distinto de vivienda | 0% | Sin bonificacion. Gastos deducibles segun reglas generales. |
+| Vivienda habitual del arrendatario (regla general) | **20%** sobre rendimiento neto + intereses | Cambio: antes era unica regla |
+| Vivienda regulada por Ley 29/1994 (vivienda habitual) | **30%** sobre rendimiento neto + intereses + primas seguro de credito (max. 300 EUR) | NUEVO 2025 |
+| Zona de mercado tensionado (con renta limitada a indices de referencia) | **70%** | NUEVO 2025 |
+| Programa Bizigune o ASAP | **70%** | NUEVO 2025 |
+
+**Limite comun:** los gastos deducibles no pueden generar rendimiento neto negativo por inmueble.
+
+### Capital inmobiliario con periodo de generacion > 2 anos (art. 30.3 NF)
+
+| Periodo de generacion | Porcentaje de integracion |
+|---|---|
+| 2 a 5 anos | 60% |
+| > 5 anos | 50% |
+| Limite anual de aplicacion del porcentaje reducido | 300.000 EUR (exceso al 100%) |
+
+### Imputacion de rentas inmobiliarias
+
+Bizkaia tiene su propia regulacion sobre rentas inmobiliarias imputadas. Aplicable a inmuebles urbanos no afectos a actividades economicas, distintos de la vivienda habitual, no arrendados:
+
+- 2% del valor catastral (1,1% si el valor catastral ha sido revisado en los 10 ultimos periodos)
+- Aplicable a la base imponible general
+
+---
+
+## 13. RENDIMIENTOS DEL CAPITAL MOBILIARIO (Bizkaia)
+
+Normativa: arts. 33-43 NF 13/2013 y arts. 39-44 DF 47/2014.
+
+### Rendimientos integrados en la base del ahorro
+
+- Dividendos y participaciones en fondos propios de entidades
+- Intereses y otros rendimientos por cesion a terceros de capitales propios (cuentas, depositos, bonos, obligaciones)
+- Rendimientos procedentes de operaciones de capitalizacion y contratos de seguro de vida o invalidez (PIAS, Unit Linked, rentas vitalicias)
+- Rendimientos procedentes de la propiedad intelectual cuando el contribuyente no es el autor
+
+### Rendimientos integrados en la base general
+
+- Rendimientos del subarrendamiento de inmuebles
+- Rendimientos por el arrendamiento de bienes muebles y negocios
+- Rendimientos por la propiedad intelectual cuando el contribuyente es el autor (en regimen de actividades profesionales puede ser actividad economica)
+
+### Bonificacion por subarrendamiento de vivienda habitual (NUEVO 2025)
+
+- **30%** del rendimiento neto (antes 20%) — art. 39.2 NF / art. 43.2 DF
+
+### Gastos deducibles
+
+- Gastos de administracion y custodia de valores
+- Comisiones de corretaje en transmisiones (cuando proceda)
+- NO son deducibles los gastos de gestion discrecional
+
+---
+
+## 14. GANANCIAS Y PERDIDAS PATRIMONIALES (Bizkaia)
+
+Normativa: arts. 41-49 NF 13/2013, modificados por NF 2/2025.
+
+### Calculo basico
+
+Ganancia o perdida patrimonial = Valor de transmision - Valor de adquisicion
+
+- Valor de transmision: precio de venta - gastos y tributos inherentes a la transmision soportados por el transmitente
+- Valor de adquisicion: precio de compra + inversiones y mejoras + gastos y tributos inherentes a la adquisicion
+
+### Compensacion en la base del ahorro
+
+1. Las ganancias y perdidas se integran y compensan entre si dentro de la base del ahorro.
+2. Si el saldo es positivo, se compensa con el saldo negativo (limite 25%) procedente de los rendimientos del capital mobiliario integrados en la base del ahorro.
+3. Si el saldo es negativo, se puede compensar en los **4 anos siguientes** con saldos positivos del mismo concepto.
+
+### Criptoactivos (NUEVO 2025 - Art. 47.1.p NF 2/2025)
+
+- La transmision a titulo oneroso de criptoactivos fungibles genera ganancia o perdida patrimonial integrada en la base del ahorro.
+- **Metodo FIFO** obligatorio: los criptoactivos del mismo tipo adquiridos primero se consideran transmitidos primero.
+- **Regla anti-lavado:** las perdidas por transmision de criptoactivos no son computables si el contribuyente ha adquirido criptoactivos del mismo tipo dentro de los **2 meses anteriores o posteriores** a la transmision (art. 43.i NUEVO).
+
+### Exenciones por reinversion
+
+- Reinversion en vivienda habitual: ganancia exenta si el importe se reinvierte en otra vivienda habitual en el plazo de 2 anos.
+- Mayores de 65 anos por la transmision de su vivienda habitual: exencion total (sin obligacion de reinversion).
+- Empresas de nueva o reciente creacion (Business Angels): exencion por reinversion en otra empresa.
+
+---
+
+## 15. ORDEN DE CALCULO FORAL (Bizkaia)
+
+Flujo completo del IRPF foral de Bizkaia:
+
+```
+[1] RENDIMIENTOS INTEGROS
+    Trabajo + Capital mobiliario + Capital inmobiliario + Actividades + Ganancias
+        |
+        v (gastos deducibles + bonificaciones especificas, art. 23 trabajo)
+
+[2] RENDIMIENTOS NETOS
+        |
+        v (integracion: porcentajes 60%/50% para periodos > 2 anos, limite 300.000 EUR)
+
+[3] BASE IMPONIBLE GENERAL  ||  BASE IMPONIBLE DEL AHORRO
+        |                           |
+        v (reducciones: EPSV/planes pensiones, pensiones compensatorias, conjunta)
+
+[4] BASE LIQUIDABLE GENERAL  ||  BASE LIQUIDABLE DEL AHORRO
+        |                           |
+        v                           v
+
+[5] CUOTA INTEGRA GENERAL = aplicar escala general (sec.1) a BLG
+    CUOTA INTEGRA AHORRO  = aplicar escala del ahorro (sec.2) a BLA
+
+[6] CUOTA INTEGRA TOTAL = [5] general + [5] ahorro
+        |
+        v (minoraciones obligatorias antes de deducciones)
+
+[7] - Minoracion obligatoria de 1.583 EUR por autoliquidacion
+    - Minoracion extraordinaria por alza de precios (200 EUR si BI <= 30.000)
+        |
+        v
+
+[8] CUOTA INTEGRA MINORADA
+        |
+        v (deducciones de la cuota - sec.4-6 de este archivo)
+
+[9] - Deducciones familiares y personales (descendientes, ascendientes, edad, discapacidad)
+    - Deducciones por vivienda habitual (alquiler 20%/30%/70%, adquisicion 15-20%)
+    - Deducciones empresariales (PYMES, fondos capital riesgo, economia circular)
+    - Deducciones por donativos
+    - Deducciones por aportaciones a sistemas de prevision social (max. 5.000 EUR)
+        |
+        v
+
+[10] CUOTA LIQUIDA
+        |
+        v (restar retenciones y pagos a cuenta)
+
+[11] CUOTA DIFERENCIAL = a ingresar o a devolver
+```
+
+**Diferencias clave con el regimen comun (estatal):**
+- No hay desdoblamiento estatal/autonomico: una sola escala foral.
+- La escala general arranca al 23% (no al 9,50% como en el regimen comun) — refleja que Bizkaia incorpora la totalidad de la carga fiscal del IRPF en una unica administracion.
+- El minimo personal y familiar NO se resta de la base: se aplica como deduccion en la cuota.
+- La minoracion obligatoria de 1.583 EUR es especifica del IRPF foral.
 
 ---
 

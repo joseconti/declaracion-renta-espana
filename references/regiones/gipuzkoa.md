@@ -585,6 +585,144 @@ ATENCION: Para acogerse al fraccionamiento en dos veces, la autoliquidacion debe
 
 ---
 
+## 10 BIS. Rendimientos del Capital Inmobiliario (Gipuzkoa)
+
+Normativa: Norma Foral 3/2014, arts. 30-37.
+
+### Bonificaciones por arrendamiento de vivienda
+
+| Tipo | Bonificacion |
+|---|---|
+| Arrendamiento de vivienda habitual del arrendatario (regla general) | 20% del rendimiento neto |
+| Arrendamiento a menores de 36 anos / familia numerosa / discapacidad | 30% |
+| Bizigune o programas equivalentes | 70% |
+
+### Gastos deducibles
+
+Igual que el regimen comun: intereses, conservacion, IBI, comunidad, seguros, amortizacion 3% sobre coste/valor catastral excluido suelo. Limite: los intereses + conservacion no pueden generar rendimiento neto negativo.
+
+### Rendimientos con periodo de generacion > 2 anos
+
+- 2-5 anos: integracion al 60%
+- > 5 anos: integracion al 50%
+- Limite anual: 300.000 EUR
+
+### Imputacion de rentas inmobiliarias
+
+- 2% del valor catastral (1,1% si revisado en los 10 ultimos anos)
+
+---
+
+## 10 TER. Rendimientos del Capital Mobiliario (Gipuzkoa)
+
+Normativa: Norma Foral 3/2014, arts. 38-45.
+
+### Rendimientos integrados en la base del ahorro
+
+- Dividendos y participaciones en beneficios
+- Intereses (cuentas, depositos, bonos, obligaciones, Letras del Tesoro)
+- Rendimientos de operaciones de capitalizacion y seguros (PIAS, Unit Linked, rentas vitalicias)
+- Cesion a terceros de capitales propios
+- Propiedad intelectual cuando el contribuyente NO es el autor
+
+### Rendimientos integrados en la base general
+
+- Subarrendamiento
+- Cesion del uso de propiedad intelectual cuando el contribuyente es el autor
+
+### Gastos deducibles
+
+- Gastos de administracion y custodia (no los de gestion discrecional)
+
+---
+
+## 10 QUATER. Ganancias y Perdidas Patrimoniales (Gipuzkoa)
+
+Normativa: Norma Foral 3/2014, arts. 46-58.
+
+### Calculo basico
+
+Ganancia o perdida = Valor de transmision - Valor de adquisicion
+
+### Regla especial para valores < 10.000 EUR (alternativa)
+
+Gipuzkoa permite, para participaciones de empresas con valor de mercado inferior a 10.000 EUR, calcular la ganancia patrimonial al **3% del precio de transmision** (regla alternativa simplificada).
+
+### Compensacion en la base del ahorro
+
+1. Las ganancias y perdidas patrimoniales del ahorro se integran y compensan entre si.
+2. El saldo negativo se compensa con el saldo positivo de los rendimientos del capital mobiliario hasta un maximo del **25%**.
+3. El resto se traslada a los **4 anos siguientes**.
+
+### Tipo medio de gravamen con rentas exentas con progresividad
+
+Cuando el contribuyente percibe rentas exentas con progresividad (por ejemplo, por convenios internacionales de doble imposicion), el calculo del tipo medio de gravamen sigue este procedimiento:
+
+1. Calcular la cuota integra teorica como si las rentas exentas tambien tributaran (suma de base liquidable general + rentas exentas).
+2. Calcular el tipo medio de gravamen: tipo medio = (cuota integra teorica / suma de bases) x 100, con dos decimales sin redondeo.
+3. Aplicar el tipo medio a la base liquidable general realmente gravada (sin rentas exentas).
+
+### Exenciones por reinversion
+
+- Vivienda habitual: ganancia exenta si el importe se reinvierte en otra vivienda habitual en el plazo de 2 anos.
+- Mayores de 65 anos: exencion total por la transmision de su vivienda habitual.
+
+---
+
+## 10 QUINQUIES. Orden de Calculo Foral (Gipuzkoa)
+
+```
+[1] RENDIMIENTOS INTEGROS
+        |
+        v (gastos deducibles + bonificaciones especificas: bonificacion trabajo 8.000 EUR)
+
+[2] RENDIMIENTOS NETOS
+        |
+        v (porcentajes de integracion 60%/50% para periodos > 2 anos)
+
+[3] BASE IMPONIBLE GENERAL  ||  BASE IMPONIBLE DEL AHORRO
+        |                            |
+        v (reducciones de la base: EPSV, planes pensiones, conjunta 5% BI)
+
+[4] BASE LIQUIDABLE GENERAL  ||  BASE LIQUIDABLE DEL AHORRO
+        |                            |
+        v                            v
+
+[5] CUOTA INTEGRA GENERAL = aplicar escala general (sec.1) a BLG
+    Si hay rentas exentas con progresividad: aplicar tipo medio sobre BLG efectiva.
+    CUOTA INTEGRA AHORRO  = aplicar escala del ahorro (sec.2) a BLA
+        |
+        v
+
+[6] CUOTA INTEGRA TOTAL
+        |
+        v (minoracion obligatoria de 1.583 EUR por autoliquidacion)
+
+[7] CUOTA INTEGRA MINORADA
+        |
+        v (deducciones de la cuota - sec.3 y siguientes)
+
+[8] - Deducciones personales y familiares (descendientes 668-2.151,
+      ascendientes 321, edad +65/+75, viudedad 2.150, discapacidad)
+    - Deducciones por vivienda (alquiler 20-30%, adquisicion 23%)
+    - Deducciones empresariales (PYMES, I+D 30%, eficiencia energetica)
+    - Deducciones por aportaciones a EPSV (max. 5.000-7.500 EUR)
+    - Deducciones por donativos
+    - Deduccion por vehiculos ecologicos
+        |
+        v
+
+[9] CUOTA LIQUIDA
+        |
+        v (restar retenciones y pagos a cuenta)
+
+[10] CUOTA DIFERENCIAL = a ingresar o a devolver
+```
+
+**Diferencia clave con el regimen comun:** Los minimos personales y familiares se aplican como DEDUCCIONES de la cuota (sec.3), no como reducciones de la base. Igual que en Bizkaia y Alava.
+
+---
+
 ## 11. Fuentes Oficiales
 
 **Documento Principal**:

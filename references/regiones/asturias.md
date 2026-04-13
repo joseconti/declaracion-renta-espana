@@ -1,7 +1,80 @@
-# IRPF 2025 - Deducciones Autonomicas: Principado de Asturias
+# IRPF 2025 - Comunidad Autonoma del Principado de Asturias
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-principado-asturias.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Asturias a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Asturias: Decreto Legislativo 2/2014, de 22 de octubre
+- **Modificacion 2025:** Ley del Principado de Asturias 3/2025, de 19 de noviembre (BOPA 2-12-2025), modifica la escala autonomica para el periodo impositivo 2025
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 2 DLeg 2/2014, modificado por la Ley 3/2025.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 12.450,00 | 9,00 |
+| 12.450,00 | 1.120,50 | 5.257,20 | 12,00 |
+| 17.707,20 | 1.751,36 | 15.300,00 | 14,00 |
+| 33.007,20 | 3.893,36 | 20.400,00 | 19,20 |
+| 53.407,20 | 7.810,16 | 16.592,80 | 21,50 |
+| 70.000,00 | 11.377,62 | 20.000,00 | 22,50 |
+| 90.000,00 | 15.877,62 | 85.000,00 | 25,00 |
+| 175.000,00 | 37.127,62 | En adelante | 26,00 |
+
+**Tipo marginal maximo autonomico: 26,00%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 26,00% + 24,50% = **50,50%** para rentas superiores a 300.000 EUR. Asturias tiene uno de los marginales maximos mas altos del regimen comun.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: arts. 2 bis, 2 ter, 2 quater y 2 quinquies DLeg 2/2014.
+
+Asturias ha aprobado importes propios del minimo personal y familiar (aproximadamente un 10% por encima de los estatales). Aplicar a efectos del gravamen autonomico (Cuota 4); para el gravamen estatal usar los importes estatales de `nacional.md §4`.
+
+### Minimo del contribuyente
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| General | 6.105 |
+| Incremento mayores de 65 anos | +1.265 |
+| Incremento adicional mayores de 75 anos | +1.540 |
+
+### Minimo por descendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Primer descendiente | 2.640 |
+| Segundo descendiente | 2.970 |
+| Tercer descendiente | 4.400 |
+| Cuarto y siguientes | 4.950 |
+| Incremento por descendiente menor de 3 anos | +3.080 |
+
+### Minimo por ascendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Por ascendiente > 65 anos o con discapacidad | 1.265 |
+| Incremento por ascendiente > 75 anos | +1.540 |
+
+### Minimo por discapacidad
+
+| Grado | Cuantia anual (euros) |
+|---|---|
+| 33% - 65% | 3.300 |
+| >= 65% | 9.900 |
+| Incremento por ayuda de terceros o movilidad reducida | +3.300 |
 
 ---
 

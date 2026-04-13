@@ -1,7 +1,57 @@
-# IRPF 2025 - Deducciones Autonomicas: La Rioja
+# IRPF 2025 - Comunidad Autonoma de La Rioja
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en La Rioja a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- La Rioja: Ley 10/2017, de 27 de octubre
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 31 Ley 10/2017, modificado por Ley 13/2023, de 28 de diciembre.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 12.450,00 | 8,00 |
+| 12.450,00 | 996,00 | 7.750,00 | 10,60 |
+| 20.200,00 | 1.817,50 | 15.000,00 | 13,60 |
+| 35.200,00 | 3.857,50 | 4.800,00 | 17,80 |
+| 40.000,00 | 4.711,90 | 10.000,00 | 18,30 |
+| 50.000,00 | 6.541,90 | 10.000,00 | 19,00 |
+| 60.000,00 | 8.441,90 | 60.000,00 | 24,50 |
+| 120.000,00 | 23.141,90 | En adelante | 27,00 |
+
+**Tipo marginal maximo autonomico: 27,00%** (uno de los mas altos de Espana en regimen comun, junto con Comunitat Valenciana).
+
+**Tipo marginal maximo total (estatal + autonomico):** 27,00% + 24,50% = **51,50%** para rentas superiores a 300.000 EUR.
+
+La Rioja tiene una escala con primer tramo al 8% (favorece a rentas bajas) pero marginal alto desde 60.000 EUR.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: art. 31 bis Ley 10/2017.
+
+La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad de descendientes**. Para el resto de elementos del minimo (contribuyente, ascendientes, descendientes generales) aplica los importes estatales de `nacional.md §4`.
+
+### Minimo por discapacidad de descendientes (importe propio)
+
+| Grado | Cuantia anual (euros) |
+|---|---|
+| 33% - 65% | 3.300 |
+| >= 65% | 9.900 |
+
+> Importante: la cuantia del concepto "gastos de asistencia" (incremento por ayuda de terceros o movilidad reducida) NO se modifica respecto del estatal, por lo que el incremento por cada descendiente con grado >= 65% sigue siendo de 3.000 EUR (art. 60.2 LIRPF).
 
 ---
 

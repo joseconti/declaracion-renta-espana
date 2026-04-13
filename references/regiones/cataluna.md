@@ -1,7 +1,48 @@
-# IRPF 2025 - Deducciones Autonomicas: Cataluna
+# IRPF 2025 - Comunidad Autonoma de Cataluna
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Cataluna a 31/12/2025. Incluye escala autonomica general, escala del ahorro, minimos autonomicos y deducciones autonomicas.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT), capitulos 14 y 15: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Codigo tributario de Catalunya: Decreto Legislativo 1/2024, de 12 de marzo
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 611-1 Decreto Legislativo 1/2024, de 12 de marzo, libro sexto del Codigo tributario de Catalunya.
+
+Aplicable al 50% de la base liquidable general de los contribuyentes residentes en Cataluna. La otra mitad tributa por la escala estatal de `nacional.md §2`.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 12.500,00 | 9,50 |
+| 12.500,00 | 1.187,50 | 9.500,00 | 12,50 |
+| 22.000,00 | 2.375,00 | 11.000,00 | 16,00 |
+| 33.000,00 | 4.135,00 | 20.000,00 | 19,00 |
+| 53.000,00 | 7.935,00 | 37.000,00 | 21,50 |
+| 90.000,00 | 15.890,00 | 30.000,00 | 23,50 |
+| 120.000,00 | 22.940,00 | 55.000,00 | 24,50 |
+| 175.000,00 | 36.415,00 | En adelante | 25,50 |
+
+**Tipo marginal maximo autonomico: 25,50%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 25,50% + 24,50% = **50,00%** para rentas superiores a 300.000 EUR. Cataluna tiene uno de los marginales mas altos del regimen comun (junto con Comunitat Valenciana y La Rioja).
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+La escala autonomica del ahorro de Cataluna es **identica a la estatal** (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: art. 611-2 DLeg 1/2024.
+
+Cataluna ha aprobado su regulacion propia pero fijando los mismos importes que la Ley del IRPF (arts. 57-60 LIRPF). A efectos practicos, **los contribuyentes catalanes aplican los minimos estatales de `nacional.md §4`** tanto para el gravamen estatal (Cuota 3) como para el autonomico (Cuota 4).
 
 ---
 

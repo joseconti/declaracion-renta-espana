@@ -398,6 +398,97 @@ La Hacienda Foral de Navarra puede remitir propuestas de autoliquidación que:
 
 ---
 
+## 9 BIS. RENDIMIENTOS DEL CAPITAL INMOBILIARIO (Navarra)
+
+Normativa: Texto Refundido del IRPF de Navarra (TRIRPF), arts. 25-30.
+
+### Calculo del rendimiento neto
+
+Rendimiento neto = Rendimiento integro - Gastos deducibles
+
+**Gastos deducibles:**
+- Intereses y demas gastos de financiacion del capital invertido en la adquisicion o mejora del bien
+- Tributos no estatales (IBI), tasas (recogida de basuras) y contribuciones especiales no derivadas de la actividad sancionadora
+- Gastos de conservacion y reparacion (no de mejora ni ampliacion)
+- Primas de contratos de seguro
+- Gastos de administracion, vigilancia, porteria
+- Amortizacion: 3% sobre el mayor de (valor catastral excluido suelo, coste de adquisicion excluido suelo)
+- Saldos de dudoso cobro (con condiciones)
+
+**Limite:** los intereses y gastos de conservacion no pueden hacer que el rendimiento neto sea negativo (limitacion al 100% de los rendimientos integros).
+
+### Bonificacion por arrendamiento de vivienda habitual del arrendatario
+
+- **40%** del rendimiento neto positivo (Navarra mantiene una bonificacion superior al regimen comun)
+- Aplicable cuando el arrendamiento se destine a vivienda habitual del arrendatario y se cumplan los requisitos del Texto Refundido
+
+### Rendimientos con periodo de generacion > 2 anos
+
+- Integracion al 60% (limite anual de aplicacion 300.000 EUR)
+
+### Imputacion de rentas inmobiliarias
+
+- 2% del valor catastral (1,1% si revisado en los 10 ultimos anos)
+- Aplicable a inmuebles urbanos no afectos a actividad economica, distintos de la vivienda habitual y no arrendados
+
+---
+
+## 9 TER. RENDIMIENTOS DEL CAPITAL MOBILIARIO (Navarra)
+
+Normativa: TRIRPF, arts. 28-32.
+
+### Rendimientos integrados en la base del ahorro (parte especial)
+
+- Dividendos y participaciones en beneficios
+- Intereses de cuentas, depositos, bonos y obligaciones
+- Rendimientos derivados de operaciones de capitalizacion y contratos de seguro de vida o invalidez (PIAS, Unit Linked, rentas vitalicias)
+- Rendimientos de la propiedad intelectual cuando el contribuyente no es el autor
+- Cesion a terceros de capitales propios
+
+### Rendimientos integrados en la base general
+
+- Subarrendamiento de inmuebles
+- Cesion del derecho de uso o explotacion de la propiedad intelectual o industrial cuando el contribuyente sea el autor
+
+### Gastos deducibles
+
+- Gastos de administracion y custodia (no los de gestion discrecional ni de inversion)
+- Comisiones de corretaje en transmisiones
+
+---
+
+## 9 QUATER. GANANCIAS Y PERDIDAS PATRIMONIALES (Navarra)
+
+Normativa: TRIRPF, arts. 39-49.
+
+### Calculo basico
+
+Ganancia o perdida = Valor de transmision - Valor de adquisicion
+
+- Valor de transmision: precio - gastos y tributos inherentes soportados por el transmitente
+- Valor de adquisicion: precio + inversiones y mejoras + gastos y tributos inherentes a la adquisicion
+
+### Coeficientes de actualizacion (regimen transitorio inmuebles < 1994)
+
+Navarra mantiene los coeficientes de actualizacion eliminados a nivel estatal en 2015. Los inmuebles adquiridos antes del 31-12-1994 conservan el regimen transitorio con reduccion del 11,11% por cada ano de tenencia anterior a 31-12-1996.
+
+### Compensacion en la base del ahorro (parte especial)
+
+1. Ganancias y perdidas patrimoniales del ahorro se integran y compensan entre si.
+2. Si el saldo es negativo, se compensa con el saldo positivo de los rendimientos del capital mobiliario integrados en la base del ahorro hasta un maximo del **25%**.
+3. El saldo negativo restante se compensa en los **4 anos siguientes**.
+
+### Exenciones por reinversion
+
+- Vivienda habitual: ganancia exenta si el importe se reinvierte en otra vivienda habitual en el plazo de 2 anos.
+- Mayores de 65 anos: exencion total por la transmision de su vivienda habitual.
+
+### Criptomonedas
+
+Navarra aplica las reglas generales del TRIRPF: las ganancias o perdidas patrimoniales por transmision de criptomonedas se integran en la base del ahorro. No hay regulacion especifica equivalente al regimen FIFO de Bizkaia.
+
+---
+
 ## 10. SUPUESTOS ESPECIALES
 
 ### 10.1. Pago de Anualidades por Alimentos a Hijos
@@ -476,6 +567,62 @@ En convenios internacionales de doble imposición, las rentas exentas se tienen 
 - Tipo marginal: el correspondiente al último tramo de escala
 - Tipo medio: cuota íntegra x 100 / base liquidable general
 - Para 25.240 euros de base: tipo medio 22,70%, marginal 28%
+
+---
+
+## ORDEN DE CALCULO FORAL (Navarra)
+
+Flujo del IRPF foral de Navarra para 2025 (incluye la peculiaridad de que los minimos personales y familiares se aplican como DEDUCCIONES de la cuota, no como reducciones de la base):
+
+```
+[1] RENDIMIENTOS INTEGROS
+        |
+        v (gastos deducibles especificos por tipo de rendimiento)
+        v (reduccion general del trabajo del 1.400 EUR para rentas <= 17.500 EUR)
+        v (porcentajes de integracion para periodos > 2 anos: 60%/50%)
+
+[2] RENDIMIENTOS NETOS REDUCIDOS
+        |
+        v
+
+[3] BASE IMPONIBLE GENERAL  ||  BASE IMPONIBLE DEL AHORRO (parte especial)
+        |                            |
+        v (reducciones de la base: aportaciones a EPSV, planes de pensiones, conjunta)
+
+[4] BASE LIQUIDABLE GENERAL  ||  BASE LIQUIDABLE DEL AHORRO
+        |                            |
+        v                            v
+
+[5] CUOTA INTEGRA GENERAL = aplicar escala general (sec.1) a BLG
+    CUOTA INTEGRA AHORRO  = aplicar escala del ahorro (sec.2) a BLA
+        |
+        v
+
+[6] CUOTA INTEGRA TOTAL
+        |
+        v (deducciones de la cuota)
+
+[7] - DEDUCCIONES POR MINIMO PERSONAL Y FAMILIAR (sec.3)
+        Estas son deducciones, NO reducciones de la base. Es la peculiaridad
+        principal del IRPF foral navarro respecto del regimen comun.
+    - Deducciones personales y familiares
+    - Deduccion por alquiler de vivienda habitual (15%, max. 7.000 EUR / 15.000 EUR conjunta)
+    - Deduccion por adquisicion de vivienda (regimen transitorio)
+    - Deduccion por inversion en energias renovables (15%)
+    - Deduccion por vehiculos electricos
+    - Deduccion por aportaciones sindicales (25% de la base, max. limite)
+    - Deduccion por donativos (25%-75% segun entidad)
+        |
+        v
+
+[8] CUOTA LIQUIDA
+        |
+        v (restar retenciones y pagos a cuenta)
+
+[9] CUOTA DIFERENCIAL = a ingresar o a devolver
+```
+
+**Diferencia clave con el regimen comun:** En Navarra los minimos personales y familiares NO se restan de la base imponible para calcular la cuota. Se aplican como DEDUCCIONES sobre la cuota integra. Esto cambia significativamente el calculo y la interpretacion de las cifras de los apartados 3 (minimos) y 7 (deducciones de cuota) de este archivo.
 
 ---
 
