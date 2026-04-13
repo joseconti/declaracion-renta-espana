@@ -1,71 +1,21 @@
-# IRPF 2025 - Comunidad Autonoma de La Rioja
+# IRPF 2025 - Deducciones Autonómicas: La Rioja
 
-Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en La Rioja a 31/12/2025.
-
-Fuentes oficiales:
-- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
-- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
-- La Rioja: Ley 10/2017, de 27 de octubre
-
----
-
-## ESCALA AUTONOMICA GENERAL 2025
-
-Normativa: art. 31 Ley 10/2017, modificado por Ley 13/2023, de 28 de diciembre.
-
-| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
-|---|---|---|---|
-| 0,00 | 0,00 | 12.450,00 | 8,00 |
-| 12.450,00 | 996,00 | 7.750,00 | 10,60 |
-| 20.200,00 | 1.817,50 | 15.000,00 | 13,60 |
-| 35.200,00 | 3.857,50 | 4.800,00 | 17,80 |
-| 40.000,00 | 4.711,90 | 10.000,00 | 18,30 |
-| 50.000,00 | 6.541,90 | 10.000,00 | 19,00 |
-| 60.000,00 | 8.441,90 | 60.000,00 | 24,50 |
-| 120.000,00 | 23.141,90 | En adelante | 27,00 |
-
-**Tipo marginal maximo autonomico: 27,00%** (uno de los mas altos de Espana en regimen comun, junto con Comunitat Valenciana).
-
-**Tipo marginal maximo total (estatal + autonomico):** 27,00% + 24,50% = **51,50%** para rentas superiores a 300.000 EUR.
-
-La Rioja tiene una escala con primer tramo al 8% (favorece a rentas bajas) pero marginal alto desde 60.000 EUR.
-
----
-
-## ESCALA AUTONOMICA DEL AHORRO 2025
-
-Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
-
----
-
-## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
-
-Normativa: art. 31 bis Ley 10/2017.
-
-La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad de descendientes**. Para el resto de elementos del minimo (contribuyente, ascendientes, descendientes generales) aplica los importes estatales de `nacional.md §4`.
-
-### Minimo por discapacidad de descendientes (importe propio)
-
-| Grado | Cuantia anual (euros) |
-|---|---|
-| 33% - 65% | 3.300 |
-| >= 65% | 9.900 |
-
-> Importante: la cuantia del concepto "gastos de asistencia" (incremento por ayuda de terceros o movilidad reducida) NO se modifica respecto del estatal, por lo que el incremento por cada descendiente con grado >= 65% sigue siendo de 3.000 EUR (art. 60.2 LIRPF).
+Fuente oficial: Manual Práctico de Renta 2025, Parte 2 - Deducciones Autonómicas (AEAT)
+https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonómicas.html
 
 ---
 
 ## DEDUCCIONES
 
-### 1. Por nacimiento y adopcion de hijos
+### 1. Por nacimiento y adopción de hijos
 
-- **Cuantia/Porcentaje:** 
+- **Cuantía/Porcentaje:** 
   - 600 euros (primer hijo)
   - 750 euros (segundo hijo)
   - 900 euros (tercero y sucesivos)
-  - 60 euros adicionales por cada hijo (partos/adopciones multiples)
+  - 60 euros adicionales por cada hijo (partos/adopciónes multiples)
 - **Base maxima:** Por hijo nacido/adoptado
-- **Limite:** Aplicacion en ano de nacimiento/adopcion
+- **Límite:** Aplicacion en año de nacimiento/adopción
 - **Requisitos:**
   - Hijo nacido o adoptado durante el periodo impositivo
   - Convivencia con contribuyente a 31 diciembre
@@ -75,98 +25,98 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 2. Por la adquisicion, construccion o rehabilitacion de vivienda habitual en pequenos municipios de La Rioja
+### 2. Por la adquisición, construccion o rehabilitación de vivienda habitual en pequeños municipios de La Rioja
 
-- **Cuantia/Porcentaje:** 5% de cantidades satisfechas
+- **Cuantía/Porcentaje:** 5% de cantidades satisfechas
 - **Base maxima:** 452 euros anuales
-- **Limite inversion:** 9.040 euros
+- **Límite inversión:** 9.040 euros
 - **Requisitos:**
   - Residencia habitual en La Rioja
-  - Adquisicion/construccion/rehabilitacion desde 1 enero 2017
+  - Adquisicion/construccion/rehabilitación desde 1 enero 2017
   - Vivienda habitual (requisitos IRPF 31 diciembre 2012)
-  - Situacion en pequenos municipios listados (ver relacion oficial)
-  - Aumento patrimonial minimo igual a inversion
+  - Situacion en pequeños municipios listados (ver relacion oficial)
+  - Aumento patrimonial mínimo igual a inversión
   - Codigo municipio en casilla [1067] anexo B.7
 - **Incompatibilidades:** Incompatible con "Para paliar subida intereses prestamos vivienda"
 - **Novedad 2025:** Ninguna
 
-### 3. Por gastos escuelas infantiles para hijos 0-3 anos en pequenos municipios
+### 3. Por gastos escuelas infantiles para hijos 0-3 años en pequeños municipios
 
-- **Cuantia/Porcentaje:** 30% de gastos en escuelas/centros infantiles o personal cuidado
+- **Cuantía/Porcentaje:** 30% de gastos en escuelas/centros infantiles o personal cuidado
 - **Base maxima:** 600 euros por menor
-- **Limite:** Gasto total efectivo no subvencionado
+- **Límite:** Gasto total efectivo no subvencionado
 - **Requisitos:**
-  - Residencia habitual en pequenos municipios de La Rioja
-  - Hijo menor de 3 anos conviviendo
-  - Derecho a minimo por descendientes
+  - Residencia habitual en pequeños municipios de La Rioja
+  - Hijo menor de 3 años conviviendo
+  - Derecho a mínimo por descendientes
   - Ambos progenitores con actividad laboral fuera domicilio
   - Escuela/centro infantil autorizado
   - Gastos: matricula, asistencia, alimentacion (excluidos si rendimientos exentos)
-  - Prorrateo entre progenitores si ambos aplican minimo descendientes
+  - Prorrateo entre progenitores si ambos aplican mínimo descendientes
   - Fallecimiento: 50% c/progenitor hasta fallecimiento, luego 100% superviviente
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
 ### 4. Por cada menor en regimen de acogimiento familiar
 
-- **Cuantia/Porcentaje:** Segun numero de menores acogidos
+- **Cuantía/Porcentaje:** Segun numero de menores acogidos
 - **Base maxima:** Por menor acogido
-- **Limite:** Normativa autonomica
+- **Límite:** Normativa autonómica
 - **Requisitos:**
   - Acogimiento familiar formalizado
   - Menores conviviendo con contribuyente
   - Documentacion acreditativa de acogimiento (urgencia, temporal o permanente)
-  - Guarda con fines de adopcion
+  - Guarda con fines de adopción
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 5. Por cada hijo de 0 a 3 anos en pequenos municipios (residencia/permanencia)
+### 5. Por cada hijo de 0 a 3 años en pequeños municipios (residencia/permanencia)
 
-- **Cuantia/Porcentaje:** Deduccion por permanencia de hijo en municipio pequeno
-- **Base maxima:** Por hijo de 0 a 3 anos
-- **Limite:** Periodo de permanencia minimo 3 anos
+- **Cuantía/Porcentaje:** Deduccion por permanencia de hijo en municipio pequeno
+- **Base maxima:** Por hijo de 0 a 3 años
+- **Límite:** Periodo de permanencia mínimo 3 años
 - **Requisitos:**
-  - Contribuyente con residencia habitual en pequenos municipios de La Rioja
-  - Hijo de 0 a 3 anos
+  - Contribuyente con residencia habitual en pequeños municipios de La Rioja
+  - Hijo de 0 a 3 años
   - Traslado de residencia durante periodo impositivo
-  - Mantenimiento de residencia durante plazo minimo 3 anos consecutivos
+  - Mantenimiento de residencia durante plazo mínimo 3 años consecutivos
   - Empadronamiento acreditativo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 6. Por cada hijo de 0 a 3 anos en escuelas infantiles (cualquier municipio)
+### 6. Por cada hijo de 0 a 3 años en escuelas infantiles (cualquier municipio)
 
-- **Cuantia/Porcentaje:** Segun gastos en educacion infantil
-- **Base maxima:** Normativa autonomica
-- **Limite:** Gasto total efectivo
+- **Cuantía/Porcentaje:** Segun gastos en educacion infantil
+- **Base maxima:** Normativa autonómica
+- **Límite:** Gasto total efectivo
 - **Requisitos:**
-  - Hijo menor de 3 anos
+  - Hijo menor de 3 años
   - Escuela infantil o centro de educacion infantil de cualquier municipio de La Rioja
   - Gastos de matricula, asistencia, alimentacion
   - Documentacion de gastos (facturas)
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 7. Por adquisicion de vehiculos electricos nuevos
+### 7. Por adquisición de vehículos eléctricos nuevos
 
-- **Cuantia/Porcentaje:** 15% del precio de adquisicion
+- **Cuantía/Porcentaje:** 15% del precio de adquisición
 - **Base maxima:** 3.000 euros anuales (maximo deducible)
-- **Limite:** Precio vehiculo <= 50.000 euros
+- **Límite:** Precio vehículo <= 50.000 euros
 - **Requisitos:**
-  - Vehiculo electrico nuevo (enchufable, bateria, combustible)
+  - Vehículo eléctrico nuevo (enchufable, bateria, combustible)
   - Primera compra por contribuyente en el ejercicio
   - Matriculacion en La Rioja
   - Documentacion de compra (factura concesionario)
   - No uso profesional/actividad economica
   - Solo comprador que aparece en documentacion compra
-- **Incompatibilidades:** Solo una deduccion por persona ano
-- **Novedad 2025:** Ninguna (mantiene regulacion)
+- **Incompatibilidades:** Solo una deducción por persona año
+- **Novedad 2025:** Ninguna (mantiene regulación)
 
 ### 8. Para fomentar la fijacion de poblacion ocupada en el medio rural
 
-- **Cuantia/Porcentaje:** Deduccion por permanencia en zonas rurales
-- **Base maxima:** Normativa autonomica
-- **Limite:** Segun criterios ruralidad
+- **Cuantía/Porcentaje:** Deduccion por permanencia en zonas rurales
+- **Base maxima:** Normativa autonómica
+- **Límite:** Segun criterios ruralidad
 - **Requisitos:**
   - Residente habitual en medio rural de La Rioja
   - Actividad laboral documentada
@@ -177,58 +127,58 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 
 ### 9. Por acceso a Internet para los jovenes emancipados
 
-- **Cuantia/Porcentaje:** 30% del importe gastos anuales; 40% si monoparental o municipio pequeno
-- **Base maxima:** Limite segun base liquidable
-- **Limite:** Base liquidable general <= 18.030 euros (individual) o <= 30.050 euros (conjunta) (dato del Manual AEAT 2025)
+- **Cuantía/Porcentaje:** 30% del importe gastos anuales; 40% si monoparental o municipio pequeno
+- **Base maxima:** Límite segun base liquidable
+- **Límite:** Base liquidable general <= 18.030 euros (individual) o <= 30.050 euros (conjunta) (dato del Manual AEAT 2025)
 - **Requisitos:**
   - Joven emancipado residente La Rioja
-  - Edad <= 36 anos (o especificamente <= 35 anos segun normativa)
+  - Edad <= 36 años (o especificamente <= 35 años segun normativa)
   - Municipio pequeno de La Rioja (ver lista anexo)
   - Contratacion servicio Internet/banda ancha para vivienda
   - Documentacion de gastos (recibos, facturas)
-  - Permanencia minima 3 anos en municipio
+  - Permanencia minima 3 años en municipio
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Municipios elegibles en Anexo 1. Cuantias en regulacion autonomica
+- **NOTA:** Municipios elegibles en Anexo 1. Cuantías en regulación autonómica
 
 ### 10. Por suministro de luz y gas de uso domestico para los jovenes emancipados
 
-- **Cuantia/Porcentaje:** 15% del importe gastos anuales
-- **Base maxima:** Limite segun base liquidable
-- **Limite:** Base liquidable general <= 18.030 euros (individual) o <= 30.050 euros (conjunta) (dato del Manual AEAT 2025)
+- **Cuantía/Porcentaje:** 15% del importe gastos anuales
+- **Base maxima:** Límite segun base liquidable
+- **Límite:** Base liquidable general <= 18.030 euros (individual) o <= 30.050 euros (conjunta) (dato del Manual AEAT 2025)
 - **Requisitos:**
-  - Joven emancipado menor de 36 anos
+  - Joven emancipado menor de 36 años
   - Residente La Rioja en municipio pequeno (ver anexo)
-  - Gastos suministros basicos (luz, gas natural, butano)
+  - Gastos suministros basicos (luz, gas natural, butaño)
   - Vivienda habitual/permanencia principal
   - Documentacion de pagos (recibos servicios)
-  - Permanencia minima 3 anos en municipio
+  - Permanencia minima 3 años en municipio
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Municipios elegibles en Anexo 1. Cuantias en regulacion autonomica
+- **NOTA:** Municipios elegibles en Anexo 1. Cuantías en regulación autonómica
 
-### 11. Por inversion en vivienda habitual de jovenes menores de 36 anos
+### 11. Por inversión en vivienda habitual de jovenes menores de 36 años
 
-- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
 - **Base maxima:** Consultar normativa especifica La Rioja
-- **Limite:** Por vivienda primera adquisicion (no incluida en Manual AEAT)
+- **Límite:** Por vivienda primera adquisición (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Contribuyente menor de 36 anos (en fecha devengo)
+  - Contribuyente menor de 36 años (en fecha devengo)
   - Primera vivienda habitual
   - Adquisicion, construccion o reforma vivienda
   - Destinada a residencia principal
   - Documentacion compra/construccion (contrato, factura, escritura)
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias en regulacion autonomica La Rioja. Compatibilidad con deduccion estatal
+- **NOTA:** Cuantías en regulación autonómica La Rioja. Compatibilidad con deducción estatal
 
-### 12. Por arrendamiento vivienda habitual para menores de 36 anos
+### 12. Por arrendamiento vivienda habitual para menores de 36 años
 
-- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
 - **Base maxima:** Consultar normativa especifica La Rioja
-- **Limite:** Normativa autonomica La Rioja (no incluida en Manual AEAT)
+- **Límite:** Normativa autonómica La Rioja (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Contribuyente menor de 36 anos (en fecha devengo)
+  - Contribuyente menor de 36 años (en fecha devengo)
   - Arrendamiento vivienda habitual en La Rioja
   - Contrato de arrendamiento formalizado
   - Renta de mercado razonable
@@ -236,30 +186,30 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
   - Municipio pequeno (ver anexo) o cualquier municipio segun normativa
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias en regulacion autonomica de La Rioja
+- **NOTA:** Cuantías en regulación autonómica de La Rioja
 
-### 13. Por adquisicion de bicicletas de pedaleo no asistido
+### 13. Por adquisición de bicicletas de pedaleo no asistido
 
-- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025 (existe deduccion por bicicletas electricas)
+- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025 (existe deducción por bicicletas electricas)
 - **Base maxima:** 300 euros (bicicletas electricas/vehículos L); 225 euros (bicicletas pedaleo asistido)
-- **Limite:** Por bicicleta adquirida (dato del Manual AEAT 2025)
+- **Límite:** Por bicicleta adquirida (dato del Manual AEAT 2025)
 - **Requisitos:**
   - Bicicleta no motorizada (pedaleo manual)
   - Adquisicion nueva durante ejercicio
   - Documentacion de compra (factura concesionario)
   - Uso en La Rioja
-  - Destino transporte urbano/actividad
+  - Destino transporte urbaño/actividad
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias en regulacion autonomica La Rioja. Medida movilidad sostenible
+- **NOTA:** Cuantías en regulación autonómica La Rioja. Medida movilidad sostenible
 
-### 14. Por las cantidades invertidas en obras de rehabilitacion de la vivienda habitual
+### 14. Por las cantidades invertidas en obras de rehabilitación de la vivienda habitual
 
-- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
 - **Base maxima:** Consultar normativa especifica La Rioja
-- **Limite:** Gasto total rehabilitacion (no incluida en Manual AEAT)
+- **Límite:** Gasto total rehabilitación (no incluida en Manual AEAT)
 - **Requisitos:**
-  - Obras de rehabilitacion en vivienda habitual
+  - Obras de rehabilitación en vivienda habitual
   - Mejora estructura, instalaciones, accesibilidad, eficiencia
   - Proyecto tecnico de obra
   - Documentacion de costes (presupuestos, facturas)
@@ -267,13 +217,13 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
   - Vivienda principal del contribuyente
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias en regulacion autonomica de La Rioja. Compatibilidad con deduccion estatal
+- **NOTA:** Cuantías en regulación autonómica de La Rioja. Compatibilidad con deducción estatal
 
-### 15. Por cantidades invertidas en adquisicion o construccion de vivienda habitual para jovenes
+### 15. Por cantidades invertidas en adquisición o construccion de vivienda habitual para jovenes
 
-- **Cuantia/Porcentaje:** Segun coste adquisicion/construccion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Cantidad invertida
+- **Cuantía/Porcentaje:** Segun coste adquisición/construccion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Cantidad invertida
 - **Requisitos:**
   - Contribuyente joven (criterios edad)
   - Primera vivienda habitual
@@ -282,11 +232,11 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 16. Por adquisicion o rehabilitacion de segunda vivienda en el medio rural
+### 16. Por adquisición o rehabilitación de segunda vivienda en el medio rural
 
-- **Cuantia/Porcentaje:** Segun coste adquisicion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por vivienda rural
+- **Cuantía/Porcentaje:** Segun coste adquisición
+- **Base maxima:** Normativa autonómica
+- **Límite:** Por vivienda rural
 - **Requisitos:**
   - Vivienda en zona rural de La Rioja
   - Documentacion de compra
@@ -296,9 +246,9 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 
 ### 17. Por obras de adecuacion de vivienda habitual en La Rioja para personas con discapacidad
 
-- **Cuantia/Porcentaje:** Segun gastos adaptacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Costes adaptacion
+- **Cuantía/Porcentaje:** Segun gastos adaptacion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Costes adaptacion
 - **Requisitos:**
   - Discapacidad reconocida >= 33%
   - Obras adaptacion vivienda
@@ -309,9 +259,9 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 
 ### 18. Por donaciones irrevocables, puras y simples en materia de mecenazgo
 
-- **Cuantia/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Donacion realizada
+- **Cuantía/Porcentaje:** Segun cuantia donacion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Donacion realizada
 - **Requisitos:**
   - Donaciones irrevocables y puras
   - Entidades receptoras acreditadas en mecenazgo
@@ -319,13 +269,13 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 19. Por cantidades destinadas a investigacion, conservacion, restauracion, rehabilitacion o consolidacion de bienes que formen parte del patrimonio historico de La Rioja
+### 19. Por cantidades destinadas a investigacion, conservacion, restauracion, rehabilitación o consolidacion de bienes que formen parte del patrimonio histórico de La Rioja
 
-- **Cuantia/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Cantidad destinada
+- **Cuantía/Porcentaje:** Segun cuantia donacion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Cantidad destinada
 - **Requisitos:**
-  - Donaciones a patrimonio historico
+  - Donaciones a patrimonio histórico
   - Bienes de interes cultural
   - Entidades receptoras acreditadas
   - Documentacion donacion
@@ -334,9 +284,9 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 
 ### 20. Para fomentar el ejercicio fisico y la practica deportiva
 
-- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
 - **Base maxima:** Consultar normativa especifica La Rioja
-- **Limite:** Normativa autonomica La Rioja (no incluida en Manual AEAT)
+- **Límite:** Normativa autonómica La Rioja (no incluida en Manual AEAT)
 - **Requisitos:**
   - Gastos en actividades deporte/ejercicio fisico
   - Centros autorizados/registrados (clubs, gimnasios, escuelas)
@@ -345,13 +295,13 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
   - Beneficiarios: miembros familia
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias y centros elegibles en regulacion autonomica de La Rioja
+- **NOTA:** Cuantías y centros elegibles en regulación autonómica de La Rioja
 
 ### 21. Destinada a los enfermos de ELA (Esclerosis Lateral Amiotrofica)
 
-- **Cuantia/Porcentaje:** Segun programa de ayudas
-- **Base maxima:** Normativa autonomica
-- **Limite:** Ayudas recibidas
+- **Cuantía/Porcentaje:** Segun programa de ayudas
+- **Base maxima:** Normativa autonómica
+- **Límite:** Ayudas recibidas
 - **Requisitos:**
   - Diagnostico ELA acreditado
   - Residencia La Rioja
@@ -361,9 +311,9 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 
 ### 22. De cuotas satisfechas a organizaciones profesionales agrarias
 
-- **Cuantia/Porcentaje:** Segun aportaciones
-- **Base maxima:** Normativa autonomica
-- **Limite:** Aportaciones realizadas
+- **Cuantía/Porcentaje:** Segun aportaciones
+- **Base maxima:** Normativa autonómica
+- **Límite:** Aportaciones realizadas
 - **Requisitos:**
   - Afiliacion a organizaciones profesionales agrarias
   - Documentacion afiliacion
@@ -373,9 +323,9 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 
 ### 23. Por enfermedad celiaca diagnosticada
 
-- **Cuantia/Porcentaje:** 250 euros
+- **Cuantía/Porcentaje:** 250 euros
 - **Base maxima:** 250 euros anuales
-- **Limite:** Compensacion sobrecoste alimentos sin gluten
+- **Límite:** Compensacion sobrecoste alimentos sin gluten
 - **Requisitos:**
   - Diagnostico celiaco acreditado
   - Residencia en La Rioja
@@ -383,35 +333,35 @@ La Rioja ha aprobado importes propios **unicamente del minimo por discapacidad d
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Nueva en 2025
 
-### 24. Para paliar la subida de los intereses de los prestamos hipotecarios destinados a la adquisicion de vivienda habitual
+### 24. Para paliar la subida de los intereses de los prestamos hipotecarios destinados a la adquisición de vivienda habitual
 
-- **Cuantia/Porcentaje:** Segun intereses pagados
-- **Base maxima:** Normativa autonomica
-- **Limite:** Cantidades intereses
+- **Cuantía/Porcentaje:** Segun intereses pagados
+- **Base maxima:** Normativa autonómica
+- **Límite:** Cantidades intereses
 - **Requisitos:**
   - Hipoteca vivienda habitual
   - Documentacion prestamo
   - Recibos pago intereses
-- **Incompatibilidades:** Incompatible con "Por adquisicion, construccion o rehabilitacion en pequenos municipios"
+- **Incompatibilidades:** Incompatible con "Por adquisición, construccion o rehabilitación en pequeños municipios"
 - **Novedad 2025:** Ninguna
 
-### 25. Por adquisicion o rehabilitacion de segunda vivienda en el medio rural
+### 25. Por adquisición o rehabilitación de segunda vivienda en el medio rural
 
-- **Cuantia/Porcentaje:** Segun coste adquisicion/rehabilitacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por vivienda rural
+- **Cuantía/Porcentaje:** Segun coste adquisición/rehabilitación
+- **Base maxima:** Normativa autonómica
+- **Límite:** Por vivienda rural
 - **Requisitos:**
   - Vivienda en zona rural de La Rioja
   - Municipios elegibles listados (ver ANEXO 2)
-  - Documentacion de compra/rehabilitacion
+  - Documentacion de compra/rehabilitación
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
 ---
 
-## ANEXO 1: Municipios con derecho a deducciones de pequenos municipios
+## ANEXO 1: Municipios con derecho a deducciónes de pequeños municipios
 
-Los siguientes municipios tienen derecho a las deducciones por: vivienda habitual en pequenos municipios, escuelas infantiles en pequenos municipios, hijos 0-3 anos en pequenos municipios, acceso a Internet jovenes emancipados, suministro luz y gas jovenes emancipados, y arrendamiento vivienda menores de 36 anos.
+Los siguientes municipios tienen derecho a las deducciónes por: vivienda habitual en pequeños municipios, escuelas infantiles en pequeños municipios, hijos 0-3 años en pequeños municipios, acceso a Internet jovenes emancipados, suministro luz y gas jovenes emancipados, y arrendamiento vivienda menores de 36 años.
 
 Municipios elegibles (orden alfabetico):
 
@@ -423,7 +373,7 @@ Municipios elegibles (orden alfabetico):
 - Aleson
 - Almarza de Cameros
 - Anguciana
-- Anguiano
+- Anguiaño
 - Arenzana de Abajo
 - Arenzana de Arriba
 - Arnedillo
@@ -432,7 +382,7 @@ Municipios elegibles (orden alfabetico):
 - Azofra
 - Badaran
 - Banares
-- Banos de Rioja
+- Baños de Rioja
 - Berceo
 - Bergasa
 - Bergasilla Bajera
@@ -468,7 +418,7 @@ Municipios elegibles (orden alfabetico):
 - Galilea
 - Gallinero de Cameros
 - Gimileo
-- Granon
+- Grañon
 - Gravalos
 - Herce
 - Herramelluri
@@ -477,7 +427,7 @@ Municipios elegibles (orden alfabetico):
 - Hormilleja
 - Hornillos de Cameros
 - Hornos de Moncalvillo
-- Huercanos
+- Huercaños
 - Igea
 - Jalon de Cameros
 - Laguna de Cameros
@@ -490,7 +440,7 @@ Municipios elegibles (orden alfabetico):
 - Mansilla de la Sierra
 - Manzanares de Rioja
 - Matute
-- Medrano
+- Medraño
 - Munilla
 - Muro de Aguas
 - Muro en Cameros
@@ -507,7 +457,7 @@ Municipios elegibles (orden alfabetico):
 - Pedroso
 - Pinillos
 - Pradillo
-- Prejano
+- Prejaño
 - Rabanera
 - Rasillo de Cameros (El)
 - Redal (El)
@@ -524,7 +474,7 @@ Municipios elegibles (orden alfabetico):
 - Santurde de Rioja
 - Santurdejo
 - Sojuela
-- Sorzano
+- Sorzaño
 - Sotes
 - Soto en Cameros
 - Terroba
@@ -540,7 +490,7 @@ Municipios elegibles (orden alfabetico):
 - Tudelilla
 - Urunuela
 - Valdemadera
-- Valganon
+- Valgañon
 - Ventosa
 - Ventrosa
 - Viguera
@@ -563,9 +513,9 @@ Municipios elegibles (orden alfabetico):
 
 ---
 
-## ANEXO 2: Municipios con derecho a deduccion por segunda vivienda en el medio rural
+## ANEXO 2: Municipios con derecho a deducción por segunda vivienda en el medio rural
 
-Los siguientes municipios tienen derecho a la deduccion por adquisicion o rehabilitacion de segunda vivienda en el medio rural. Incluyen todos los municipios del ANEXO 1 mas los siguientes municipios adicionales.
+Los siguientes municipios tienen derecho a la deducción por adquisición o rehabilitación de segunda vivienda en el medio rural. Incluyen todos los municipios del ANEXO 1 mas los siguientes municipios adicionales.
 
 Municipios elegibles (orden alfabetico):
 
@@ -578,7 +528,7 @@ Municipios elegibles (orden alfabetico):
 - Aleson
 - Almarza de Cameros
 - Anguciana
-- Anguiano
+- Anguiaño
 - Arenzana de Abajo
 - Arenzana de Arriba
 - Arnedillo
@@ -587,8 +537,8 @@ Municipios elegibles (orden alfabetico):
 - Azofra
 - Badaran
 - Banares
-- Banos de Rio Tobia
-- Banos de Rioja
+- Baños de Rio Tobia
+- Baños de Rioja
 - Berceo
 - Bergasa
 - Bergasa y Carbonera
@@ -627,7 +577,7 @@ Municipios elegibles (orden alfabetico):
 - Galilea
 - Gallinero de Cameros
 - Gimileo
-- Granon
+- Grañon
 - Gravalos
 - Herce
 - Herramelluri
@@ -636,7 +586,7 @@ Municipios elegibles (orden alfabetico):
 - Hormilleja
 - Hornillos de Cameros
 - Hornos de Moncalvillo
-- Huercanos
+- Huercaños
 - Igea
 - Jalon de Cameros
 - Laguna de Cameros
@@ -649,7 +599,7 @@ Municipios elegibles (orden alfabetico):
 - Mansilla de la Sierra
 - Manzanares de Rioja
 - Matute
-- Medrano
+- Medraño
 - Munilla
 - Muro de Aguas
 - Muro en Cameros
@@ -668,7 +618,7 @@ Municipios elegibles (orden alfabetico):
 - Pinillos
 - Pradejon
 - Pradillo
-- Prejano
+- Prejaño
 - Rabanera
 - Rasillo de Cameros (El)
 - Redal (El)
@@ -688,7 +638,7 @@ Municipios elegibles (orden alfabetico):
 - Santurde de Rioja
 - Santurdejo
 - Sojuela
-- Sorzano
+- Sorzaño
 - Sotes
 - Soto en Cameros
 - Terroba
@@ -704,7 +654,7 @@ Municipios elegibles (orden alfabetico):
 - Tudelilla
 - Urunuela
 - Valdemadera
-- Valganon
+- Valgañon
 - Ventosa
 - Ventrosa
 - Viguera
@@ -728,7 +678,7 @@ Municipios elegibles (orden alfabetico):
 ---
 
 ## DATOS DE IMPACTO
-- Beneficiarios estimados: aproximadamente 95.000 contribuyentes riojanos
+- Beneficiarios estimados: aproximadamente 95.000 contribuyentes riojaños
 
 ---
 
@@ -736,20 +686,20 @@ Municipios elegibles (orden alfabetico):
 
 1. Vives en un municipio pequeno de La Rioja?
 2. Has tenido o adoptado hijos en 2025?
-3. Tienes hijos menores de 3 anos en escuelas infantiles en pequenos municipios?
+3. Tienes hijos menores de 3 años en escuelas infantiles en pequeños municipios?
 4. Eres celiaco diagnosticado y resides en La Rioja?
-5. Has comprado un vehiculo electrico en 2025?
-6. Tienes menos de 36 anos y pagas alquiler o hipoteca?
+5. Has comprado un vehículo eléctrico en 2025?
+6. Tienes menos de 36 años y pagas alquiler o hipoteca?
 7. Eres joven emancipado con gastos de Internet o suministros basicos?
 8. Has comprado una bicicleta no motorizada?
-9. Has realizado donaciones a patrimonio historico riojano?
+9. Has realizado donaciones a patrimonio histórico riojaño?
 10. Tienes discapacidad reconocida y necesitas adaptaciones de vivienda?
 11. Tienes hijos en acogimiento familiar?
-12. Has invertido en rehabilitacion de tu vivienda habitual?
+12. Has invertido en rehabilitación de tu vivienda habitual?
 
 ---
 
 ## FUENTES
 
-- Manual Practico Renta 2025 Parte 2 Deducciones Autonomicas: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
-- AEAT La Rioja: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-rioja.html
+- Manual Práctico Renta 2025 Parte 2 Deducciones Autonómicas: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonómicas.html
+- AEAT La Rioja: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciónes-autonómicas/comunidad-autonoma-rioja.html

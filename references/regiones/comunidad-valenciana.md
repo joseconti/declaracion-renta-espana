@@ -1,128 +1,51 @@
-# IRPF 2025 - Comunitat Valenciana
+# IRPF 2025 - Deducciones Autonómicas: Comunitat Valenciana
 
-Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en la Comunitat Valenciana a 31/12/2025.
-
-Fuentes oficiales:
-- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
-- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
-- Comunitat Valenciana: Ley 13/1997, de 23 de diciembre
-
----
-
-## ESCALA AUTONOMICA GENERAL 2025
-
-Normativa: art. 2 Ley 13/1997, de 23 de diciembre, por la que se regula el tramo autonomico del IRPF y restantes tributos cedidos.
-
-| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
-|---|---|---|---|
-| 0 | 0 | 12.000 | 9,00 |
-| 12.000 | 1.080,00 | 10.000 | 12,00 |
-| 22.000 | 2.280,00 | 10.000 | 15,00 |
-| 32.000 | 3.780,00 | 10.000 | 17,50 |
-| 42.000 | 5.530,00 | 10.000 | 20,00 |
-| 52.000 | 7.530,00 | 10.000 | 22,50 |
-| 62.000 | 9.780,00 | 10.000 | 25,00 |
-| 72.000 | 12.280,00 | 28.000 | 26,50 |
-| 100.000 | 19.700,00 | 50.000 | 27,50 |
-| 150.000 | 33.450,00 | 50.000 | 28,50 |
-| 200.000 | 47.700,00 | En adelante | 29,50 |
-
-**Tipo marginal maximo autonomico: 29,50%** — **el mas alto de Espana en regimen comun**.
-
-**Tipo marginal maximo total (estatal + autonomico):** 29,50% + 24,50% = **54,00%** para rentas superiores a 300.000 EUR. Es la presion fiscal maxima del IRPF en regimen comun.
-
-La Comunitat Valenciana es la CCAA con mas tramos autonomicos (11 tramos), con una progresividad muy acentuada.
-
----
-
-## ESCALA AUTONOMICA DEL AHORRO 2025
-
-Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
-
----
-
-## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
-
-Normativa: art. 2 bis Ley 13/1997.
-
-La Comunitat Valenciana ha aprobado importes propios del minimo personal y familiar (aproximadamente un 10% por encima de los estatales). Aplicar a efectos del gravamen autonomico (Cuota 4); para el gravamen estatal usar los importes estatales de `nacional.md §4`.
-
-### Minimo del contribuyente
-
-| Concepto | Cuantia anual (euros) |
-|---|---|
-| General | 6.105 |
-| Incremento mayores de 65 anos | +1.265 |
-| Incremento adicional mayores de 75 anos | +1.540 |
-
-### Minimo por descendientes
-
-| Concepto | Cuantia anual (euros) |
-|---|---|
-| Primer descendiente | 2.640 |
-| Segundo descendiente | 2.970 |
-| Tercer descendiente | 4.400 |
-| Cuarto y siguientes | 4.950 |
-| Incremento por descendiente menor de 3 anos | +3.080 |
-
-### Minimo por ascendientes
-
-| Concepto | Cuantia anual (euros) |
-|---|---|
-| Por ascendiente > 65 anos o con discapacidad | 1.265 |
-| Incremento por ascendiente > 75 anos | +1.540 |
-
-### Minimo por discapacidad
-
-| Grado | Cuantia anual (euros) |
-|---|---|
-| 33% - 65% | 3.300 |
-| >= 65% | 9.900 |
-| Incremento por gastos de asistencia (movilidad reducida o discapacidad >= 65%) | +3.300 |
+Fuente oficial: Manual Práctico de Renta 2025, Parte 2 - Deducciones Autonómicas (AEAT)
+https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonómicas.html
 
 ---
 
 ## DEDUCCIONES (41 deductions complete)
 
-### 1. Por nacimiento, adopcion, delegacion guarda o acogimiento familiar
+### 1. Por nacimiento, adopción, delegacion guarda o acogimiento familiar
 
-- **Cuantia/Porcentaje:** 
+- **Cuantía/Porcentaje:** 
   - Supuesto A (fallecidos antes 1/6/2025): 300 euros por hijo/acogido
   - Supuesto B (resto): 600 euros (1er), 750 euros (2do), 900 euros (3er y ss.)
 - **Base maxima:** Por hijo o persona acogida
-- **Limite renta:** 
-  - Individual: hasta 30.000 euros (deduccion completa < 27.000; reducida 27.000-30.000)
+- **Límite renta:** 
+  - Individual: hasta 30.000 euros (deducción completa < 27.000; reducida 27.000-30.000)
   - Conjunta: hasta 47.000 euros (completa < 44.000; reducida 44.000-47.000)
 - **Requisitos:**
-  - Hijo/acogido cumpliendo requisitos minimo descendientes
+  - Hijo/acogido cumpliendo requisitos mínimo descendientes
   - Acogimiento >= 183 dias (excepto primera modalidad)
   - Prorrateo entre progenitores si aplica
   - Formula reduccion si base liquidable en rango intermediario
 - **Incompatibilidades:** Compatible con multiples, discapacidad, familia numerosa; Incompatible con despoblamiento
 - **Novedad 2025:** Cambio segun Ley 5/2025 para nuevos beneficiarios
 
-### 2. Por nacimiento o adopcion multiples
+### 2. Por nacimiento o adopción multiples
 
-- **Cuantia/Porcentaje:** 246 euros por parto multiple o 2+ adopciones misma fecha
+- **Cuantía/Porcentaje:** 246 euros por parto multiple o 2+ adopciónes misma fecha
 - **Base maxima:** Segun numero de hijos/as
-- **Limite renta:** 30.000 euros (individual) o 47.000 euros (conjunta)
+- **Límite renta:** 30.000 euros (individual) o 47.000 euros (conjunta)
 - **Requisitos:**
-  - Parto multiple o adopciones simultaneas
-  - Hijos cumplen requisitos minimo descendientes
+  - Parto multiple o adopciónes simultaneas
+  - Hijos cumplen requisitos mínimo descendientes
   - Formula reduccion en rango intermediario de base liquidable
 - **Incompatibilidades:** Compatible con otras; Incompatible con despoblamiento
 - **Novedad 2025:** Ninguna
 
-### 3. Por nacimiento, adopcion, acogimiento o delegacion guarda con discapacidad
+### 3. Por nacimiento, adopción, acogimiento o delegacion guarda con discapacidad
 
-- **Cuantia/Porcentaje:** 
+- **Cuantía/Porcentaje:** 
   - Unico hijo/a con discapacidad: 246 euros
-  - Con hermano/a con discapacidad: 303 euros
+  - Con hermaño/a con discapacidad: 303 euros
   - Discapacidad >= 65% fisica/sensorial o >= 33% intelectual/mental
 - **Base maxima:** Por hijo/persona con discapacidad
-- **Limite renta:** 30.000 euros (individual) o 47.000 euros (conjunta)
+- **Límite renta:** 30.000 euros (individual) o 47.000 euros (conjunta)
 - **Requisitos:**
-  - Discapacidad certificada organos Generalitat o Estado
+  - Discapacidad certificada orgaños Generalitat o Estado
   - Curatela representativa = 65% discapacidad
   - Incapacidad judicial = discapacidad
   - Para discapacidad intelectual/mental >= 33%: debe ser permanente (excepto fallecidos antes 30/12/2025)
@@ -132,22 +55,22 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 4. Por familia numerosa o monoparental
 
-- **Cuantia/Porcentaje:** Segun categoria familia
+- **Cuantía/Porcentaje:** Segun categoria familia
 - **Base maxima:** Segun composicion familia
-- **Limite renta:** Normativa autonomica
+- **Límite renta:** Normativa autonómica
 - **Requisitos:**
   - Titulo familia numerosa vigente O estructura monoparental acreditada
   - Documentacion oficial
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 5. Por guarderias menores 3 anos (custodia no ocasional)
+### 5. Por guarderias menores 3 años (custodia no ocasional)
 
-- **Cuantia/Porcentaje:** Porcentaje segun gastos
+- **Cuantía/Porcentaje:** Porcentaje segun gastos
 - **Base maxima:** Segun anualidad guarderia
-- **Limite:** Cuotas guarderia/infantil
+- **Límite:** Cuotas guarderia/infantil
 - **Requisitos:**
-  - Hijo menor de 3 anos
+  - Hijo menor de 3 años
   - Guarderia o centro primer ciclo infantil autorizado
   - Custodia no ocasional
   - Documentacion gastos
@@ -157,39 +80,39 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 6. Por conciliacion del trabajo con la vida familiar
 
-- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
 - **Base maxima:** Consultar normativa especifica Comunitat Valenciana
-- **Limite:** Normativa autonomica Comunitat Valenciana (no incluida en Manual AEAT)
+- **Límite:** Normativa autonómica Comunitat Valenciana (no incluida en Manual AEAT)
 - **Requisitos:**
   - Gastos de conciliacion vida familiar y laboral documentados
   - Servicios: guarderias, campamentos, actividades extraescolares, cuidado dependientes
   - Centros/servicios autorizados
   - Ambos progenitores con actividad laboral (si aplica)
   - Documentacion de gastos (facturas)
-  - Periodo gasto durante ano impositivo
+  - Periodo gasto durante año impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias en regulacion autonomica Comunitat Valenciana
+- **NOTA:** Cuantías en regulacion autonómica Comunitat Valenciana
 
-### 7. Por contribuyentes con discapacidad >= 33%, edad >= 65 anos
+### 7. Por contribuyentes con discapacidad >= 33%, edad >= 65 años
 
-- **Cuantia/Porcentaje:** Cantidad especifica
+- **Cuantía/Porcentaje:** Cantidad especifica
 - **Base maxima:** Por contribuyente
-- **Limite renta:** Normativa autonomica
+- **Límite renta:** Normativa autonómica
 - **Requisitos:**
   - Discapacidad >= 33%
-  - Edad >= 65 anos
+  - Edad >= 65 años
   - Certificacion grado discapacidad
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 8. Por ascendientes mayores 75 anos o mayores 65 con discapacidad
+### 8. Por ascendientes mayores 75 años o mayores 65 con discapacidad
 
-- **Cuantia/Porcentaje:** Cantidad por ascendiente
+- **Cuantía/Porcentaje:** Cantidad por ascendiente
 - **Base maxima:** Por ascendiente
-- **Limite:** Normativa autonomica
+- **Límite:** Normativa autonómica
 - **Requisitos:**
-  - Ascendiente (padre, abuelo) mayor de 75 anos O mayor de 65 con discapacidad >= 33%
+  - Ascendiente (padre, abuelo) mayor de 75 años O mayor de 65 con discapacidad >= 33%
   - Documentacion parentesco
   - Documentacion edad/discapacidad
 - **Incompatibilidades:** Ninguna especificada
@@ -197,9 +120,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 9. Por contratacion indefinida empleados hogar para cuidado personas
 
-- **Cuantia/Porcentaje:** Cantidad deducible
+- **Cuantía/Porcentaje:** Cantidad deducible
 - **Base maxima:** Por contratacion
-- **Limite:** Normativa autonomica
+- **Límite:** Normativa autonómica
 - **Requisitos:**
   - Contratacion indefinida Sistema Especial Empleados Hogar
   - Para cuidado de personas
@@ -208,11 +131,11 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 10. Por arrendamiento vivienda habitual (deduccion arrendador)
+### 10. Por arrendamiento vivienda habitual (deducción arrendador)
 
-- **Cuantia/Porcentaje:** 5% de rentas (si <= precio referencia privada)
+- **Cuantía/Porcentaje:** 5% de rentas (si <= precio referencia privada)
 - **Base maxima:** 3.300 euros anuales
-- **Limite:** Por contrato de alquiler
+- **Límite:** Por contrato de alquiler
 - **Requisitos:**
   - Vivienda habitual arrendada
   - Contrato formalizado
@@ -221,23 +144,23 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 11. Por primera adquisicion vivienda habitual (< 35 anos)
+### 11. Por primera adquisición vivienda habitual (< 35 años)
 
-- **Cuantia/Porcentaje:** Segun coste adquisicion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por vivienda primera
+- **Cuantía/Porcentaje:** Segun coste adquisición
+- **Base maxima:** Normativa autonómica
+- **Límite:** Por vivienda primera
 - **Requisitos:**
-  - Contribuyente < 35 anos
+  - Contribuyente < 35 años
   - Primera vivienda habitual
   - Documentacion compra
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 12. Por adquisicion vivienda habitual por personas con discapacidad
+### 12. Por adquisición vivienda habitual por personas con discapacidad
 
-- **Cuantia/Porcentaje:** Segun coste adquisicion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por vivienda
+- **Cuantía/Porcentaje:** Segun coste adquisición
+- **Base maxima:** Normativa autonómica
+- **Límite:** Por vivienda
 - **Requisitos:**
   - Persona con discapacidad >= 33%
   - Adquisicion vivienda habitual
@@ -245,22 +168,22 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 13. Por cantidades de ayudas publicas para adquisicion/rehabilitacion vivienda
+### 13. Por cantidades de ayudas públicas para adquisición/rehabilitación vivienda
 
-- **Cuantia/Porcentaje:** Cantidad ayudas recibidas
+- **Cuantía/Porcentaje:** Cantidad ayudas recibidas
 - **Base maxima:** Segun ayuda
-- **Limite:** Ayuda publica recibida
+- **Límite:** Ayuda publica recibida
 - **Requisitos:**
-  - Ayudas publicas para adquisicion o rehabilitacion vivienda habitual
+  - Ayudas públicas para adquisición o rehabilitación vivienda habitual
   - Documentacion ayuda
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
 ### 14. Por arrendamiento o cesion en uso vivienda habitual
 
-- **Cuantia/Porcentaje:** Porcentaje rentas/cesion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Renta/cesion vivienda
+- **Cuantía/Porcentaje:** Porcentaje rentas/cesion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Renta/cesion vivienda
 - **Requisitos:**
   - Vivienda habitual arrendada o cedida
   - Contrato formalizado
@@ -270,9 +193,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 15. Por arrendamiento vivienda por actividad laboral en municipio distinto
 
-- **Cuantia/Porcentaje:** Porcentaje rentas
-- **Base maxima:** Normativa autonomica
-- **Limite:** Renta vivienda laboral
+- **Cuantía/Porcentaje:** Porcentaje rentas
+- **Base maxima:** Normativa autonómica
+- **Límite:** Renta vivienda laboral
 - **Requisitos:**
   - Realizacion actividad laboral (por cuenta propia o ajena)
   - En municipio distinto a domicilio habitual
@@ -283,9 +206,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 16. Por instalaciones autoconsumo o energias renovables
 
-- **Cuantia/Porcentaje:** Segun coste instalacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por instalacion
+- **Cuantía/Porcentaje:** Segun coste instalacion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Por instalacion
 - **Requisitos:**
   - Instalacion sistemas autoconsumo
   - Energias renovables (fotovoltaica, termica, etc.)
@@ -296,62 +219,62 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 17. Por donaciones con finalidad ecologica
 
-- **Cuantia/Porcentaje:** 20% primeros 250 euros; 25% resto de donacion
+- **Cuantía/Porcentaje:** 20% primeros 250 euros; 25% resto de donacion
 - **Base maxima:** Sin limite maximo de donacion
-- **Limite:** Applicable a donaciones dinerarias puras
+- **Límite:** Applicable a donaciones dinerarias puras
 - **Requisitos:**
   - Donaciones para defensa/conservacion medio ambiente
-  - Entidades receptoras: Generalitat, Corporaciones Locales, entidades publicas ambientales, ONG sin animo de lucro
+  - Entidades receptoras: Generalitat, Corporaciones Locales, entidades públicas ambientales, ONG sin animo de lucro
   - Transferencia bancaria obligatoria
   - Certificacion entidad beneficiaria
   - Irrevocabilidad de donacion
-- **Incompatibilidades:** Compatible con deduccion estatal en limites
+- **Incompatibilidades:** Compatible con deducción estatal en limites
 - **Novedad 2025:** Incremento: antes 150 euros al 20%, ahora 250 euros; resto antes 20%, ahora 25%
 
-### 18. Por donaciones de bienes patrimonio cultural valenciano
+### 18. Por donaciones de bienes patrimonio cultural valenciaño
 
-- **Cuantia/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Valor bien donado
+- **Cuantía/Porcentaje:** Segun cuantia donacion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Valor bien donado
 - **Requisitos:**
-  - Donaciones bienes patrimonio cultural valenciano
+  - Donaciones bienes patrimonio cultural valenciaño
   - Bienes inscritos registros Generalitat
   - Entidades receptoras acreditadas
   - Documentacion donacion
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 19. Por donativos para conservacion bienes patrimonio cultural valenciano
+### 19. Por donativos para conservacion bienes patrimonio cultural valenciaño
 
-- **Cuantia/Porcentaje:** Segun cuantia donativo
-- **Base maxima:** Normativa autonomica
-- **Limite:** Donativo realizado
+- **Cuantía/Porcentaje:** Segun cuantia donativo
+- **Base maxima:** Normativa autonómica
+- **Límite:** Donativo realizado
 - **Requisitos:**
   - Donativos para conservacion, reparacion, restauracion
-  - Bienes patrimonio cultural valenciano
+  - Bienes patrimonio cultural valenciaño
   - Entidades acreditadas
   - Documentacion donativo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 20. Por cantidades de titulares para conservacion bienes patrimonio cultural valenciano
+### 20. Por cantidades de titulares para conservacion bienes patrimonio cultural valenciaño
 
-- **Cuantia/Porcentaje:** Segun cantidades destinadas
-- **Base maxima:** Normativa autonomica
-- **Limite:** Gastos acreditados
+- **Cuantía/Porcentaje:** Segun cantidades destinadas
+- **Base maxima:** Normativa autonómica
+- **Límite:** Gastos acreditados
 - **Requisitos:**
   - Cantidades destinadas por titulares de bienes
   - Para conservacion, reparacion, restauracion
-  - Bienes patrimonio cultural valenciano
+  - Bienes patrimonio cultural valenciaño
   - Documentacion gastos
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
 ### 21. Por donaciones para fomento lengua valenciana
 
-- **Cuantia/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Donacion realizada
+- **Cuantía/Porcentaje:** Segun cuantia donacion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Donacion realizada
 - **Requisitos:**
   - Donaciones para fomento lengua valenciana
   - Entidades acreditadas
@@ -361,9 +284,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 22. Por donaciones o cesiones de uso para actividades culturales/cientificas/deportivas
 
-- **Cuantia/Porcentaje:** Segun cuantia donacion/cesion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Valor donacion o cesion
+- **Cuantía/Porcentaje:** Segun cuantia donacion/cesion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Valor donacion o cesion
 - **Requisitos:**
   - Donaciones o cesiones de uso/comodatos
   - Para fines culturales, cientificos, deportivos no profesionales
@@ -372,9 +295,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 23. INFORMATIVO: Justificacion documental para determinadas deducciones por donativos
+### 23. INFORMATIVO: Justificacion documental para determinadas deducciónes por donativos
 
-- **Tipo:** Seccion normativa (NO es deduccion)
+- **Tipo:** Seccion normativa (NO es deducción)
 - **Contenido:** Requisitos documentacion
 - **Aplicacion:** Donativos y cesiones de uso o comodato
 - **Requisitos documentales:**
@@ -384,46 +307,46 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
   - Irrevocabilidad de donacion
 - **Novedad 2025:** Normativa de compliance
 
-### 24. INFORMATIVO: Requisito conjunto para determinadas deducciones por donativos
+### 24. INFORMATIVO: Requisito conjunto para determinadas deducciónes por donativos
 
-- **Tipo:** Seccion normativa (NO es deduccion)
+- **Tipo:** Seccion normativa (NO es deducción)
 - **Contenido:** Requisitos transversales
-- **Aplicacion:** Multiples deducciones donativas
+- **Aplicacion:** Multiples deducciónes donativas
 - **Requisito:** Debe cumplirse conjuntamente para aplicar todas
 - **Novedad 2025:** Normativa de compliance
 
 ### 25. Por contribuyentes con dos o mas descendientes
 
-- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
 - **Base maxima:** Consultar normativa especifica Comunitat Valenciana
-- **Limite:** Normativa autonomica Comunitat Valenciana (no incluida en Manual AEAT)
+- **Límite:** Normativa autonómica Comunitat Valenciana (no incluida en Manual AEAT)
 - **Requisitos:**
   - 2 o mas descendientes en nucleo familiar
-  - Descendientes cumplen requisitos minimo por descendientes
+  - Descendientes cumplen requisitos mínimo por descendientes
   - Convivencia con contribuyente 31 diciembre
-  - Documentacion de filiacion/adopcion
+  - Documentacion de filiacion/adopción
   - Requisitos especiales si una se aplica (discapacidad, etc.)
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias en regulacion autonomica de Comunitat Valenciana
+- **NOTA:** Cuantías en regulacion autonómica de Comunitat Valenciana
 
-### 26. Por incremento costes financiacion ajena en inversion vivienda habitual
+### 26. Por incremento costes financiacion ajena en inversión vivienda habitual
 
-- **Cuantia/Porcentaje:** Porcentaje interes pagado
-- **Base maxima:** Normativa autonomica
-- **Limite:** Interes efectivo pagado
+- **Cuantía/Porcentaje:** Porcentaje interés pagado
+- **Base maxima:** Normativa autonómica
+- **Límite:** Interes efectivo pagado
 - **Requisitos:**
   - Financiacion ajena vivienda habitual
-  - Incremento de costes (interes)
+  - Incremento de costes (interés)
   - Documentacion credito
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 27. Por cantidades adquisicion material escolar
+### 27. Por cantidades adquisición material escolar
 
-- **Cuantia/Porcentaje:** Segun gastos material
-- **Base maxima:** Normativa autonomica
-- **Limite:** Gastos escolares
+- **Cuantía/Porcentaje:** Segun gastos material
+- **Base maxima:** Normativa autonómica
+- **Límite:** Gastos escolares
 - **Requisitos:**
   - Material escolar adquirido
   - Descendientes en educacion
@@ -433,9 +356,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 28. Por obras conservacion/mejora vivienda habitual periodo actual
 
-- **Cuantia/Porcentaje:** Porcentaje gastos obra
-- **Base maxima:** Normativa autonomica
-- **Limite:** Gastos acreditados
+- **Cuantía/Porcentaje:** Porcentaje gastos obra
+- **Base maxima:** Normativa autonómica
+- **Límite:** Gastos acreditados
 - **Requisitos:**
   - Obras conservacion, mejora calidad, sostenibilidad, accesibilidad
   - Vivienda habitual
@@ -444,13 +367,13 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Vigente
 
-### 29. Por obras conservacion/mejora vivienda habitual anos 2014-2015
+### 29. Por obras conservacion/mejora vivienda habitual años 2014-2015
 
-- **Cuantia/Porcentaje:** Porcentaje gastos obra
-- **Base maxima:** Normativa autonomica
-- **Limite:** Gastos acreditados
+- **Cuantía/Porcentaje:** Porcentaje gastos obra
+- **Base maxima:** Normativa autonómica
+- **Límite:** Gastos acreditados
 - **Requisitos:**
-  - Obras efectuadas en anos 2014 y 2015
+  - Obras efectuadas en años 2014 y 2015
   - Conservacion, mejora, sostenibilidad, accesibilidad
   - Vivienda habitual
   - Documentacion tecnica
@@ -459,20 +382,20 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 30. Por cantidades abonos culturales
 
-- **Cuantia/Porcentaje:** Segun importe abono
-- **Base maxima:** Normativa autonomica
-- **Limite:** Abono anual
+- **Cuantía/Porcentaje:** Segun importe abono
+- **Base maxima:** Normativa autonómica
+- **Límite:** Abono anual
 - **Requisitos:**
   - Abono a teatros, museos, instituciones culturales
   - Documentacion pago
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 31. Por adquisicion vehiculos nuevos (Orden 5/2020)
+### 31. Por adquisición vehículos nuevos (Orden 5/2020)
 
-- **Cuantia/Porcentaje:** Segun tipo vehiculo
-- **Base maxima:** Normativa autonomica
-- **Limite:** Por vehiculo
+- **Cuantía/Porcentaje:** Segun tipo vehículo
+- **Base maxima:** Normativa autonómica
+- **Límite:** Por vehículo
 - **Requisitos:**
   - Vehiculo nuevo adquirido
   - Categorias Orden 5/2020 (8 junio 2020)
@@ -481,36 +404,36 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
-### 32. Por inversion acciones participaciones empresas nueva creacion
+### 32. Por inversión acciones participaciones empresas nueva creacion
 
-- **Cuantia/Porcentaje:** 30% de aportaciones
+- **Cuantía/Porcentaje:** 30% de aportaciones
 - **Base maxima:** 6.600 euros; Incremento 15% pymes (max 15.000)
-- **Limite:** Por inversion empresa
+- **Límite:** Por inversión empresa
 - **Requisitos:**
-  - Empresa nueva creacion (< 2 anos)
+  - Empresa nueva creacion (< 2 años)
   - Pymes municipios despoblamiento
   - Empresas emergentes
-  - Documentacion inversion
+  - Documentacion inversión
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
 
 ### 33. Por residencia habitual municipios en riesgo despoblamiento
 
-- **Cuantia/Porcentaje:** Incrementos adicionales segun modalidad
-- **Base maxima:** Normativa autonomica
-- **Limite:** Incompatible con descendiente
+- **Cuantía/Porcentaje:** Incrementos adicionales segun modalidad
+- **Base maxima:** Normativa autonómica
+- **Límite:** Incompatible con descendiente
 - **Requisitos:**
   - Residencia municipios en riesgo despoblamiento
   - Empadronamiento acreditativo
   - Municipios listados Generalitat
-- **Incompatibilidades:** Incompatible con mismos descendientes/asimilados en otras deducciones
+- **Incompatibilidades:** Incompatible con mismos descendientes/asimilados en otras deducciónes
 - **Novedad 2025:** Ninguna
 
 ### 34. Por tratamientos fertilidad
 
-- **Cuantia/Porcentaje:** Segun costes tratamiento
-- **Base maxima:** Normativa autonomica
-- **Limite:** Tratamientos acreditados
+- **Cuantía/Porcentaje:** Segun costes tratamiento
+- **Base maxima:** Normativa autonómica
+- **Límite:** Tratamientos acreditados
 - **Requisitos:**
   - Tratamientos PMA/fertilidad realizados
   - Factura centro especializado
@@ -520,9 +443,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 35. Por cantidades gastos de salud (determinados)
 
-- **Cuantia/Porcentaje:** 30% de gastos salud mental
+- **Cuantía/Porcentaje:** 30% de gastos salud mental
 - **Base maxima:** No especificado en AEAT
-- **Limite:** Gastos acreditados
+- **Límite:** Gastos acreditados
 - **Requisitos:**
   - Gastos profesionales salud mental (psicologos, psiquiatras)
   - Enfermedades cronicas/raras acreditadas
@@ -532,13 +455,13 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
   - Factura/recibo centro sanitario
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias maximas en regulacion autonomica de Comunitat Valenciana
+- **NOTA:** Cuantías maximas en regulacion autonómica de Comunitat Valenciana
 
 ### 36. Por gastos deporte y actividades saludables
 
-- **Cuantia/Porcentaje:** 30% de gastos actividades
+- **Cuantía/Porcentaje:** 30% de gastos actividades
 - **Base maxima:** 150 euros
-- **Limite:** Para mayores 75 anos o discapacidad >= 65%: hasta 100%
+- **Límite:** Para mayores 75 años o discapacidad >= 65%: hasta 100%
 - **Requisitos:**
   - Gastos clubs/centros deportivos autorizados
   - Documentacion de gastos
@@ -548,25 +471,25 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 37. Por gastos fomento y formacion musicales
 
-- **Cuantia/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
+- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
 - **Base maxima:** Consultar normativa especifica Comunitat Valenciana
-- **Limite:** Normativa autonomica Comunitat Valenciana (no incluida en Manual AEAT)
+- **Límite:** Normativa autonómica Comunitat Valenciana (no incluida en Manual AEAT)
 - **Requisitos:**
   - Gastos en clases de musica/formacion musical
   - Centro autorizado de enseñanza musical
   - Descendientes del contribuyente (menores edad tipicamente)
   - Documentacion inscripcion y asistencia
   - Facturas de pago de cuotas educativas
-  - Periodo gasto durante ano impositivo
+  - Periodo gasto durante año impositivo
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Ninguna
-- **NOTA:** Cuantias en regulacion autonomica de Comunitat Valenciana
+- **NOTA:** Cuantías en regulacion autonómica de Comunitat Valenciana
 
 ### 38. EXCEPCIONAL: Por ayudas ERTE y conciliacion familiar (Covid-19)
 
-- **Cuantia/Porcentaje:** Segun cantidad ayuda
+- **Cuantía/Porcentaje:** Segun cantidad ayuda
 - **Base maxima:** Normativa Decreto Ley 3/2020
-- **Limite:** Ayuda recibida
+- **Límite:** Ayuda recibida
 - **Requisitos:**
   - Ayudas trabajadores/as afectados ERTE
   - Reduccion jornada laboral conciliacion
@@ -577,9 +500,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 39. Por donaciones investigacion Covid-19
 
-- **Cuantia/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Donacion realizada
+- **Cuantía/Porcentaje:** Segun cuantia donacion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Donacion realizada
 - **Requisitos:**
   - Donaciones para investigacion/prevencion Covid-19
   - Programas cientificos/tecnologicos
@@ -590,9 +513,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### 40. Por donaciones gastos crisis sanitaria Covid-19
 
-- **Cuantia/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonomica
-- **Limite:** Donacion realizada
+- **Cuantía/Porcentaje:** Segun cuantia donacion
+- **Base maxima:** Normativa autonómica
+- **Límite:** Donacion realizada
 - **Requisitos:**
   - Donaciones financiacion gastos crisis sanitaria
   - Efectos de Covid-19
@@ -601,16 +524,16 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** Vigencia condicionada
 
-### 41. NUEVA 2025: Por destinar cantidades para paliar danos DANA octubre 2024
+### 41. NUEVA 2025: Por destinar cantidades para paliar daños DANA octubre 2024
 
-- **Cuantia/Porcentaje:** Segun cantidad aportada
-- **Base maxima:** Normativa autonomica
-- **Limite:** Cantidad destinada
+- **Cuantía/Porcentaje:** Segun cantidad aportada
+- **Base maxima:** Normativa autonómica
+- **Límite:** Cantidad destinada
 - **Requisitos:**
-  - Destinado a paliar danos materiales vivienda habitual
+  - Destinado a paliar daños materiales vivienda habitual
   - Causados por temporal DANA octubre 2024
   - Personas afectadas zonas territorio Valencia
-  - Documentacion dano/reparacion
+  - Documentacion daño/reparacion
   - Ambito territorial de aplicacion: municipios afectados DANA
 - **Incompatibilidades:** Ninguna especificada
 - **Novedad 2025:** NUEVA en 2025 - muy importante
@@ -619,9 +542,9 @@ La Comunitat Valenciana ha aprobado importes propios del minimo personal y famil
 
 ### ANEXO: Municipios en riesgo de despoblamiento
 
-La deduccion por residir habitualmente en un municipio en riesgo de despoblamiento de la Comunitat Valenciana requiere que el municipio este clasificado como tal por la Generalitat.
+La deducción por residir habitualmente en un municipio en riesgo de despoblamiento de la Comunitat Valenciana requiere que el municipio este clasificado como tal por la Generalitat.
 
-La relacion de municipios en riesgo de despoblamiento se aprueba mediante normativa de la Generalitat Valenciana. El contribuyente debe verificar que su municipio de residencia habitual a 31 de diciembre de 2025 esta incluido en la lista vigente antes de aplicar esta deduccion.
+La relacion de municipios en riesgo de despoblamiento se aprueba mediante normativa de la Generalitat Valenciana. El contribuyente debe verificar que su municipio de residencia habitual a 31 de diciembre de 2025 esta incluido en la lista vigente antes de aplicar esta deducción.
 
 Consultar en: Generalitat Valenciana - Agenda Valenciana Antidespoblament (AVANT)
 https://avant.gva.es/es/municipios
@@ -634,25 +557,25 @@ https://avant.gva.es/es/municipios
 2. Alguno de tus hijos tiene discapacidad reconocida?
 3. Pagas alquiler en la Comunitat Valenciana? Cual es tu renta?
 4. Eres familia numerosa o monoparental acreditada?
-5. Tienes menores de 3 anos en guarderia autorizada?
+5. Tienes menores de 3 años en guarderia autorizada?
 6. Has realizado gastos de conciliacion familia-trabajo?
-7. Tienes discapacidad >= 33% o edad >= 65 anos?
-8. Tienes ascendientes mayores 75 anos con discapacidad?
+7. Tienes discapacidad >= 33% o edad >= 65 años?
+8. Tienes ascendientes mayores 75 años con discapacidad?
 9. Has contratado empleado de hogar indefinido?
 10. Has invertido en energias renovables o autoconsumo?
-11. Tienes < 35 anos y has comprado tu primera vivienda?
-12. Has realizado donaciones patrimonio cultural valenciano o fomento lengua valenciana?
+11. Tienes < 35 años y has comprado tu primera vivienda?
+12. Has realizado donaciones patrimonio cultural valenciaño o fomento lengua valenciana?
 13. Has invertido en nuevas empresas o municipios despoblamiento?
 14. Tienes gastos de fertilidad, salud, deporte o musica?
 15. Has realizado obras de mejora en tu vivienda habitual?
 16. Vives en municipio en riesgo despoblamiento?
-17. Has sufrido danos en tu vivienda habitual por DANA octubre 2024?
+17. Has sufrido daños en tu vivienda habitual por DANA octubre 2024?
 
 ---
 
 ## FUENTES
 
-- Manual Practico Renta 2025 Parte 2 Deducciones Autonomicas: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
-- AEAT Comunitat Valenciana: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunitat-valenciana.html
+- Manual Práctico Renta 2025 Parte 2 Deducciones Autonómicas: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonómicas.html
+- AEAT Comunitat Valenciana: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciónes-autonómicas/comunitat-valenciana.html
 - Ley 5/2025 Medidas fiscales Generalitat Valenciana
-- Orden 5/2020 Categorías vehiculos
+- Orden 5/2020 Categorías vehículos
