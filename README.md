@@ -1,10 +1,11 @@
 # Declaración de la Renta - España (IRPF 2025)
 
-Skill para Claude / Cowork que asiste al contribuyente español en la revisión, optimización o preparación desde cero de su declaración del Impuesto sobre la Renta de las Personas Físicas (IRPF), ejercicio 2025. Soporta dos modos de trabajo: revisión de borradores existentes y preparación completa a partir de documentación en bruto (nóminas, certificados bancarios, facturas de autónomo, etc.).
+Skill para Claude / Cowork que asiste al contribuyente español en la revisión, optimización o preparación desde cero de su declaración del Impuesto sobre la Renta de las Personas Físicas (IRPF), ejercicio 2025. Soporta tres modos de trabajo: revisión de borradores existentes, preparación completa a partir de documentación en bruto (nóminas, certificados bancarios, facturas de autónomo, etc.), e híbrido (borrador + datos adicionales).
 
 **Ejercicio fiscal:** 2025 (del 1 de enero al 31 de diciembre de 2025)
-**Campaña de presentación:** del 2 de abril al 30 de junio de 2026
+**Campaña de presentación:** del 8 de abril al 30 de junio de 2026
 **Domiciliación bancaria del pago:** hasta el 25 de junio de 2026
+**Segundo plazo (40%):** hasta el 5 de noviembre de 2026
 
 ---
 
@@ -30,11 +31,11 @@ El IRPF español es uno de los impuestos más complejos de Europa. No es un impu
 
 Para dar una idea del volumen de información que maneja este skill:
 
-**Normativa estatal (references/nacional.md):** contiene las escalas de gravamen general (6 tramos del 9,50% al 24,50%) y del ahorro (5 tramos del 9,50% al 15,00%), los mínimos personales y familiares (contribuyente, descendientes, ascendientes, discapacidad), las fórmulas de reducción por rendimientos del trabajo (con 3 tramos y fórmulas como 7.302 - [1,75 x (RNT - 14.852)]), los gastos deducibles, las rentas exentas, las reducciones de base imponible, 11 categorías de deducciones estatales con sus porcentajes y bases máximas, las reglas de tributación conjunta vs individual, y los plazos y formas de presentación.
+**Normativa estatal (references/nacional.md):** contiene la residencia fiscal (regla de los 183 dias, centro de intereses economicos, presuncion por familia), la individualizacion de rentas (gananciales vs separacion de bienes, art. 11 LIRPF), las escalas de gravamen general (6 tramos del 9,50% al 24,50%) y del ahorro (5 tramos del 9,50% al 15,00%), los minimos personales y familiares (contribuyente, descendientes, ascendientes, discapacidad), las formulas de reduccion por rendimientos del trabajo (con 3 tramos y formulas como 7.302 - [1,75 x (RNT - 14.852)]), los gastos deducibles, las rentas exentas, las reducciones de base imponible, 11 categorias de deducciones estatales con sus porcentajes y bases maximas, la tributacion conjunta vs individual con estrategia detallada de decision (cuando conviene cada opcion, parejas de hecho), y las obligaciones formales completas (8 modelos de declaracion, 5 formas de presentacion incluyendo Renta Directa, medios de identificacion, fraccionamiento 60/40 con fechas, autoliquidacion rectificativa, conservacion documental).
 
 **Deducciones autonómicas (references/regiones/):** cada comunidad autónoma tiene competencia para establecer sus propias deducciones de la cuota. Este skill incluye un archivo por cada una de las 15 CCAA de régimen común más Ceuta y Melilla, con un total de más de 350 deducciones autonómicas documentadas. La Comunitat Valenciana tiene 41 deducciones propias, Canarias 29, Región de Murcia 28, Asturias 27, Castilla-La Mancha 27, La Rioja 26, Galicia 25, Illes Balears 24 y así sucesivamente. Cada deducción tiene sus propios porcentajes, límites, requisitos de renta, condiciones de edad, situación familiar, incompatibilidades con otras deducciones, y en muchos casos requisitos documentales específicos.
 
-**Casos especiales (references/casos-especiales.md):** regímenes fiscales no habituales como la Ley Beckham (con su escala propia del 24%/47% para trabajo y del 19%-28% para ahorro), la tributación de criptomonedas (método FIFO, casillas específicas, modelos 721/172/173), el exit tax, la exención del artículo 7.p para trabajo en el extranjero, el régimen de nómadas digitales, y las ganancias patrimoniales complejas con coeficientes de abatimiento.
+**Casos especiales (references/casos-especiales.md):** regimenes fiscales no habituales como la Ley Beckham (con su escala propia del 24%/47% para trabajo y del 19%-30% para ahorro), la tributacion de criptomonedas (metodo FIFO, casillas especificas, modelos 721/172/173), el exit tax, la exencion del articulo 7.p para trabajo en el extranjero, el regimen de nomadas digitales (comparativa detallada con Beckham clasica, visa de nomada digital con requisitos y duracion, exclusion de autonomos), la atribucion de rentas (comunidades de bienes, herencias yacentes, Modelo 184, ejemplos practicos), y las ganancias patrimoniales complejas con coeficientes de abatimiento.
 
 **Territorios forales (references/regiones/navarra.md, alava.md, bizkaia.md, gipuzkoa.md):** Navarra y las tres provincias vascas (Álava, Bizkaia, Gipuzkoa) tienen un IRPF completamente independiente del estatal, con sus propias escalas de gravamen, mínimos personales y familiares, reducciones y deducciones. Cada archivo foral es un sistema fiscal completo en sí mismo. Por ejemplo, Navarra tiene 11 tramos del 13% al 52% (frente a los 6 tramos estatales), y las tres provincias vascas comparten una estructura de 7-8 tramos del 23% al 49% pero con deducciones propias cada una.
 
@@ -80,8 +81,8 @@ declaracion-renta-espana/
 |-- .gitignore                        # Archivos excluidos de git
 |
 |-- references/
-|   |-- nacional.md                   # Normativa IRPF estatal 2025 completa (909 lineas)
-|   |-- casos-especiales.md           # Ley Beckham, cripto, no residentes, etc.
+|   |-- nacional.md                   # Normativa IRPF estatal 2025 completa (~1.200 lineas)
+|   |-- casos-especiales.md           # Ley Beckham, cripto, no residentes, nomadas digitales, atribucion de rentas
 |   |-- autonomos.md                  # Actividades economicas: EDS/EDN/Modulos, gastos, pagos fraccionados
 |   |-- modo-preparacion.md           # Flujo de preparacion desde cero (modo B)
 |   |
@@ -193,8 +194,8 @@ Navarra y País Vasco (Álava, Bizkaia, Gipuzkoa) tienen haciendas forales propi
 - Exit tax (impuesto de salida para residentes de 10+ años)
 - Exención por trabajos en el extranjero (art. 7.p, hasta 60.100 EUR)
 - Ganancias patrimoniales complejas (inmuebles, coeficientes de abatimiento, régimen transitorio pre-1994)
-- Nómadas digitales (Ley 28/2022 de Startups)
-- Régimen de atribución de rentas (comunidades de bienes, herencias yacentes)
+- Nomadas digitales (Ley 28/2022 de Startups): comparativa detallada con Beckham clasica, visa con requisitos, exclusion de autonomos
+- Regimen de atribucion de rentas (comunidades de bienes, herencias yacentes, sociedades civiles): Modelo 184, ejemplo practico de CB inmobiliaria, venta de inmuebles en CB
 - Reducción especial por rendimientos artísticos (novedad 2025, hasta 150.000 EUR)
 
 ---
@@ -260,8 +261,16 @@ Toda la información fiscal de este skill procede exclusivamente de fuentes ofic
 - [Régimen especial impatriados (Ley Beckham)](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/regimenes-opcionales/regimen-especial-impatriados.html)
 - [Monedas virtuales - Tributación IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c11-ganancias-perdidas-patrimoniales/monedas-virtuales/compra-venta-monedas-virtuales-tributacion-inversor.html)
 - [Campaña de Renta 2025](https://sede.agenciatributaria.gob.es/Sede/Renta.html)
-- [Deducción rentas Ceuta/Melilla](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota/deduccion-rentas-obtenidas-ceuta-melilla.html)
-- [Página general de manuales prácticos](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html)
+- [Servicios de ayuda Campaña Renta 2025](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c01-campana-declaracion-renta/servicios-ayuda-campana-renta.html)
+- [Residencia habitual en territorio español](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/residencia-habitual-territorio-espanol.html)
+- [Tributacion individual y opcion por tributacion conjunta](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/tributacion-individual-opcion-tributacion-conjunta.html)
+- [Reduccion por tributacion conjunta](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c13-determinacion-renta-contribuyente-sujeta-gravamen/reducciones-base-imponible-general/reduccion-tributacion-conjunta.html)
+- [Pago en dos plazos: Fraccionamiento especial 60/40](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c01-campana-declaracion-renta/pago-deuda-tributaria-irpf/opciones-pago/pago-dos-plazos.html)
+- [Autoliquidacion rectificativa - Modificar declaracion presentada](https://sede.agenciatributaria.gob.es/Sede/irpf/campana-renta/modificacion-declaracion-renta-2025-presentada/resultado-autoliquidacion-rectificativa-ingresar-menor-importe.html)
+- [Entidades en regimen de atribucion de rentas](https://sede.agenciatributaria.gob.es/Sede/irpf/empresarios-individuales-profesionales/entidades-regimen-atribucion-renta.html)
+- [Modelo 184 - Declaracion informativa atribucion de rentas](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/GI04.shtml)
+- [Deduccion rentas Ceuta/Melilla](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota/deduccion-rentas-obtenidas-ceuta-melilla.html)
+- [Pagina general de manuales practicos](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html)
 
 ### Haciendas Forales
 
@@ -274,7 +283,9 @@ Toda la información fiscal de este skill procede exclusivamente de fuentes ofic
 
 - [Orden HAC/277/2026 - Modelos declaración Renta 2025](https://www.boe.es/buscar/act.php?id=BOE-A-2026-7041)
 - [Ley 28/2022 - Ley de Startups (nómadas digitales)](https://www.boe.es/buscar/act.php?id=BOE-A-2022-21739)
-- [Orden HAC/242/2025 - Modelos declaración Renta 2024](https://www.boe.es/buscar/act.php?id=BOE-A-2025-5049)
+- [Orden HAC/242/2025 - Modelos declaracion Renta 2024 y autoliquidacion rectificativa](https://www.boe.es/buscar/act.php?id=BOE-A-2025-5049)
+- [Ley 35/2006 del IRPF (texto consolidado)](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20764)
+- [Ley 6/2017 - Reformas Urgentes del Trabajo Autonomo](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
 
 ---
 
@@ -285,13 +296,17 @@ Toda la información fiscal de este skill procede exclusivamente de fuentes ofic
 - 15 comunidades autónomas de régimen común cubiertas
 - 4 territorios forales cubiertos (Navarra, Álava, Bizkaia, Gipuzkoa) con IRPF completo propio
 - 2 ciudades autónomas (Ceuta y Melilla) con régimen especial
-- Más de 350 deducciones autonómicas documentadas con porcentajes, límites, requisitos de acceso y condiciones de elegibilidad
-- 11 categorías de deducciones estatales
-- 8 regímenes y casos especiales (Beckham, cripto, no residentes, etc.)
+- Mas de 383 deducciones autonomicas documentadas con porcentajes, limites, requisitos de acceso y condiciones de elegibilidad
+- 11 categorias de deducciones estatales
+- 8 regimenes y casos especiales (Beckham, cripto, no residentes, nomadas digitales, atribucion de rentas, etc.)
+- Residencia fiscal completa (3 criterios del art. 9 LIRPF, paraisos fiscales, clausula anti-deslocalizacion)
+- Individualizacion de rentas (art. 11 LIRPF, gananciales vs separacion de bienes)
+- Tributacion conjunta vs individual con estrategia de decision detallada
+- 8 modelos de declaracion documentados (100, 102, 714, 720, 721, 149, 151, 184)
 - 24 categorías de gastos deducibles para autónomos con criterios y límites
 - 3 regímenes de actividades económicas documentados (EDS, EDN, Módulos)
 - 3 ejemplos numéricos completos de liquidación (asalariado, autónomo, arrendador)
-- 85 preguntas de descubrimiento organizadas en 8 categorías (incluyendo fuentes de datos y autónomos)
+- 98 preguntas de descubrimiento organizadas en 9 categorias (incluyendo fuentes de datos, autonomos y perfiles especificos)
 - 6 tramos de la escala general estatal + 5 tramos de la escala del ahorro
 - 4 escalas forales completas (Navarra 11 tramos, Álava 7, Bizkaia 8, Gipuzkoa 8)
 - Mínimos personales y familiares por edad, parentesco y discapacidad (estatales y forales)
