@@ -454,6 +454,137 @@ Estan obligados a presentar:
 
 ---
 
+## 11 BIS. RENDIMIENTOS DEL CAPITAL INMOBILIARIO (Alava)
+
+Normativa: Norma Foral 33/2013, arts. 30-37.
+
+### Calculo del rendimiento neto
+
+Rendimiento neto = Rendimiento integro - Gastos deducibles
+
+**Gastos deducibles:** intereses y demas gastos de financiacion, tributos no estatales, conservacion y reparacion, primas de seguros, gastos de administracion, amortizacion (3% sobre el mayor de coste/valor catastral excluido suelo).
+
+### Bonificaciones por arrendamiento de vivienda
+
+| Tipo | Bonificacion |
+|---|---|
+| Arrendamiento de vivienda habitual del arrendatario (regla general) | 20% |
+| Bizigune o programas equivalentes | 70% |
+
+### Rendimientos con periodo de generacion > 2 anos
+
+- Integracion al 60% (limite anual de aplicacion 300.000 EUR)
+
+### Imputacion de rentas inmobiliarias
+
+- 2% del valor catastral (1,1% si revisado en los 10 ultimos anos)
+
+---
+
+## 11 TER. RENDIMIENTOS DEL CAPITAL MOBILIARIO (Alava)
+
+Normativa: Norma Foral 33/2013, arts. 38-45.
+
+### Rendimientos integrados en la base del ahorro
+
+- Dividendos y participaciones en beneficios
+- Intereses (cuentas, depositos, bonos, obligaciones, Letras del Tesoro)
+- Rendimientos de seguros de vida y operaciones de capitalizacion (PIAS, Unit Linked, rentas vitalicias)
+- Cesion a terceros de capitales propios
+- Propiedad intelectual cuando el contribuyente no es el autor
+
+### Rendimientos integrados en la base general
+
+- Subarrendamiento
+- Cesion del uso de propiedad intelectual cuando el contribuyente es el autor (puede ser actividad economica)
+
+### Gastos deducibles
+
+- Gastos de administracion y custodia de valores (no los de gestion discrecional)
+
+---
+
+## 11 QUATER. GANANCIAS Y PERDIDAS PATRIMONIALES (Alava)
+
+Normativa: Norma Foral 33/2013, arts. 46-58.
+
+### Calculo basico
+
+Ganancia o perdida = Valor de transmision - Valor de adquisicion
+
+### Compensacion en la base del ahorro
+
+Mismo esquema que Bizkaia y Gipuzkoa: las ganancias y perdidas del ahorro se integran y compensan; el saldo negativo se compensa con rendimientos positivos del capital mobiliario hasta un 25%; el resto se traslada a 4 anos.
+
+### Exenciones por reinversion
+
+- Vivienda habitual: ganancia exenta si el importe se reinvierte en otra vivienda habitual en el plazo de 2 anos.
+- Mayores de 65 anos: exencion total por la transmision de su vivienda habitual.
+
+### Tipos de integracion para rendimientos con periodo > 2 anos
+
+| Periodo de generacion | Integracion |
+|---|---|
+| 2 a 5 anos | 60% |
+| > 5 anos | 50% |
+| Limite anual | 300.000 EUR (exceso al 100%) |
+
+---
+
+## 11 QUINQUIES. ORDEN DE CALCULO FORAL (Alava)
+
+```
+[1] RENDIMIENTOS INTEGROS (trabajo, capital, actividades, ganancias)
+        |
+        v (gastos deducibles + bonificaciones especificas)
+
+[2] RENDIMIENTOS NETOS
+        |
+        v (porcentajes de integracion 60%/50% para >2 anos, limite 300.000)
+
+[3] BASE IMPONIBLE GENERAL  ||  BASE IMPONIBLE DEL AHORRO
+        |                            |
+        v (reducciones de la base: EPSV, planes pensiones, conjunta 4.800)
+
+[4] BASE LIQUIDABLE GENERAL  ||  BASE LIQUIDABLE DEL AHORRO
+        |                            |
+        v                            v
+
+[5] CUOTA INTEGRA GENERAL = aplicar escala general (sec.1) a BLG
+    CUOTA INTEGRA AHORRO  = aplicar escala del ahorro (sec.2) a BLA
+        |
+        v
+
+[6] CUOTA INTEGRA TOTAL
+        |
+        v (minoraciones obligatorias antes de deducciones)
+
+[7] - Minoracion obligatoria de 1.583 EUR por autoliquidacion
+    - Minoraciones extraordinarias por alza de precios (si proceden)
+        |
+        v
+
+[8] - Deducciones personales y familiares (descendientes, ascendientes,
+      edad, discapacidad — sec. 6)
+    - Deducciones por vivienda habitual (alquiler 20%/35%, adquisicion 25%/23%
+      — sec. 7)
+    - Deducciones por actividades economicas (I+D 35%, energia solar 15%,
+      creacion de empleo — sec. 8)
+    - Deducciones por donativos (sec. 9)
+        |
+        v
+
+[9] CUOTA LIQUIDA
+        |
+        v (restar retenciones y pagos a cuenta)
+
+[10] CUOTA DIFERENCIAL = a ingresar o a devolver
+```
+
+**Diferencia clave con el regimen comun:** Los minimos personales y familiares se aplican como DEDUCCIONES de la cuota (sec. 6), no como reducciones de la base.
+
+---
+
 ## 12. FUENTES OFICIALES
 
 ### Normativa legal principal

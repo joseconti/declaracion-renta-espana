@@ -11,8 +11,8 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100.html
 
 1. Obligacion de declarar
 2. Escala general estatal
-3. Escala del ahorro estatal
-4. Minimo personal y familiar
+3. Escala del ahorro estatal (estatal + autonomica, identicas)
+4. Minimo personal y familiar estatal
 5. Rendimientos del trabajo
 6. Rendimientos del capital inmobiliario
 7. Rendimientos del capital mobiliario
@@ -21,7 +21,10 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100.html
 10. Reducciones de la base imponible
 11. Deducciones estatales de la cuota
 12. Tributacion conjunta vs individual
-13. Obligaciones formales y plazos
+13. Calculo integro del IRPF: orden de operaciones y retenciones
+14. Obligaciones formales y plazos
+
+> **Importante:** las escalas autonomicas generales y los minimos personales y familiares autonomicos NO estan en este archivo — cada CCAA de regimen comun tiene los suyos, recogidos en `references/regiones/[ccaa].md`. Los contribuyentes de territorios forales (Navarra, Alava, Bizkaia, Gipuzkoa) no aplican ni las escalas estatales ni este archivo: usan los archivos forales correspondientes.
 
 ---
 
@@ -71,21 +74,13 @@ Aplicable al 50% de la base liquidable general (el otro 50% tributa por la escal
 
 ---
 
-## 3. ESCALA DEL AHORRO ESTATAL (Base liquidable del ahorro)
+## 3. ESCALA DEL AHORRO ESTATAL Y AUTONOMICA (Base liquidable del ahorro)
 
-Aplicable a rendimientos del capital mobiliario y ganancias patrimoniales que integran la base del ahorro.
+Aplicable a rendimientos del capital mobiliario (dividendos, intereses, seguros) y ganancias patrimoniales derivadas de transmisiones de elementos patrimoniales que integran la base del ahorro.
 
-### Escala estatal del ahorro (50%):
+Normativa: art. 66.1 (estatal) y art. 76 (autonomica) LIRPF.
 
-| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
-|---|---|---|---|
-| 0,00 | 0,00 | 6.000,00 | 9,50 |
-| 6.000,00 | 570,00 | 44.000,00 | 10,50 |
-| 50.000,00 | 5.190,00 | 150.000,00 | 11,50 |
-| 200.000,00 | 22.440,00 | 100.000,00 | 13,50 |
-| 300.000,00 | 35.940,00 | En adelante | 15,00 |
-
-### Escala autonomica del ahorro (50%):
+### Escala estatal del ahorro (50% de la base del ahorro):
 
 | Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
 |---|---|---|---|
@@ -95,7 +90,23 @@ Aplicable a rendimientos del capital mobiliario y ganancias patrimoniales que in
 | 200.000,00 | 22.440,00 | 100.000,00 | 13,50 |
 | 300.000,00 | 35.940,00 | En adelante | 15,00 |
 
-**Tipos totales efectivos del ahorro:** Del 19% (hasta 6.000 euros) al 30% (a partir de 300.000 euros).
+### Escala autonomica del ahorro (50% de la base del ahorro):
+
+**La escala autonomica del ahorro es identica a la estatal en TODAS las CCAA de regimen comun** (las CCAA no tienen competencia para modificarla; esta fijada en el art. 76 LIRPF). Las cuantias y tipos son exactamente los mismos que en la tabla anterior.
+
+Los contribuyentes de Ceuta y Melilla aplican igualmente esta escala (no tienen escala autonomica propia), pero luego se benefician de la bonificacion del 60% del art. 68.4 LIRPF.
+
+Los contribuyentes de territorios forales (Navarra y los tres vascos) tienen sus propias escalas del ahorro (ver archivos forales).
+
+**Tipos totales efectivos del ahorro (estatal + autonomica):**
+
+| Base del ahorro | Tipo total |
+|---|---|
+| 0 - 6.000 | 19,00% |
+| 6.000 - 50.000 | 21,00% |
+| 50.000 - 200.000 | 23,00% |
+| 200.000 - 300.000 | 27,00% |
+| Mas de 300.000 | 30,00% |
 
 **Novedad 2025:** Se eleva el tipo del ultimo tramo del ahorro del 14% al 15% por cada escala (estatal y autonomica), resultando en un tipo total maximo del 30%.
 
@@ -596,7 +607,171 @@ Situaciones donde suele ser mas ventajosa la individual:
 
 ---
 
-## 13. OBLIGACIONES FORMALES Y PLAZOS
+## 13. CALCULO INTEGRO DEL IRPF: ORDEN DE OPERACIONES Y RETENCIONES
+
+Esta seccion describe el orden exacto de operaciones para recalcular la cuota del IRPF desde rendimientos integros hasta el resultado final, y los tipos de retencion vigentes en 2025. Permite VERIFICAR un borrador de la AEAT sin depender del calculo automatico de Renta WEB.
+
+Fuente: Manual Practico Renta 2025, Capitulos 13, 14, 15, 16 y 18 (AEAT).
+
+### 13.1. Flujo completo del calculo (15 pasos)
+
+```
+[1] RENDIMIENTOS INTEGROS
+    Trabajo + Capital mobiliario + Capital inmobiliario + Actividades economicas
+    + Imputacion rentas inmobiliarias + Ganancias patrimoniales
+        |
+        v (restar gastos deducibles especificos de cada tipo de rendimiento)
+
+[2] RENDIMIENTOS NETOS
+        |
+        v (aplicar reducciones especificas: art. 18 trabajo, reduccion 60% alquiler vivienda, etc.)
+
+[3] RENDIMIENTOS NETOS REDUCIDOS
+        |
+        v (integracion y compensacion de rentas dentro de cada base)
+
+[4] BASE IMPONIBLE GENERAL  ||  BASE IMPONIBLE DEL AHORRO
+        |                            |
+        v (restar reducciones de la base: planes de pensiones, conjunta, pension compensatoria)
+
+[5] BASE LIQUIDABLE GENERAL  ||  BASE LIQUIDABLE DEL AHORRO
+        |                            |
+        |                            |  (NO se resta el minimo de la base — el minimo
+        |                            |   se aplica en el calculo de la cuota, no antes)
+        v                            v
+
+[6] CALCULO DE CUOTAS INTEGRAS GENERALES (BLG)
+    a) Aplicar escala ESTATAL general (sec.2) a BLG          -> Cuota 1
+    b) Aplicar escala AUTONOMICA general (archivo regional) a BLG -> Cuota 2
+    c) Aplicar escala ESTATAL general a la PARTE de BLG
+       correspondiente al MINIMO ESTATAL (sec.4)              -> Cuota 3
+    d) Aplicar escala AUTONOMICA general a la parte de BLG
+       correspondiente al MINIMO AUTONOMICO (archivo regional) -> Cuota 4
+
+[7] CUOTA INTEGRA GENERAL ESTATAL    = Cuota 1 - Cuota 3
+    CUOTA INTEGRA GENERAL AUTONOMICA = Cuota 2 - Cuota 4
+
+[8] CALCULO DE CUOTAS INTEGRAS DEL AHORRO (BLA)
+    a) Aplicar escala ESTATAL del ahorro (sec.3) a BLA       -> Cuota A
+    b) Aplicar escala AUTONOMICA del ahorro (sec.3) a BLA    -> Cuota B
+       (identica a la estatal en regimen comun)
+    c) Si la BLG no consume todo el minimo estatal, aplicar la
+       escala estatal del ahorro al REMANENTE no consumido    -> Cuota C
+    d) Igual con el remanente del minimo autonomico           -> Cuota D
+
+[9] CUOTA INTEGRA DEL AHORRO ESTATAL    = Cuota A - Cuota C
+    CUOTA INTEGRA DEL AHORRO AUTONOMICA = Cuota B - Cuota D
+
+[10] CUOTA INTEGRA ESTATAL    = [7] estatal    + [9] estatal
+     CUOTA INTEGRA AUTONOMICA = [7] autonomica + [9] autonomica
+     CUOTA INTEGRA TOTAL      = ESTATAL + AUTONOMICA
+        |
+        v
+
+[11] DEDUCCIONES DE LA CUOTA INTEGRA
+     a) Deducciones estatales (sec.11): vivienda pre-2013 (50%
+        estatal), donativos (50% estatal), eficiencia energetica,
+        vehiculo electrico (50% estatal), Ceuta/Melilla (60%),
+        empresas nueva creacion, doble imposicion internacional.
+     b) Deducciones autonomicas (archivo regional): segun CCAA.
+     c) Deducciones complementarias (vivienda pre-2013 50%
+        autonomica, donativos 50% autonomica) cuando proceda.
+        |
+        v
+
+[12] CUOTA LIQUIDA ESTATAL  +  CUOTA LIQUIDA AUTONOMICA
+     = CUOTA LIQUIDA TOTAL
+        |
+        v (restar deducciones aplicables sobre cuota liquida total)
+
+[13] CUOTA RESULTANTE DE LA AUTOLIQUIDACION
+     - Deduccion por doble imposicion internacional final
+     - Deduccion por maternidad (lo que no exceda)
+     - Deducciones por familia numerosa, ascendiente con discapacidad
+        |
+        v (restar pagos a cuenta efectivamente practicados)
+
+[14] CUOTA DIFERENCIAL
+     - Restar retenciones e ingresos a cuenta soportados (sec.13.3)
+     - Restar pagos fraccionados (autonomos, modelos 130/131)
+        |
+        v (restar abono anticipado de deducciones)
+
+[15] RESULTADO DE LA DECLARACION
+     - Restar abono anticipado de maternidad ya percibido
+     - Restar abono anticipado de familia numerosa ya percibido
+     - Sumar regularizacion IMV si procede
+     = A INGRESAR (resultado positivo) o A DEVOLVER (negativo)
+```
+
+### 13.2. Integracion con el gravamen autonomico
+
+Cada contribuyente de regimen comun aplica de forma simultanea:
+
+| Componente | Estatal | Autonomico |
+|---|---|---|
+| Escala general | Art. 63.1 LIRPF (sec.2 de este archivo) | Distinta en cada CCAA, ver archivo regional |
+| Escala del ahorro | Art. 66.1 LIRPF (sec.3) | Idéntica a la estatal por mandato del art. 76 LIRPF |
+| Minimo personal/familiar | Sec.4 de este archivo | Algunas CCAA propio (ver tabla siguiente), resto = estatal |
+
+**CCAA con minimo personal y familiar AUTONOMICO propio distinto del estatal (2025):**
+
+- Andalucia (Art. 23 bis Ley 5/2021)
+- Principado de Asturias (Arts. 2 bis-quinquies DLeg 2/2014)
+- Illes Balears (Art. 2 DLeg 1/2014, varios incrementos del 10%)
+- Canarias (Art. 18 quater DLeg 1/2009)
+- Galicia (Art. 4 bis DLeg 1/2011)
+- Madrid (Arts. 2/2 bis/2 ter/2 quater DLeg 1/2010)
+- La Rioja (Art. 31 bis Ley 10/2017, **solo** minimo por discapacidad de descendientes)
+- Comunitat Valenciana (Art. 2 bis Ley 13/1997)
+
+**CCAA que aplican los importes estatales sin modificacion:**
+- Aragon, Cantabria, Castilla-La Mancha, Castilla y Leon, Cataluna, Extremadura, Region de Murcia, Ceuta y Melilla.
+
+> Nota: Castilla y Leon y Cataluna han aprobado expresamente sus minimos en su normativa autonomica, pero replicando los importes estatales del art. 57-60 LIRPF. La regulacion existe; las cuantias son las mismas.
+
+**Caso especial Ceuta y Melilla:** No tienen escala autonomica propia. Aplican la escala del art. 65 LIRPF (idéntica a la estatal del art. 63.1). A continuacion se benefician de la bonificacion del 60% del art. 68.4 LIRPF sobre la parte de la cuota integra correspondiente a las rentas obtenidas en estas ciudades. Ver `references/regiones/ceuta.md` y `melilla.md`.
+
+### 13.3. Retenciones e ingresos a cuenta vigentes en 2025
+
+Fuente: arts. 99-101 LIRPF y arts. 74-108 Reglamento IRPF (RD 439/2007).
+
+| Tipo de renta | Retencion 2025 |
+|---|---|
+| Rendimientos del trabajo | Tipo variable segun escala progresiva del art. 101 LIRPF, que tiene en cuenta retribucion anual prevista, situacion familiar y reducciones aplicables. Tipo minimo 2% en contratos de duracion inferior a 1 ano. |
+| Rendimientos de actividades profesionales (regla general) | 15% |
+| Profesionales en inicio de actividad (primer ejercicio y dos siguientes) | 7% |
+| Rendimientos de actividades agricolas y ganaderas | 2% |
+| Engorde de porcino y avicultura | 1% |
+| Actividades forestales | 2% |
+| Rendimientos del capital mobiliario (intereses, dividendos, seguros) | 19% |
+| Rendimientos por arrendamiento o subarrendamiento de inmuebles urbanos | 19% |
+| Ganancias patrimoniales por transmision o reembolso de acciones/participaciones de IIC (fondos de inversion) | 19% |
+| Premios de loterias y apuestas sujetos (>40.000 EUR por premio) | 20% |
+| Rendimientos de la propiedad intelectual / industrial | 19% (15% si profesional autor) |
+| Rendimientos derivados de impartir cursos, conferencias, seminarios | 15% |
+| Consejeros y administradores de sociedades | 35% (19% si la entidad facturo <100.000 EUR el ejercicio anterior) |
+
+Las retenciones soportadas por el contribuyente durante 2025 se restan en el paso [14] del flujo (cuota diferencial) junto con los pagos fraccionados.
+
+### 13.4. Como verificar un borrador paso a paso
+
+Para contrastar un borrador de la AEAT y detectar discrepancias:
+
+1. **Identificar la CCAA de residencia** y cargar `references/regiones/[ccaa].md` ademas de este archivo.
+2. **Verificar rendimientos integros** declarados (casillas del modelo 100): trabajo, capital mobiliario, capital inmobiliario, actividades, ganancias.
+3. **Verificar gastos deducibles y reducciones** aplicadas en cada tipo de rendimiento (sec.5-9 de este archivo).
+4. **Verificar las reducciones de la base** (sec.10): planes de pensiones, conjunta, pension compensatoria.
+5. **Calcular base liquidable general y del ahorro** (paso [5]).
+6. **Aplicar las cuatro escalas** (paso [6]): estatal y autonomica de cada base. La escala autonomica es la del archivo regional.
+7. **Aplicar las cuatro escalas al minimo personal y familiar** (paso [6c-d]). Si la CCAA tiene minimo autonomico propio, usar ese para Cuota 4; si no, usar el estatal.
+8. **Restar las deducciones de la cuota** (paso [11]): primero las estatales de sec.11, luego las autonomicas del archivo regional.
+9. **Restar retenciones y pagos a cuenta** (paso [14]).
+10. **Comparar el resultado final** con el del borrador. Diferencias de unos pocos centimos pueden deberse a redondeos; diferencias mayores indican un error de calculo o un dato no incorporado en alguno de los pasos anteriores.
+
+---
+
+## 14. OBLIGACIONES FORMALES Y PLAZOS
 
 ### Campana Renta 2025
 
@@ -626,7 +801,18 @@ Si el contribuyente detecta errores, puede presentar una autoliquidacion rectifi
 
 ## FUENTES OFICIALES
 
-- AEAT Manual Practico Renta 2025: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100.html
-- AEAT Deducciones generales: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota/introduccion/deducciones-generales-autonomicas-aplicables.html
-- BOE Orden HAC/277/2026 (modelos declaracion Renta 2025): https://www.boe.es/buscar/act.php?id=BOE-A-2026-7041
-- AEAT Gravamen estatal: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras/gravamen-base-liquidable-general/gravamen-estatal.html
+**Manual Practico de Renta 2025 (AEAT)** — Documentos PDF completos (1.903 paginas en total):
+- Parte 1 (1.270 paginas, calculo del impuesto, escalas, minimos, rendimientos, deducciones estatales): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Parte 2 (633 paginas, deducciones autonomicas por CCAA): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+
+**Manual Practico Renta 2025 (HTML por capitulos):**
+- Indice: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100.html
+- Capitulo 14 (minimo personal y familiar): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c14-minimo-personal-familiar.html
+- Capitulo 15 (calculo del impuesto, escalas estatales y autonomicas): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras.html
+- Capitulo 16 (deducciones generales de la cuota): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota.html
+- Capitulo 18 (cuota liquida y resultado): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c18-cuota-liquida-resultante-autoliquidacion.html
+- Gravamen estatal (escala general): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras/gravamen-base-liquidable-general/gravamen-estatal.html
+- Gravamen autonomico (escalas por CCAA): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras/gravamen-base-liquidable-general/gravamen-autonomico.html
+
+**BOE — Modelo declaracion 2025:**
+- Orden HAC/277/2026 (modelo D-100): https://www.boe.es/buscar/act.php?id=BOE-A-2026-7041

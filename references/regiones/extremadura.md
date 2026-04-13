@@ -1,7 +1,47 @@
-# IRPF 2025 - Deducciones Autonomicas: Extremadura
+# IRPF 2025 - Comunidad Autonoma de Extremadura
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Extremadura a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Extremadura: Decreto Legislativo 1/2018, de 10 de abril
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 1 DLeg 1/2018.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0 | 0 | 12.450,00 | 8,00 |
+| 12.450,00 | 996,00 | 7.750,00 | 10,00 |
+| 20.200,00 | 1.771,00 | 4.000,00 | 16,00 |
+| 24.200,00 | 2.411,00 | 11.000,00 | 17,50 |
+| 35.200,00 | 4.336,00 | 24.800,00 | 21,00 |
+| 60.000,00 | 9.544,00 | 20.200,00 | 23,50 |
+| 80.200,00 | 14.291,00 | 19.000,00 | 24,00 |
+| 99.200,00 | 18.851,00 | 21.000,00 | 24,50 |
+| 120.200,00 | 23.996,00 | En adelante | 25,00 |
+
+**Tipo marginal maximo autonomico: 25,00%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 25,00% + 24,50% = **49,50%** para rentas superiores a 300.000 EUR.
+
+Extremadura tiene una escala muy progresiva con primer tramo al 8% (favorece a rentas bajas) y marginal alto.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Extremadura **no ha aprobado importes propios** del minimo personal y familiar. Aplicar los importes estatales de `nacional.md §4`.
 
 ---
 

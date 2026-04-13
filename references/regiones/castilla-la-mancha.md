@@ -1,7 +1,43 @@
-# IRPF 2025 - Deducciones Autonomicas: Castilla-La Mancha
+# IRPF 2025 - Comunidad Autonoma de Castilla-La Mancha
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Castilla-La Mancha a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Castilla-La Mancha: Ley 8/2013, de 21 de noviembre, de Medidas Tributarias
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 13 bis Ley 8/2013, de Medidas Tributarias de la Comunidad Autonoma de Castilla-La Mancha.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 12.450,00 | 9,50 |
+| 12.450,00 | 1.182,75 | 7.750,00 | 12,00 |
+| 20.200,00 | 2.112,75 | 15.000,00 | 15,00 |
+| 35.200,00 | 4.362,75 | 24.800,00 | 18,50 |
+| 60.000,00 | 8.950,75 | En adelante | 22,50 |
+
+**Tipo marginal maximo autonomico: 22,50%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 22,50% + 24,50% = **47,00%** para rentas superiores a 300.000 EUR.
+
+Castilla-La Mancha mantiene una escala autonomica **identica a la estatal** del art. 63.1 LIRPF en todos los tramos.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Castilla-La Mancha **no ha aprobado importes propios** del minimo personal y familiar. Aplicar los importes estatales de `nacional.md §4`.
 
 ---
 

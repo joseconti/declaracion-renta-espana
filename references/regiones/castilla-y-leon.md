@@ -1,7 +1,43 @@
-# IRPF 2025 - Deducciones Autonomicas: Castilla y Leon
+# IRPF 2025 - Comunidad de Castilla y Leon
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Castilla y Leon a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Castilla y Leon: Decreto Legislativo 1/2013, de 12 de septiembre
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 1 DLeg 1/2013.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 12.450,00 | 9,00 |
+| 12.450,00 | 1.120,50 | 7.750,00 | 12,00 |
+| 20.200,00 | 2.050,50 | 15.000,00 | 14,00 |
+| 35.200,00 | 4.150,50 | 18.207,20 | 18,50 |
+| 53.407,20 | 7.518,83 | En adelante | 21,50 |
+
+**Tipo marginal maximo autonomico: 21,50%** (uno de los mas bajos del regimen comun, solo por debajo de Madrid).
+
+**Tipo marginal maximo total (estatal + autonomico):** 21,50% + 24,50% = **46,00%** para rentas superiores a 300.000 EUR.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: art. 1 bis DLeg 1/2013.
+
+Castilla y Leon ha aprobado expresamente su minimo personal y familiar pero **fijando los mismos importes que la Ley del IRPF** (arts. 57-60). Los contribuyentes castellanoleoneses aplican los importes estatales de `nacional.md §4`.
 
 ---
 

@@ -1,7 +1,47 @@
-# IRPF 2025 - Deducciones Autonomicas: Aragon
+# IRPF 2025 - Comunidad Autonoma de Aragon
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-aragon.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Aragon a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Aragon: Decreto Legislativo 1/2005, de 26 de septiembre
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 110-1 Texto Refundido de las disposiciones dictadas por la Comunidad Autonoma de Aragon en materia de tributos cedidos, aprobado por DLeg 1/2005.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 13.072,50 | 9,50 |
+| 13.072,50 | 1.241,89 | 8.137,50 | 12,00 |
+| 21.210,00 | 2.218,39 | 15.750,00 | 15,00 |
+| 36.960,00 | 4.580,89 | 15.540,00 | 18,50 |
+| 52.500,00 | 7.455,79 | 7.500,00 | 20,50 |
+| 60.000,00 | 8.993,29 | 20.000,00 | 23,00 |
+| 80.000,00 | 13.593,29 | 10.000,00 | 24,00 |
+| 90.000,00 | 15.993,29 | 40.000,00 | 25,00 |
+| 130.000,00 | 25.993,29 | En adelante | 25,50 |
+
+**Tipo marginal maximo autonomico: 25,50%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 25,50% + 24,50% = **50,00%** para rentas superiores a 300.000 EUR.
+
+Aragon es la CCAA con mas tramos autonomicos (9 tramos) y un marginal alto.
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Aragon **no ha aprobado importes propios** del minimo personal y familiar. Los contribuyentes residentes en Aragon aplican los importes estatales de `nacional.md §4` tanto para el gravamen estatal como para el autonomico.
 
 ---
 

@@ -1,7 +1,78 @@
-# IRPF 2025 - Deducciones Autonomicas: Andalucia
+# IRPF 2025 - Comunidad Autonoma de Andalucia
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-andalucia.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Andalucia a 31/12/2025. Incluye escala autonomica general, escala del ahorro, minimos autonomicos y deducciones autonomicas.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT), capitulos 14 y 15: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Ley 5/2021, de 20 de octubre, de Tributos Cedidos de la Comunidad Autonoma de Andalucia
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 23 Ley 5/2021, de 20 de octubre, de Tributos Cedidos de la Comunidad Autonoma de Andalucia.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 13.000,00 | 9,50 |
+| 13.000,00 | 1.235,00 | 8.100,00 | 12,00 |
+| 21.100,00 | 2.207,00 | 14.100,00 | 15,00 |
+| 35.200,00 | 4.322,00 | 24.800,00 | 18,50 |
+| 60.000,00 | 8.910,00 | En adelante | 22,50 |
+
+**Tipo marginal maximo autonomico: 22,50%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 22,50% + 24,50% = **47,00%** para rentas superiores a 300.000 EUR.
+
+Andalucia ha mantenido una escala deflactada respecto de la estatal (primer tramo hasta 13.000 EUR frente a 12.450 EUR estatal).
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: art. 23 bis Ley 5/2021.
+
+Andalucia ha aprobado importes del minimo personal y familiar **distintos de los estatales**. Los contribuyentes residentes en Andalucia deben aplicar estos importes a efectos del gravamen autonomico (Cuota 4 del flujo de `nacional.md §13.1`); a efectos del gravamen estatal (Cuota 3) se aplican los estatales de `nacional.md §4`.
+
+### Minimo del contribuyente
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| General | 5.790 |
+| Incremento mayores de 65 anos | +1.200 |
+| Incremento adicional mayores de 75 anos | +1.460 |
+
+### Minimo por descendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Primer descendiente | 2.510 |
+| Segundo descendiente | 2.820 |
+| Tercer descendiente | 4.170 |
+| Cuarto y siguientes | 4.700 |
+| Incremento por descendiente menor de 3 anos | +2.920 |
+
+### Minimo por ascendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Por ascendiente > 65 anos o con discapacidad | 1.200 |
+| Incremento por ascendiente > 75 anos | +1.460 |
+
+### Minimo por discapacidad
+
+| Grado | Cuantia anual (euros) |
+|---|---|
+| 33% - 65% | 3.130 |
+| >= 65% | 9.390 |
+| Incremento por ayuda de terceros o movilidad reducida | +3.130 |
 
 ---
 

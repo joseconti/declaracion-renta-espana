@@ -1,7 +1,78 @@
-# IRPF 2025 - Deducciones Autonomicas: Galicia
+# IRPF 2025 - Comunidad Autonoma de Galicia
 
-Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciones-autonomicas.html
+Tramo autonomico del IRPF 2025 aplicable a los contribuyentes con residencia habitual en Galicia a 31/12/2025.
+
+Fuentes oficiales:
+- Manual Practico Renta 2025, Parte 1 (AEAT): https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025/ManualRenta2025Parte1_es_es.pdf
+- Manual Practico Renta 2025, Parte 2: https://sede.agenciatributaria.gob.es/static_files/Sede/Biblioteca/Manual/Practicos/IRPF/IRPF-2025-Deducciones-autonomicas/ManualRenta2025Parte2_es_es.pdf
+- Texto Refundido Galicia: Decreto Legislativo 1/2011, de 28 de julio
+
+---
+
+## ESCALA AUTONOMICA GENERAL 2025
+
+Normativa: art. 4 DLeg 1/2011.
+
+| Base liquidable hasta (euros) | Cuota integra (euros) | Resto base hasta (euros) | Tipo aplicable (%) |
+|---|---|---|---|
+| 0,00 | 0,00 | 12.985,35 | 9,00 |
+| 12.985,35 | 1.168,68 | 8.083,25 | 11,65 |
+| 21.068,60 | 2.110,38 | 14.131,40 | 14,90 |
+| 35.200,00 | 4.215,96 | 24.800,00 | 18,40 |
+| 60.000,00 | 8.779,16 | En adelante | 22,50 |
+
+**Tipo marginal maximo autonomico: 22,50%**.
+
+**Tipo marginal maximo total (estatal + autonomico):** 22,50% + 24,50% = **47,00%** para rentas superiores a 300.000 EUR.
+
+Galicia ha aplicado una deflactacion de tramos en 2025 (los limites estan ligeramente por encima de los estatales).
+
+---
+
+## ESCALA AUTONOMICA DEL AHORRO 2025
+
+Identica a la estatal (art. 76 LIRPF). Ver `nacional.md §3`.
+
+---
+
+## MINIMO PERSONAL Y FAMILIAR AUTONOMICO 2025
+
+Normativa: art. 4 bis DLeg 1/2011.
+
+Galicia ha aprobado importes propios del minimo personal y familiar. Aplicar a efectos del gravamen autonomico (Cuota 4); para el gravamen estatal usar los importes estatales de `nacional.md §4`.
+
+### Minimo del contribuyente
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| General | 5.789 |
+| Incremento mayores de 65 anos | +1.199 |
+| Incremento adicional mayores de 75 anos | +1.460 |
+
+### Minimo por descendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Primer descendiente | 2.503 |
+| Segundo descendiente | 2.816 |
+| Tercer descendiente | 4.172 |
+| Cuarto y siguientes | 4.694 |
+| Incremento por descendiente menor de 3 anos | +2.920 |
+
+### Minimo por ascendientes
+
+| Concepto | Cuantia anual (euros) |
+|---|---|
+| Por ascendiente > 65 anos o con discapacidad | 1.199 |
+| Incremento por ascendiente > 75 anos | +1.460 |
+
+### Minimo por discapacidad
+
+| Grado | Cuantia anual (euros) |
+|---|---|
+| 33% - 65% | 3.129 |
+| >= 65% | 9.387 |
+| Incremento por ayuda de terceros o movilidad reducida | +3.129 |
 
 ---
 
