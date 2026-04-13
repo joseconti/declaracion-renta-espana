@@ -231,6 +231,117 @@ Desde el 1 de enero de 2025 (Disposicion adicional sexagesima LIRPF), se aplica 
 
 **Dato clave:** Si hay más de un pagador y el segundo y sucesivos suman > 1.500 EUR, el límite de no obligación baja de 22.000 a 15.876 EUR.
 
+### 5.6. Funcionario con mutualidad (MUFACE, ISFAS, MUGEJU)
+
+Las cuotas a mutualidades de funcionarios (MUFACE para funcionarios civiles, ISFAS para fuerzas y cuerpos de seguridad, MUGEJU para judicatura) son gastos deducibles de los rendimientos del trabajo, con límite del art. 19.2.a LIRPF (sin superar los límites generales de gastos deducibles).
+
+**Régimen especial para jubilados funcionarios mutualistas:**
+- Si el funcionario fue mutualista antes del 1/1/1979, una parte de la pensión de jubilación puede estar EXENTA del IRPF conforme a la Disposición Transitoria 2ª LIRPF
+- Este caso es muy relevante para jubilados que fueron funcionarios
+- La exención depende del régimen de cotización en vigor en el momento de la jubilación
+
+**Tributación de prestaciones:**
+- Las prestaciones de estas mutualidades se consideran rendimientos del trabajo (pensiones, asignaciones de jubilación)
+- Están sujetas a retención (como el resto de rendimientos del trabajo)
+
+### 5.7. Pensionista y jubilado
+
+**Pensiones públicas de la Seguridad Social:**
+- Son rendimientos del trabajo
+- Están sujetas a retención
+
+**Pensiones derivadas de planes de pensiones:**
+- El 100% del importe del rescate tributa como rendimiento del trabajo
+- EXCEPTO: rescate en forma de capital con aportaciones realizadas antes de 2007, que tiene reducción del 40% (aplicable solo a esa parte)
+- No se aplica la reducción general por rendimientos del trabajo si los ingresos totales superan ciertos límites
+
+**Pensiones por incapacidad permanente absoluta o gran invalidez:**
+- SON EXENTAS 100% (art. 7.f LIRPF)
+- No tributan en el IRPF
+
+**Pensiones de viudedad y orfandad:**
+- Son rendimientos del trabajo
+- NO están exentas
+
+**Mínimos personales incrementados para pensionistas:**
+- Contribuyente mayor de 65 años: incremento adicional de +1.150 euros al mínimo personal
+- Contribuyente mayor de 75 años: incremento adicional de +1.400 euros (adicionales al anterior)
+
+**Anualidades por alimentos recibidas del ex-cónyuge:**
+- Se consideran rendimientos del trabajo
+- Están sujetas a retención (normalmente a cargo de quien las paga)
+
+### 5.8. Desempleado
+
+**Prestación por desempleo (SEPE):**
+- Es rendimiento del trabajo sujeto a retención
+- El SEPE actúa como pagador
+
+**Prestación por desempleo en pago único para iniciar actividad económica:**
+- EXENTA íntegramente del IRPF (art. 7.n LIRPF)
+- Requisito: acreditar que se destina a iniciar una actividad económica por cuenta propia
+
+**Subsidio por desempleo:**
+- Es rendimiento del trabajo
+- Está sujeto a retención
+
+**Renta Activa de Inserción (RAI):**
+- Es rendimiento del trabajo
+- Está sujeta a retención
+
+**Obligación de declarar en caso de múltiples pagadores:**
+- Si el desempleado recibe prestaciones de desempleo y además tiene otro pagador (empresa, enseñanza, etc.) y el segundo pagador supera 1.500 EUR, está obligado a declarar aunque la suma sea inferior a 15.876 EUR
+
+### 5.9. Trabajador del hogar
+
+Los ingresos derivados del trabajo en el hogar se consideran **rendimientos del trabajo**.
+
+**Características especiales:**
+- Su empleador (el hogar/persona física) NO tiene obligación de retener IRPF
+- Por tanto, el trabajador del hogar suele estar obligado a presentar declaración de la Renta
+- Está incluido en el sistema especial de la Seguridad Social (no RETA), lo que implica aportaciones y cotizaciones diferentes al autónomo
+
+**Gastos deducibles:**
+- Cotizaciones a la Seguridad Social (cuota de trabajador)
+- Pueden aplicarse otros gastos conforme al art. 19 LIRPF
+
+### 5.10. Consejero de administración
+
+**Retribución de consejeros y administradores:**
+- Se considera rendimiento del trabajo (art. 17.2.e LIRPF)
+- Está sujeta a retención en la fuente
+
+**Retención practicada:**
+- 35% sobre las retribuciones (o 19% si la entidad tiene cifra de negocios inferior a 100.000 EUR)
+- La entidad debe practicar retención y declarar en modelo 190
+
+**Limitaciones a reducciones:**
+- Si los ingresos totales como consejero superan ciertos umbrales, NO se aplica la reducción general por rendimientos del trabajo (art. 20 LIRPF)
+- Deben reconstruirse todos los rendimientos del trabajo para comprobar si se cumplen los requisitos de la reducción
+
+### 5.11. Deportista de élite
+
+**Rendimientos generales:**
+- Los pagos por actuaciones, competiciones y entrenamientos son rendimientos del trabajo
+
+**Reducción por rendimientos irregulares:**
+- Si el deportista cobra premios o pagos plurianuales de forma irregular, puede aplicar la reducción por rendimientos irregulares del art. 18.2 LIRPF
+- Requiere que los rendimientos de 2+ ejercicios anteriores sean inferiores al 75% del rendimiento del año actual
+
+**Exención de premios (caso especial):**
+- Los premios de la Administración por competiciones deportivas internacionales pueden estar parcialmente exentos conforme a art. 7.m LIRPF (exención limitada)
+- No es una exención ilimitada
+
+### 5.12. Sacerdote y religioso
+
+**Ingresos como rendimiento del trabajo:**
+- La asignación recibida del obispado/diócesis o del instituto religioso se considera rendimiento del trabajo
+- Está incluida en los rendimientos del trabajo sujetos a impuesto
+
+**Inclusión en Seguridad Social:**
+- Están afiliados al Régimen General de la Seguridad Social (a través de la diócesis u organización religiosa)
+- Las cotizaciones a la SS son deducibles como gastos del rendimiento
+
 ---
 
 ## 6. RENDIMIENTOS DEL CAPITAL INMOBILIARIO
@@ -363,6 +474,48 @@ Las actividades económicas (autónomos y profesionales) pueden tributar bajo tr
 
 Para el detalle completo de actividades económicas (catálogo de gastos deducibles, tabla de amortización, regímenes de estimación, pagos fraccionados, retenciones, conciliación anual), consultar `references/autonomos.md`.
 
+### 8.4. Agricultor y ganadero
+
+**Régimen de tributación frecuente:**
+Muchos agricultores y ganaderos tributan en **estimación objetiva (módulos)** con índices específicos agrícolas establecidos por la administración tributaria.
+
+**Para los que tributan en estimación directa:**
+- Las subvenciones agrícolas de la PAC (Política Agrícola Común) son ingresos computables y tributan como ingresos de la actividad
+- Se incluyen en el cálculo del rendimiento neto
+
+**Gastos deducibles específicos (aplicables en estimación directa):**
+- Semillas, plantas de vivero y otros materiales de reproducción
+- Fertilizantes, abonos, enmiendas del suelo
+- Piensos para el ganado (alimentos concentrados, forrajes comprados)
+- Combustible y energía (gasóleo agrícola, electricidad para explotación)
+- Seguros agrarios (contra granizo, sequía, plagas, etc.)
+- Tratamientos fitosanitarios y desinfectantes
+- Herramientas y aperos menores
+- Mantenimiento de máquinas agrícolas
+- Riego y sistemas de riego
+- Mano de obra estacional
+
+**Retención sobre pagos a agricultores:**
+- 2% para ganaderos y agricultores que tributan en módulos
+- 1% para actividades agrícolas en estimación directa
+- Aplicable cuando facturan a empresas de ciertos sectores
+
+### 8.5. Cooperativista
+
+**Retornos cooperativos:**
+- Los retornos (dividendos) distribuidos por una cooperativa se consideran **rendimiento del capital mobiliario**
+- Están sujetos a retención del 19%
+- Se integran en la base del ahorro del socio
+
+**Anticipos laborales del socio trabajador:**
+- Los anticipos que recibe un socio trabajador de la cooperativa (como retribución por su trabajo) se consideran **rendimiento del trabajo**
+- Se calculan y tributan como rendimientos del trabajo
+- Pueden aplicarse las reducciones y gastos deducibles del trabajo
+
+**Régimen fiscal especial de cooperativas:**
+- Las cooperativas tienen régimen fiscal especial conforme a la Ley 20/1990 (Ley de Régimen Fiscal de Cooperativas)
+- No afecta directamente al IRPF del socio, salvo que este es el que tributa normalmente sobre sus rendimientos de la cooperativa (tanto laborales como de capital)
+
 ---
 
 ## 9. GANANCIAS Y PÉRDIDAS PATRIMONIALES
@@ -448,6 +601,26 @@ Ganancia/Perdida = Valor de transmision - Valor de adquisicion
 9. Resultado = ganancia/pérdida neta integrable
 
 **Dato clave:** Las ganancias por transmisión de vivienda habitual tributada después de 2015 están completamente exentas para mayores de 65 años. Reinversión en nueva vivienda exenta sin límite dentro de 2 años.
+
+### 9.6. Heredero que vende bienes heredados
+
+**Valor de adquisición:**
+- El valor de adquisición del bien heredado es el valor declarado en el Impuesto sobre Sucesiones (no el valor original del bien a fecha del fallecimiento del causante)
+- Excepto: en ciertos casos, se usa el valor de la tributación del Impuesto de Sucesiones al momento de la herencia
+
+**Fecha de adquisición:**
+- La fecha de adquisición del bien heredado es la **fecha del fallecimiento del causante** (no la fecha de liquidación del Impuesto de Sucesiones, ni la fecha de la transmisión posterior)
+- Esta fecha es determinante para calcular el período de tenencia del bien
+
+**Exención por reinversión en vivienda habitual (NO aplicable):**
+- Si el bien heredado era la vivienda habitual del fallecido y el heredero la vende dentro de los 2 años siguientes al fallecimiento, **NO hay exención por reinversión**
+- Motivo: la vivienda habitual del causante NO es vivienda habitual del heredero; por tanto, no cumple los requisitos de exención
+- Sí puede aplicarse exención de transmisión si el heredero es mayor de 65 años y cumple otros requisitos
+
+**Coeficientes de abatimiento:**
+- Los coeficientes de abatimiento (reducción por generaciones) se aplican SOLO si el bien fue **adquirido por el fallecido antes del 31/12/1994**
+- Si el causante adquirió el bien después de 1994, NO se aplican coeficientes de abatimiento
+- El coeficiente depende de la generación del heredero y del valor del patrimonio transmitido
 
 ---
 

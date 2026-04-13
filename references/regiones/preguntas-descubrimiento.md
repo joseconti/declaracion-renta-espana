@@ -78,6 +78,25 @@ Este documento contiene las preguntas que el SKILL debe formular al contribuyent
 55. ¿Resides en una zona despoblada o municipio pequeño?
 56. ¿Te has mudado de isla (Canarias/Baleares)?
 
+## PERFILES ESPECÍFICOS DE CONTRIBUYENTE
+
+Estas preguntas ayudan a identificar perfiles con tratamiento fiscal especial.
+No hacer todas: seleccionar según los indicios del perfil.
+
+56b. ¿Eres funcionario/a? ¿Perteneces a alguna mutualidad (MUFACE, ISFAS, MUGEJU)?
+56c. ¿Fuiste mutualista antes del 1 de enero de 1979? (parte de la pensión puede estar exenta)
+56d. ¿Tu única fuente de ingresos es una pensión pública?
+56e. ¿Has rescatado un plan de pensiones en 2025? ¿En forma de capital o de renta?
+56f. ¿Tienes reconocida una incapacidad permanente absoluta o gran invalidez?
+56g. ¿Trabajas como empleado/a del hogar?
+56h. ¿Has vendido bienes que heredaste? ¿En qué año los heredaste?
+56i. ¿Eres miembro de un consejo de administración de alguna empresa?
+56j. ¿Eres deportista profesional o de élite?
+56k. ¿Eres sacerdote, religioso/a o recibiste asignación de una diócesis?
+56l. ¿Eres agricultor/a o ganadero/a?
+56m. ¿Eres socio/a trabajador/a de una cooperativa?
+56n. ¿Tienes custodia compartida de tus hijos?
+
 ---
 
 ## FUENTES DE DATOS EN BRUTO (Modo Preparación)
@@ -131,14 +150,16 @@ No hacer TODAS las preguntas de golpe. El flujo debe ser:
 1. Primero solicitar el borrador y extraer datos básicos
 2. Luego preguntar por la comunidad autónoma de residencia
 3. Formular las preguntas de situación personal/familiar
-4. Según las respuestas, profundizar en las categorías relevantes
-5. Cruzar respuestas con las deducciones de la comunidad autónoma
-6. Identificar deducciones no incluidas en el borrador
+4. Si hay indicios de perfiles especiales, formular las preguntas de "Perfiles específicos de contribuyente"
+5. Según las respuestas, profundizar en las categorías relevantes
+6. Cruzar respuestas con las deducciones de la comunidad autónoma
+7. Identificar deducciones no incluidas en el borrador
 
 **En modo preparación (Fase 1-B):**
 1. Preguntar comunidad autónoma y situación personal/familiar
-2. Formular las preguntas de "Fuentes de datos en bruto" para identificar documentación disponible
-3. Si hay actividad económica, formular las preguntas de "Actividades económicas / Autónomos"
-4. Solicitar los documentos que falten antes de continuar
-5. Profundizar en las categorías relevantes según perfil
-6. Recoger datos y consolidar por bloques
+2. Si hay indicios de perfiles especiales, formular las preguntas de "Perfiles específicos de contribuyente"
+3. Formular las preguntas de "Fuentes de datos en bruto" para identificar documentación disponible
+4. Si hay actividad económica, formular las preguntas de "Actividades económicas / Autónomos"
+5. Solicitar los documentos que falten antes de continuar
+6. Profundizar en las categorías relevantes según perfil
+7. Recoger datos y consolidar por bloques

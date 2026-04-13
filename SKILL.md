@@ -230,6 +230,21 @@ si está en alguna de estas listas. Es una de las fuentes de ahorro más descono
 - Trabajo en el extranjero (si menciona viajes o empresas extranjeras)
 - Criptomonedas (si menciona inversiones)
 
+**Preguntar según perfil del contribuyente:**
+- Funcionario: ¿Tiene mutualidad (MUFACE, ISFAS, MUGEJU)? ¿Fue mutualista antes de 1979?
+  (Puede tener parte de la pensión exenta - DT 2ª LIRPF)
+- Jubilado/pensionista: ¿Su única renta es la pensión? ¿Rescata plan de pensiones?
+  ¿Tiene incapacidad permanente absoluta o gran invalidez? (Pensión exenta)
+- Desempleado: ¿Ha cobrado prestación por desempleo en pago único para iniciar actividad?
+  (Exenta art. 7.n). ¿Ha tenido empresa + SEPE como pagadores? (Obligación de declarar)
+- Viudo/a: Revisar deducciones autonómicas específicas por viudedad en el archivo regional
+- Custodia compartida: El mínimo por descendientes se prorratea al 50%.
+  Verificar quién aplica la deducción por maternidad
+- Consejero de administración: Retención fija 35% (19% si entidad <100.000 EUR).
+  No aplicar reducción del art. 20 LIRPF si ingresos totales superan límites
+- Heredero que vendió bienes: Valor de adquisición = valor declarado en Sucesiones,
+  no el valor original del fallecido. Fecha de adquisición = fecha de fallecimiento
+
 **Preguntar según CCAA:**
 Leer el archivo de la comunidad correspondiente y formular las preguntas clave
 que aparecen en la sección "PREGUNTAS CLAVE PARA EL CONTRIBUYENTE".
@@ -509,6 +524,14 @@ deducciones propias de ese territorio.
     borrador de la AEAT no deben recalcularse desde documentos en bruto. Solo
     añadir al borrador los datos que falten (actividades económicas no declaradas,
     ganancias patrimoniales no comunicadas, etc.).
+
+15. **Atender a perfiles especiales de contribuyente.** No todos los contribuyentes
+    son asalariados estándar. El skill debe identificar y atender correctamente a
+    funcionarios con mutualidad, jubilados/pensionistas, desempleados, viudos,
+    trabajadores del hogar, herederos que venden bienes, consejeros de administración,
+    deportistas, religiosos, agricultores/ganaderos y cooperativistas. Los detalles
+    fiscales de estos perfiles están en las secciones correspondientes de
+    `references/nacional.md` (secciones 5.6-5.10, 8.4 y 9.6).
 
 ---
 
