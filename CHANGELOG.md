@@ -4,40 +4,84 @@ Todas las versiones notables de este skill se documentan en este archivo.
 
 ---
 
-## v2025-3 -- Territorios forales y auditoria completa de requisitos
+## v2025-4 -- Modo preparación, autónomos y ejemplos numéricos
+
+**Fecha:** 13 de abril de 2026
+
+### Modo preparación: nuevo flujo de trabajo
+
+El skill ahora soporta tres modos de trabajo:
+
+- **Modo A - Revisión:** El contribuyente tiene borrador y quiere revisarlo (flujo original).
+- **Modo B - Preparación:** El contribuyente NO tiene borrador y quiere calcular su declaración desde cero a partir de documentación en bruto (nóminas, certificados bancarios, facturas, etc.).
+- **Modo C - Híbrido:** El contribuyente tiene borrador pero le faltan datos (ingresos de autónomo, ventas no comunicadas, etc.).
+
+### Nuevos archivos
+
+- `references/autonomos.md` (556 líneas) -- Referencia completa de actividades económicas para autónomos y profesionales. 3 regímenes (EDS hasta 600.000 EUR, EDN, Módulos hasta 250.000 EUR), catálogo de 24 categorías de gastos deducibles con criterios y límites, tabla simplificada de amortización (12 grupos), gastos de difícil justificación (7%, hasta 2.000 EUR), retenciones por tipo de actividad (10 tipos, del 1% al 19%), pagos fraccionados trimestrales (modelos 130 y 131), conciliación anual con cuota diferencial, 18 preguntas clave para el contribuyente autónomo.
+
+- `references/modo-preparacion.md` (309 líneas) -- Flujo genérico de preparación desde cero para cualquier tipo de contribuyente. Principios (trazabilidad, prudencia, responsabilidad), 9 bloques de datos a recoger (identidad, trabajo, capital financiero, inmuebles, autónomo, ganancias, retenciones, donaciones, deducciones), normalización de documentos heterogéneos (PDF, Excel, CSV, imágenes, texto pegado), consolidación, entregable final ("paquete Renta WEB") con tabla de casillas principales y checklist de verificación profesional.
+
+### Expansión de archivos existentes
+
+- `references/nacional.md` -- Expandido de 632 a 909 líneas (+277 líneas, +44%). Nuevas subsecciones de reconstrucción de datos en bruto: sección 5.5 (rendimientos del trabajo desde nóminas), sección 6.4 (rendimientos inmobiliarios desde escrituras y contratos), sección 7.3 (rendimientos financieros desde certificados bancarios), sección 9.5 (ganancias patrimoniales desde documentos de compraventa). Sección 8 reducida a resumen con puntero a autonomos.md. Nueva sección 13.1 (subflujo de conciliación retenciones + pagos fraccionados). 3 ejemplos numéricos completos de liquidación: sección 13.2 (asalariado con 35.000 EUR -> devolución 2.343,54 EUR), sección 13.3 (autónomo profesional con 40.000 EUR facturados -> devolución 4.217,24 EUR), sección 13.4 (arrendador con salario 28.000 EUR + alquiler 12.000 EUR -> devolución 1.977,28 EUR).
+
+- `SKILL.md` -- Nuevas fases: Fase 0 (selección de modo: Revisión/Preparación/Híbrido), Fase 1-B (ingesta de documentación heterogénea), Fase 4-prep (cálculo de la declaración desde datos en bruto con 8 pasos), Fase 5 ampliada con entregable de modo preparación ("paquete Renta WEB"). Nuevos documentos de referencia (autonomos.md, modo-preparacion.md). 4 nuevas notas de comportamiento (11-14): no asumir datos ausentes, gastos difícil justificación 7% no 5%, comparación individual/conjunta obligatoria en preparación, no duplicar datos en modo híbrido.
+
+- `references/regiones/preguntas-descubrimiento.md` -- 2 nuevos bloques de preguntas: "Fuentes de datos en bruto" (13 preguntas, para modo preparación) y "Actividades económicas / Autónomos" (16 preguntas). Total: de 56 a 85 preguntas en 8 categorías. Instrucciones de uso actualizadas para ambos modos.
+
+- `README.md` -- Descripción actualizada con los 3 modos de trabajo (revisión, preparación, híbrido). Sección "Qué es este skill" reescrita con los 3 flujos. Árbol de archivos ampliado con autonomos.md y modo-preparacion.md. Nuevos ejemplos de uso para modo preparación. "Qué contiene" ampliado con párrafos de autónomos y modo preparación. Cifras actualizadas (85 preguntas, 24 categorías gastos, 3 ejemplos numéricos). Limitaciones revisadas: eliminada "no calcula el impuesto", añadidas notas sobre cálculos orientativos y Renta WEB.
+
+### Corrección ortográfica global
+
+Revisión completa de ortografía en todos los archivos del skill: tildes, eñes, signos de interrogación y exclamación de apertura. Los archivos de referencia (autonomos.md, modo-preparacion.md, nacional.md expandido) se han creado ya con ortografía correcta. Los archivos preexistentes (SKILL.md, README.md, CHANGELOG.md, preguntas-descubrimiento.md, indice-regiones.md, 15 archivos CCAA + 2 ciudades autónomas + 4 forales) se han revisado sistemáticamente.
+
+### Cifras de esta versión
+
+- 2 archivos nuevos (autonomos.md 556 líneas, modo-preparacion.md 309 líneas)
+- nacional.md expandido un 44% (de 632 a 909 líneas)
+- SKILL.md expandido con 4 fases nuevas y 4 notas de comportamiento
+- preguntas-descubrimiento.md ampliado de 56 a 85 preguntas (+29)
+- 3 ejemplos numéricos completos de liquidación
+- 24 categorías de gastos deducibles para autónomos documentadas
+- Total acumulado: 3.214+ páginas de documentación oficial, 25 archivos de referencia, cobertura del 100% del territorio español, 2 modos de trabajo completos
+
+---
+
+## v2025-3 -- Territorios forales y auditoría completa de requisitos
 
 **Fecha:** 12 de abril de 2026
 
 ### Territorios forales: nuevos archivos
 
-- `references/regiones/navarra.md` -- IRPF foral 2025 completo de la Comunidad Foral de Navarra. Escala general de 11 tramos (13%-52%), escala del ahorro de 6 tramos (20%-28%), minimos personales y familiares, deducciones de cuota (alquiler 15%, donaciones 25-75%, energias renovables 15%, vehiculos electricos), obligacion de declarar, plazos. Fuente: Manual Practico IRPF 2025 de Hacienda Foral de Navarra (308 paginas).
+- `references/regiones/navarra.md` -- IRPF foral 2025 completo de la Comunidad Foral de Navarra. Escala general de 11 tramos (13%-52%), escala del ahorro de 6 tramos (20%-28%), mínimos personales y familiares, deducciones de cuota (alquiler 15%, donaciones 25-75%, energías renovables 15%, vehículos eléctricos), obligación de declarar, plazos. Fuente: Manual Práctico IRPF 2025 de Hacienda Foral de Navarra (308 páginas).
 
-- `references/regiones/alava.md` -- IRPF foral 2025 completo de Alava/Araba. Escala general de 7 tramos (23%-49%), escala del ahorro de 5 tramos (20%-25%), deducciones por descendientes (668-2.151 EUR), ascendientes (385 EUR), discapacidad (932-1.992 EUR), vivienda (alquiler 20%/35%, compra 23%/25%), EPSV, actividad economica, bonificacion del 15% en municipios pequenos. Fuente: Manual Practico IRPF 2025 de la Diputacion Foral de Alava (243 paginas).
+- `references/regiones/alava.md` -- IRPF foral 2025 completo de Álava/Araba. Escala general de 7 tramos (23%-49%), escala del ahorro de 5 tramos (20%-25%), deducciones por descendientes (668-2.151 EUR), ascendientes (385 EUR), discapacidad (932-1.992 EUR), vivienda (alquiler 20%/35%, compra 23%/25%), EPSV, actividad económica, bonificación del 15% en municipios pequeños. Fuente: Manual Práctico IRPF 2025 de la Diputación Foral de Álava (243 páginas).
 
-- `references/regiones/gipuzkoa.md` -- IRPF foral 2025 completo de Gipuzkoa. Escala general de 8 tramos (23%-49%), reduccion por rendimientos del trabajo de 8.000 EUR, deduccion por actividades economicas del 23%, vivienda (alquiler hasta 1.955 EUR), donaciones, plazos (7 abril - 2 julio 2026). Fuente: Manual Practico IRPF 2025 de la Diputacion Foral de Gipuzkoa (214 paginas).
+- `references/regiones/gipuzkoa.md` -- IRPF foral 2025 completo de Gipuzkoa. Escala general de 8 tramos (23%-49%), reducción por rendimientos del trabajo de 8.000 EUR, deducción por actividades económicas del 23%, vivienda (alquiler hasta 1.955 EUR), donaciones, plazos (7 abril - 2 julio 2026). Fuente: Manual Práctico IRPF 2025 de la Diputación Foral de Gipuzkoa (214 páginas).
 
-- `references/regiones/bizkaia.md` -- IRPF foral de Bizkaia. Escala general de 8 tramos (23%-49%), bonificaciones por rendimientos del trabajo, descendientes 668-2.151 EUR, alquiler 20-30%. Basado en el manual del ejercicio 2024 (546 paginas) porque el manual 2025 no estaba publicado al cierre de esta version.
+- `references/regiones/bizkaia.md` -- IRPF foral de Bizkaia. Escala general de 8 tramos (23%-49%), bonificaciones por rendimientos del trabajo, descendientes 668-2.151 EUR, alquiler 20-30%. Basado en el manual del ejercicio 2024 (546 páginas) porque el manual 2025 no estaba publicado al cierre de esta versión.
 
-### Auditoria completa de requisitos
+### Auditoría completa de requisitos
 
-Se ha detectado que muchas deducciones autonomicas tenian requisitos incompletos (faltaban limites de renta, condiciones de edad, requisitos de situacion personal, porcentajes o cuantias sin especificar). Se ha realizado una auditoria sistematica de TODOS los archivos del skill, verificando cada deduccion contra las fuentes oficiales (Manual AEAT de 1.903 paginas y webs de haciendas forales/autonomicas).
+Se ha detectado que muchas deducciones autonómicas tenían requisitos incompletos (faltaban límites de renta, condiciones de edad, requisitos de situación personal, porcentajes o cuantías sin especificar). Se ha realizado una auditoría sistemática de TODOS los archivos del skill, verificando cada deducción contra las fuentes oficiales (Manual AEAT de 1.903 páginas y webs de haciendas forales/autonómicas).
 
-**Correccion critica:** La deduccion por alquiler de vivienda habitual en Cataluna (deduccion 3 de cataluna.md) estaba documentada sin los requisitos restrictivos de acceso. Solo pueden aplicarla contribuyentes menores de 35 anos, desempleados 183+ dias, con discapacidad >= 65%, viudos >= 65 anos, o familias numerosas/monoparentales, y con base imponible inferior a 30.000 EUR (individual) o 45.000 EUR (conjunta). Este mismo patron de requisitos incompletos se encontro en otras CCAA.
+**Corrección crítica:** La deducción por alquiler de vivienda habitual en Cataluña (deducción 3 de cataluna.md) estaba documentada sin los requisitos restrictivos de acceso. Solo pueden aplicarla contribuyentes menores de 35 años, desempleados 183+ días, con discapacidad >= 65%, viudos >= 65 años, o familias numerosas/monoparentales, y con base imponible inferior a 30.000 EUR (individual) o 45.000 EUR (conjunta). Este mismo patrón de requisitos incompletos se encontró en otras CCAA.
 
-**Archivos del regimen comun corregidos (15 CCAA):**
+**Archivos del régimen común corregidos (15 CCAA):**
 
-- `cataluna.md` -- Deduccion 3 (alquiler): anadidos requisitos de edad, desempleo, discapacidad, viudedad, familia numerosa y limites de renta. Deducciones 6, 7, 8 (donaciones): anadidos porcentajes (15%). Deduccion 9 (angel inversor): anadidos requisitos de empresa (1M facturacion, 1 trabajador, mantenimiento 3 anos).
-- `asturias.md` -- 8 deducciones nuevas de 2025 completadas con cuantias y requisitos (autonomos despoblamiento 1.000 EUR, formacion trabajos cualificados 2.000 EUR, traslado domicilio fiscal 15%, emancipacion jovenes, gastos vitales jovenes < 35, gastos arrendamiento vivienda 500 EUR, ELA).
-- `canarias.md` -- Deduccion 19 (alquiler): corregido porcentaje de 15-20% a 24%, limite de 740/760 EUR segun edad.
-- `extremadura.md` -- Deduccion 8 (arrendamiento vivienda): anadidos requisitos restrictivos (edad, familia numerosa, discapacidad 65%), limites de renta (28.000/45.000 EUR), requisitos patrimoniales.
-- `castilla-la-mancha.md` -- Deducciones 17, 18, 19 (donaciones): anadido porcentaje (15%). Deduccion 6 (discapacidad): anadido limite base imponible. Deduccion 12 (alquiler jovenes): anadidos limites de renta.
-- `castilla-y-leon.md` -- Deduccion 4 (adopcion): anadidas cuantias (784 EUR nacional, 3.625 EUR internacional). Deduccion 17 (vivienda nueva construccion): anadido porcentaje (7,5%), base maxima (9.040 EUR).
-- `cantabria.md` -- 3 deducciones completadas (traslado estudios 200 EUR, gastos educacion, ayuda domestica 20%/300 EUR).
-- `murcia.md` -- 10 deducciones completadas con cuantias (material escolar 120 EUR, mujeres trabajadoras 300-400 EUR, idiomas 15%/300 EUR, Internet 30%/300 EUR, cristales 30%/150 EUR, deporte 30%/100 EUR, enfermedades raras 100%).
-- `madrid.md` -- 5 deducciones completadas (inversion nueva creacion 40-50%/9.279-12.372 EUR, arrendamiento viviendas vacias 1.000 EUR, cambio residencia despoblacion 1.000 EUR, otras verificadas como estatales no autonomicas).
-- `galicia.md` -- 3 deducciones completadas (nuevas tecnologias hogares 30%/100 EUR, inversion acciones MAB 15%/4.000 EUR, empresas en crecimiento 15-45%/4.000-35.000 EUR). Deduccion aldeas modelo (15%). Arrendamiento viviendas vacias (500 EUR/inmueble).
-- `comunidad-valenciana.md` -- Deduccion donaciones ecologicas actualizada (20% primeros 250 EUR, 25% resto).
-- `andalucia.md`, `aragon.md`, `baleares.md`, `la-rioja.md` -- Verificadas correctas; correcciones menores en cuantias de vehiculos electricos (La Rioja: 15%/3.000 EUR).
+- `cataluna.md` -- Deducción 3 (alquiler): añadidos requisitos de edad, desempleo, discapacidad, viudedad, familia numerosa y límites de renta. Deducciones 6, 7, 8 (donaciones): añadidos porcentajes (15%). Deducción 9 (ángel inversor): añadidos requisitos de empresa (1M facturación, 1 trabajador, mantenimiento 3 años).
+- `asturias.md` -- 8 deducciones nuevas de 2025 completadas con cuantías y requisitos (autónomos despoblamiento 1.000 EUR, formación trabajos cualificados 2.000 EUR, traslado domicilio fiscal 15%, emancipación jóvenes, gastos vitales jóvenes < 35, gastos arrendamiento vivienda 500 EUR, ELA).
+- `canarias.md` -- Deducción 19 (alquiler): corregido porcentaje de 15-20% a 24%, límite de 740/760 EUR según edad.
+- `extremadura.md` -- Deducción 8 (arrendamiento vivienda): añadidos requisitos restrictivos (edad, familia numerosa, discapacidad 65%), límites de renta (28.000/45.000 EUR), requisitos patrimoniales.
+- `castilla-la-mancha.md` -- Deducciones 17, 18, 19 (donaciones): añadido porcentaje (15%). Deducción 6 (discapacidad): añadido límite base imponible. Deducción 12 (alquiler jóvenes): añadidos límites de renta.
+- `castilla-y-leon.md` -- Deducción 4 (adopción): añadidas cuantías (784 EUR nacional, 3.625 EUR internacional). Deducción 17 (vivienda nueva construcción): añadido porcentaje (7,5%), base máxima (9.040 EUR).
+- `cantabria.md` -- 3 deducciones completadas (traslado estudios 200 EUR, gastos educación, ayuda doméstica 20%/300 EUR).
+- `murcia.md` -- 10 deducciones completadas con cuantías (material escolar 120 EUR, mujeres trabajadoras 300-400 EUR, idiomas 15%/300 EUR, Internet 30%/300 EUR, cristales 30%/150 EUR, deporte 30%/100 EUR, enfermedades raras 100%).
+- `madrid.md` -- 5 deducciones completadas (inversión nueva creación 40-50%/9.279-12.372 EUR, arrendamiento viviendas vacías 1.000 EUR, cambio residencia despoblación 1.000 EUR, otras verificadas como estatales no autonómicas).
+- `galicia.md` -- 3 deducciones completadas (nuevas tecnologías hogares 30%/100 EUR, inversión acciones MAB 15%/4.000 EUR, empresas en crecimiento 15-45%/4.000-35.000 EUR). Deducción aldeas modelo (15%). Arrendamiento viviendas vacías (500 EUR/inmueble).
+- `comunidad-valenciana.md` -- Deducción donaciones ecológicas actualizada (20% primeros 250 EUR, 25% resto).
+- `andalucia.md`, `aragon.md`, `baleares.md`, `la-rioja.md` -- Verificadas correctas; correcciones menores en cuantías de vehículos eléctricos (La Rioja: 15%/3.000 EUR).
 
 **Archivo estatal corregido:**
 

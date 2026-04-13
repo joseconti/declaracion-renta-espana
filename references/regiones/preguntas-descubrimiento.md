@@ -1,82 +1,125 @@
-# Preguntas de Descubrimiento por Categoria
+# Preguntas de Descubrimiento por Categoría
 
-Este documento contiene las preguntas que el SKILL debe formular al contribuyente para identificar posibles deducciones que no aparecen en el borrador o que requieren accion manual.
+Este documento contiene las preguntas que el SKILL debe formular al contribuyente para identificar posibles deducciones que no aparecen en el borrador o que requieren acción manual.
 
 ---
 
-## SITUACION PERSONAL Y FAMILIAR
+## SITUACIÓN PERSONAL Y FAMILIAR
 
 1. Estado civil a 31/12/2025 (soltero, casado, pareja de hecho, separado, divorciado, viudo)
-2. Tienes hijos? Cuantos y edades a 31/12/2025?
-3. Algun hijo tiene menos de 3 anos?
-4. Algun hijo ha nacido o ha sido adoptado en 2025?
-5. Tienes titulo de familia numerosa? Categoria (general/especial)?
-6. Eres familia monoparental?
-7. Tienes ascendientes (padres/abuelos) conviviendo contigo? Edades?
-8. Algun miembro de la familia tiene discapacidad reconocida? Grado?
-9. Tienes personas acogidas (menores o mayores de 65)?
-10. Eres viudo/a?
+2. ¿Tienes hijos? ¿Cuántos y edades a 31/12/2025?
+3. ¿Algún hijo tiene menos de 3 años?
+4. ¿Algún hijo ha nacido o ha sido adoptado en 2025?
+5. ¿Tienes título de familia numerosa? ¿Categoría (general/especial)?
+6. ¿Eres familia monoparental?
+7. ¿Tienes ascendientes (padres/abuelos) conviviendo contigo? ¿Edades?
+8. ¿Algún miembro de la familia tiene discapacidad reconocida? ¿Grado?
+9. ¿Tienes personas acogidas (menores o mayores de 65)?
+10. ¿Eres viudo/a?
 
 ## VIVIENDA
 
-11. Vives de alquiler? Cuanto pagas al mes?
-12. Tienes hipoteca? La contrataste antes del 01/01/2013?
-13. Has comprado vivienda en 2025?
-14. Has vendido alguna vivienda en 2025?
-15. Tienes inmuebles que no son tu vivienda habitual? (segundas residencias, locales, plazas de garaje)
-16. Tienes inmuebles alquilados? A que precio?
-17. Has realizado obras de mejora, rehabilitacion o eficiencia energetica?
-18. Tienes viviendas vacias que has puesto en alquiler este ano?
-19. Tu vivienda ha sido ocupada ilegalmente?
+11. ¿Vives de alquiler? ¿Cuánto pagas al mes?
+12. ¿Tienes hipoteca? ¿La contrataste antes del 01/01/2013?
+13. ¿Has comprado vivienda en 2025?
+14. ¿Has vendido alguna vivienda en 2025?
+15. ¿Tienes inmuebles que no son tu vivienda habitual? (segundas residencias, locales, plazas de garaje)
+16. ¿Tienes inmuebles alquilados? ¿A qué precio?
+17. ¿Has realizado obras de mejora, rehabilitación o eficiencia energética?
+18. ¿Tienes viviendas vacías que has puesto en alquiler este año?
+19. ¿Tu vivienda ha sido ocupada ilegalmente?
 
-## TRABAJO Y ACTIVIDAD ECONOMICA
+## TRABAJO Y ACTIVIDAD ECONÓMICA
 
-20. Cuantos pagadores has tenido en 2025?
-21. Has cambiado de empleo o municipio de trabajo?
-22. Eres autonomo? En que regimen tributas (directa/modulos)?
-23. Has iniciado una actividad economica nueva en 2025?
-24. Has recibido prestacion por desempleo?
-25. Te has jubilado en 2025?
-26. Has recibido indemnizacion por despido?
-27. Eres funcionario? Tienes mutualidad?
-28. Trabajas para una empresa extranjera o has trabajado en el extranjero?
+20. ¿Cuántos pagadores has tenido en 2025?
+21. ¿Has cambiado de empleo o municipio de trabajo?
+22. ¿Eres autónomo? ¿En qué régimen tributas (directa/módulos)?
+23. ¿Has iniciado una actividad económica nueva en 2025?
+24. ¿Has recibido prestación por desempleo?
+25. ¿Te has jubilado en 2025?
+26. ¿Has recibido indemnización por despido?
+27. ¿Eres funcionario? ¿Tienes mutualidad?
+28. ¿Trabajas para una empresa extranjera o has trabajado en el extranjero?
 
 ## INVERSIONES Y AHORRO
 
-29. Has vendido acciones, fondos de inversion u otros valores?
-30. Has operado con criptomonedas (compra, venta, permuta, staking)?
-31. Tienes saldo en criptomonedas en exchanges extranjeros superior a 50.000 euros?
-32. Has aportado a planes de pensiones? Tu empresa ha aportado?
-33. Has invertido en empresas de nueva creacion (business angels)?
-34. Has traspasado fondos de inversion?
-35. Has recibido dividendos de acciones?
-36. Tienes cuentas o bienes en el extranjero con valor superior a 50.000 euros?
+29. ¿Has vendido acciones, fondos de inversión u otros valores?
+30. ¿Has operado con criptomonedas (compra, venta, permuta, staking)?
+31. ¿Tienes saldo en criptomonedas en exchanges extranjeros superior a 50.000 euros?
+32. ¿Has aportado a planes de pensiones? ¿Tu empresa ha aportado?
+33. ¿Has invertido en empresas de nueva creación (business angels)?
+34. ¿Has traspasado fondos de inversión?
+35. ¿Has recibido dividendos de acciones?
+36. ¿Tienes cuentas o bienes en el extranjero con valor superior a 50.000 euros?
 
-## DONACIONES Y DEDUCCIONES ESPECIFICAS
+## DONACIONES Y DEDUCCIONES ESPECÍFICAS
 
-37. Has realizado donaciones (ONG, patrimonio cultural, ecologicas, politicas)?
-38. Pagas cuotas sindicales o de colegio profesional?
-39. Has comprado un vehiculo electrico o instalado un punto de recarga?
-40. Has tenido gastos de guarderia o educacion infantil?
-41. Tienes gastos de libros de texto o material escolar?
-42. Has tenido gastos sanitarios no cubiertos por la Seguridad Social?
-43. Has realizado gastos deportivos?
-44. Tienes gastos veterinarios (animales de compania)?
-45. Eres celiaco diagnosticado?
-46. Tienes un familiar con ELA u otra enfermedad rara?
-47. Has recibido alguna subvencion publica?
+37. ¿Has realizado donaciones (ONG, patrimonio cultural, ecológicas, políticas)?
+38. ¿Pagas cuotas sindicales o de colegio profesional?
+39. ¿Has comprado un vehículo eléctrico o instalado un punto de recarga?
+40. ¿Has tenido gastos de guardería o educación infantil?
+41. ¿Tienes gastos de libros de texto o material escolar?
+42. ¿Has tenido gastos sanitarios no cubiertos por la Seguridad Social?
+43. ¿Has realizado gastos deportivos?
+44. ¿Tienes gastos veterinarios (animales de compañía)?
+45. ¿Eres celíaco diagnosticado?
+46. ¿Tienes un familiar con ELA u otra enfermedad rara?
+47. ¿Has recibido alguna subvención pública?
 
 ## SITUACIONES ESPECIALES
 
-48. Te has trasladado de comunidad autonoma en 2025?
-49. Has llegado a Espana desde el extranjero? Podrias acogerte a la Ley Beckham?
-50. Has dejado de ser residente fiscal en Espana (exit tax)?
-51. Recibes pension compensatoria o pagas anualidades por alimentos?
-52. Has heredado bienes o recibido donaciones?
-53. Has realizado actividades de mineria de criptomonedas?
-54. Tienes rentas en el extranjero (alquileres, dividendos, trabajo)?
-55. Resides en una zona despoblada o municipio pequeno?
-56. Te has mudado de isla (Canarias/Baleares)?
+48. ¿Te has trasladado de comunidad autónoma en 2025?
+49. ¿Has llegado a España desde el extranjero? ¿Podrías acogerte a la Ley Beckham?
+50. ¿Has dejado de ser residente fiscal en España (exit tax)?
+51. ¿Recibes pensión compensatoria o pagas anualidades por alimentos?
+52. ¿Has heredado bienes o recibido donaciones?
+53. ¿Has realizado actividades de minería de criptomonedas?
+54. ¿Tienes rentas en el extranjero (alquileres, dividendos, trabajo)?
+55. ¿Resides en una zona despoblada o municipio pequeño?
+56. ¿Te has mudado de isla (Canarias/Baleares)?
+
+---
+
+## FUENTES DE DATOS EN BRUTO (Modo Preparación)
+
+Estas preguntas solo se formulan en modo preparación o híbrido (Fase 1-B del SKILL).
+Sirven para identificar qué documentos tiene el contribuyente y solicitar los que falten.
+
+57. ¿Tienes el certificado de retenciones de tu/s pagador/es (modelo 10T)?
+58. ¿Tienes las nóminas mensuales de 2025? ¿De todos los pagadores?
+59. ¿Has consultado tus datos fiscales en la Sede Electrónica de la AEAT (o de tu Hacienda Foral)?
+60. ¿Tienes certificados bancarios de intereses y retenciones de 2025?
+61. ¿Tienes el extracto de operaciones de tu broker o plataforma de inversión?
+62. ¿Tienes facturas de compraventa de inmuebles (escrituras, gastos notariales)?
+63. ¿Tienes contratos de alquiler vigentes en 2025 (como arrendador o arrendatario)?
+64. ¿Tienes recibos de IBI y otros impuestos municipales de tus inmuebles?
+65. ¿Tienes el informe fiscal anual de tus exchanges de criptomonedas?
+66. ¿Tienes certificados de aportaciones a planes de pensiones?
+67. ¿Tienes certificados de donativos (recibos de ONG, entidades culturales, etc.)?
+68. ¿Tienes la referencia catastral de todos tus inmuebles?
+69. ¿Tienes el certificado de la prestación por desempleo (SEPE) o de la pensión (INSS)?
+
+## ACTIVIDADES ECONÓMICAS / AUTÓNOMOS
+
+Estas preguntas solo se formulan si el contribuyente tiene actividad económica.
+Se complementan con las preguntas generales de la sección "Trabajo y actividad económica".
+
+70. ¿En qué régimen tributas: Estimación Directa Simplificada (EDS), Estimación Directa Normal (EDN) o Módulos?
+71. ¿Cuál es tu epígrafe de actividad en el IAE?
+72. ¿Has presentado los pagos fraccionados trimestrales (modelo 130 o 131)? ¿Tienes copia de los 4 trimestres?
+73. ¿Tienes un libro de ingresos y gastos actualizado?
+74. ¿Trabajas desde casa? ¿Qué porcentaje de la vivienda usas para la actividad?
+75. ¿Tienes vehículo afecto a la actividad? ¿En qué porcentaje?
+76. ¿Tienes empleados? ¿Cuántos y qué costes salariales totales?
+77. ¿Has adquirido bienes de inversión (equipos, maquinaria, vehículos) en 2025?
+78. ¿Has recibido subvenciones vinculadas a la actividad económica?
+79. ¿Tienes gastos de formación profesional (cursos, congresos, libros técnicos)?
+80. ¿Pagas cuota de autónomo a la Seguridad Social? ¿Importe mensual?
+81. ¿Tienes seguro de responsabilidad civil u otros seguros de la actividad?
+82. ¿Has iniciado la actividad en 2025? (posible reducción del 20% por inicio)
+83. ¿Tienes gastos de suministros del local/oficina (agua, luz, gas, Internet, teléfono)?
+84. ¿Facturaste más de 250.000 euros en 2025? (límite para Módulos)
+85. ¿Has realizado operaciones intracomunitarias o exportaciones?
 
 ---
 
@@ -84,9 +127,18 @@ Este documento contiene las preguntas que el SKILL debe formular al contribuyent
 
 No hacer TODAS las preguntas de golpe. El flujo debe ser:
 
-1. Primero solicitar el borrador y extraer datos basicos
-2. Luego preguntar por la comunidad autonoma de residencia
-3. Formular las preguntas de situacion personal/familiar
-4. Segun las respuestas, profundizar en las categorias relevantes
-5. Cruzar respuestas con las deducciones de la comunidad autonoma
+**En modo revisión (Fase 1-A):**
+1. Primero solicitar el borrador y extraer datos básicos
+2. Luego preguntar por la comunidad autónoma de residencia
+3. Formular las preguntas de situación personal/familiar
+4. Según las respuestas, profundizar en las categorías relevantes
+5. Cruzar respuestas con las deducciones de la comunidad autónoma
 6. Identificar deducciones no incluidas en el borrador
+
+**En modo preparación (Fase 1-B):**
+1. Preguntar comunidad autónoma y situación personal/familiar
+2. Formular las preguntas de "Fuentes de datos en bruto" para identificar documentación disponible
+3. Si hay actividad económica, formular las preguntas de "Actividades económicas / Autónomos"
+4. Solicitar los documentos que falten antes de continuar
+5. Profundizar en las categorías relevantes según perfil
+6. Recoger datos y consolidar por bloques
