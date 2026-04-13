@@ -4,6 +4,42 @@ Todas las versiones notables de este skill se documentan en este archivo.
 
 ---
 
+## v2025-4.1 -- Auditoría completa vs Manual AEAT y correcciones
+
+**Fecha:** 13 de abril de 2026
+
+### Correcciones criticas
+
+- `references/autonomos.md` -- Corregido porcentaje de gastos de dificil justificacion de 5% a 7% (Ley 6/2017, de Reformas Urgentes del Trabajo Autonomo, vigente desde 2018). Actualizado ejemplo numerico correspondiente.
+
+### Nuevos capitulos en nacional.md
+
+- **Seccion 1B - Residencia fiscal y sujeto pasivo:** Criterios del art. 9 LIRPF (regla de los 183 dias, centro de intereses economicos vitales, presuncion por familia), residentes en paraisos fiscales (regla anti-deslocalizacion de 5 años), trabajadores desplazados al extranjero, periodo impositivo y devengo, residencia en comunidad autonoma (clausula anti-deslocalizacion autonomica).
+- **Seccion 1C - Individualizacion de rentas:** Art. 11 LIRPF completo. Reglas para rendimientos del trabajo, capital (mobiliario e inmobiliario), actividades economicas y ganancias patrimoniales. Distincion entre regimen de gananciales y separacion de bienes. Atribucion de rentas en entidades sin personalidad juridica (remision a casos-especiales.md).
+
+### Expansion de secciones existentes en nacional.md
+
+- **Seccion 12 (tributacion conjunta):** Expandida de 13 a 60+ lineas. Nuevas subsecciones: 12.3 reglas de opcion (casilla 124, custodia compartida), 12.4 acumulacion de rentas y minimo personal (regla del minimo unico), 12.5 responsabilidad solidaria, 12.6 compensacion de perdidas en conjunta, 12.7 estrategia de decision detallada (cuando conviene conjunta vs individual, criterio rapido, ejemplos), 12.8 parejas de hecho (desventaja fiscal respecto a matrimonio).
+- **Seccion 13 (obligaciones formales):** Expandida de 22 a 100+ lineas. Nuevas subsecciones: 13.0 modelos de declaracion (100, 102, 714, 720, 721, 149, 151, 184), campaña con tabla de fechas completa (8 abril - 30 junio, "Le Llamamos", presencial), 5 formas de presentacion (Renta WEB, Renta Directa novedad 2025, APP, telefonica, presencial), medios de identificacion (certificado, Cl@ve, RENO), fraccionamiento 60/40 detallado, autoliquidacion rectificativa (sistema unico desde 2024, Orden HAC/242/2025), obligaciones de conservacion documental (4-6 años, documentos a conservar).
+
+### Expansion de casos-especiales.md
+
+- **Seccion 6 (nomadas digitales):** Expandida de 8 a 50+ lineas. Nuevas subsecciones: 6.1 visa de nomada digital (requisitos, duracion, renovacion), 6.2 acceso al regimen de impatriados, 6.3 tabla comparativa Ley Beckham clasica vs nomadas digitales (8 aspectos), 6.4 autonomos y freelancers (excluidos del tipo fijo, alternativa societaria), 6.5 implicaciones practicas.
+- **Seccion 7 (atribucion de rentas):** Expandida de 4 a 40+ lineas. Nuevas subsecciones: 7.1 entidades sujetas (CB, herencias yacentes, sociedades civiles), 7.2 funcionamiento (conservacion de naturaleza, calculo), 7.3 Modelo 184 (obligados, plazo, contenido), 7.4 ejemplo practico CB inmobiliaria, 7.5 herencias yacentes reglas especificas, 7.6 venta de inmuebles en CB.
+
+### Fuentes oficiales consultadas
+
+Todas las adiciones se basan en:
+- Manual Practico de Renta 2025 de la AEAT (sede.agenciatributaria.gob.es)
+- Ley 35/2006 del IRPF (articulos 6, 8-11, 82-90, 93)
+- Ley 28/2022 de fomento del ecosistema de startups
+- Ley 6/2017 de Reformas Urgentes del Trabajo Autonomo
+- Orden HAC/242/2025 (autoliquidacion rectificativa)
+- Orden HAC/277/2026 (modelos declaracion Renta 2025)
+- Resolucion TEAC 19 julio 2024 (custodia compartida y tributacion conjunta)
+
+---
+
 ## v2025-4 -- Modo preparación, autónomos y ejemplos numéricos
 
 **Fecha:** 13 de abril de 2026

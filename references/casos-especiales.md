@@ -220,25 +220,143 @@ Si las rentas del extranjero no estan exentas por el artículo 7.p, se puede ded
 ## 6. REGIMEN DE NOMADAS DIGITALES
 
 ### Base legal
-Ley 28/2022, de 21 de diciembre, de fomento del ecosistema de las empresas emergentes (Ley de Startups).
+Ley 28/2022, de 21 de diciembre, de fomento del ecosistema de las empresas emergentes (Ley de Startups). Modifica el articulo 93 de la Ley 35/2006 del IRPF.
 
-### Visa de nomada digital
-Permite a trabajadores por cuenta ajena o autónomos de empresas no espanolas residir en Espana y acogerse al régimen de impatriados (Ley Beckham) con requisitos mas flexibles.
+Fuentes:
+- https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21739
+- https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/regimenes-opcionales/regimen-especial-impatriados.html
 
-### Particularidades
-- Se permite que el trabajador preste servicios a distancia para empresas extranjeras (antes no era posible con la Ley Beckham clasica)
-- El limite del 24% se aplica a rendimientos del trabajo hasta 600.000 euros
-- Pueden acogerse profesionales altamente cualificados, emprendedores, inversores y trasladados intraempresariales
+### 6.1. Visa de nomada digital
+
+Permite a trabajadores por cuenta ajena o autonomos de empresas no españolas residir en España.
+
+**Requisitos de la visa:**
+- Titulo de graduado o postgrado de universidad de reconocido prestigio, O experiencia profesional minima de 3 años
+- Ingresos minimos: aproximadamente 200% del SMI español (2.600-3.000 EUR/mes)
+- Contrato de trabajo con empresa extranjera con minimo 3 meses de antigüedad, o acreditacion de actividad profesional
+- La empresa debe autorizar expresamente el trabajo desde España
+- Seguro medico con cobertura equiparable al Sistema Nacional de Salud, contratado con asegurador autorizado en España
+- Limitacion: maximo el 20% de la actividad puede ser con empresas españolas
+
+**Duracion y renovacion:**
+- Duracion inicial: 1 año (solicitado desde el extranjero) o 3 años (solicitado ya en España)
+- Renovacion: periodos adicionales de 2 años
+- Maximo total: hasta 5 años
+- Acceso a residencia permanente: tras 3 años continuos
+
+### 6.2. Acceso al regimen fiscal de impatriados
+
+Los nomadas digitales pueden acogerse al regimen especial del articulo 93 LIRPF (Ley Beckham) si cumplen los requisitos generales:
+- No haber sido residente fiscal en España en los 5 periodos impositivos anteriores (la Ley 28/2022 redujo de 10 a 5 años)
+- Desplazamiento a España por alguna de las causas previstas
+- No obtener rentas mediante establecimiento permanente en España
+- Presentar Modelo 149 dentro de los 6 meses desde el alta en Seguridad Social o inicio de actividad
+
+**Tipos impositivos del regimen:**
+- Rendimientos del trabajo: 24% hasta 600.000 EUR, 47% sobre el exceso
+- Rentas del ahorro: escala progresiva del IRNR (19% a 30%)
+
+### 6.3. Comparacion: Ley Beckham clasica vs Nomadas Digitales
+
+| Aspecto | Ley Beckham clasica (pre-2023) | Nomadas Digitales (Ley 28/2022) |
+|---|---|---|
+| Periodo previo no residencia | 10 años | 5 años |
+| Tipo de trabajador | Cuenta ajena, desplazado a España | Teletrabajadores remotos, emprendedores, profesionales cualificados |
+| Ubicacion empresa | Española o extranjera | Obligatoriamente extranjera (al menos 80% de actividad) |
+| Modalidad de trabajo | Presencial en España | 100% remoto para empresa extranjera permitido |
+| Actividades emprendedoras | No incluidas expresamente | Incluidas (con informe favorable ENISA) |
+| Extension a familiares | Limitada | Conyuge e hijos menores de 25 años pueden acogerse |
+| Tipo impositivo trabajo | 24% hasta 600.000 EUR | Mismo: 24% hasta 600.000 EUR |
+| Duracion | 6 años (año cambio + 5 siguientes) | 6 años (mismo) |
+| I+D+i | No especificado | Profesionales de I+D+i incluidos expresamente |
+
+### 6.4. Autonomos y freelancers
+
+Los trabajadores por cuenta propia (autonomos) NO pueden acogerse al tipo fijo del 24% por sus rendimientos de actividad economica. La Ley Beckham aplica su tipo reducido a "rendimientos del trabajo", y los rendimientos de actividades economicas tienen distinta naturaleza. Los autonomos deben tributar por el IRPF general con escala progresiva (hasta 47%).
+
+**Alternativa estructural:** Constituir una sociedad limitada y percibir los ingresos como salario de administrador/empleado, lo que permitiria acceder al regimen de impatriados por la parte salarial. Esta opcion requiere asesoramiento profesional.
+
+### 6.5. Implicaciones practicas
+
+- Los acogidos al regimen de impatriados NO pueden aplicar deducciones autonomicas
+- NO pueden tributar conjuntamente
+- Declaran mediante Modelo 151 (no Modelo 100)
+- Desde 2023, no tienen obligacion de presentar el Impuesto sobre el Patrimonio
+- Renuncia voluntaria: mediante Modelo 149
+- Exclusion automatica: por incumplimiento de requisitos (dejar de residir en España, etc.)
 
 ---
 
 ## 7. REGIMEN DE ATRIBUCION DE RENTAS
 
-### Cuando aplica
-Entidades sin personalidad jurídica propia que obtienen rentas: comunidades de bienes, herencias yacentes, sociedades civiles sin objeto mercantil.
+Base legal: Articulos 86-90 de la Ley 35/2006 del IRPF.
 
-### Funcionamiento
-Las rentas se atribuyen a los comuneros, herederos o socios segun las normas aplicables, y cada uno las integra en su IRPF personal segun la naturaleza de la renta.
+Fuente: https://sede.agenciatributaria.gob.es/Sede/irpf/empresarios-individuales-profesionales/entidades-regimen-atribucion-renta.html
+
+### 7.1. Entidades sujetas al regimen
+
+El regimen de atribucion de rentas se aplica a entidades sin personalidad juridica propia que obtienen rentas:
+
+- **Comunidades de bienes (CB):** Agrupacion de personas para explotacion conjunta de bienes (por ejemplo, dos hermanos copropietarios de un piso alquilado). Carecen de personalidad juridica.
+- **Herencias yacentes:** Masa hereditaria pendiente de aceptacion y reparto entre los herederos. Existe desde el fallecimiento del causante hasta la division de la herencia.
+- **Sociedades civiles sin objeto mercantil:** Sociedades civiles no inscritas en el Registro Mercantil, con pacto privado entre socios y naturaleza civil.
+- **Entidades analogas constituidas en el extranjero:** Reciben el mismo tratamiento que las españolas.
+
+### 7.2. Funcionamiento de la atribucion
+
+**Principio fundamental (art. 86 LIRPF):** La entidad no tributa como sujeto pasivo. Las rentas se atribuyen a los comuneros, herederos, socios o participes segun las normas o pactos aplicables. Si no constan a la Administracion en forma fehaciente: por partes iguales.
+
+**Conservacion de naturaleza:** Las rentas atribuidas mantienen la MISMA naturaleza que tienen en la entidad:
+- Si la entidad genera rendimientos del capital inmobiliario (alquiler), cada participe tributa por esa misma naturaleza
+- Si la entidad genera rendimientos de actividades economicas, se atribuyen como tales
+- Las ganancias patrimoniales por venta de bienes de la entidad se atribuyen como ganancias patrimoniales
+
+**Calculo del rendimiento:** Se determina el rendimiento neto de la entidad (ingresos menos gastos deducibles) y despues se reparte entre los participes segun su porcentaje. Las retenciones se reparten en la misma proporcion.
+
+### 7.3. Modelo 184 - Declaracion informativa
+
+Las entidades en regimen de atribucion de rentas deben presentar anualmente el Modelo 184 (declaracion informativa), que comunica a Hacienda la distribucion de rentas entre los miembros.
+
+Fuente: https://sede.agenciatributaria.gob.es/Sede/procedimientoini/GI04.shtml
+
+**Obligados a presentar:**
+- Entidades con actividad economica: SIEMPRE, sin limite de facturacion
+- Entidades sin actividad economica: solo si las rentas totales superan 3.000 EUR anuales
+
+**Plazo de presentacion:** Enero del año siguiente (1-31 de enero).
+
+**Contenido:** Identificacion de la entidad y cada participe, porcentaje de participacion, renta neta atribuida desglosada por naturaleza, retenciones soportadas repartidas proporcionalmente.
+
+### 7.4. Ejemplo practico: Comunidad de bienes inmobiliaria
+
+Dos hermanos (50% cada uno) son copropietarios de un piso alquilado:
+- Alquiler cobrado: 12.000 EUR/año
+- Gastos deducibles (IBI, comunidad, seguros, reparaciones): 3.000 EUR
+- Rendimiento neto: 9.000 EUR
+- Retenciones practicadas: 2.280 EUR (19%)
+
+**Atribucion:**
+- Hermano 1: Rendimiento del capital inmobiliario 4.500 EUR + Retenciones 1.140 EUR
+- Hermano 2: Rendimiento del capital inmobiliario 4.500 EUR + Retenciones 1.140 EUR
+- Cada uno declara en su Modelo 100 (IRPF individual) como rendimiento del capital inmobiliario
+
+**Importante:** La reduccion por alquiler de vivienda habitual (50%-90%) NO se aplica en el regimen de atribucion de rentas. Solo es aplicable cuando el arrendador es persona fisica directa, no cuando tributa a traves de una entidad en atribucion.
+
+### 7.5. Herencias yacentes - Reglas especificas
+
+Mientras la herencia esta pendiente de aceptacion y reparto:
+- La herencia yacente es la "entidad" que genera y atribuye las rentas
+- Se atribuyen a los herederos segun su porcentaje hereditario (no por partes iguales)
+- Cada heredero declara su cuota en su propio IRPF
+- Una vez aceptada y repartida la herencia, el regimen de atribucion termina y cada heredero tributa directamente como titular
+
+### 7.6. Venta de inmuebles en comunidad de bienes
+
+Cuando la CB vende un inmueble:
+- Se genera una ganancia o perdida patrimonial en la entidad
+- Se atribuye a cada comunero segun su porcentaje
+- Cada comunero declara su parte de la ganancia en su IRPF como ganancia patrimonial de la base del ahorro
+- El valor de adquisicion y transmision se calculan para el inmueble completo y despues se reparten
 
 ---
 

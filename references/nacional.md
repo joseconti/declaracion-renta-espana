@@ -10,6 +10,8 @@ https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100.html
 ## ÍNDICE
 
 1. Obligación de declarar
+1B. Residencia fiscal y sujeto pasivo
+1C. Individualización de rentas
 2. Escala general estatal
 3. Escala del ahorro estatal
 4. Mínimo personal y familiar
@@ -49,6 +51,125 @@ Con caracter general, estan obligados a declarar todos los contribuyentes person
 - Realizacion de aportaciones a patrimonios protegidos de personas con discapacidad
 - Percepcion del IMV
 - Actividades economicas (autonomos) - siempre obligados
+
+---
+
+## 1B. RESIDENCIA FISCAL Y SUJETO PASIVO
+
+Base legal: Articulo 9 de la Ley 35/2006 del IRPF.
+
+Fuente: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/residencia-habitual-territorio-espanol.html
+
+### 1B.1. Criterios de residencia fiscal en España
+
+Una persona fisica es contribuyente del IRPF (obligacion personal) cuando tiene su residencia habitual en territorio español. Se entiende que reside habitualmente en España cuando concurra CUALQUIERA de los siguientes criterios (no es necesario que se cumplan todos):
+
+**Criterio 1 - Permanencia (regla de los 183 dias):**
+Que permanezca mas de 183 dias durante el año natural en territorio español. Para el computo:
+- Se cuentan los dias de presencia efectiva en España
+- Se computan las ausencias esporadicas, salvo que el contribuyente acredite su residencia fiscal en otro pais mediante certificado de residencia fiscal expedido por las autoridades de ese pais
+- No se cuentan las estancias temporales en España derivadas de obligaciones contraidas en acuerdos de colaboracion cultural o humanitaria, a titulo gratuito, con las Administraciones publicas españolas
+
+**Criterio 2 - Centro de intereses economicos:**
+Que radique en España el nucleo principal o la base de sus actividades o intereses economicos, de forma directa o indirecta. Este criterio se valora atendiendo a:
+- Donde se encuentran los principales bienes e inversiones
+- Donde se desarrolla la actividad profesional o empresarial principal
+- Donde se perciben los principales rendimientos
+
+**Criterio 3 - Presuncion por vinculo familiar:**
+Se presume, salvo prueba en contrario, que el contribuyente tiene su residencia habitual en España cuando, de acuerdo con los criterios anteriores, residan habitualmente en España:
+- El conyuge no separado legalmente, y
+- Los hijos menores de edad que dependan del contribuyente
+
+Esta presuncion admite prueba en contrario (es iuris tantum).
+
+### 1B.2. Residentes en paraisos fiscales
+
+Cuando el contribuyente acredite su nueva residencia fiscal en un pais o territorio calificado como paraiso fiscal (jurisdiccion no cooperativa), la Administracion tributaria podra exigirle que pruebe la permanencia efectiva en dicho territorio durante mas de 183 dias. Ademas, no perdera la condicion de contribuyente del IRPF en el periodo impositivo en que se efectue el cambio de residencia ni en los 4 periodos impositivos siguientes (regla anti-deslocalizacion, art. 8.2 LIRPF).
+
+### 1B.3. Trabajadores desplazados al extranjero
+
+No pierden la condicion de contribuyentes del IRPF los trabajadores españoles de misiones diplomaticas, oficinas consulares, o cargos oficiales del Estado español en el extranjero (art. 10.1 LIRPF). No son contribuyentes del IRPF los miembros de misiones diplomaticas extranjeras acreditadas en España, bajo condiciones de reciprocidad.
+
+### 1B.4. Periodo impositivo y devengo
+
+- El periodo impositivo coincide con el año natural (1 de enero a 31 de diciembre)
+- El impuesto se devenga el 31 de diciembre de cada año
+- Excepcion: fallecimiento del contribuyente, en cuyo caso el periodo se acorta (del 1 de enero a la fecha de fallecimiento)
+- Obligacion por renta mundial: el contribuyente residente tributa por la totalidad de su renta, con independencia del lugar donde se haya producido y cualquiera que sea la residencia del pagador
+
+### 1B.5. Residencia habitual en comunidad autonoma
+
+A efectos de determinar la comunidad autonoma de residencia (para aplicar la escala autonomica y las deducciones regionales), se atiende a:
+1. Donde se permanezca un mayor numero de dias del periodo impositivo
+2. Si no es determinable: donde se tenga el principal centro de intereses (mayor base liquidable del IRPF)
+3. Si tampoco es determinable: la ultima residencia declarada a efectos del IRPF
+
+El cambio de residencia a otra comunidad no surte efecto si la base liquidable media de los 3 años anteriores y del propio año supera un 50% la media de la comunidad de destino (clausula anti-deslocalizacion autonomica).
+
+---
+
+## 1C. INDIVIDUALIZACION DE RENTAS
+
+Base legal: Articulo 11 de la Ley 35/2006 del IRPF.
+
+Fuente: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-materiales.html
+
+### 1C.1. Principio general
+
+La renta se entiende obtenida por los contribuyentes en funcion del origen o fuente de la misma, con independencia del regimen economico del matrimonio. Las reglas de individualizacion determinan a que conyuge se atribuye cada renta cuando existe matrimonio, y se aplican TANTO en tributacion individual como conjunta (en conjunta, las rentas se acumulan pero deben estar previamente individualizadas).
+
+### 1C.2. Rendimientos del trabajo (art. 11.1 LIRPF)
+
+Se atribuyen exclusivamente a quien haya generado el derecho a su percepcion. La titularidad corresponde a la persona que presta el trabajo, con independencia del regimen matrimonial:
+- El salario corresponde al conyuge que trabaja, aunque el matrimonio sea en gananciales
+- Las pensiones corresponden al titular del derecho (beneficiario de la pension)
+- Las prestaciones por desempleo corresponden al conyuge desempleado
+
+### 1C.3. Rendimientos del capital (art. 11.3 LIRPF)
+
+Se atribuyen a los titulares de los elementos patrimoniales, bienes o derechos de que provengan:
+
+**En separacion de bienes:**
+- Cada conyuge declara los rendimientos de sus bienes privativos
+
+**En regimen de gananciales:**
+- Bienes privativos: los rendimientos se atribuyen al conyuge titular
+- Bienes gananciales: los rendimientos se atribuyen al 50% a cada conyuge
+- Ejemplo: una cuenta bancaria ganancial genera intereses que tributan al 50% para cada conyuge
+- Ejemplo: un piso privativo alquilado tributa al 100% para el conyuge titular, aunque los ingresos sean gananciales civilmente
+
+**Capital inmobiliario:** Los rendimientos se atribuyen a los titulares de los inmuebles o de los derechos reales que recaigan sobre los mismos (art. 11.3 LIRPF). En caso de titularidad compartida (por ejemplo, 50% cada conyuge), cada uno declara el 50% de los rendimientos.
+
+**Capital mobiliario:** Los rendimientos se atribuyen a los titulares de los elementos patrimoniales (depositos, acciones, fondos). En gananciales, si la titularidad es conjunta, se atribuyen al 50%.
+
+### 1C.4. Rendimientos de actividades economicas (art. 11.4 LIRPF)
+
+Se atribuyen a quien realice de forma habitual, personal y directa la ordenacion por cuenta propia de medios de produccion y de recursos humanos, o de uno de ambos, con la finalidad de intervenir en la produccion o distribucion de bienes o servicios.
+
+Presuncion: se entiende que la actividad es ejercida por quien figure como titular ante la Hacienda Publica (alta en IAE, obligaciones censales).
+
+En gananciales: aunque los beneficios de la actividad sean civilmente gananciales, tributan al 100% para el conyuge que ejerce la actividad. El otro conyuge solo tributa si participa efectivamente en la actividad (en cuyo caso, segun su grado de participacion).
+
+### 1C.5. Ganancias y perdidas patrimoniales (art. 11.5 LIRPF)
+
+Se atribuyen a los titulares de los bienes, derechos y demas elementos patrimoniales de que provengan:
+
+**En separacion de bienes:** Cada conyuge tributa por las ganancias/perdidas de sus bienes propios.
+
+**En gananciales:**
+- Bienes privativos: la ganancia/perdida corresponde al conyuge titular
+- Bienes gananciales: la ganancia/perdida se atribuye al 50% a cada conyuge
+- Ejemplo: la venta de una vivienda ganancial genera una ganancia que tributa al 50% para cada conyuge
+- Premios: se atribuyen al conyuge que los obtiene
+
+### 1C.6. Atribucion de rentas en entidades sin personalidad juridica
+
+Las rentas obtenidas por comunidades de bienes, herencias yacentes, sociedades civiles sin objeto mercantil y demas entidades del articulo 35.4 de la Ley General Tributaria se atribuyen a los comuneros, herederos, socios o participes segun las normas o pactos aplicables en cada caso. Si no constan: por partes iguales.
+
+La naturaleza de las rentas se mantiene en la atribucion (si la entidad genera rendimientos del capital inmobiliario, cada participe tributa por esa misma naturaleza en su IRPF).
+
+Obligacion informativa: las entidades en regimen de atribucion de rentas deben presentar el Modelo 184 (declaracion informativa anual).
 
 ---
 
@@ -801,47 +922,173 @@ Dos modalidades:
 
 **Nota:** La reduccion se aplica sobre la base liquidable general y la del ahorro por separado. Se restan antes de aplicar la escala de gravamen.
 
-### 12.3. Cuando conviene tributar conjuntamente
+### 12.3. Reglas de opcion
 
-Situaciones donde suele ser ventajosa la declaracion conjunta:
-- Uno de los conyuges no tiene ingresos o son muy bajos
-- Familia monoparental con hijos sin ingresos
-- Perdidas patrimoniales de un conyuge que compensan ganancias del otro
-- Rentas inmobiliarias imputadas bajas
+- La opcion se manifiesta al presentar la declaracion del ejercicio correspondiente
+- Abarca obligatoriamente a TODOS los miembros de la unidad familiar (todos conjunta o todos individual, sin mezclar)
+- No vincula para ejercicios sucesivos: se puede cambiar cada año
+- No puede modificarse una vez finalizado el plazo reglamentario de presentacion (30 de junio)
+- Desde la declaracion de 2024, el cambio de opcion individual/conjunta se realiza marcando la casilla [124] del modelo
+- En custodia compartida: la opcion conjunta requiere mutuo acuerdo entre los progenitores, previo a la presentacion de las declaraciones (Resolucion TEAC 19 julio 2024)
 
-Situaciones donde suele ser mas ventajosa la individual:
-- Ambos conyuges trabajan con ingresos significativos
-- Ambos tienen rendimientos similares
+### 12.4. Acumulacion de rentas y minimo personal
 
-**Importante:** La opcion por la tributacion conjunta debe ser ejercida por todos los miembros de la unidad familiar. No vincula para ejercicios sucesivos.
+En tributacion conjunta:
+- Las rentas de TODOS los miembros se suman y tributan acumuladamente
+- Se aplican las mismas escalas de gravamen que en tributacion individual (NO hay escalas distintas)
+- El minimo del contribuyente es unico: 5.550 euros (no se duplica para el segundo conyuge)
+- Los incrementos por edad (>65 años: +1.150; >75 años: +1.400) se aplican por cada conyuge que los cumpla
+- Los minimos por descendientes y ascendientes se aplican igual que en individual
+
+### 12.5. Responsabilidad solidaria
+
+Todos los miembros de la unidad familiar quedan sometidos al impuesto conjunta y solidariamente (art. 84.6 LIRPF). La deuda tributaria resultante puede ser exigida en su totalidad a cualquiera de ellos. No obstante, tienen derecho a prorratear internamente la deuda segun la parte de renta de cada uno.
+
+### 12.6. Compensacion de perdidas en conjunta
+
+Las partidas negativas de periodos anteriores no compensadas pueden compensarse en tributacion conjunta con arreglo a las normas generales del IRPF, independientemente de si provienen de una declaracion anterior individual o conjunta. Esto permite que perdidas patrimoniales de un conyuge compensen ganancias del otro.
+
+### 12.7. Cuando conviene tributar conjuntamente (estrategia de decision)
+
+**CONJUNTA suele ser ventajosa cuando:**
+
+1. Un conyuge tiene ingresos muy bajos o nulos (inferiores a 3.400 EUR). En este caso, la reduccion de 3.400 EUR compensa con creces la perdida del segundo minimo personal individual (5.550 EUR). La ventaja neta es: 3.400 - 0 = 3.400 EUR de reduccion adicional frente a lo que obtendria ese conyuge sin ingresos declarando individualmente (donde su minimo personal se desperdicia al no tener base contra la que aplicarlo).
+
+2. Familia monoparental con hijos sin ingresos propios: la reduccion de 2.150 EUR se aprovecha plenamente.
+
+3. Un conyuge tiene perdidas patrimoniales pendientes y el otro tiene ganancias: en conjunta se compensan directamente.
+
+4. Solo uno de los conyuges percibe rentas inmobiliarias imputadas bajas y el otro no tiene rendimientos significativos.
+
+**INDIVIDUAL suele ser mas ventajosa cuando:**
+
+1. Ambos conyuges trabajan con ingresos medios-altos similares. En conjunta, las rentas se acumulan y empujan a tramos marginales superiores. Ejemplo: dos conyuges que ganan 30.000 EUR cada uno tributan individualmente en el tramo del 30%, pero en conjunta sus 60.000 EUR les situan en tramos del 37%.
+
+2. Ambos conyuges pueden aplicar el minimo personal completo (5.550 x 2 = 11.100 EUR en individual, frente a 5.550 + 3.400 = 8.950 EUR en conjunta). La diferencia es 2.150 EUR menos de desgravacion en conjunta.
+
+3. Ambos conyuges tienen derecho a deducciones individuales (por ejemplo, deduccion por inversion en vivienda habitual adquirida antes de 2013, que tiene limites individuales).
+
+4. Existen deducciones autonomicas con limites de base liquidable: en conjunta, al acumular rentas, se puede superar el limite y perder la deduccion.
+
+**Criterio rapido de decision:**
+- Si la renta del conyuge con menores ingresos es inferior a la reduccion por conjunta (3.400 EUR en matrimonios): normalmente conviene conjunta
+- Si ambos conyuges superan los 15.000 EUR de renta: normalmente conviene individual
+- En la zona intermedia: calcular ambas opciones con Renta WEB (permite simular ambas antes de confirmar)
+
+### 12.8. Parejas de hecho
+
+Las parejas de hecho NO constituyen unidad familiar de modalidad 1a. Solo uno de los miembros puede formar unidad familiar con los hijos comunes (modalidad 2a, monoparental). El otro miembro debe declarar individualmente. No se aplica la reduccion de 3.400 EUR (solo la de 2.150 EUR al progenitor que incluya a los hijos). Esta es una desventaja fiscal significativa respecto al matrimonio.
 
 ---
 
 ## 13. OBLIGACIONES FORMALES Y PLAZOS
 
+Fuente: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c01-campana-declaracion-renta/servicios-ayuda-campana-renta.html
+
+### 13.0. Modelos de declaracion
+
+**Modelo 100 - Declaracion del IRPF:** Declaracion anual del Impuesto sobre la Renta de las Personas Fisicas. Es el modelo principal para todos los contribuyentes del IRPF en regimen comun.
+
+**Modelo 102 - Segundo plazo IRPF:** Documento para el ingreso del segundo plazo (40%) cuando se fracciona el pago. Solo es necesario si no se domicilia el segundo plazo.
+
+**Modelo 714 - Impuesto sobre el Patrimonio:** Declaracion anual del Impuesto sobre el Patrimonio. Obligatoria si la cuota resulta a ingresar o si el valor de los bienes y derechos supera 2.000.000 euros. Presentacion: 8 de abril a 30 de junio de 2026, exclusivamente por medios electronicos.
+
+**Modelo 720 - Bienes en el extranjero:** Declaracion informativa sobre cuentas, valores e inmuebles en el extranjero cuando superen 50.000 euros en alguna de las tres categorias. Plazo: 1 de enero a 31 de marzo.
+
+**Modelo 721 - Criptomonedas en el extranjero:** Declaracion informativa sobre monedas virtuales situadas en el extranjero cuando el saldo a 31 de diciembre supere 50.000 euros. Plazo: 1 de enero a 31 de marzo.
+
+**Modelo 149 - Regimen impatriados:** Comunicacion de opcion, renuncia o exclusion del regimen especial de trabajadores desplazados (Ley Beckham). Plazo: 6 meses desde alta en Seguridad Social.
+
+**Modelo 151 - Declaracion impatriados:** Declaracion anual especifica para acogidos al regimen de impatriados. Sustituye al Modelo 100.
+
+**Modelo 184 - Atribucion de rentas:** Declaracion informativa anual de entidades en regimen de atribucion de rentas (comunidades de bienes, herencias yacentes, sociedades civiles). Plazo: enero del año siguiente.
+
 ### Campaña Renta 2025
 
-- **Inicio plazo presentacion:** 2 de abril de 2026
-- **Fin plazo presentacion:** 30 de junio de 2026
-- **Domiciliacion bancaria del pago:** hasta el 25 de junio de 2026
-- **Borrador:** disponible en Renta WEB desde el 2 de abril de 2026
+Fuente: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c01-campana-declaracion-renta.html
+
+| Concepto | Fecha |
+|---|---|
+| Inicio de campaña (Renta WEB) | 8 de abril de 2026 |
+| Fin plazo presentacion (general) | 30 de junio de 2026 |
+| Fin plazo con domiciliacion bancaria | 25 de junio de 2026 |
+| Servicio "Le Llamamos" - solicitud cita | Desde 29 de abril de 2026 |
+| Servicio "Le Llamamos" - atencion efectiva | Desde 6 de mayo de 2026 |
+| Atencion presencial - solicitud cita | Desde 29 de mayo de 2026 |
+| Atencion presencial - inicio | Desde 1 de junio de 2026 |
+| Ultima solicitud de cita (telefono/presencial) | 29 de junio de 2026 |
+| Segundo plazo de pago (modelo 102) | Hasta 5 de noviembre de 2026 |
+| Domiciliacion del segundo plazo | Hasta 30 de septiembre de 2026 |
 
 ### Formas de presentación
 
-1. Por Internet (Renta WEB): con certificado digital, Cl@ve PIN o numero de referencia
-2. Telefonica (plan "Le llamamos"): con cita previa
-3. Presencial: con cita previa en oficinas de la AEAT o CCAA
+**1. Renta WEB (por Internet):**
+Herramienta principal de la AEAT para confeccionar y presentar la declaracion. Permite obtener el borrador, modificarlo y presentarlo electronicamente. Accesible desde el 8 de abril en la Sede Electronica.
 
-### Fraccionamiento del pago
+**2. Renta Directa (presentacion instantanea):**
+Novedad 2025. Permite presentar la declaracion en un solo clic sin necesidad de revisar el borrador. Disponible para 9 millones de contribuyentes elegibles (duplicacion respecto a 2024). Incluye contribuyentes con hipotecas, nuevos declarantes y contribuyentes con deducciones autonomicas.
 
-- Primer plazo: 60% al presentar la declaracion
-- Segundo plazo: 40% restante hasta el 5 de noviembre de 2026
-- Sin intereses ni recargo
-- Requisito: no domiciliar el segundo plazo requiere presentar el modelo 102
+**3. APP movil AEAT:**
+Aplicacion movil gratuita de la AEAT. Permite acceder a los servicios de Renta WEB desde dispositivos moviles. Al confirmar borrador por APP, el pago debe realizarse necesariamente mediante domiciliacion bancaria de ambos plazos.
 
-### Rectificación de autoliquidaciones
+**4. Telefonica - Plan "Le Llamamos":**
+Confeccion y presentacion asistida por telefono. Citas disponibles desde 29 de abril, atencion desde 6 de mayo. Telefonos: 91 553 00 71 / 901 22 33 44 (personal, 9-19h), 91 535 73 26 / 901 12 12 24 (automatico, 24h).
 
-Si el contribuyente detecta errores, puede presentar una autoliquidacion rectificativa en cualquier momento dentro del plazo de prescripcion (4 años).
+**5. Presencial en oficinas:**
+Con cita previa. Disponible desde 1 de junio en oficinas de la AEAT y de las comunidades autonomas. Citas desde 29 de mayo.
+
+### Medios de identificacion electronica
+
+**Certificado digital / DNI electronico:** Firma electronica instalada en el navegador o DNIe. Permite acceso completo a todos los servicios.
+
+**Cl@ve Movil:** Sistema de identificacion mediante la APP Cl@ve (escaneo de codigo QR). No requiere instalar certificados.
+
+**Numero de referencia (RENO):** Referencia unica de 6 caracteres. Se obtiene con NIF + dato del ejercicio anterior (casilla 505 de la declaracion 2024, o IBAN en caso de no declarantes). Valida para la campaña en curso.
+
+**Telefono de informacion tributaria:** 91 554 87 70, lunes a viernes de 9 a 19 horas.
+
+### Fraccionamiento del pago (60/40)
+
+El contribuyente puede fraccionar el pago en dos plazos sin intereses ni recargo, siempre que:
+- La declaracion se presente dentro del plazo reglamentario (hasta 30 de junio)
+- No sea una autoliquidacion complementaria
+
+**Primer plazo:** 60% del importe, al momento de presentar la declaracion.
+
+**Segundo plazo:** 40% restante, hasta el 5 de noviembre de 2026. Se puede:
+- Domiciliar (mismo banco que el primer plazo): hasta 30 de septiembre de 2026
+- Pagar mediante modelo 102 en entidad colaboradora o electronicamente
+
+**Incumplimiento:** La falta de pago del 60% inicial determina el inicio del periodo ejecutivo por la totalidad del importe de la deuda.
+
+**Caso especial APP movil:** Cuando se confirma el borrador mediante la aplicacion movil, el pago debe realizarse necesariamente mediante domiciliacion bancaria de ambos plazos.
+
+### Rectificacion de autoliquidaciones
+
+Desde el ejercicio 2024, la autoliquidacion rectificativa es el sistema unico para corregir declaraciones del IRPF (Orden HAC/242/2025). Sustituye al antiguo sistema dual de complementarias (a ingresar mas) y solicitudes de rectificacion (a devolver mas).
+
+Fuente: https://sede.agenciatributaria.gob.es/Sede/irpf/campana-renta/modificacion-declaracion-renta-2025-presentada/resultado-autoliquidacion-rectificativa-ingresar-menor-importe.html
+
+**Procedimiento:** Se presenta una nueva declaracion marcando la casilla 103 (autoliquidacion rectificativa) en Renta WEB. La nueva declaracion sustituye a la anterior.
+
+**Plazo:** Se puede presentar en cualquier momento antes de que prescriba el derecho de la Administracion a determinar la deuda tributaria (4 años desde el final del plazo de presentacion voluntaria). Si se presenta fuera del plazo voluntario, se considera extemporanea (con recargos).
+
+**Resultado a ingresar mas:** Si la rectificacion resulta en mayor pago, el contribuyente debe ingresar la diferencia. Se aplican recargos por extemporaneidad si se presenta fuera de plazo.
+
+**Resultado a devolver:** Si la rectificacion resulta en menor pago o mayor devolucion, la Administracion procedera a devolver la diferencia.
+
+**Declaraciones complementarias:** Siguen existiendo para ejercicios anteriores a 2024. Se presentan cuando se detectan errores que resultan en un mayor pago al fisco.
+
+### Obligaciones de conservacion documental
+
+Los contribuyentes deben conservar los justificantes y documentos acreditativos de las operaciones, rentas, gastos, ingresos, reducciones y deducciones declaradas, durante el plazo de prescripcion:
+
+- **Plazo fiscal general:** 4 años desde el final del plazo de presentacion
+- **Plazo mercantil (autonomos y empresarios):** 6 años a partir del ultimo asiento contable
+- **Ejercicios con perdidas pendientes de compensar:** La documentacion debe conservarse durante todo el periodo en que las perdidas puedan compensarse (hasta 4 años adicionales)
+- **Recomendacion practica:** Conservar toda documentacion fiscal durante al menos 6 años
+
+**Documentos a conservar:** Certificados de retenciones, nominas, contratos de alquiler, escrituras de compraventa, facturas de gastos deducibles, certificados bancarios, justificantes de donativos, extractos de operaciones de inversion, recibos de IBI, certificados de aportaciones a planes de pensiones, y cualquier otro justificante de las partidas declaradas.
 
 ### 13.1. Flujo de cálculo de la cuota diferencial: conciliación de retenciones y pagos a cuenta
 

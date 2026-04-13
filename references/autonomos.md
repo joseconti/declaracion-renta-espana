@@ -199,10 +199,10 @@ Referencia completa para el cálculo de rendimientos de actividades económicas.
 
 #### 20. Gastos de difícil justificación (SOLO EDS)
 - Descripción: Gastos que presentan dificultad para ser documentados o justificados de manera individual.
-- Deducción admitida: Hasta el 5% del rendimiento neto previo (cifra 2025), con tope máximo de 2.000 EUR anuales.
+- Deducción admitida: Hasta el 7% del rendimiento neto previo (Ley 6/2017, de Reformas Urgentes del Trabajo Autónomo, vigente desde 2018), con tope máximo de 2.000 EUR anuales.
 - Combinación: La deducción por gastos de difícil justificación y provisiones deducibles no puede exceder los 2.000 EUR anuales en conjunto.
 - Requisito: No es necesaria justificación pormenorizada; solo indicar el porcentaje en la declaración del IRPF.
-- Ejemplo: Rendimiento previo 30.000 EUR → máximo gasto difícil justificación = min(1.500 EUR, 2.000 EUR) = 1.500 EUR
+- Ejemplo: Rendimiento previo 30.000 EUR → máximo gasto difícil justificación = min(30.000 × 7% = 2.100 EUR, 2.000 EUR) = 2.000 EUR
 - Deducible: Hasta el límite indicado
 - **Nota**: Esta deducción simplificada NO existe en Estimación Directa Normal, donde todos los gastos deben estar documentados.
 
