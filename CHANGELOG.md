@@ -4,7 +4,7 @@ Todas las versiones notables de este skill se documentan en este archivo.
 
 ---
 
-## v2025-4.3 -- Reescritura completa de deducciones autonomicas con datos AEAT exactos
+## v2025-5.0 -- Reescritura completa de deducciones autonomicas + Bizkaia IRPF 2025
 
 **Fecha:** 27 de abril de 2026
 
@@ -12,7 +12,9 @@ Todas las versiones notables de este skill se documentan en este archivo.
 
 La auditoria de los archivos regionales de deducciones autonomicas revelo que muchos contenian datos incompletos, genericos o sin los condicionantes exactos (porcentajes, importes en euros, limites de renta individual/conjunta, requisitos de edad, umbrales de discapacidad, incompatibilidades, reglas de prorrateo). Se exigia que cada dato incluyera exactamente los valores y condiciones tal como aparecen en el Manual Practico de Renta 2025 de la AEAT.
 
-### Archivos reescritos integramente (10 regiones)
+Ademas, Bizkaia seguia con datos del ejercicio 2024 porque la normativa 2025 no habia sido publicada. Con la aprobacion de la Norma Foral 2/2025 (BOB 22/04/2025) ya se dispone de toda la informacion para actualizar.
+
+### Archivos reescritos integramente (10 regiones de regimen comun)
 
 Cada archivo ha sido reescrito desde cero a partir de las paginas HTML del Manual Practico de la AEAT para cada deduccion individual, extrayendo TODOS los porcentajes, importes, limites de renta, formulas de reduccion, requisitos de edad, discapacidad, situacion personal, formas de pago, incompatibilidades y reglas de prorrateo.
 
@@ -29,6 +31,14 @@ Cada archivo ha sido reescrito desde cero a partir de las paginas HTML del Manua
 - `references/regiones/cantabria.md` -- 21 deducciones. Decreto Legislativo 62/2008. Detalle completo: arrendamiento jovenes/mayores/discapacidad (10%, 300/600 euros), cuidado familiares (100/200 euros), obras mejora (15%, 1.000/1.500 euros), donativos fundaciones (15%/12%/15%), acogimiento menores (240 euros x n, max 1.200), inversion entidades (15%, 1.000 euros), gastos enfermedad (10%, 500/700 euros, 22.946/31.485 renta), guarderia (15%, 300 euros), monoparental (200 euros), nacimiento/adopcion (1.400 euros x3 anos desde 2024), arrendamiento despoblamiento (20%, 600/1.200), guarderia despoblamiento (30%, 600 euros), traslado despoblamiento (500 euros), estudios despoblamiento (200 euros/hijo), residencia despoblamiento <40 (20% cuota, 500 euros), economia social (20%/50%/25%, 3.000 euros), gastos educacion (100% libros + 15% idiomas, 200 euros), ayuda domestica (20% SS, 300 euros), inversiones nuevos contribuyentes extranjero (20%), compensar desplazamiento nuevos residentes (10%/25%, 1.000/1.500 euros), arrendamiento viviendas vacias (500 euros).
 - `references/regiones/comunidad-valenciana.md` -- 41 deducciones. Ley 13/1997 modificada por Ley 5/2025. Detalle completo: nacimiento/adopcion (600-900 euros con formula de reduccion 27.000-30.000/44.000-47.000), multiples (246 euros), discapacidad hijos (246/303 euros), familia numerosa/monoparental (330/660 euros), guarderia <3 (15%, 297 euros), conciliacion 3-5 (460 euros, solo madres), discapacidad contribuyente (197 euros), ascendientes >75 (197 euros), empleados hogar (50%, 330-1.100 euros), arrendamiento arrendador (5%, 3.300 euros), vivienda <35 (5%), vivienda discapacidad (5%), ayudas publicas vivienda (112 euros), arrendamiento (20%/25%/30%, 800-1.100 euros), arrendamiento laboral (10%, 224 euros), renovables (40%/20%, 8.800 euros), donaciones ecologicas/patrimonio/lengua/culturales (20%+25%), dos descendientes (10% cuota), incremento costes financiacion (50%, 100 euros), material escolar desempleados (110 euros), obras conservacion (20%/50%), abonos culturales (21%, 165 euros), vehiculos nuevos (10%), inversion entidades (30%/45%, 6.600/15.000 euros), despoblamiento (330 euros + incrementos hijos), fertilidad (100 euros), gastos salud (30%, 100-150 euros), deporte (30%/50%/100%, 150 euros), formacion musical (100%, 150 euros), Covid ayudas/donaciones, DANA (100% vivienda + 45% inversion entidades, 9.900 euros).
 
+### Correccion puntual de Murcia
+
+- `references/regiones/murcia.md` -- Deduccion 20 (gastos de acceso a Internet): anadidas restricciones que faltaban segun feedback de la comunidad. Se incorpora: base legal (art. 1.Ocho DL 1/2010), caracter de deduccion unica por residencia y contribuyente, incompatibilidad con lineas de anos anteriores, regla de multiples contratos (solo deducible si contratados el mismo ejercicio), requisito de documentacion acreditativa.
+
+### Territorio foral: Bizkaia actualizado a IRPF 2025
+
+- `references/regiones/bizkaia.md` -- **Reescritura completa de IRPF 2024 a IRPF 2025.** El archivo pasa de basarse en el Manual de Renta 2024 a reflejar la Norma Foral 2/2025 (BOB 22/04/2025). Principales cambios incorporados: bonificacion trabajo incrementada a 8.000 euros (SMI=cuota cero), umbral unico de declaracion 20.000 euros (independiente del numero de pagadores), eliminacion de declaracion abreviada, alquiler reforzado 35%/2.800 para menores de 36 (antes 30%/2.400 para menores de 30), compra vivienda reforzada 23% para menores de 36 (antes menores de 30), cuenta vivienda 10 anos para jovenes (antes 6), bonificacion arrendador general 30% (antes 20%) y especial 70% (Bizigune/ASAP/zonas tensionadas), donativos 30%/45% con limite 35% BI (antes 20%/1.000 euros), indemnizacion despido exenta 183.600 (antes 180.000), 5 nuevas deducciones por transicion verde (vehiculos electricos 5-10%, punto recarga 15%, bicicletas empresa), 4 nuevas deducciones familiares (viudedad 200 euros, cuidado 250-500 euros, reincorporacion mujer 1.500 euros, paralizacion hombre 200 euros/ano), mujeres emprendedoras incrementos (15% inicio, 30-40% inversion), estimacion simplificada escalonada (20%/15%/10%), tributacion conjunta unificada 4.800 euros, donaciones familiares vivienda hasta 30.000 euros para menores 36, eficiencia energetica 15%/20.000 euros, EPSV reestructurada con credito fiscal 10-25% y limites 8.000/12.000. Tambien se documenta la nueva escala del ahorro de 9 tramos (efectiva 2026, no 2025), plazos de presentacion 15/04/2026-30/06/2026 segun Orden Foral 144/2026, y tabla resumen de todos los cambios 2024->2025.
+
 ### Archivos no modificados
 
 - `references/regiones/ceuta.md` y `references/regiones/melilla.md` -- Verificados: confirman correctamente que no existen deducciones autonomicas propias. Ceuta y Melilla no han ejercido la competencia normativa en IRPF. Los residentes solo se benefician de la deduccion estatal por rentas obtenidas en Ceuta/Melilla (art. 68.4 LIRPF, 60%).
@@ -37,6 +47,10 @@ Cada archivo ha sido reescrito desde cero a partir de las paginas HTML del Manua
 
 - Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT): paginas HTML individuales de cada deduccion en https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/
 - Leyes y decretos legislativos autonomicos citados en cada archivo regional
+- Norma Foral 2/2025, de 9 de abril (BOB num. 76, 22/04/2025)
+- Portal DFB: articulos KA-01856 (novedades principales) y KA-01872 (vivienda habitual)
+- Sede electronica Diputacion Foral de Bizkaia: www.bizkaia.eus/es/renta-bizkaia/deducciones
+- Orden Foral 144/2026 (plazos campana Renta 2025 Bizkaia)
 
 ---
 

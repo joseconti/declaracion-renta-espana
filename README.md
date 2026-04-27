@@ -110,7 +110,7 @@ declaracion-renta-espana/
 |       |-- # --- Territorios forales (IRPF propio independiente) ---
 |       |-- navarra.md                # IRPF foral 2025 completo (13%-52%, 11 tramos)
 |       |-- alava.md                  # IRPF foral 2025 completo (23%-49%, 7 tramos)
-|       |-- bizkaia.md                # IRPF foral 2024 (23%-49%, 8 tramos) *pendiente 2025
+|       |-- bizkaia.md                # IRPF foral 2025 (23%-49%, 8 tramos)
 |       |-- gipuzkoa.md               # IRPF foral 2025 completo (23%-49%, 8 tramos)
 ```
 
@@ -180,7 +180,7 @@ Navarra y País Vasco (Álava, Bizkaia, Gipuzkoa) tienen haciendas forales propi
 - **Navarra:** IRPF foral 2025, escala general 13%-52% (11 tramos), escala ahorro 20%-28% (6 tramos). Fuente: Manual Práctico IRPF 2025 de Hacienda Foral de Navarra (308 páginas).
 - **Álava/Araba:** IRPF foral 2025, escala general 23%-49% (7 tramos), escala ahorro 20%-25% (5 tramos). Fuente: Manual Práctico IRPF 2025 de la Diputación Foral de Álava (243 páginas).
 - **Gipuzkoa:** IRPF foral 2025, escala general 23%-49% (8 tramos), escala ahorro 20%-25% (5 tramos). Fuente: Manual Práctico IRPF 2025 de la Diputación Foral de Gipuzkoa (214 páginas).
-- **Bizkaia:** IRPF foral 2024 (manual 2025 no publicado al cierre de este skill), escala general 23%-49% (8 tramos), escala ahorro 20%-25% (5 tramos). Fuente: Manual Práctico IRPF 2024 de la Diputación Foral de Bizkaia (546 páginas).
+- **Bizkaia:** IRPF foral 2025, escala general 23%-49% (8 tramos), escala ahorro 20%-25% (5 tramos). Fuente: Norma Foral 2/2025 de 9 de abril (BOB 22/04/2025) y sede electronica de la Diputacion Foral de Bizkaia.
 
 ---
 
@@ -276,7 +276,7 @@ Toda la información fiscal de este skill procede exclusivamente de fuentes ofic
 
 - [Hacienda Foral de Navarra - Manual Práctico IRPF 2025](https://hacienda.navarra.es)
 - [Diputación Foral de Álava - Manual Práctico IRPF 2025](https://web.araba.eus/es/hacienda)
-- [Diputación Foral de Bizkaia - Manual Práctico IRPF 2024](https://www.bizkaia.eus/es/hacienda-y-finanzas)
+- [Diputacion Foral de Bizkaia - Norma Foral 2/2025 y sede electronica IRPF 2025](https://www.bizkaia.eus/es/hacienda-y-finanzas)
 - [Diputación Foral de Gipuzkoa - Manual Práctico IRPF 2025](https://www.gipuzkoa.eus/es/hacienda-y-finanzas)
 
 ### Boletín Oficial del Estado (BOE)
@@ -316,7 +316,7 @@ Toda la información fiscal de este skill procede exclusivamente de fuentes ofic
 
 ## Limitaciones conocidas
 
-- **Bizkaia usa datos de 2024.** El manual 2025 de Bizkaia no estaba publicado al cierre de este skill. Las cuantías pueden variar ligeramente.
+- **Bizkaia: escala del ahorro 2026 documentada pero no aplicable a 2025.** La NF 2/2025 aprueba una nueva escala del ahorro de 9 tramos (hasta 28%) pero con efectos desde 01/01/2026. El archivo bizkaia.md documenta este dato pero aplica la escala de 5 tramos vigente para 2025.
 - **En modo preparación, los cálculos son orientativos.** El skill puede calcular la declaración desde datos en bruto, pero el resultado debe verificarse siempre contra los datos fiscales de la AEAT y/o con un asesor profesional antes de presentar.
 - **No accede a los sistemas de la AEAT.** No puede consultar datos fiscales reales del contribuyente; trabaja con la información que el usuario le facilita.
 - **No cumplimenta Renta WEB.** El skill calcula importes y presenta las casillas principales, pero el contribuyente o su asesor debe introducir los datos manualmente en la plataforma de la AEAT.
@@ -334,7 +334,7 @@ Las contribuciones son bienvenidas, especialmente:
 - Correcciones de datos fiscales con referencia a la fuente oficial (página del PDF o URL de la AEAT)
 - Actualizaciones cuando cambie la normativa
 - Ampliación de cuantías en deducciones autonómicas que falten detalle
-- Actualización del manual de Bizkaia cuando se publique el ejercicio 2025
+- Verificacion cruzada de importes de Bizkaia contra el manual oficial cuando se publique (ya se tiene la NF 2/2025 pero el manual detallado puede aportar matices)
 - Traducciones (catalán, euskera, gallego, valenciano)
 
 Para contribuir, abre un issue o pull request. Toda aportación debe incluir la fuente oficial que respalde el dato.
