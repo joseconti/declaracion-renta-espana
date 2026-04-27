@@ -296,7 +296,7 @@ Toda la información fiscal de este skill procede exclusivamente de fuentes ofic
 - 15 comunidades autónomas de régimen común cubiertas
 - 4 territorios forales cubiertos (Navarra, Álava, Bizkaia, Gipuzkoa) con IRPF completo propio
 - 2 ciudades autónomas (Ceuta y Melilla) con régimen especial
-- Mas de 383 deducciones autonomicas documentadas con porcentajes, limites, requisitos de acceso y condiciones de elegibilidad
+- Mas de 383 deducciones autonomicas documentadas con porcentajes exactos, importes en euros, limites de renta individual/conjunta, formulas de reduccion, requisitos de edad/discapacidad/situacion personal, incompatibilidades y reglas de prorrateo (todos verificados contra las paginas AEAT)
 - 11 categorias de deducciones estatales
 - 8 regimenes y casos especiales (Beckham, cripto, no residentes, nomadas digitales, atribucion de rentas, etc.)
 - Residencia fiscal completa (3 criterios del art. 9 LIRPF, paraisos fiscales, clausula anti-deslocalizacion)

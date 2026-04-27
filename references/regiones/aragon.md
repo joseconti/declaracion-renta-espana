@@ -1,7 +1,21 @@
-# IRPF 2025 - Deducciónes Autónomas: Aragon
+# IRPF 2025 - Deducciones Autonomicas: Aragon
 
-Fuente oficial: Manual Práctico de Renta 2025, Parte 2 - Deducciónes Autónomas (AEAT)
+Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
 https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-aragon.html
+Base legal: Decreto Legislativo 1/2005, de 26 de septiembre, del Gobierno de Aragon, por el que se aprueba el texto refundido de las disposiciones dictadas por la Comunidad Autonoma de Aragon en materia de tributos cedidos
+
+---
+
+## REGIMEN DE FISCALIDAD DIFERENCIADA
+
+Aragon aplica un regimen especial para contribuyentes que residen en zonas rurales con riesgo de despoblamiento. Requisitos comunes:
+- Residencia en asentamientos rurales clasificados en Rangos VIII-IX (riesgo alto) o Rango X (riesgo extremo de despoblamiento)
+- El asentamiento debe tener un valor del Indice Sintetico de Desarrollo Territorial (ISDT) inferior a 100
+- Residencia habitual exigida durante el ano natural del devengo y los cuatro anos siguientes
+- En declaraciones conjuntas, basta con que uno de los conyuges cumpla el requisito de residencia
+- Es siempre incompatible con el regimen general (se debe elegir uno u otro)
+
+Deducciones afectadas: 1, 2, 3, 4, 9, 10, 15 y 19.
 
 ---
 
@@ -9,312 +23,371 @@ https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manual
 
 ### 1. Por nacimiento o adopcion del tercer hijo o sucesivos
 
-#### A. En regimen general
-- **Cuantía general:** 500 euros por cada hijo nacido o adoptado que sea tercero o sucesivo
-- **Cuantía aumentada:** 600 euros cuando suma de bases imponibles (casillas 0435 + 0460) menos mínimos (0511 + 0513) no supera 21.000 euros (individual) o 35.000 euros (conjunta)
-- **Requisitos:**
-  - Aplicable solo en periodo impositivo del nacimiento/adopcion
-  - Deducción corresponde a contribuyente con quien conviva hijo en fecha de devengo
-  - Si conviven con multiples contribuyentes, se prorratea por partes iguales
-- **Incompatibilidades entre cuantias:** Las dos cuantias (500 y 600 euros) son incompatibles entre si
+- **Base legal:** Arts. 110-2, 160-1, 160-2.1 del Decreto Legislativo 1/2005
 
-#### B. En regimen de fiscalidad diferenciada
-- **Cuantía general:** 600 euros por hijo tercero o sucesivo
-- **Cuantía aumentada:** 720 euros con mismas condiciones de renta que regimen general
-- **Requisitos adicionales:**
-  - Residencia habitual en asentamientos rurales Rango VIII, IX o X con ISDT inferior a 100
-  - Mantener residencia en asentamientos durante año de devengo y 4 años posteriores
-  - Compatible con deduccion "Por nacimiento/adopcion hijo con discapacidad >= 33%" y "Por adopcion internacional"
+**Regimen General:**
+- **Cuantia general:** 500 euros por cada hijo nacido o adoptado que sea tercero o sucesivo
+- **Cuantia aumentada:** 600 euros cuando la suma de bases imponibles general (casilla 0435) y del ahorro (casilla 0460) menos minimos del contribuyente (casilla 0511) y por descendientes (casilla 0513) no supere:
+  - 21.000 euros en tributacion individual
+  - 35.000 euros en tributacion conjunta
+- Las cantidades de 500 y 600 euros son mutuamente excluyentes
 
-### 2. Por nacimiento o adopcion de hijo con grado de discapacidad >= 33%
+**Regimen de Fiscalidad Diferenciada:**
+- **Cuantia general:** 600 euros por hijo
+- **Cuantia aumentada:** 720 euros (mismos limites de renta)
+- Residencia habitual en asentamientos rurales Rangos VIII, IX o X con ISDT < 100
+- Residencia exigida durante el ano y los cuatro anos siguientes
+- En tributacion conjunta: basta con que un conyuge cumpla
 
-#### A. En regimen general
-- **Cuantía:** 200 euros por cada hijo nacido o adoptado con discapacidad >= 33%
-- **Requisitos:**
-  - Grado de discapacidad >= 33% reconocido mediante resolucion de orgaño competente en servicios sociales, referido a fecha de devengo
-  - Si conviven con multiples contribuyentes, se prorratea por partes iguales
-- **Compatible con:** Deducción por tercer hijo y adopcion internacional
+**Prorrateo:** Cuando los hijos convivan con varios contribuyentes, la deduccion se prorratea por partes iguales
+**Compatibilidad:** Compatible con deducciones por hijo con discapacidad >= 33% y por adopcion internacional
 
-#### B. En regimen de fiscalidad diferenciada
-- **Cuantía:** 240 euros por hijo con discapacidad >= 33%
-- **Requisitos:** Mismos que regimen general mas residencia en asentamientos Rangos VIII, IX, X con ISDT inferior a 100
+### 2. Por nacimiento o adopcion de hijo con grado de discapacidad igual o superior al 33%
+
+- **Base legal:** Arts. 110-3, 160-1, 160-2.2 del Decreto Legislativo 1/2005
+
+**Regimen General:**
+- **Cuantia:** 200 euros por cada hijo nacido o adoptado durante el periodo impositivo con discapacidad >= 33%
+- La discapacidad debe estar reconocida mediante resolucion oficial de los servicios sociales competentes a fecha de devengo (31 de diciembre)
+
+**Regimen de Fiscalidad Diferenciada:**
+- **Cuantia:** 240 euros por hijo
+- Residencia en asentamientos rurales Rangos VIII, IX, X con ISDT < 100
+- Residencia durante el ano y los cuatro siguientes
+- En conjunta: basta un conyuge
+
+**Prorrateo:** Si varios contribuyentes tienen derecho, se divide por partes iguales
+**Compatibilidad:** Compatible con deduccion por tercer hijo y sucesivos, y por adopcion internacional
+**Incompatibilidad:** Incompatible con deduccion por primer/segundo hijo en municipios < 10.000 hab. (para el mismo hijo; el contribuyente elige la mas favorable)
 
 ### 3. Por adopcion internacional de ninos
 
-#### A. En regimen general
-- **Cuantía:** 600 euros por cada hijo adoptado internacionalmente
-- **Definicion:** Adopcion formalizada conforme a legislacion y Tratados/Convenios, constituyendose en periodo impositivo de resolucion judicial
-- **Requisitos:**
-  - Si nino adoptado convive con ambos padres adoptivos, se prorratea por partes iguales
+- **Base legal:** Arts. 110-4, 160-1, 160-2.3 del Decreto Legislativo 1/2005
 
-#### B. En regimen de fiscalidad diferenciada
-- **Cuantía:** 720 euros por adopcion internacional
-- **Requisitos:** Residencia en asentamientos Rango VIII, IX, X con ISDT inferior a 100
+**Regimen General:**
+- **Cuantia:** 600 euros por cada nino adoptado internacionalmente durante el periodo impositivo
+- La fecha de adopcion es la de la resolucion judicial
 
-### 4. Por el cuidado de personas dependientes
+**Regimen de Fiscalidad Diferenciada:**
+- **Cuantia:** 720 euros por nino
+- Residencia en asentamientos rurales Rangos VIII-IX o X con ISDT < 100
+- Residencia durante el ano y los cuatro siguientes
+- En conjunta: basta un conyuge
 
-#### A. En regimen general
-- **Cuantía:** 150 euros por persona dependiente que conviva mínimo mitad del periodo impositivo
-- **Definicion de dependiente:** Ascendiente mayor de 75 años O ascendiente/descendiente con discapacidad >= 65%
-- **Requisitos:**
-  - Persona dependiente no obtiene rentas superiores a 8.000 euros (excluidas exentas)
-  - Suma bases imponibles (0435 + 0460) menos mínimos (0511 + 0513) no supera 21.000 euros (individual) o 35.000 euros (conjunta)
-  - Si multiples contribuyentes con derecho, se prorratea por partes iguales
-  - Si distinto grado parentesco, aplica de grado mas cercaño (salvo si estos no superan 8.000 euros rentas)
+**Prorrateo:** Cuando el hijo adoptado conviva con ambos padres adoptivos, se prorratea por partes iguales
+**Compatibilidad:** Compatible con deduccion por tercer hijo y sucesivos, por primer/segundo hijo en municipios < 10.000 hab., y por hijo con discapacidad >= 33%
 
-#### B. En regimen de fiscalidad diferenciada
-- **Cuantía:** 300 euros por persona dependiente
-- **Requisitos:** Mismos que regimen general mas residencia en asentamientos Rangos VIII, IX, X
+### 4. Por cuidado de personas dependientes
+
+- **Base legal:** Arts. 110-5, 160-1, 160-2.4 del Decreto Legislativo 1/2005
+
+**Regimen General:**
+- **Cuantia:** 150 euros por cada persona dependiente
+- **Persona dependiente:** Ascendiente mayor de 75 anos O ascendiente/descendiente con discapacidad >= 65%
+- La persona dependiente no puede tener rentas anuales superiores a 8.000 euros (excluidas exentas)
+- **Limite de renta del contribuyente:** Bases imponibles general y del ahorro menos minimos personales no puede superar:
+  - 21.000 euros (individual)
+  - 35.000 euros (conjunta)
+- Convivencia minimo 50% del periodo impositivo
+- Si varios contribuyentes tienen derecho, se prorratea por partes iguales
+- Preferencia por grado de parentesco mas cercano (salvo que sus rentas superen 8.000 euros)
+
+**Regimen de Fiscalidad Diferenciada:**
+- **Cuantia:** 300 euros por persona dependiente (incompatible con regimen general)
+- Residencia en asentamientos rurales Rangos VIII, IX, X con ISDT < 100
+- Residencia durante el ano y los cuatro siguientes
+- En conjunta: basta un conyuge
 
 ### 5. Por donaciones con finalidad ecologica y en investigacion y desarrollo cientifico y tecnico
 
-- **Porcentaje:** 20% del importe de donaciones dinerarias puras y simples
-- **Límite maximo:** No puede exceder 10% de cuota integra autonomica (casilla 0546)
-- **Beneficiarios:**
-  - Comunidad Autonoma de Aragon y organismos/entidades públicas dependientes cuya finalidad sea defensa/conservacion medio ambiente e I+D
-  - Entidades sin fines lucrativos conforme Ley 49/2002 cuyo fin exclusivo/principal sea defensa medio ambiente o I+D, inscritas en registros de Aragon
+- **Base legal:** Art. 110-6 del Decreto Legislativo 1/2005
+- **Porcentaje:** 20% de las donaciones dinerarias puras realizadas durante el periodo impositivo
+- **Limite maximo:** 10% de la cuota integra autonomica (casilla 0546)
+- **Beneficiarios elegibles:**
+  - Gobierno de Aragon y entidades publicas dependientes cuyo objeto sea la defensa/conservacion del medio ambiente o la I+D cientifico y tecnico
+  - Entidades sin fines lucrativos acogidas a la Ley 49/2002 cuyo fin exclusivo o principal sea la proteccion del medio ambiente o la I+D, inscritas en registros correspondientes de Aragon
+- **Requisitos:** Las donaciones deben ser exclusivamente dinerarias
 
 ### 6. Por adquisicion de vivienda habitual por victimas del terrorismo
 
-- **Porcentaje:** 3% de cantidades satisfechas para adquisicion de vivienda nueva en Aragon
+- **Base legal:** Art. 110-7 del Decreto Legislativo 1/2005
+- **Porcentaje:** 3% de las cantidades satisfechas para la adquisicion de vivienda nueva
 - **Requisitos:**
-  - Vivienda acogida a modalidad de proteccion pública de vivienda
-  - Constituye o va a constituir primera residencia habitual
-  - Contribuyente (o cónyuge/pareja de hecho o hijos conviviendo) tiene consideracion de victima del terrorismo
-  - Conceptos de adquisicion, vivienda habitual, base y limite maximo segun normativa estatal vigente a 31-12-2012
-  - Comprobacion de situacion patrimonial del contribuyente
+  - Vivienda situada en territorio aragones
+  - Sujeta a alguna modalidad de proteccion publica de vivienda
+  - Debe constituir o ir a constituir la vivienda habitual del contribuyente
+- **Beneficiarios:** Victimas del terrorismo, conyuge o pareja de hecho de la victima, hijos que convivan con las anteriores
+- **Normativa aplicable:** Conceptos de adquisicion, vivienda habitual, base maxima de deduccion y limites segun normativa vigente a 31/12/2012
 
-### 7. Por inversion en acciones de entidades que cotizan en segmento de empresas en expansion del Mercado Alternativo Bursatil
+### 7. Por inversion en acciones de entidades que cotizan en el segmento de empresas en expansion del Mercado Alternativo Bursatil (MAB)
 
-- **Porcentaje:** 20% de cantidades invertidas en suscripcion de acciones por ampliacion de capital
-- **Límite maximo:** 10.000 euros
+- **Base legal:** Art. 110-8 del Decreto Legislativo 1/2005
+- **Porcentaje:** 20% de las cantidades invertidas en la suscripcion de acciones mediante ampliaciones de capital en el segmento de empresas en expansion del MAB
+- **Maximo de deduccion:** 10.000 euros
 - **Requisitos:**
-  - Participacion no superior al 10% del capital social
-  - Acciones se mantienen mínimo 2 años en patrimonio del contribuyente
-  - Sociedad tiene domicilio social y fiscal en Aragon
-  - Actividad principal no es gestion de patrimonio mobiliario/inmobiliario
-- **Incompatibilidades:** Incompatible con deduccion por inversion en nuevas entidades o economia social (para mismas inversiones)
+  - Participacion del contribuyente no puede superar el 10% del capital social
+  - Acciones suscritas deben mantenerse minimo 2 anos
+  - Entidad con domicilio social y fiscal en Aragon
+  - La entidad no puede tener como actividad principal la gestion de un patrimonio (art. 4.8.2.a Ley 19/1991)
+- **Incompatibilidad:** Incompatible, para las mismas inversiones, con deducciones por inversion en entidades de nueva creacion y por inversion en entidades de economia social
 
-### 8. Por inversion en adquisicion de acciones/participaciones en entidades nuevas o de reciente creacion
+### 8. Por inversion en acciones o participaciones en entidades nuevas o de reciente creacion
 
-- **Porcentaje:** 20% de cantidades invertidas
-- **Límite maximo:** 4.000 euros
-- **Requisitos:**
-  - Solo sobre cuantia que supere base maxima de deduccion general estatal por inversiones en nuevas entidades
-  - Si se transmiten acciones y aplica exension por reinversion, deduccion solo sobre parte reinvertida que supere lo obtenido
-  - Sociedades Anonima, Limitada, Anonima Laboral o Limitada Laboral con domicilio social y fiscal en Aragon
-  - Contribuyente puede formar parte consejo administracion pero sin funciones ejecutivas/direccion ni relacion laboral
-- **Perdida de derecho:** Incumplimiento de condiciones conlleva perdida de beneficio y inclusion de cantidades indebidamente deducidas mas intereses de demora
-- **Incompatibilidades:** Incompatible con inversion en Mercado Alternativo Bursatil o economia social (mismas inversiones)
+- **Base legal:** Art. 110-9 del Decreto Legislativo 1/2005
+- **Porcentaje:** 20% de las cantidades invertidas conforme al art. 68.1 de la Ley del IRPF
+- **Maximo:** 4.000 euros
+- **Condiciones:**
+  - Solo aplica a cantidades que excedan del limite de base de la deduccion general del art. 68.1 IRPF
+  - Cuando se reinvierte tras transmision con exencion fiscal, la base deducible solo incluye cantidades reinvertidas que superen el importe total obtenido en la transmision original
+  - Entidad: SA, SL, SAL o SLL
+  - Domicilio social y fiscal en Aragon
+  - El contribuyente puede formar parte del consejo de administracion pero no puede ejercer funciones ejecutivas o directivas ni mantener relacion laboral
+- **Incompatibilidad:** Incompatible, para las mismas inversiones, con deducciones por inversion en MAB y por inversion en entidades de economia social
+- **Perdida:** Incumplimiento obliga a incluir cantidades indebidamente deducidas mas intereses de demora
 
-### 9. Por adquisicion o rehabilitacion de vivienda habitual en nucleos rurales
+### 9. Por adquisicion o rehabilitacion de vivienda habitual en nucleos rurales o analogos
 
-#### A. En regimen general
-- **Porcentaje:** 5% de cantidades satisfechas
-- **Requisitos:**
-  - Residencia habitual en Aragon y menor de 36 años en fecha de devengo
-  - Primera vivienda (nunca haya sido propietario de otra vivienda habitual)
-  - Vivienda en municipio aragones con menos de 3.000 habitantes O en entidad local menor o entidad singular de poblacion diferenciada de la capitalidad
-  - Suma bases imponibles (0435 + 0460) menos mínimos (0511 + 0513) no supera 21.000 euros (individual) o 35.000 euros (conjunta)
-  - Adquisicion/rehabilitacion desde 1-1-2012
+- **Base legal:** Arts. 110-10, 160-1, 160-2.5 del Decreto Legislativo 1/2005
+- Solo aplicable a adquisiciones o rehabilitaciones realizadas desde el 1 de enero de 2012.
 
-#### B. En regimen de fiscalidad diferenciada
-- **Porcentaje:** 7,5%
-- **Requisitos adicionales:**
-  - Residencia habitual en asentamientos Rango VIII, IX o X con ISDT inferior a 100
-  - Mantener residencia durante año de devengo y 4 años posteriores (o trasladar residencia a asentamiento y mantener 4 años desde adquisicion)
-  - Vivienda en alguno de los asentamientos rurales
+**Regimen General:**
+- **Porcentaje:** 5% de las cantidades satisfechas
+- **Requisitos:** Residencia habitual en Aragon, menor de 36 anos a fecha de devengo, primera vivienda en propiedad
+- Vivienda en: municipio aragones < 3.000 habitantes O entidad local menor/nucleo de poblacion diferenciado del municipio capital
+
+**Regimen de Fiscalidad Diferenciada (incompatible con el general):**
+- **Porcentaje:** 7,5% de las cantidades satisfechas
+- Menor de 36 anos, primera vivienda
+- Residencia en asentamiento rural Rangos VIII, IX, X con ISDT < 100 durante el ano y los cuatro siguientes, O traslado de residencia a dicho asentamiento durante cuatro anos desde la adquisicion
+- En conjunta: basta un conyuge
+- Vivienda ubicada en dichos asentamientos
+
+**Limites de renta (ambos regimenes):**
+- Individual: 21.000 euros maximo
+- Conjunta: 35.000 euros maximo
+- Calculado como: base imponible general (0435) + ahorro (0460) - minimo contribuyente (0511) - minimo descendientes (0513)
+- **Normativa aplicable:** Conceptos de adquisicion, rehabilitacion, vivienda habitual y base de deduccion segun normativa estatal vigente a 31/12/2012
 
 ### 10. Por adquisicion de libros de texto y material escolar
 
-#### A. En regimen general
-- **Porcentaje:** 100% de cantidades destinadas
-- **Alcance:**
-  - Adquisicion libros de texto para descendientes en Educacion Primaria y Secundaria Obligatoria
-  - Adquisicion "material escolar" para Educacion Primaria y Secundaria (medios/recursos para enseñanza, equipacion aprobada por centro educativo)
-  - Equipos informaticos (tabletas, ordenadores) usados en aprendizaje escolar cuando el centro ha optado por material curricular exclusivamente digital
-- **Límites maximo por descendiente (dependiendo de suma bases imponibles 0435+0460):**
-  - No familia númerosa:
-    - Hasta 12.000: 100 euros
-    - 12.000,01-20.000: 50 euros
-    - 20.000,01-25.000: 37,50 euros
-  - Familia númerosa: 150 euros fijos
-  - Individual no familia númerosa:
-    - Hasta 6.500: 50 euros
-    - 6.500,01-10.000: 37,50 euros
-    - 10.000,01-12.500: 25 euros
-  - Individual familia númerosa: 75 euros fijos
+- **Base legal:** Arts. 110-11, 160-1, 160-2.6 del Decreto Legislativo 1/2005
+- **Porcentaje:** 100% de los gastos en libros de texto de Educacion Primaria y ESO, material escolar de Primaria y ESO, y equipamiento digital cuando el centro imponga curriculo exclusivamente digital
+
+**Limites maximos por hijo - REGIMEN GENERAL:**
+
+Declaraciones conjuntas (familias no numerosas):
+- Hasta 12.000 euros de base imponible: 100 euros/hijo
+- De 12.000,01 a 20.000: 50 euros/hijo
+- De 20.000,01 a 25.000: 37,50 euros/hijo
+
+Declaraciones individuales (familias no numerosas):
+- Hasta 6.500 euros: 50 euros/hijo
+- De 6.500,01 a 10.000: 37,50 euros/hijo
+- De 10.000,01 a 12.500: 25 euros/hijo
+
+Familias numerosas - Regimen General:
+- Conjunta: 150 euros/hijo
+- Individual: 75 euros/hijo
+
+**Limites maximos por hijo - REGIMEN FISCALIDAD DIFERENCIADA:**
+
+Declaraciones conjuntas (familias no numerosas):
+- Hasta 12.000 euros: 120 euros/hijo
+- De 12.000,01 a 20.000: 60 euros/hijo
+- De 20.000,01 a 25.000: 45 euros/hijo
+
+Declaraciones individuales (familias no numerosas):
+- Hasta 6.500 euros: 60 euros/hijo
+- De 6.500,01 a 10.000: 45 euros/hijo
+- De 10.000,01 a 12.500: 30 euros/hijo
+
+Familias numerosas - Fiscalidad Diferenciada:
+- Conjunta: 180 euros/hijo
+- Individual: 90 euros/hijo
+
+**Limites de renta:**
+- Individual: 12.500 euros maximo
+- Conjunta: 25.000 euros maximo
+- Familias numerosas individual: 30.000 euros
+- Familias numerosas conjunta: 40.000 euros
+
+**Requisitos adicionales:**
+- Los limites son por hijo, no globales
+- Se reduce por becas y subvenciones publicas recibidas para estos gastos
+- Solo hijos que den derecho al minimo por descendientes
+- Documentacion: facturas o justificantes economicos equivalentes
+- Forma de pago: tarjeta de credito/debito, transferencia bancaria, cheque nominativo o ingreso en cuenta
+- La deduccion corresponde al progenitor que satisfizo los importes (excepto en regimen de consorcio conyugal aragones, donde se atribuye por partes iguales)
+
+### 11. Por arrendamiento de vivienda habitual vinculado a determinadas operaciones de dacion en pago
+
+- **Base legal:** Art. 110-12 del Decreto Legislativo 1/2005
+- **Porcentaje:** 10% de las cantidades satisfechas en concepto de alquiler
+- **Base maxima anual de deduccion:** 4.800 euros
 - **Requisitos:**
-  - Solo descendientes que den derecho a mínimo por descendientes
-  - Base imponible no supera 12.500 euros (individual) o 25.000 euros (conjunta) [o 30.000/40.000 si familia númerosa]
-  - Acreditacion mediante factura o medio de trafico economico admitido en Derecho
-  - Pago mediante tarjeta credito/debito, transferencia, cheque nominativo o ingreso en cuenta
-  - Deducción corresponde a ascendiente que pago (o ambos por partes iguales si consorcio conyugal aragones)
+  - La vivienda habitual debe haber sido adjudicada en pago de la totalidad de la deuda pendiente del prestamo/hipoteca
+  - Debe haberse formalizado un contrato de arrendamiento con opcion de compra sobre la misma vivienda
+  - La fianza del arrendamiento debe estar depositada en el organismo competente de vivienda de Aragon conforme a la Ley 10/1992
+- **Limites de renta:**
+  - Individual: 15.000 euros (base imponible general + ahorro)
+  - Conjunta: 25.000 euros
+- **Concepto de vivienda habitual:** Segun normativa estatal vigente a 31/12/2012
 
-#### B. En regimen de fiscalidad diferenciada
-- **Límites aumentados:** 120, 60, 45 euros (no familia númerosa conjunta); 180 euros (familia númerosa); 60, 45, 30 euros (individual); 90 euros (familia númerosa)
-- **Requisitos:** Mismos que regimen general mas asentamientos Rango VIII, IX, X
+### 12. Por arrendamiento de vivienda social
 
-### 11. Por arrendamiento de vivienda habitual vinculado a operaciones de dacion en pago
-
-- **Porcentaje:** 10% de cantidades satisfechas por arrendamiento
-- **Base maxima de deduccion:** 4.800 euros anuales
+- **Base legal:** Art. 110-13 del Decreto Legislativo 1/2005
+- **Porcentaje:** 30% de la cuota integra autonomica correspondiente a los rendimientos de capital inmobiliario derivados de estos arrendamientos
+- **Deduccion del arrendador (propietario)**
 - **Requisitos:**
-  - Adjudicacion de vivienda habitual en pago de totalidad de deuda pendiente de prestamo/credito hipotecario
-  - Formalizacion de contrato de arrendamiento con opcion de compra de misma vivienda
-  - Suma bases imponibles (0435 + 0460) no supera 15.000 euros (individual) o 25.000 euros (conjunta)
-  - Formalizacion de deposito de fianza ante orgaño competente en vivienda de Aragon
+  - El contribuyente debe haber puesto una o varias viviendas a disposicion del Gobierno de Aragon o de sus entidades gestoras del Plan de Vivienda Social de Aragon
+  - Base de deduccion: cuota integra autonomica correspondiente a la base liquidable general derivada de los rendimientos netos del capital inmobiliario, reducidos segun arts. 23.2 y 23.3 de la Ley del IRPF
+- **Reducciones aplicables sobre rendimientos:** 90%, 70%, 60% o 50% segun circunstancias; 30% para rendimientos con periodo de generacion superior a 2 anos u obtenidos de forma notoriamente irregular
 
-### 12. Por arrendamiento de vivienda social (deduccion del arrendador)
+### 13. Para mayores de 70 anos
 
-- **Cuantía:** 30% de parte de cuota integra autonomica del IRPF que corresponda a rendimientos del capital inmobiliario de tales arrendamientos
+- **Base legal:** Art. 110-14 del Decreto Legislativo 1/2005
+- **Cuantia:** 75 euros por contribuyente
 - **Requisitos:**
-  - Ha puesto una o mas viviendas a disposicion del Gobierno de Aragon o entidades que gestionen Plan de Vivienda Social
-  - Base es cuota integra autonomica de base liquidable general derivada de rendimientos netos capital inmobiliario (reducidos segun IRPF: 90, 70, 60 o 50%)
+  - Tener 70 o mas anos
+  - Obtener rendimientos incluibles en la base imponible general que no procedan exclusivamente del capital (debe percibir rendimientos del trabajo y/o actividades economicas)
+  - Las ganancias patrimoniales no derivadas de transmisiones se consideran rendimientos del capital
+- **Limites de renta:**
+  - 23.000 euros en individual
+  - 35.000 euros en conjunta
 
-### 13. Para mayores de 70 años
+### 14. Por nacimiento o adopcion del primer y/o segundo hijo en municipios de menos de 10.000 habitantes
 
-- **Cuantía:** 75 euros por contribuyente
+- **Base legal:** Art. 110-16 del Decreto Legislativo 1/2005
+- **Importes:**
+  - Primer hijo: 100 euros (general) o 200 euros (si cumple limite de renta)
+  - Segundo hijo: 150 euros (general) o 300 euros (si cumple limite de renta)
+- **Importes incrementados (200/300 euros) cuando:** La suma de bases imponibles general y del ahorro no supere:
+  - 23.000 euros (individual)
+  - 35.000 euros (conjunta)
 - **Requisitos:**
-  - Edad >= 70 años
-  - Obtiene rendimientos integrables en base imponible general (no exclusivamente de capital)
-  - Suma bases imponibles (0435 + 0460) no supera 23.000 euros (individual) o 35.000 euros (conjunta)
+  - Solo se aplica en el periodo impositivo del nacimiento o adopcion
+  - Convivencia con los hijos que dan derecho a la deduccion
+  - Si varios contribuyentes tienen derecho, se prorratea por partes iguales
+  - Residencia durante el ano del nacimiento Y el ano anterior en municipios aragoneses < 10.000 habitantes
+- **Incompatibilidad:** No compatible con deduccion por hijo con discapacidad >= 33% para el mismo hijo. Si ambas aplican, el contribuyente elige la mas favorable; en conjunta solo se aplica una deduccion por hijo.
 
-### 14. Por nacimiento o adopcion del primer y/o segundo hijo en poblaciones de menos de 10.000 habitantes
+### 15. Por gastos de guarderia de hijos menores de 3 anos
 
-- **Cuantía primer hijo:** 100 euros (200 euros si bases imponibles (0435 + 0460) no superan 23.000 individual / 35.000 conjunta)
-- **Cuantía segundo hijo:** 150 euros (300 euros con limites de renta anteriores)
-- **Requisitos:**
-  - Aplicable en periodo impositivo de nacimiento/adopcion
-  - Deducción para contribuyente con quien conviva hijo
-  - Si conviven multiples contribuyentes, se prorratea por partes iguales
-  - Debe haber residido en año de nacimiento y anterior en municipios aragoneses con poblacion menor de 10.000 habitantes
-- **Incompatibilidades:** Incompatible con deduccion por hijo con discapacidad >= 33% (respecto mismo hijo)
+- **Base legal:** Arts. 110-17, 160-1, 160-2.7 del Decreto Legislativo 1/2005
 
-### 15. Por gastos de guarderia de hijos menores de 3 años
+**Regimen General:**
+- **Porcentaje:** 15% de las cantidades satisfechas por custodia en guarderias o centros de educacion infantil autorizados
+- **Maximo:** 250 euros por hijo matriculado antes de cumplir 3 anos; 125 euros por hijo en el periodo impositivo en que cumple 3 anos
+- **Limites de renta:**
+  - Individual: bases imponibles combinadas < 35.000 euros
+  - Conjunta: < 50.000 euros
+  - Base imponible del ahorro no puede superar 4.000 euros
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuenta
+- **Prorrateo:** Si varios contribuyentes conviven con el hijo, por partes iguales. Convivencia a 31 de diciembre, salvo custodia compartida. La suma de deducciones de ambos progenitores no puede superar los maximos. Si un progenitor fallece: limite del 50%; conyuge superstite completa hasta el maximo.
 
-#### A. En regimen general
-- **Porcentaje:** 15% de cantidades satisfechas por gastos de custodia en guarderias/centros educacion infantil
-- **Límites maximo:**
-  - 250 euros por hijo antes de cumplir 3 años
-  - 125 euros por hijo en periodo impositivo que cumpla 3 años
-- **Requisitos:**
-  - Solo descendientes que den derecho a mínimo por descendientes
-  - Suma base liquidable general y ahorro (0435 + 0460) inferior a 35.000 euros (individual) o 50.000 euros (conjunta)
-  - Base imponible ahorro no supera 4.000 euros
-  - Pago mediante tarjeta credito/debito, transferencia, cheque nominativo o ingreso en cuenta
-  - Si multiples contribuyentes (padres), se prorratea por partes iguales
-  - En gananciales o consorcio conyugal aragones, se entiende satisfecho por ambos
-
-#### B. En regimen de fiscalidad diferenciada
-- **Límites aumentados:**
-  - 300 euros por hijo antes de cumplir 3 años
-  - 150 euros en periodo impositivo que cumpla 3 años
-- **Requisitos:** Mismos que regimen general mas asentamientos Rangos VIII, IX, X
+**Regimen de Fiscalidad Diferenciada (incompatible con el general):**
+- **Porcentaje:** 15%
+- **Maximo:** 300 euros por hijo antes de cumplir 3 anos; 150 euros en ejercicio en que cumple 3 anos
+- Residencia en asentamientos rurales Rangos VIII-IX o X con ISDT < 100
+- Residencia durante el ano y los cuatro siguientes (basta un conyuge en conjunta)
 
 ### 16. Por inversion en entidades de la economia social
 
-- **Porcentaje:** 20% de aportaciones realizadas para ser socio en entidades economia social
-- **Límite maximo:** 4.000 euros (individual y conjunta)
-- **Requisitos:**
-  - Participacion no superior al 40% del capital (incluyendo cónyuge y parientes hasta tercer grado)
-  - Aportacion se mantiene mínimo 3 años
-  - No ejercer funciones ejecutivas/direccion ni relacion laboral con entidad
-  - Domicilio social/fiscal en Aragon
-  - Actividad principal no es gestion de patrimonio
-- **Incompatibilidades:** Incompatible con inversion en Mercado Alternativo Bursatil o nuevas entidades (mismas inversiones)
+- **Base legal:** Art. 110-18 del Decreto Legislativo 1/2005
+- **Porcentaje:** 20% de las cantidades invertidas en aportaciones para ser socio de entidades de la economia social
+- **Maximo:** 4.000 euros (individual o conjunta)
+- **Requisitos de la entidad:**
+  - Pertenecer a la economia social conforme a la Ley 5/2011
+  - Domicilio social y fiscal en Aragon
+  - Al menos un empleado con contrato laboral a jornada completa dado de alta en la Seguridad Social
+- **Limite de participacion:** Contribuyente + conyuge + parientes hasta 3er grado no pueden superar el 40% del capital social o derechos de voto
+- **Periodo de mantenimiento:** Requisitos cumplidos durante minimo 5 anos desde la aportacion. Las aportaciones deben permanecer en el patrimonio del contribuyente minimo 5 anos.
+- **Formalizacion:** Escritura publica identificando inversores y cantidades
+- **Perdida:** Incumplimiento obliga a incluir cantidades indebidamente deducidas mas intereses de demora
+- **Incompatibilidad:** Incompatible, para las mismas inversiones, con deducciones por inversion en MAB y por inversion en entidades de nueva creacion
 
 ### 17. Por gastos en clases de apoyo o refuerzo
 
-- **Porcentaje:** 25% de cantidades destinadas al pago de clases de apoyo o refuerzo
-- **Alcance:**
-  - Clases extraescolares en Educacion Infantil, Educacion Basica Obligatoria y Formacion Profesional Basica
-  - Impartidas en centros educativos propios, centros externos publicos/privados, o personas fisicas dadas de alta en IAE
-- **Límites maximos por descendiente (segun suma bases 0435 + 0460):**
-  - No familia númerosa (conjunta):
-    - Hasta 12.000 euros: 200 euros
-    - 12.000,01 a 20.000: 100 euros
-    - 20.000,01 a 25.000: 80 euros
-  - Familia númerosa: 300 euros por descendiente
-  - Individual no familia númerosa:
-    - Hasta 6.500 euros: 100 euros
-    - 6.500,01 a 10.000: 80 euros
-    - 10.000,01 a 12.500: 50 euros
-  - Individual familia númerosa: 300 euros por descendiente
-- **Requisitos:**
-  - Solo descendientes que den derecho a mínimo por descendientes
-  - Suma bases imponibles (0435 + 0460) no supera 12.500 euros (individual) o 25.000 euros (conjunta) [o 30.000/40.000 si familia númerosa]
-  - Ayudas publicas minorador de la deduccion
-  - Acreditacion mediante factura o medio de trafico economico admitido en Derecho
-  - Pago mediante tarjeta credito/debito, transferencia, cheque nominativo o ingreso en cuenta
-  - Deducción corresponde a ascendiente que pago (o ambos por partes iguales en consorcio conyugal aragones)
+- **Base legal:** Art. 110-21 del Decreto Legislativo 1/2005
+- **Porcentaje:** 25% de las cantidades satisfechas por clases extraescolares de apoyo o refuerzo de asignaturas de Educacion Infantil, Educacion Basica Obligatoria y Formacion Profesional Basica
+- **Prestadores elegibles:** Los propios centros educativos, centros publicos o privados externos, trabajadores autonomos dados de alta en epigrafe IAE correspondiente
 
-### 18. Por gastos en formacion para la autonomia y la vida independiente de menores con discapacidad
+**Limites maximos por descendiente:**
 
-- **Porcentaje:** 25% de cantidades destinadas al pago de actividades de formacion
-- **Destinatarios:** Descendientes menores de edad con discapacidad >= 65%
-- **Límites maximos por descendiente (segun suma bases 0435 + 0460):**
-  - No familia númerosa (conjunta):
-    - Hasta 12.000 euros: 200 euros
-    - 12.000,01 a 20.000: 100 euros
-    - 20.000,01 a 25.000: 80 euros
-  - Familia númerosa: 300 euros por descendiente
-  - Individual no familia númerosa:
-    - Hasta 6.500 euros: 100 euros
-    - 6.500,01 a 10.000: 80 euros
-    - 10.000,01 a 12.500: 50 euros
-  - Individual familia númerosa: 300 euros por descendiente
-- **Requisitos:**
-  - Solo descendientes que den derecho a mínimo por descendientes
-  - Suma bases imponibles (0435 + 0460) no supera 12.500 euros (individual) o 25.000 euros (conjunta) [o 30.000/40.000 si familia númerosa]
-  - Actividades dirigidas al fomento de autonomia y vida independiente
-  - Ayudas publicas minorador de la deduccion
-  - Acreditacion mediante factura o medio de trafico economico admitido en Derecho
-  - Pago mediante tarjeta credito/debito, transferencia, cheque nominativo o ingreso en cuenta
-  - Deducción corresponde a ascendiente que pago (o ambos por partes iguales en consorcio conyugal aragones)
+Declaraciones conjuntas (familias no numerosas):
+- Hasta 12.000 euros de base imponible: 200 euros/descendiente
+- De 12.000,01 a 20.000: 100 euros/descendiente
+- De 20.000,01 a 25.000: 80 euros/descendiente
 
-### 19. Por residencia en determinados municipios
+Declaraciones conjuntas (familias numerosas): 300 euros/descendiente
 
-- **Cuantía:** 600 euros por contribuyente
-- **Requisitos:**
-  - Suma bases liquidables general y ahorro (0500 + 0510) inferior a 35.000 euros (individual) o 50.000 euros (conjunta)
-  - Base imponible ahorro (0460) no supera 4.000 euros
-  - Residencia habitual durante año de devengo y 4 años posteriores en asentamientos rurales en riesgo extremo de despoblacion (Rango X de estructura asentamientos Aragon)
-- **Aplicacion:** En tributacion conjunta, aplicable por cada contribuyente que cumpla requisitos
+Declaraciones individuales (familias no numerosas):
+- Hasta 6.500 euros: 100 euros/descendiente
+- De 6.500,01 a 10.000: 80 euros/descendiente
+- De 10.000,01 a 12.500: 50 euros/descendiente
 
----
+Declaraciones individuales (familias numerosas): 300 euros/descendiente
 
-### ANEXO: Municipios con derecho a deduccion por residencia
+**Limites de renta:**
+- Individual: 12.500 euros
+- Conjunta: 25.000 euros
+- Familias numerosas individual: 30.000 euros
+- Familias numerosas conjunta: 40.000 euros
 
-Los asentamientos que dan derecho a la deduccion por residencia en determinados municipios (deduccion 19) son los clasificados como Rango X en la estructura del sistema de asentamientos de Aragon. La lista oficial se publica como documento PDF por el Gobierno de Aragon y se actualiza periodicamente.
+**Requisitos adicionales:**
+- Se reduce por subvenciones publicas recibidas
+- Solo descendientes que den derecho al minimo por descendientes
+- Documentacion: factura o justificante economico equivalente
+- Pago: tarjeta, transferencia, cheque nominativo o ingreso en cuenta
+- Corresponde al progenitor que pago (en consorcio conyugal aragones, por partes iguales)
 
-Consultar la lista vigente en: Gobierno de Aragon - Asentamientos Rango X
-https://www.aragon.es/-/estadistica-local
+### 18. Por gastos de formacion destinados a fomentar la autonomia y la vida independiente de hijos con discapacidad
 
-El contribuyente debe verificar que su asentamiento de residencia habitual esta incluido en la clasificacion Rango X antes de aplicar esta deduccion.
+- **Base legal:** Art. 110-22 del Decreto Legislativo 1/2005
+- **Porcentaje:** 25% de los gastos en actividades formativas destinadas a fomentar la autonomia y vida independiente de descendientes menores de 18 anos con discapacidad >= 65%
 
----
+**Limites maximos por hijo:**
 
-## PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
+Declaraciones conjuntas (familias no numerosas):
+- Hasta 12.000 euros: 200 euros/hijo
+- De 12.000,01 a 20.000: 100 euros/hijo
+- De 20.000,01 a 25.000: 80 euros/hijo
 
-1. Has tenido hijos nacidos o adoptados en 2025? Es el tercero o sucesivo, o tienen discapacidad?
-2. Tu suma de bases imponibles permite acceder a cuantias aumentadas en deducciones por hijos (regimen general o diferenciado)?
-3. Vives en asentamiento rural de Aragon con alto riesgo de despoblacion (Rango VIII, IX o X)?
-4. Tienes personas dependientes mayores de 75 años o con discapacidad >= 65% conviviendo contigo?
-5. Has realizado donaciones a entidades ecologicas o de I+D inscritas en registros de Aragon?
-6. Has adquirido o rehabilitado vivienda habitual en nucleo rural aragones con menos de 3.000 habitantes?
-7. Has pagado por libros de texto y material escolar de tus hijos en Educacion Primaria o Secundaria?
-8. Eres menor de 36 años? Es tu primera vivienda? Vives en municipio rural?
-9. Tienes hijos menores de 3 años en guarderia o centro educacion infantil? Cual es tu renta?
-10. Has arrendado vivienda habitual vinculada a operacion de dacion en pago?
-11. Eres mayor de 70 años y obtienes rendimientos del trabajo o actividades económicas?
-12. Naciste o adoptaste primero/segundo hijo en municipio de menos de 10.000 habitantes?
-13. Has realizado inversiones en empresas de economia social o nuevas entidades en Aragon?
-14. Has invertido en acciones del Mercado Alternativo Bursatil?
+Declaraciones conjuntas (familias numerosas): 300 euros/hijo
+
+Declaraciones individuales (familias no numerosas):
+- Hasta 6.500 euros: 100 euros/hijo
+- De 6.500,01 a 10.000: 80 euros/hijo
+- De 10.000,01 a 12.500: 50 euros/hijo
+
+Declaraciones individuales (familias numerosas): 300 euros/hijo
+
+**Limites de renta:**
+- Individual: 12.500 euros
+- Conjunta: 25.000 euros
+- Familias numerosas individual: 30.000 euros
+- Familias numerosas conjunta: 40.000 euros
+
+**Requisitos adicionales:**
+- Se reduce por ayudas publicas recibidas para formacion
+- Solo hijos que den derecho al minimo por descendientes
+- Documentacion: factura o justificante economico equivalente
+- Pago: tarjeta, transferencia, cheque nominativo o ingreso en cuenta
+- Corresponde al progenitor que pago (en consorcio conyugal aragones, por partes iguales)
+
+### 19. Por residencia habitual en determinados municipios
+
+- **Base legal:** Arts. 160-1 y 160-2.8 del Decreto Legislativo 1/2005
+- **Cuantia:** 600 euros por contribuyente
+- **Limites de renta:**
+  - Individual: bases imponibles general y del ahorro < 35.000 euros
+  - Conjunta: < 50.000 euros
+  - Base imponible del ahorro no puede superar 4.000 euros
+- **Requisito de residencia:** Residencia habitual durante el ano natural Y los cuatro anos siguientes en asentamientos rurales clasificados como Rango X (riesgo extremo de despoblamiento)
+- **Tributacion conjunta:** Cada contribuyente que cumpla todos los requisitos puede aplicar la deduccion de 600 euros por separado
 
 ---
 
 ## FUENTES
-
-- Manual Práctico Renta 2025 Parte 2 Deducciónes Autónomas: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-aragon.html
-- Texto Refundido Disposiciones Comunidad Autonoma Aragon Tributos Cedidos: Decreto Legislativo 1/2005
+- AEAT Manual Practico Renta 2025 - Aragon: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-aragon.html
+- Decreto Legislativo 1/2005, de 26 de septiembre, del Gobierno de Aragon

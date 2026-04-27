@@ -1,194 +1,183 @@
-# IRPF 2025 - Deducciones Autonómicas: Cataluña
+# IRPF 2025 - Deducciones Autonomicas: Cataluna
 
-Fuente oficial: Manual Práctico de Renta 2025, Parte 2 - Deducciones Autonómicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonomicas.html
+Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
+https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-cataluna.html
+Base legal: Decreto Legislativo 1/2024, de 12 de marzo (Codigo tributario de Catalunya, libro sexto - tributos cedidos)
 
 ---
 
 ## DEDUCCIONES
 
-### 1. Por nacimiento o adopción de un hijo o de una hija o por acogimiento familiar
+### 1. Por nacimiento o adopcion de un hijo/a o por acogimiento familiar
 
-- **Cuantía:**
-  - Declaración individual: 150 euros
-  - Declaración conjunta: 300 euros
-  - Familias monoparentales: 300 euros
-- **Aplicable a:**
-  - Nacimiento de hijo/a durante el periodo impositivo
-  - Adopción de hijo/a durante el periodo impositivo
-  - Acogimiento familiar de personas menores de edad
-- **Requisitos acogimiento:**
-  - Debe haberse acordado conforme a la Ley 14/2010, de 27 de mayo (derechos y oportunidades en infancia y adolescencia)
-  - Puede ser acogimiento simple o permanente
-  - En familia extensa o familia ajena
-- **Aplicación:** En declaración individual de cada progenitor o persona acogedora
-- **Incompatibilidades:** No se aplica con otras deducciónes por el mismo hijo excepto en casos especiales
+- **Cuantias:**
+  - 150 euros en declaracion individual de cada progenitor
+  - 300 euros en declaracion conjunta de ambos progenitores
+  - 300 euros en declaracion del progenitor/a de familia monoparental
+- **Acogimiento:** Familiar simple o permanente, en familia extensa o ajena, conforme a Ley 14/2010
+- **Familia monoparental:** Segun art. 4 Decreto 151/2009 y Ley 18/2003
+- **Incompatibilidad:** La deduccion por adopcion es incompatible con la de acogimiento respecto del mismo hijo. Si un menor fue acogido y luego adoptado, solo se aplica la de acogimiento (primera en el tiempo)
 
-### 2. Para contribuyentes que hayan quedado viudos en los ejercicios 2023, 2024 y 2025
+### 2. Para contribuyentes que hayan quedado viudos (ejercicios 2023, 2024 y 2025)
 
-- **Cuantía:**
-  - 150 euros (general para contribuyentes que hayan quedado viudos)
-  - 300 euros (si la persona viuda tiene a cargo uno o mas descendientes que otorguen derecho a mínimo por descendientes)
-- **Ambito de aplicacion temporal:**
-  - Aplicable en la declaración del ejercicio en que se quede viudo/a y en los dos ejercicios siguientes
-  - La cuantia de 300 euros se aplica en los dos ejercicios siguientes siempre que descendientes mantengan requisitos de mínimo por descendientes
-  - Contribuyentes que se quedaron viudos en 2023/2024 pueden aplicar deducción en 2025 con mismos requisitos
-  - Contribuyentes que se queden viudos en 2025 pueden aplicarla en 2026 y 2027
-- **Requisitos:**
-  - Contribuyentes con derecho deben consignar en casilla [1936] del Anexo B.5 de declaración el año de viudedad
-- **Novedad 2025:** Incorporada como nueva deducción
+- **Cuantias:**
+  - 150 euros con caracter general
+  - 300 euros si la persona viuda tiene a su cargo uno o mas descendientes que otorguen derecho al minimo por descendientes
+- **Periodo de aplicacion:** Ejercicio en que queda viudo/a + 2 ejercicios siguientes
+- **Los 300 euros en los 2 ejercicios siguientes:** Requieren que los descendientes mantengan los requisitos del minimo por descendientes
+- **Ambito temporal:** Viudos de 2023/2024 pueden aplicarla en declaracion 2025; viudos de 2025 pueden aplicarla en 2026 y 2027
 
 ### 3. Por alquiler de la vivienda habitual
 
-- **Cuantía:** 10% de las cantidades satisfechas en concepto de alquiler
-- **Límite maximo:**
-  - 500 euros anuales (declaración individual, situación A)
-  - 1.000 euros anuales (declaración conjunta, situación A)
-  - 1.000 euros anuales (familias numerosas o monoparentales, situación B)
-  - 1.000 euros por vivienda (límite absoluto)
-- **Situacion A - Requisito obligatorio:** el contribuyente debe cumplir AL MENOS UNA de estas condiciones:
-  - Tener 35 años o menos a fecha de devengo (31/12/2025)
-  - Haber estado en situación de desempleo durante 183 dias o mas durante el ejercicio
-  - Tener un grado de discapacidad igual o superior al 65%
-  - Ser viudo/a con 65 años o mas
-- **Situacion B - Familias numerosas o monoparentales:**
-  - Pertenecer a familia numerosa o monoparental a fecha de devengo
-- **Límite de renta:**
-  - Base imponible general + base imponible del ahorro - mínimo personal y familiar no superior a 30.000 euros (individual)
-  - No superior a 45.000 euros (conjunta)
-- **Otros requisitos:**
-  - Identificación obligatoria del arrendador (NIF en la declaración)
-  - Justificacion documental de las cantidades satisfechas
-  - En matrimonios en regimen de gananciales, solo tiene derecho quien figure como titular en el contrato
-- **NOTA:** Si no se cumple ninguna de las condiciones de la Situacion A ni de la Situacion B, la deducción NO es aplicable. No confundir con la deducción estatal por alquiler, que fue suprimida en 2015 (salvo regimen transitorio para contratos anteriores al 1 de enero de 2015)
-- **Solo se aplica una vez** por contribuyente, independientemente de que concurran varias situaciónes
+**A. En general:**
+- **Porcentaje:** 10% de las cantidades satisfechas
+- **Limite maximo:** 500 euros anuales (tributacion individual); 1.000 euros anuales (tributacion conjunta)
+- **Requisitos personales (al menos uno):**
+  - Tener 35 anos o menos a fecha de devengo (31 de diciembre)
+  - Haber estado en paro durante 183 dias o mas durante el ejercicio
+  - Tener discapacidad >= 65%
+  - Ser viudo/a y tener 65 anos o mas
 
-### 4. Por rehabilitación de la vivienda habitual
+**B. Para familias numerosas y monoparentales:**
+- **Porcentaje:** 10% de las cantidades satisfechas
+- **Limite maximo:** 1.000 euros anuales
 
-- **Cuantía:** 1,5% de las cantidades satisfechas en obras de rehabilitación
-- **Base maxima:** 9.040 euros (límite de gasto eligible para el calculo)
-- **Aplicable a:**
-  - Obras de mejora, ampliación o rehabilitación
-  - Mejora de eficientífica energética
-  - Accesibilidad para personas con discapacidad
+**Umbral de renta (base imponible general + ahorro - minimo personal y familiar):**
+- 30.000 euros en tributacion individual
+- 45.000 euros en tributacion conjunta
+
+**Otras condiciones:**
+- Solo se aplica una vez aunque concurran varias circunstancias
+- Una misma vivienda no puede generar deduccion superior a 1.000 euros en total (se divide entre declarantes con derecho)
+- Debe identificarse al arrendador con su NIF
+
+### 4. Por rehabilitacion de la vivienda habitual
+
+- **Porcentaje:** 1,5% de las cantidades satisfechas por rehabilitacion
+- **Base maxima:** 9.040 euros anuales
+- **Deduccion maxima resultante:** 135,60 euros
+
+### 5. Por el pago de intereses de prestamos para estudios de master y doctorado
+
+- **Porcentaje:** 100% del importe de los intereses pagados en el periodo impositivo
+- **Prestamos elegibles:** Concedidos a traves de la Agencia de Gestion de Ayudas Universitarias y de Investigacion (AGAUR)
+
+### 6. Por donativos a entidades que fomentan la lengua catalana o la occitana
+
+- **Porcentaje:** 15% de las cantidades donadas
+- **Limite maximo:** 10% de la cuota integra autonomica (casilla 0546)
+- **Entidades beneficiarias:**
+  - Instituto de Estudios Catalanes
+  - Instituto de Estudios Araneses - Academia Aranesa de la Lengua Occitana
+  - Entidades privadas sin animo de lucro, organizaciones sindicales/empresariales, colegios profesionales u otras corporaciones de derecho publico incluidas en el censo del departamento de politica linguistica
+
+### 7. Por donativos a entidades que fomentan la investigacion cientifica y el desarrollo e innovacion tecnologicos
+
+- **Porcentaje:** 30% de las cantidades donadas
+- **Limite maximo:** 10% de la cuota integra autonomica (casilla 0546)
+- **Entidades beneficiarias:**
+  - Universidades catalanas, institutos universitarios y centros de investigacion integrados/adscritos a universidades catalanas
+  - Centros de investigacion promovidos o participados por la Generalitat
+- **Limite adicional:** La suma de esta deduccion + deduccion estatal por donativos (Ley 49/2002) no puede superar el 100%
+
+### 8. Por donaciones a entidades en beneficio del medio ambiente, conservacion del patrimonio natural y custodia del territorio
+
+- **Porcentaje:** 15% de las cantidades donadas
+- **Limite maximo:** 5% de la cuota integra autonomica (casilla 0546)
+- **Entidades beneficiarias:** Fundaciones o asociaciones que figuren en el censo de entidades ambientales vinculadas a la ecologia y proteccion/mejora del medio ambiente
+
+### 9. Por inversion por un angel inversor para la adquisicion de acciones o participaciones sociales
+
+- **Porcentaje:**
+  - 40% de las cantidades invertidas (general)
+  - 50% si la sociedad es creada o participada por universidades o centros de investigacion
+- **Limite maximo:** 12.000 euros (en ambos casos); en conjunta, el limite se aplica a cada contribuyente individualmente
+- **Requisitos del contribuyente:**
+  - Participacion (incluyendo conyuge y parientes hasta 3er grado) no superior al 35% del capital social o derechos de voto
+  - No puede ejercer funciones ejecutivas ni de direccion
+  - No puede mantener relacion laboral con la entidad
+- **Requisitos de la sociedad:**
+  - Forma: SA, SL, SAL o SLL
+  - Domicilio social y fiscal en Cataluna
+  - Actividad economica real (no gestion de patrimonio)
+  - Minimo 1 persona empleada con contrato laboral a jornada completa en regimen general SS
+  - En ampliacion de capital: sociedad constituida en los 3 anos anteriores y no cotizada (ni mercado nacional ni MAB)
+  - Volumen de facturacion anual no superior a 1.000.000 euros
+- **Plazo de mantenimiento:** 3 anos minimos desde la fecha de efectividad del acuerdo
+- **Incumplimiento:** Devolucion de la deduccion + intereses de demora
+
+### 10. Por obligacion de presentar declaracion del IRPF por tener mas de un pagador
+
+- **Cuantia:** Resultado de restar cuota integra autonomica (casilla 0546) - cuota integra estatal (casilla 0545), siempre que la diferencia sea positiva
 - **Requisitos:**
-  - Vivienda habitual en Cataluña
-  - Facturas justificativas de las obras
-  - Medios de pago documentados
-- **Documentación:** Contrato con empresa, facturas, recibos de pago
-
-### 5. Por pago de intereses de préstamos para los estudios de master y doctorado
-
-- **Cuantía:** Deduccion por intereses de préstamos para estudios postgrado
-- **Requisitos:**
-  - Préstamo para financiar estudios de master o doctorado
-  - Estudios en Cataluña o fuera segun normativa
-  - Intereses efectivamente pagados durante el periodo
-- **Base:** Certificación de la entidad prestamista
-
-### 6. Por donativos a entidades que fomentan el uso de la lengua catalana y occitana
-
-- **Cuantía:** 15% de cantidades donadas
-- **Requisitos:**
-  - Donaciones a Instituto de Estudios Catalanes
-  - Donaciones a Instituto de Estudios Araneses - Academia Aranesa de la Lengua Occitana
-  - Donaciones a entidades sin fines lucrativos, sindicatos, organizaciones empresariales o asociaciones profesionales que promuevan lengua catalana u occitana
-  - Entidades inscritas conforme a normativa
-- **Límite maximo:** 10% de la cuota integra autonomica
-- **Documentación:** Entidad beneficiaria debe remitir listado de donantes a Agencia Tributaria de Cataluña dentro de los primeros 20 dias del año
-
-### 7. Por donativos a entidades que fomentan la investigacion cientifica, desarrollo e innovacion
-
-- **Cuantía:** 15% de cantidades donadas
-- **Requisitos:**
-  - Donaciones a entidades de investigacion, centros tecnologicos, universidades
-  - Proyectos de investigacion, desarrollo e innovacion
-  - Entidades con sede en Cataluña o desarrollando actividad en la region
-- **Límite maximo:** 10% de la cuota integra autonomica
-
-### 8. Por donaciones a determinadas entidades en materias culturales, ambientales, naturales o de patrimonio
-
-- **Cuantía:** 15% de cantidades donadas
-- **Requisitos:**
-  - Donaciones a entidades culturales
-  - Conservacion de patrimonio histórico y natural
-  - Proteccion de espacios naturales
-  - Entidades inscritas en registros correspondientes
-- **Límite maximo:** 10% de la cuota integra autonomica
-- **Documentación:** Certificación de la entidad beneficiaria de la donacion
-
-### 9. Por inversión por un angel inversor para la adquisición de acciones o participaciones
-
-- **Cuantía:**
-  - 40% de la cantidad invertida (caso general)
-  - 50% de la cantidad invertida (si empresa creada por universidad o centro de investigacion)
-- **Límite maximo:** 12.000 euros anuales en ambos casos
-- **Requisitos:**
-  - Inversión en acciones o participaciones de empresas nuevas o de reciente creacion
-  - Empresa domiciliada en Cataluña
-  - Desarrollo de actividad económica real
-  - No superar 1 millon de euros de facturacion anual
-  - Minimo 1 trabajador a jornada completa dado de alta en Seguridad Social
-  - Inversor: no puede ejercer funciones ejecutivas ni mantener relacion laboral con la sociedad (puede estar en consejo de administracion)
-  - Mantenimiento de participacion durante mínimo 3 años
-- **Acreditación:** Documento de inversión, certificacion de la entidad beneficiaria
-
-### 10. Por obligación de presentar la declaración del IRPF por razón de tener más de un pagador
-
-- **Cuantía:** Deduccion fija (cantidad establecida)
-- **Requisitos:**
-  - Contribuyente con multiples pagadores (pensionistas, rentistas)
-  - Obligacion de presentar declaración por esta circunstancia
-- **Aplicación:** Automatica si se cumplen condiciones
+  - Rendimientos integros del trabajo entre 15.876 y 22.000 euros
+  - Mas de un pagador, y las cantidades del 2o y restantes pagadores excedan de 1.500 euros
+  - No aplicable a pensionistas acogidos al procedimiento especial de retenciones (modelo 146)
+- **Exclusiones (no se aplica si):**
+  - Rendimientos de capital mobiliario + ganancias patrimoniales con retencion superiores a 1.600 euros
+  - Rentas inmobiliarias imputadas + Letras del Tesoro + subvenciones vivienda + ganancias de ayudas publicas superiores a 1.000 euros
+  - Se perciben rendimientos de capital mobiliario no sujetos a retencion, rendimientos de capital inmobiliario, rendimientos de actividades economicas o ganancias patrimoniales no sujetas a retencion (cualquier cuantia)
 
 ### 11. Por alquiler de la vivienda habitual de victimas de violencia machista
 
-- **Cuantía:** Deduccion especial por alquiler (similar a deducción general pero con mayores beneficios)
+- **General:**
+  - 20% de las cantidades satisfechas en alquiler
+  - Limite maximo: 1.000 euros anuales
+- **Si discapacidad >= 65% o hijo/a menor a cargo:**
+  - 25% de las cantidades satisfechas
+  - Limite maximo: 1.200 euros anuales
 - **Requisitos:**
-  - Reconocimiento como victima de violencia machista
-  - Cambio de residencia por razón de seguridad
-  - Vivienda en alquiler
-- **Documentación:** Certificación de condicion de victima
-- **Novedad 2025:** Incorporada como nueva deducción
+  - Acreditar condicion de victima de violencia machista (Ley 5/2008)
+  - Figurar como titular del contrato de alquiler
+  - Base imponible general + ahorro - minimo personal y familiar no superior a 30.000 euros anuales
+- **Ambito temporal:** Maximo 3 ejercicios consecutivos
 
-### 12. Por inversión en sociedades cooperativas agrarias y de vivienda
+### 12. Por inversion en sociedades cooperativas agrarias y de vivienda
 
-- **Cuantía:** 20% de las aportaciones o contribuciones
-- **Límite maximo:** 3.000 euros
+- **Porcentaje:** 20% de las aportaciones de capital (obligatorias y voluntarias) efectivamente desembolsadas
+- **Limite maximo:** 3.000 euros anuales por contribuyente
 - **Requisitos:**
-  - Cooperativas agrarias o de vivienda domiciliadas en Cataluña
-  - Cumplimiento de requisitos de inscripcion
-  - Aportaciones efectivamente realizadas
-- **Documentación:** Certificación de cooperativa e importes aportados
+  - Ser socio (cualquier tipo segun Ley 12/2015, excluido socio temporal)
+  - El voto del socio no puede superar el 25% del total de votos sociales
+  - Cooperativa inscrita en el Registro de cooperativas de la Generalitat como cooperativa agraria o de vivienda
+  - No aplicable a cooperativas de vivienda para uso turistico o de corta duracion
+  - Certificacion de la cooperativa acreditando cumplimiento
+- **Plazo de mantenimiento:** 5 anos minimos desde la fecha de aportacion
+- **Incumplimiento:** Devolucion + intereses de demora; excepcion: baja con reinversion en otra cooperativa que cumpla requisitos, o transmision segun estatutos
+- **Saldos pendientes:** Si no hay cuota integra autonomica suficiente, el importe no deducido puede compensarse en ejercicios futuros
 
-### 13. Tramo autonomico de la deducción por inversión en vivienda habitual
+### 13. Tramo autonomico de la deduccion por inversion en vivienda habitual (regimen transitorio)
 
-- **Descripción:** Deduccion complementaria autonómica para inversión en vivienda habitual
-- **Requisitos:**
-  - Contribuyente con inversión en vivienda habitual
-  - Vivienda en territorio de Cataluña
-  - Cumplimiento de requisitos generales de deducción estatal
-- **Aplicación:** Se aplica como complemento a deducción estatal de inversión en vivienda habitual
-- **Consultar:** Fuente oficial AEAT para límites y porcentajes específicos de 2025
+- **Porcentaje:** 7,5% con caracter general
+- **Porcentaje incrementado del 9%** para contribuyentes que adquirieron vivienda habitual antes del 30 de julio de 2011 (o satisficieron cantidades para construccion antes de esa fecha, excluyendo rehabilitacion y ampliacion), si cumplen alguna de estas condiciones:
+  - Tener 32 anos o menos a fecha de devengo
+  - Haber estado en paro 183 dias o mas durante el ejercicio
+  - Tener discapacidad >= 65%
+  - Formar parte de unidad familiar con al menos 1 hijo a fecha de devengo
+- **Umbral de renta para el 9%:** Base imponible general + ahorro - minimo personal y familiar no superior a 30.000 euros (computo individual incluso en tributacion conjunta)
+- **15%** para obras de adecuacion de vivienda habitual de personas con discapacidad (art. 68.1.4 Ley IRPF, redaccion a 31/12/2012)
 
 ---
 
 ## PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
 
-1. ¿Pagas alquiler por tu vivienda habitual en Cataluña?
-2. ¿Ha habido nacimiento, adopción o acogimiento familiar de menor en 2025?
-3. ¿Has realizado obras de rehabilitación o mejora de eficientífica energética en tu vivienda?
-4. ¿Estás pagando un prestamo para financiar estudios de master o doctorado?
-5. ¿Has realizado donaciones a entidades de promocion de la lengua catalana u occitana?
-6. Has donado a entidades de investigacion cientifica, desarrollo e innovacion?
-7. Has invertido como angel inversor en acciones de empresas nuevas catalanas?
-8. ¿¿Tienes aportaciones a cooperativas agrarias o de vivienda?
-9. ¿Eres victima de violencia machista y pagas alquiler en Cataluña?
-10. ¿¿Tienes más de un pagador y obligación de presentar declaración de renta?
+1. Has tenido un hijo, adoptado o acogido un menor durante 2025?
+2. Has enviudado en 2023, 2024 o 2025? Tienes descendientes a cargo?
+3. Pagas alquiler de vivienda habitual? Eres menor de 35, desempleado > 183 dias, discapacidad >= 65%, o viudo/a >= 65?
+4. Has realizado obras de rehabilitacion en tu vivienda habitual?
+5. Pagas intereses de prestamos AGAUR para estudios de master o doctorado?
+6. Has realizado donativos a entidades de fomento de la lengua catalana u occitana?
+7. Has donado a universidades, centros de investigacion catalanes?
+8. Has donado a entidades medioambientales?
+9. Has invertido como angel inversor en startups catalanas?
+10. Tienes mas de un pagador con rendimientos del trabajo entre 15.876 y 22.000 euros?
+11. Eres victima de violencia machista y pagas alquiler?
+12. Has invertido en cooperativas agrarias o de vivienda catalanas?
+13. Tienes derecho al regimen transitorio de deduccion por inversion en vivienda habitual?
 
 ---
 
 ## FUENTES
 
-- Manual Práctico Renta 2025 Parte 2: Deducciones Autonómicas - Comunidad Autónoma de Cataluña
-- AEAT: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciónes-autonomicas/comunidad-autonoma-cataluna.html
+- Manual Practico Renta 2025 Parte 2 Deducciones Autonomicas: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-cataluna.html
+- Decreto Legislativo 1/2024, de 12 de marzo (Codigo tributario de Catalunya, libro sexto - tributos cedidos)

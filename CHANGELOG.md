@@ -4,6 +4,42 @@ Todas las versiones notables de este skill se documentan en este archivo.
 
 ---
 
+## v2025-4.3 -- Reescritura completa de deducciones autonomicas con datos AEAT exactos
+
+**Fecha:** 27 de abril de 2026
+
+### Problema detectado
+
+La auditoria de los archivos regionales de deducciones autonomicas revelo que muchos contenian datos incompletos, genericos o sin los condicionantes exactos (porcentajes, importes en euros, limites de renta individual/conjunta, requisitos de edad, umbrales de discapacidad, incompatibilidades, reglas de prorrateo). Se exigia que cada dato incluyera exactamente los valores y condiciones tal como aparecen en el Manual Practico de Renta 2025 de la AEAT.
+
+### Archivos reescritos integramente (10 regiones)
+
+Cada archivo ha sido reescrito desde cero a partir de las paginas HTML del Manual Practico de la AEAT para cada deduccion individual, extrayendo TODOS los porcentajes, importes, limites de renta, formulas de reduccion, requisitos de edad, discapacidad, situacion personal, formas de pago, incompatibilidades y reglas de prorrateo.
+
+- `references/regiones/canarias.md` -- 29 deducciones (reescritura previa)
+- `references/regiones/madrid.md` -- 23 deducciones (reescritura previa)
+- `references/regiones/extremadura.md` -- 19 deducciones (reescritura previa)
+- `references/regiones/cataluna.md`, `castilla-la-mancha.md`, `castilla-y-leon.md`, `galicia.md` -- (reescrituras previas)
+- `references/regiones/baleares.md` -- 24 deducciones. Decreto Legislativo 1/2014. Detalle completo: sostenibilidad vivienda (50%, 10.000 euros base, 33.000/52.800 renta), arrendamiento (15%/530 o 20%/650 con limites escalonados hasta 42.900/68.640 para familia numerosa especial), nacimiento (800-1.400 euros por orden, 52.800/84.480 renta), ELA (100%, 3.500 euros), inversiones entidades (30%/6.000 o 50%/12.000), autoocupacion (1.000 euros).
+- `references/regiones/asturias.md` -- 27 deducciones. Decreto Legislativo 2/2014. Detalle completo: acogimiento mayores (500 euros, 26.000/37.000), vivienda discapacidad 65% (3%, 15.000 base), arrendamiento (10%/500 general, 30%/1.500 jovenes/numerosas), familia numerosa (1.000/2.000 euros), gastos centros 0-3 (15%/500 general, 30%/1.000 despoblamiento), emancipacion jovenes (100%, 1.000 euros), celiaca (100 euros), inversiones entidades (30%, 6.000 euros).
+- `references/regiones/murcia.md` -- 28 deducciones. Decreto Legislativo 1/2010 + Ley 4/2022 Mecenazgo. Detalle completo: vivienda jovenes 40 (5%, 300 euros, <40.000 renta), guarderia (20%, 1.000 euros/hijo), mujeres trabajadoras (300-400 euros), renovables (50%/37,5%/25% por tramos de renta, 7.000 euros), vehiculos electricos (30%/22,5%/15%, 7.000 euros), enfermedades raras (100%, 300 euros), deporte (30%/100%, 150 euros).
+- `references/regiones/la-rioja.md` -- 24 deducciones. Ley 10/2017 + Ley 3/2021 Mecenazgo. Detalle completo: nacimiento (600-900 euros por orden, +60 multiples, sin limites renta), hijos 0-3 municipios pequenos (100 euros/mes), escuelas infantiles (20%, 600 euros, BLG<=18.030/30.050), vivienda jovenes 36 (15%, 9.000 euros), deporte (30%/100%, 300 euros), mecenazgo (15%/20%, 500 euros y 30% cuota integra global), celiaca (250 euros), ELA (50%, 2.000 euros).
+- `references/regiones/andalucia.md` -- 17 deducciones. Ley 5/2021. Detalle completo: vivienda protegida/jovenes (6%, 9.040 base, 25.000/30.000), alquiler (15%, 1.200/1.500 euros, <35 o >65 o victimas, 25.000/30.000), nacimiento (200/400 euros despoblamiento, +200 multiples), adopcion internacional (600 euros, 80.000/100.000), familia numerosa (200/400 euros), gastos educativos (15%, 150 euros/descendiente), discapacidad (150 euros, >=33%), asistencia discapacidad (100 euros +20% SS, 500 euros), ayuda domestica (20% SS, 500 euros), inversion entidades (20%/4.000 o 50%/12.000), defensa juridica laboral (200 euros), donativos ecologicos (10%, 150 euros), deporte (15%, 100 euros), veterinarios (30%, 100 euros), celiaca (100 euros).
+- `references/regiones/aragon.md` -- 19 deducciones. Decreto Legislativo 1/2005. Detalle completo incluye regimen de fiscalidad diferenciada para zonas rurales (Rangos VIII-X, ISDT<100) con importes incrementados: tercer hijo (500/600 o 600/720 euros rural), hijo discapacidad (200/240 euros), adopcion internacional (600/720 euros), personas dependientes (150/300 euros), vivienda nucleos rurales (5%/7,5%), libros y material escolar (tablas completas de limites por tramos de renta para regimen general y diferenciado), arrendamiento dacion en pago (10%, 4.800 euros), arrendamiento social (30% cuota), mayores 70 (75 euros), primer/segundo hijo <10.000 hab (100-300 euros), guarderia <3 (15%, 250/125 o 300/150 euros rural), economia social (20%, 4.000 euros), clases apoyo (25%, tablas por tramos), formacion autonomia discapacidad (25%), residencia municipios Rango X (600 euros).
+- `references/regiones/cantabria.md` -- 21 deducciones. Decreto Legislativo 62/2008. Detalle completo: arrendamiento jovenes/mayores/discapacidad (10%, 300/600 euros), cuidado familiares (100/200 euros), obras mejora (15%, 1.000/1.500 euros), donativos fundaciones (15%/12%/15%), acogimiento menores (240 euros x n, max 1.200), inversion entidades (15%, 1.000 euros), gastos enfermedad (10%, 500/700 euros, 22.946/31.485 renta), guarderia (15%, 300 euros), monoparental (200 euros), nacimiento/adopcion (1.400 euros x3 anos desde 2024), arrendamiento despoblamiento (20%, 600/1.200), guarderia despoblamiento (30%, 600 euros), traslado despoblamiento (500 euros), estudios despoblamiento (200 euros/hijo), residencia despoblamiento <40 (20% cuota, 500 euros), economia social (20%/50%/25%, 3.000 euros), gastos educacion (100% libros + 15% idiomas, 200 euros), ayuda domestica (20% SS, 300 euros), inversiones nuevos contribuyentes extranjero (20%), compensar desplazamiento nuevos residentes (10%/25%, 1.000/1.500 euros), arrendamiento viviendas vacias (500 euros).
+- `references/regiones/comunidad-valenciana.md` -- 41 deducciones. Ley 13/1997 modificada por Ley 5/2025. Detalle completo: nacimiento/adopcion (600-900 euros con formula de reduccion 27.000-30.000/44.000-47.000), multiples (246 euros), discapacidad hijos (246/303 euros), familia numerosa/monoparental (330/660 euros), guarderia <3 (15%, 297 euros), conciliacion 3-5 (460 euros, solo madres), discapacidad contribuyente (197 euros), ascendientes >75 (197 euros), empleados hogar (50%, 330-1.100 euros), arrendamiento arrendador (5%, 3.300 euros), vivienda <35 (5%), vivienda discapacidad (5%), ayudas publicas vivienda (112 euros), arrendamiento (20%/25%/30%, 800-1.100 euros), arrendamiento laboral (10%, 224 euros), renovables (40%/20%, 8.800 euros), donaciones ecologicas/patrimonio/lengua/culturales (20%+25%), dos descendientes (10% cuota), incremento costes financiacion (50%, 100 euros), material escolar desempleados (110 euros), obras conservacion (20%/50%), abonos culturales (21%, 165 euros), vehiculos nuevos (10%), inversion entidades (30%/45%, 6.600/15.000 euros), despoblamiento (330 euros + incrementos hijos), fertilidad (100 euros), gastos salud (30%, 100-150 euros), deporte (30%/50%/100%, 150 euros), formacion musical (100%, 150 euros), Covid ayudas/donaciones, DANA (100% vivienda + 45% inversion entidades, 9.900 euros).
+
+### Archivos no modificados
+
+- `references/regiones/ceuta.md` y `references/regiones/melilla.md` -- Verificados: confirman correctamente que no existen deducciones autonomicas propias. Ceuta y Melilla no han ejercido la competencia normativa en IRPF. Los residentes solo se benefician de la deduccion estatal por rentas obtenidas en Ceuta/Melilla (art. 68.4 LIRPF, 60%).
+
+### Fuentes
+
+- Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT): paginas HTML individuales de cada deduccion en https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/
+- Leyes y decretos legislativos autonomicos citados en cada archivo regional
+
+---
+
 ## v2025-4.2 -- Correcciones de alucinaciones sobre plan de pensiones
 
 **Fecha:** 13 de abril de 2026

@@ -1,581 +1,498 @@
-# IRPF 2025 - Deducciones Autonómicas: Comunitat Valenciana
+# IRPF 2025 - Deducciones Autonomicas: Comunitat Valenciana
 
-Fuente oficial: Manual Práctico de Renta 2025, Parte 2 - Deducciones Autonómicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonómicas.html
+Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
+https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunitat-valenciana.html
+Base legal: Ley 13/1997, de 23 de diciembre, por la que se regula el tramo autonomico del IRPF y restantes tributos cedidos (modificada por Ley 5/2025)
 
 ---
 
-## DEDUCCIONES (41 deductions complete)
+## NOTA SOBRE LIMITES DE RENTA COMUNES
 
-### 1. Por nacimiento, adopción, delegacion guarda o acogimiento familiar
+La mayoria de deducciones valencianas comparten una estructura de limites de renta basada en la suma de la base liquidable general y del ahorro (casillas [0500] y [0510]):
+- Individual: <= 30.000 euros (deduccion integra si < 27.000; reducida entre 27.000-30.000)
+- Conjunta: <= 47.000 euros (deduccion integra si < 44.000; reducida entre 44.000-47.000)
+- Formula de reduccion: 100 x (1 - (BLG+BLA - 27.000) / 3.000) para individual; idem con 44.000/3.000 para conjunta
 
-- **Cuantía/Porcentaje:** 
-  - Supuesto A (fallecidos antes 1/6/2025): 300 euros por hijo/acogido
-  - Supuesto B (resto): 600 euros (1er), 750 euros (2do), 900 euros (3er y ss.)
-- **Base maxima:** Por hijo o persona acogida
-- **Límite renta:** 
-  - Individual: hasta 30.000 euros (deducción completa < 27.000; reducida 27.000-30.000)
-  - Conjunta: hasta 47.000 euros (completa < 44.000; reducida 44.000-47.000)
-- **Requisitos:**
-  - Hijo/acogido cumpliendo requisitos mínimo descendientes
-  - Acogimiento >= 183 dias (excepto primera modalidad)
-  - Prorrateo entre progenitores si aplica
-  - Formula reduccion si base liquidable en rango intermediario
-- **Incompatibilidades:** Compatible con multiples, discapacidad, familia numerosa; Incompatible con despoblamiento
-- **Novedad 2025:** Cambio segun Ley 5/2025 para nuevos beneficiarios
+Cuando una deduccion use limites diferentes, se indicara expresamente.
 
-### 2. Por nacimiento o adopción multiples
+---
 
-- **Cuantía/Porcentaje:** 246 euros por parto multiple o 2+ adopciónes misma fecha
-- **Base maxima:** Segun numero de hijos/as
-- **Límite renta:** 30.000 euros (individual) o 47.000 euros (conjunta)
-- **Requisitos:**
-  - Parto multiple o adopciónes simultaneas
-  - Hijos cumplen requisitos mínimo descendientes
-  - Formula reduccion en rango intermediario de base liquidable
-- **Incompatibilidades:** Compatible con otras; Incompatible con despoblamiento
-- **Novedad 2025:** Ninguna
+## DEDUCCIONES
 
-### 3. Por nacimiento, adopción, acogimiento o delegacion guarda con discapacidad
+### 1. Por nacimiento, adopcion, delegacion de guarda con fines de adopcion o acogimiento familiar
 
-- **Cuantía/Porcentaje:** 
-  - Unico hijo/a con discapacidad: 246 euros
-  - Con hermaño/a con discapacidad: 303 euros
-  - Discapacidad >= 65% fisica/sensorial o >= 33% intelectual/mental
-- **Base maxima:** Por hijo/persona con discapacidad
-- **Límite renta:** 30.000 euros (individual) o 47.000 euros (conjunta)
-- **Requisitos:**
-  - Discapacidad certificada orgaños Generalitat o Estado
-  - Curatela representativa = 65% discapacidad
-  - Incapacidad judicial = discapacidad
-  - Para discapacidad intelectual/mental >= 33%: debe ser permanente (excepto fallecidos antes 30/12/2025)
-  - Prorrateo si multiples beneficiarios
-- **Incompatibilidades:** Compatible con nacimiento, multiples, familia numerosa; Incompatible con despoblamiento
-- **Novedad 2025:** Requisito permanencia para discapacidad mental/intelectual en resto beneficiarios
+- **Base legal:** Ley 13/1997 modificada por Ley 5/2025
+
+**Seccion A: Contribuyentes fallecidos antes del 1 de junio de 2025:**
+- 300 euros por hijo nacido o adoptado en el periodo impositivo
+- 300 euros por menor en acogimiento (urgente, temporal, permanente, administrativo o judicial)
+
+**Seccion B: Resto de contribuyentes:**
+- 1er hijo nacido/adoptado: 600 euros
+- 2o hijo: 750 euros
+- 3er hijo y sucesivos: 900 euros
+- Acogimiento/delegacion de guarda (debe superar 183 dias):
+  - 1er menor: 600 euros
+  - 2o menor: 750 euros
+  - 3er menor y sucesivos: 900 euros
+- Cada progenitor determina independientemente el numero ordinal por hijo
+
+**Limites de renta:** Estructura comun (30.000/47.000 con reduccion 27.000-30.000/44.000-47.000)
+**Requisitos:** Hijo debe dar derecho al minimo por descendientes. Acogimiento conforme art. 127 Ley 26/2018. Si varios contribuyentes tienen derecho, se divide a partes iguales. Prorrateo por dias si acogimiento < 1 ano.
+**Duracion:** Nacimiento/adopcion: 3 ejercicios (ano + 2 siguientes). Acogimiento: mientras dure.
+**Compatibilidades:** Nacimientos/adopciones multiples, discapacidad, familia numerosa/monoparental.
+**Incompatibilidad:** Suplementos por municipio con riesgo de despoblamiento para el mismo descendiente.
+
+### 2. Por nacimiento o adopcion multiples
+
+- **Cuantia:** 246 euros por nacimiento multiple o dos o mas adopciones constituidas en la misma fecha
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Requisitos:** Hijos deben dar derecho al minimo por descendientes. Si varios declarantes con derecho, se divide a partes iguales.
+- **Compatibilidades:** Nacimiento/adopcion, discapacidad, familia numerosa/monoparental.
+- **Incompatibilidad:** Suplementos por municipio con riesgo de despoblamiento para el mismo hijo.
+
+### 3. Por nacimiento, adopcion, acogimiento o delegacion de guarda de personas con discapacidad
+
+**Seccion A (fallecidos antes 1/6/2025):**
+- 246 euros por hijo unico con discapacidad fisica/sensorial >= 65% o intelectual/mental >= 33%
+- 303 euros cuando el hijo tiene al menos un hermano que cumple criterios de discapacidad
+
+**Seccion B (resto contribuyentes):**
+- 246 euros por hijo unico o menor en acogimiento/guarda con discapacidad intelectual/mental permanente >= 33% o fisica/sensorial >= 65%
+- 303 euros cuando convive con otra persona que cumple los mismos criterios de discapacidad
+
+**Limites de renta:** Estructura comun (30.000/47.000)
+**Compatibilidades:** Nacimiento/adopcion, nacimiento multiple, familia numerosa/monoparental.
+**Incompatibilidad:** Suplementos por municipio con riesgo de despoblamiento (mismo descendiente).
 
 ### 4. Por familia numerosa o monoparental
 
-- **Cuantía/Porcentaje:** Segun categoria familia
-- **Base maxima:** Segun composicion familia
-- **Límite renta:** Normativa autonómica
-- **Requisitos:**
-  - Titulo familia numerosa vigente O estructura monoparental acreditada
-  - Documentacion oficial
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Cuantias:**
+  - Categoria general: 330 euros
+  - Categoria especial: 660 euros
+- **Limites de renta:**
+  - Categoria general: estructura comun (30.000/47.000)
+  - Categoria especial:
+    - Individual: <= 35.000 euros; integra si < 31.000; reducida 31.000-35.000
+    - Conjunta: <= 58.000 euros; integra si < 54.000; reducida 54.000-58.000
+    - Formula de reduccion: exceso / 4.000
+- **Requisitos:** Titulo de familia numerosa a 31 de diciembre conforme Ley 40/2003, o titulo de monoparental conforme Decreto 19/2018. Si varios miembros del hogar presentan declaracion, se divide a partes iguales.
+- **Compatibilidades:** Nacimiento/adopcion, nacimiento multiple, discapacidad.
 
-### 5. Por guarderias menores 3 años (custodia no ocasional)
+### 5. Por cantidades destinadas a custodia no ocasional en guarderias (menores de 3 anos)
 
-- **Cuantía/Porcentaje:** Porcentaje segun gastos
-- **Base maxima:** Segun anualidad guarderia
-- **Límite:** Cuotas guarderia/infantil
-- **Requisitos:**
-  - Hijo menor de 3 años
-  - Guarderia o centro primer ciclo infantil autorizado
-  - Custodia no ocasional
-  - Documentacion gastos
-  - Adopcion, acogimiento o delegacion de guarda tambien aplica
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 15% de las cantidades satisfechas
+- **Limite:** 297 euros por hijo menor de 3 anos matriculado
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Hijos elegibles:** Biologicos, adoptados de forma permanente, o bajo delegacion de guarda para adopcion (menores de 3 anos)
+- **Requisitos:** Progenitor/tutor debe tener rendimientos del trabajo o actividades economicas. Pago por tarjeta, transferencia, cheque nominativo o ingreso bancario.
+- **Prorrateo:** Si dos contribuyentes reclaman por el mismo hijo, limite prorrateado a partes iguales. Si el hijo cumple 3 o nace durante el ejercicio, prorrateo por dias.
+- **Incompatibilidad:** No combinable con deduccion por contratacion indefinida de empleado de hogar.
 
 ### 6. Por conciliacion del trabajo con la vida familiar
 
-- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Comunitat Valenciana
-- **Límite:** Normativa autonómica Comunitat Valenciana (no incluida en Manual AEAT)
+- **Cuantia:** 460 euros por hijo o adoptado de 3 a 5 anos
+- **Exclusivamente para madres/tutoras que:**
+  - Tengan hijos/dependientes que den derecho al minimo por descendientes estatal
+  - Realicen actividad por cuenta propia o ajena (dadas de alta en Seguridad Social)
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Limites de la deduccion:** Maximo = total de cotizaciones a Seguridad Social / mutualidad pagadas durante los meses en que el hijo tenia 3-5 anos.
+- **Aplicable al 4o y 5o ano tras inscripcion de adopcion/guarda.**
+- **Prorrateo mensual segun elegibilidad.**
+- **Circunstancias especiales:** Aplicable a matrimonios del mismo sexo. Transferible al padre en caso de fallecimiento de la madre o custodia exclusiva. Reparto proporcional entre multiples reclamantes para el mismo hijo.
+- **Incompatibilidad:** No combinable con deduccion por contratacion indefinida de empleado de hogar.
+
+### 7. Por contribuyentes con discapacidad >= 33%, edad >= 65 anos
+
+- **Cuantia:** 197 euros por contribuyente
+- **Edad:** 65 anos o mas a 31 de diciembre
+- **Discapacidad:** Grado >= 33%
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **No aplica si el contribuyente percibe prestaciones exentas del IRPF por discapacidad.**
+- **Documentacion:** Certificado de discapacidad de la autoridad regional o estatal competente.
+- **Abarca:** Discapacidad >= 65%, discapacidad intelectual/mental permanente >= 33%, declaraciones judiciales de incapacidad, y determinados pensionistas de la SS/funcionarios.
+
+### 8. Por ascendientes mayores de 75 anos o mayores de 65 con discapacidad
+
+- **Cuantia:** 197 euros por cada ascendiente
+- **Requisitos del ascendiente:**
+  - Mayor de 75 anos, O
+  - Mayor de 65 anos con discapacidad >= 65%, O
+  - Mayor de 65 con discapacidad intelectual/mental permanente >= 33%
+- **Condiciones:**
+  - Convivencia con el contribuyente al menos la mitad del periodo impositivo
+  - Rentas anuales del ascendiente no superiores a 8.000 euros (excluidas exentas)
+  - Ascendiente no presente declaracion IRPF con rentas superiores a 1.800 euros
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Incompatibilidad:** Incompatible con deduccion por contratacion indefinida de personas del Sistema Especial de Empleados de Hogar para cuidado de personas.
+
+### 9. Por contratar de manera indefinida a personas afiliadas al Sistema Especial de Empleados de Hogar
+
+- **Porcentaje:** 50% de las cuotas satisfechas por contratos indefinidos
+- **Dependientes elegibles:**
+  - Hijos menores de 5 anos (nacidos, adoptados o en guarda que den derecho al minimo por descendientes)
+  - Ascendientes mayores de 75 anos O mayores de 65 con discapacidad >= 65% (fisica/sensorial/organica) O >= 33% cognitiva/intelectual permanente
+  - Ascendientes politicos que cumplan los mismos criterios de edad/discapacidad
+- **Requisitos de renta/convivencia de los dependientes:**
+  - Convivencia minimo 6 meses al ano
+  - Renta anual no superior a 8.000 euros (excluidas exentas)
+  - No presentar declaracion IRPF con rentas superiores a 1.800 euros
+- **Requisitos del contribuyente:**
+  - Actividad por cuenta propia o ajena
+  - BLG + BLA <= 30.000 euros (individual) / <= 47.000 euros (conjunta)
+- **Limites maximos de deduccion:**
+  - Por hijos: 660 euros (1 hijo < 5) / 1.100 euros (2+ hijos o familia monoparental)
+  - Por ascendientes: 330 euros (1 ascendiente) / 550 euros (2+ ascendientes)
+- **Reduccion graduada:** Para BLG+BLA entre 27.000-30.000 (individual) o 44.000-47.000 (conjunta), limites se reducen: 100 x (1 - exceso / 3.000)
+- **Solo el empleador registrado tiene derecho a la deduccion.**
+- **Incompatibilidades:** No combinable con guarderia < 3 anos, conciliacion trabajo-vida familiar, ascendientes > 75 / > 65 con discapacidad.
+
+### 10. Por obtencion de rentas de arrendamientos de vivienda (deduccion del arrendador)
+
+- **Porcentaje:** 5% de los rendimientos brutos en el periodo impositivo
+- **Base maxima de deduccion:** 3.300 euros anuales
 - **Requisitos:**
-  - Gastos de conciliacion vida familiar y laboral documentados
-  - Servicios: guarderias, campamentos, actividades extraescolares, cuidado dependientes
-  - Centros/servicios autorizados
-  - Ambos progenitores con actividad laboral (si aplica)
-  - Documentacion de gastos (facturas)
-  - Periodo gasto durante año impositivo
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Cuantías en regulacion autonómica Comunitat Valenciana
+  - Contratos de alquiler iniciados durante el periodo impositivo
+  - Constituir residencia permanente (no uso temporal ni vacacional)
+  - Si el alquiler anterior fue < 3 anos: nuevo inquilino diferente al anterior
+  - Si el alquiler anterior fue > 3 anos: cualquier inquilino permitido
+  - Renta mensual no puede superar el precio de referencia de alquileres privados de la CV (incluyendo IBI, gastos de comunidad). Precios en: https://visor.gva.es/ y https://calab.es/
+  - Fianza constituida ante la Generalitat antes del fin del periodo impositivo
 
-### 7. Por contribuyentes con discapacidad >= 33%, edad >= 65 años
+### 11. Por primera adquisicion de vivienda habitual por contribuyentes <= 35 anos
 
-- **Cuantía/Porcentaje:** Cantidad especifica
-- **Base maxima:** Por contribuyente
-- **Límite renta:** Normativa autonómica
+- **Porcentaje:** 5% de las cantidades satisfechas (excluidos intereses)
+- **Edad:** <= 35 anos a 31 de diciembre
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuentas.
+- **Condicion patrimonial:** El patrimonio al final del periodo debe exceder el valor inicial en al menos el importe de la inversion.
+- **Compatibilidad:** Compatible con deduccion por discapacidad y deduccion por rentas de arrendamiento.
+- **Incompatibilidad:** Incompatible para mismas cantidades con deducciones por ayudas publicas para vivienda.
+
+### 12. Por adquisicion de vivienda habitual por personas con discapacidad
+
+- **Porcentaje:** 5% de las cantidades satisfechas (excluidos intereses)
+- **Discapacidad:** Grado >= 65%, o discapacidad intelectual/mental permanente >= 33%
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuentas.
+- **Compatibilidad:** Compatible con deduccion para < 35 anos y deduccion por rentas de arrendamiento.
+- **Incompatibilidad:** Incompatible para mismas cantidades con deducciones por ayudas publicas para vivienda.
+
+### 13. Por cantidades destinadas a adquisicion o rehabilitacion de vivienda habitual procedentes de ayudas publicas
+
+- **Opcion 1:** 112 euros por contribuyente si las subvenciones publicas de la Generalitat se destinaron efectivamente a adquirir o rehabilitar vivienda habitual
+- **Opcion 2:** La cantidad resultante de aplicar el tipo medio de gravamen general autonomico sobre la cuantia de la ayuda publica
+- **Requisitos:** Pago por tarjeta, transferencia, cheque nominativo o ingreso bancario. Patrimonio neto a fin de periodo debe exceder el valor inicial en al menos el importe de la inversion. Para rehabilitacion: proyecto de renovacion urbana (demolicion y reconstruccion).
+- **El contribuyente debe elegir entre la opcion de 112 euros o la del tipo medio cuando ambas apliquen.**
+- **Incompatibilidad:** No reclamable para mismas cantidades bajo deducciones por primera vivienda < 35 anos o personas con discapacidad.
+
+### 14. Por arrendamiento o pago por cesion en uso de la vivienda habitual
+
+- **Porcentajes y limites:**
+  - Tipo estandar: 20%, limite 800 euros
+  - Tipo incrementado (25%): Si el arrendatario cumple UNA condicion: edad <= 35 anos, discapacidad >= 65% (o intelectual/mental >= 33% permanente), o victima de violencia de genero. Limite: 950 euros.
+  - Tipo maximo (30%): Si cumple DOS o mas condiciones. Limite: 1.100 euros.
+- **Prorrateo por dias de vigencia del contrato durante el ejercicio.**
+- **Limites de renta:** Estructura comun (30.000/47.000)
 - **Requisitos:**
-  - Discapacidad >= 33%
-  - Edad >= 65 años
-  - Certificacion grado discapacidad
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+  - Contrato posterior al 23 de abril de 1998, duracion minima 1 ano
+  - Vivienda habitual efectivamente ocupada
+  - Pago por transferencia, tarjeta o cheque nominativo
+  - No poseer otra vivienda en radio de 50 km durante al menos la mitad del ano
+  - No simultanear con deduccion por inversion en vivienda habitual
 
-### 8. Por ascendientes mayores 75 años o mayores 65 con discapacidad
+### 15. Por arrendamiento de vivienda en distinto municipio por actividad laboral
 
-- **Cuantía/Porcentaje:** Cantidad por ascendiente
-- **Base maxima:** Por ascendiente
-- **Límite:** Normativa autonómica
+- **Porcentaje:** 10% de las cantidades satisfechas
+- **Limite maximo:** 224 euros (integro si BLG+BLA < 27.000 individual / < 44.000 conjunta)
+- **Limites de renta:** Estructura comun (30.000/47.000)
 - **Requisitos:**
-  - Ascendiente (padre, abuelo) mayor de 75 años O mayor de 65 con discapacidad >= 33%
-  - Documentacion parentesco
-  - Documentacion edad/discapacidad
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+  - Vivienda arrendada en la Comunitat Valenciana a mas de 50 km de la residencia anterior
+  - Motivado por actividad laboral (cuenta propia o ajena)
+  - Costes no reembolsados por el empleador
+  - Pago por tarjeta, transferencia, cheque nominativo o ingreso bancario
+- **Prorrateo por dias de vigencia del alquiler. Si varios contribuyentes reclaman la misma vivienda, limite dividido a partes iguales.**
+- **Compatible con otras deducciones valencianas de arrendamiento de vivienda.**
 
-### 9. Por contratacion indefinida empleados hogar para cuidado personas
+### 16. Por cantidades invertidas en instalaciones de autoconsumo o generacion de energia renovable
 
-- **Cuantía/Porcentaje:** Cantidad deducible
-- **Base maxima:** Por contratacion
-- **Límite:** Normativa autonómica
-- **Requisitos:**
-  - Contratacion indefinida Sistema Especial Empleados Hogar
-  - Para cuidado de personas
-  - Documentacion contratacion
-  - Aportaciones Seguridad Social
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-
-### 10. Por arrendamiento vivienda habitual (deducción arrendador)
-
-- **Cuantía/Porcentaje:** 5% de rentas (si <= precio referencia privada)
-- **Base maxima:** 3.300 euros anuales
-- **Límite:** Por contrato de alquiler
-- **Requisitos:**
-  - Vivienda habitual arrendada
-  - Contrato formalizado
-  - Renta <= precio referencia zona Comunitat Valenciana
-  - Documentacion contrato y recibos
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-
-### 11. Por primera adquisición vivienda habitual (< 35 años)
-
-- **Cuantía/Porcentaje:** Segun coste adquisición
-- **Base maxima:** Normativa autonómica
-- **Límite:** Por vivienda primera
-- **Requisitos:**
-  - Contribuyente < 35 años
-  - Primera vivienda habitual
-  - Documentacion compra
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-
-### 12. Por adquisición vivienda habitual por personas con discapacidad
-
-- **Cuantía/Porcentaje:** Segun coste adquisición
-- **Base maxima:** Normativa autonómica
-- **Límite:** Por vivienda
-- **Requisitos:**
-  - Persona con discapacidad >= 33%
-  - Adquisicion vivienda habitual
-  - Documentacion compra y discapacidad
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-
-### 13. Por cantidades de ayudas públicas para adquisición/rehabilitación vivienda
-
-- **Cuantía/Porcentaje:** Cantidad ayudas recibidas
-- **Base maxima:** Segun ayuda
-- **Límite:** Ayuda publica recibida
-- **Requisitos:**
-  - Ayudas públicas para adquisición o rehabilitación vivienda habitual
-  - Documentacion ayuda
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-
-### 14. Por arrendamiento o cesion en uso vivienda habitual
-
-- **Cuantía/Porcentaje:** Porcentaje rentas/cesion
-- **Base maxima:** Normativa autonómica
-- **Límite:** Renta/cesion vivienda
-- **Requisitos:**
-  - Vivienda habitual arrendada o cedida
-  - Contrato formalizado
-  - Documentacion pagos
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-
-### 15. Por arrendamiento vivienda por actividad laboral en municipio distinto
-
-- **Cuantía/Porcentaje:** Porcentaje rentas
-- **Base maxima:** Normativa autonómica
-- **Límite:** Renta vivienda laboral
-- **Requisitos:**
-  - Realizacion actividad laboral (por cuenta propia o ajena)
-  - En municipio distinto a domicilio habitual
-  - Arrendamiento vivienda necesario
-  - Documentacion contrato y rentas
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-
-### 16. Por instalaciones autoconsumo o energias renovables
-
-- **Cuantía/Porcentaje:** Segun coste instalacion
-- **Base maxima:** Normativa autonómica
-- **Límite:** Por instalacion
-- **Requisitos:**
-  - Instalacion sistemas autoconsumo
-  - Energias renovables (fotovoltaica, termica, etc.)
-  - Certificacion tecnica
-  - Vivienda habitual
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentajes:**
+  - 40% de las cantidades invertidas en vivienda habitual
+  - 20% en viviendas secundarias (no afectas a actividad economica)
+- **Base maxima anual:** 8.800 euros por vivienda y ejercicio (limite aplica a todos los contribuyentes conjuntamente por vivienda)
+- **Instalaciones elegibles:** Autoconsumo electrico (registrado ante autoridad regional); solar fotovoltaica o eolica para viviendas aisladas; energia termica solar, biomasa o geotermica para agua caliente, calefaccion o refrigeracion.
+- **Requisitos:** Inmuebles en la CV. No necesario ser propietario. Pago por tarjeta, transferencia, cheque o ingreso bancario.
+- **Arrastre:** Inversiones que excedan 8.800 euros anuales no reciben deduccion, pero cantidades no aplicadas por insuficiencia de cuota pueden arrastrarse 4 ejercicios.
 
 ### 17. Por donaciones con finalidad ecologica
 
-- **Cuantía/Porcentaje:** 20% primeros 250 euros; 25% resto de donacion
-- **Base maxima:** Sin limite maximo de donacion
-- **Límite:** Applicable a donaciones dinerarias puras
-- **Requisitos:**
-  - Donaciones para defensa/conservacion medio ambiente
-  - Entidades receptoras: Generalitat, Corporaciones Locales, entidades públicas ambientales, ONG sin animo de lucro
-  - Transferencia bancaria obligatoria
-  - Certificacion entidad beneficiaria
-  - Irrevocabilidad de donacion
-- **Incompatibilidades:** Compatible con deducción estatal en limites
-- **Novedad 2025:** Incremento: antes 150 euros al 20%, ahora 250 euros; resto antes 20%, ahora 25%
+- **Porcentajes:**
+  - 20% para los primeros 250 euros (150 euros para fallecidos antes del 1/6/2025)
+  - 25% para el resto
+- **Entidades beneficiarias:** Generalitat y corporaciones locales de la CV; entidades publicas de defensa medioambiental; entidades sin animo de lucro registradas en la region cuyo fin exclusivo sea la defensa del medio ambiente.
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuentas.
 
-### 18. Por donaciones de bienes patrimonio cultural valenciaño
+### 18. Por donaciones de bienes integrantes del Patrimonio Cultural Valenciano
 
-- **Cuantía/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonómica
-- **Límite:** Valor bien donado
-- **Requisitos:**
-  - Donaciones bienes patrimonio cultural valenciaño
-  - Bienes inscritos registros Generalitat
-  - Entidades receptoras acreditadas
-  - Documentacion donacion
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentajes:**
+  - 20% para los primeros 250 euros (150 euros para fallecidos antes del 1/6/2025)
+  - 25% para el resto
+- **Donaciones puras y simples de bienes inscritos en el Inventario General del Patrimonio Cultural Valenciano.**
+- **Entidades beneficiarias:** Entidades sin animo de lucro domiciliadas en la region con fines culturales, cientificos o deportivos; Generalitat y organismos; entidades locales y universidades de la CV; institutos de investigacion y centros de ensenanza artistica; entidades analogas de Estados UE.
 
-### 19. Por donativos para conservacion bienes patrimonio cultural valenciaño
+### 19. Por donativos para conservacion, reparacion y restauracion de bienes del Patrimonio Cultural Valenciano
 
-- **Cuantía/Porcentaje:** Segun cuantia donativo
-- **Base maxima:** Normativa autonómica
-- **Límite:** Donativo realizado
-- **Requisitos:**
-  - Donativos para conservacion, reparacion, restauracion
-  - Bienes patrimonio cultural valenciaño
-  - Entidades acreditadas
-  - Documentacion donativo
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentajes:**
+  - 20% para los primeros 250 euros (150 euros para fallecidos antes del 1/6/2025)
+  - 25% para el resto
+- **Las donaciones deben financiar programas de gasto o actuaciones especificamente para conservar, reparar o restaurar bienes del patrimonio cultural.**
+- **Entidades beneficiarias:** Mismas que deduccion 18.
 
-### 20. Por cantidades de titulares para conservacion bienes patrimonio cultural valenciaño
+### 20. Por cantidades destinadas por sus titulares a la conservacion, reparacion y restauracion de bienes del Patrimonio Cultural Valenciano
 
-- **Cuantía/Porcentaje:** Segun cantidades destinadas
-- **Base maxima:** Normativa autonómica
-- **Límite:** Gastos acreditados
-- **Requisitos:**
-  - Cantidades destinadas por titulares de bienes
-  - Para conservacion, reparacion, restauracion
-  - Bienes patrimonio cultural valenciaño
-  - Documentacion gastos
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentajes:**
+  - 20% para los primeros 250 euros (150 euros para fallecidos antes del 1/6/2025)
+  - 25% para el resto
+- **Aplica a cantidades gastadas por los propietarios en conservacion, reparacion y restauracion de bienes inscritos en el Inventario General del Patrimonio Cultural Valenciano.**
 
-### 21. Por donaciones para fomento lengua valenciana
+### 21. Por donaciones destinadas al fomento de la Lengua Valenciana
 
-- **Cuantía/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonómica
-- **Límite:** Donacion realizada
-- **Requisitos:**
-  - Donaciones para fomento lengua valenciana
-  - Entidades acreditadas
-  - Documentacion donacion
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentajes:**
+  - 20% para los primeros 250 euros (150 euros para fallecidos antes del 1/6/2025)
+  - 25% para el resto
+- **Entidades beneficiarias:** Generalitat, entidades locales, universidades publicas y privadas de la region, centros de ensenanza artistica superior, organizaciones inscritas en el Censo de entidades de fomento del valenciano.
+- **Cuando el beneficiario es la Generalitat o sus entidades culturales, las cantidades deben destinarse al presupuesto del ejercicio siguiente para programas de fomento del valenciano.**
 
-### 22. Por donaciones o cesiones de uso para actividades culturales/cientificas/deportivas
+### 22. Por donaciones o cesiones de uso o comodatos para fines culturales, cientificos o deportivos no profesionales
 
-- **Cuantía/Porcentaje:** Segun cuantia donacion/cesion
-- **Base maxima:** Normativa autonómica
-- **Límite:** Valor donacion o cesion
-- **Requisitos:**
-  - Donaciones o cesiones de uso/comodatos
-  - Para fines culturales, cientificos, deportivos no profesionales
-  - Entidades acreditadas
-  - Documentacion donacion/cesion
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentajes:** 20% para primeros 250 euros (150 para fallecidos antes del 1/6/2025); 25% para el resto
+- **Proyectos/actividades culturales, cientificos o deportivos no profesionales declarados de interes social.**
+- **Entidades beneficiarias:** Entidades sin animo de lucro domiciliadas en Valencia con fines culturales, cientificos o deportivos amateur; administraciones publicas; universidades; institutos de investigacion; empresas culturales; profesionales individuales; entidades analogas de Estados UE.
+- **Valoracion:** Dinerarias al valor nominal. No dinerarias al valor contable o segun Impuesto sobre el Patrimonio. Usufructo de inmuebles al 4% del valor catastral anual. Base maxima no puede superar valor de mercado.
 
-### 23. INFORMATIVO: Justificacion documental para determinadas deducciónes por donativos
+### 23. Justificacion documental de determinadas deducciones autonomicas por donativos o cesiones de uso o comodato
 
-- **Tipo:** Seccion normativa (NO es deducción)
-- **Contenido:** Requisitos documentacion
-- **Aplicacion:** Donativos y cesiones de uso o comodato
-- **Requisitos documentales:**
-  - Certificacion entidad beneficiaria
-  - Datos identificativos donante y entidad
-  - Comprobante transferencia o entrega
-  - Irrevocabilidad de donacion
-- **Novedad 2025:** Normativa de compliance
+**Para donaciones:** La entidad beneficiaria debe emitir certificacion con: nombre y NIF de donante y receptor; mencion expresa de beneficiario de mecenazgo cultural (Ley 20/2018); fecha e importe (dinerarias) o fecha y valoracion (no dinerarias); destino previsto; para bienes del PCV: numero en el Inventario General. Alternativa: certificacion de la autoridad tributaria cuando el beneficiario sea la Generalitat o sus entidades.
 
-### 24. INFORMATIVO: Requisito conjunto para determinadas deducciónes por donativos
+**Para comodatos:** Certificacion con identificacion de partes, declaracion de beneficiario de mecenazgo, fecha/duracion, valoracion, documento publico/autenticado, destino previsto.
 
-- **Tipo:** Seccion normativa (NO es deducción)
-- **Contenido:** Requisitos transversales
-- **Aplicacion:** Multiples deducciónes donativas
-- **Requisito:** Debe cumplirse conjuntamente para aplicar todas
-- **Novedad 2025:** Normativa de compliance
+### 24. Requisito conjunto para determinadas deducciones autonomicas por donativos o cesiones de uso o comodato
+
+- **Deducciones afectadas:** 19, 20, 21 y 22
+- **Regla:** La base de estas deducciones no puede superar el 30% de la base liquidable general y del ahorro del contribuyente (casillas [0500] y [0510]).
+- **Si se revoca una donacion, el contribuyente debe devolver los beneficios fiscales obtenidos mas intereses de demora.**
 
 ### 25. Por contribuyentes con dos o mas descendientes
 
-- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Comunitat Valenciana
-- **Límite:** Normativa autonómica Comunitat Valenciana (no incluida en Manual AEAT)
+- **Cuantia:** 10% de la cuota integra autonomica (calculada: casilla [0546] menos deducciones por minimos, menos casilla [0564] deducciones autonomicas excluyendo esta, menos casilla [0566] deduccion residentes UE/EEE)
 - **Requisitos:**
-  - 2 o mas descendientes en nucleo familiar
-  - Descendientes cumplen requisitos mínimo por descendientes
-  - Convivencia con contribuyente 31 diciembre
-  - Documentacion de filiacion/adopción
-  - Requisitos especiales si una se aplica (discapacidad, etc.)
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Cuantías en regulacion autonómica de Comunitat Valenciana
+  - Los descendientes deben dar derecho al minimo por descendientes estatal
+  - BLG + BLA (casillas [0435] y [0460]) no puede superar 30.000 euros, incluyendo: bases de contribuyentes que reclaman el mismo minimo, bases de los propios descendientes cualificados, y bases de todos los miembros de la unidad familiar en tributacion conjunta
 
-### 26. Por incremento costes financiacion ajena en inversión vivienda habitual
+### 26. Por el incremento de los costes de la financiacion ajena en la inversion de la vivienda habitual
 
-- **Cuantía/Porcentaje:** Porcentaje interés pagado
-- **Base maxima:** Normativa autonómica
-- **Límite:** Interes efectivo pagado
-- **Requisitos:**
-  - Financiacion ajena vivienda habitual
-  - Incremento de costes (interés)
-  - Documentacion credito
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 50% de la diferencia positiva entre los pagos del ejercicio actual y los del anterior
+- **Solo para contribuyentes con prestamos de adquisicion, rehabilitacion o adaptacion de vivienda habitual por discapacidad, que no apliquen la deduccion estatal por inversion en vivienda.**
+- **Limite maximo:** 100 euros anuales
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Caso especial:** Prestamos formalizados en 2023 requieren calculo de intereses mediante formula de prorrateo diario, con tope en los pagos reales de 2024.
 
-### 27. Por cantidades adquisición material escolar
+### 27. Por cantidades destinadas a adquisicion de material escolar
 
-- **Cuantía/Porcentaje:** Segun gastos material
-- **Base maxima:** Normativa autonómica
-- **Límite:** Gastos escolares
-- **Requisitos:**
-  - Material escolar adquirido
-  - Descendientes en educacion
-  - Documentacion de gasto
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Cuantia:** 110 euros por cada hijo o menor acogido
+- **Niveles educativos elegibles:** Educacion Primaria, ESO, o unidades de educacion especial en centros publicos o privados concertados.
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Requisito de empleo:** El contribuyente debe estar en situacion de desempleo e inscrito como demandante de empleo en servicio publico de empleo.
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuentas.
+- **Si dos contribuyentes reclaman, se prorratea a partes iguales.**
+- **Prorrateo por dias que se cumple requisito de desempleo durante el ejercicio.**
 
-### 28. Por obras conservacion/mejora vivienda habitual periodo actual
+### 28. Por obras de conservacion o mejora de calidad, sostenibilidad y accesibilidad en vivienda habitual (efectuadas en el periodo)
 
-- **Cuantía/Porcentaje:** Porcentaje gastos obra
-- **Base maxima:** Normativa autonómica
-- **Límite:** Gastos acreditados
-- **Requisitos:**
-  - Obras conservacion, mejora calidad, sostenibilidad, accesibilidad
-  - Vivienda habitual
-  - Efectuadas en periodo impositivo actual
-  - Documentacion tecnica y facturada
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Vigente
+- **Porcentajes:**
+  - 20% de las cantidades satisfechas en obras desde 1 enero 2017
+  - 50% para mejoras de accesibilidad para personas con discapacidad >= 33%, desde 1 enero 2022
+- **Limites de renta:**
+  - Individual: BLG + BLA <= 30.000 euros
+  - Conjunta: <= 47.000 euros
+- **Base maxima anual:** 5.500 euros. Si hay multiples propietarios, se divide proporcionalmente por porcentaje de propiedad.
+- **Obras elegibles:** Conforme a planes estatales de vivienda (Plan de Recuperacion, Transformacion y Resiliencia; Plan Estatal de Acceso a la Vivienda 2022-2025) y normas de diseno (Orden 7/12/2009). Incluye: ascensores, rampas, automatizacion de puertas, domotica, modificaciones escaleras, accesibilidad banos/cocinas, sistemas comunicacion emergencia.
+- **Obras excluidas:** Garajes, jardines, piscinas, instalaciones deportivas (excepto accesibilidad por discapacidad); inversiones en renovables (deduccion separada); porciones subvencionadas; viviendas no habituales.
+- **Forma de pago:** Tarjeta, transferencia, cheque o ingreso bancario. No efectivo. Identificacion fiscal del contratista requerida.
 
-### 29. Por obras conservacion/mejora vivienda habitual años 2014-2015
+### 29. Por obras de conservacion o mejora de calidad, sostenibilidad y accesibilidad en vivienda habitual (2014-2015)
 
-- **Cuantía/Porcentaje:** Porcentaje gastos obra
-- **Base maxima:** Normativa autonómica
-- **Límite:** Gastos acreditados
-- **Requisitos:**
-  - Obras efectuadas en años 2014 y 2015
-  - Conservacion, mejora, sostenibilidad, accesibilidad
-  - Vivienda habitual
-  - Documentacion tecnica
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Regimen transitorio
+- **Porcentajes:** 10% (obras 2014) / 25% (obras 2015)
+- **Limites de renta:**
+  - Individual: BLG + BLA <= 25.000 euros
+  - Conjunta: <= 40.000 euros
+- **Limites anuales:** 4.500 euros si ingresos < 23.000 (individual) / < 37.000 (conjunta). Reduccion gradual por encima.
+- **Limite acumulado:** Base acumulada no puede superar 5.000 euros por inmueble. Para multiples propietarios, dividido proporcionalmente.
+- **Obras excluidas:** Garajes, jardines, piscinas, inversiones en renovables, porciones subvencionadas.
 
-### 30. Por cantidades abonos culturales
+### 30. Por cantidades destinadas a abonos culturales
 
-- **Cuantía/Porcentaje:** Segun importe abono
-- **Base maxima:** Normativa autonómica
-- **Límite:** Abono anual
-- **Requisitos:**
-  - Abono a teatros, museos, instituciones culturales
-  - Documentacion pago
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 21% de las cantidades satisfechas
+- **Base maxima de deduccion:** 165 euros por periodo impositivo
+- **Compras elegibles:** Abonos culturales de empresas o instituciones adheridas al convenio de Culturarts Generalitat sobre el Abono Cultural Valenciano.
+- **Limite de renta:** BLG + BLA < 50.000 euros
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuentas.
 
-### 31. Por adquisición vehículos nuevos (Orden 5/2020)
+### 31. Por adquisicion de vehiculos nuevos
 
-- **Cuantía/Porcentaje:** Segun tipo vehículo
-- **Base maxima:** Normativa autonómica
-- **Límite:** Por vehículo
-- **Requisitos:**
-  - Vehiculo nuevo adquirido
-  - Categorias Orden 5/2020 (8 junio 2020)
-  - Requisitos emisiones/propulsion
-  - Documentacion compra
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 10% de las cantidades destinadas a la adquisicion
+- **Categorias de vehiculos y bases maximas deducibles:**
+  - Bicicletas estandar (urbanas): 550 euros (750 euros para modelos de carga familiar)
+  - Bicicletas electricas: 1.540 euros
+  - Kits de conversion a e-bike: 660 euros
+  - Vehiculos de Movilidad Personal (VMP): 495 euros
+- **Limites de renta:** Estructura comun (30.000/47.000)
+- **Un vehiculo por contribuyente por ejercicio. El comprador debe figurar en la factura. Las subvenciones publicas reducen la base deducible.**
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuentas.
 
-### 32. Por inversión acciones participaciones empresas nueva creacion
+### 32. Por inversion en adquisicion de acciones o participaciones en entidades nuevas o de reciente creacion
 
-- **Cuantía/Porcentaje:** 30% de aportaciones
-- **Base maxima:** 6.600 euros; Incremento 15% pymes (max 15.000)
-- **Límite:** Por inversión empresa
-- **Requisitos:**
-  - Empresa nueva creacion (< 2 años)
-  - Pymes municipios despoblamiento
-  - Empresas emergentes
-  - Documentacion inversión
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Deduccion basica:** 30% de las cantidades invertidas en suscripcion y desembolso
+- **Limite general:** 6.600 euros
 
-### 33. Por residencia habitual municipios en riesgo despoblamiento
+**Requisitos de la entidad:**
+- Domicilio social y fiscal en la CV, mantenido 3 anos tras creacion/ampliacion
+- Actividad economica durante 3 anos (no gestion de patrimonio)
+- Al menos 1 empleado a jornada completa bajo regimen general de SS durante 3 anos
+- Ampliaciones: entidad constituida en los 5 anos anteriores (7 anos para startups estrategicas/biotech conforme Ley 28/2022)
+- Incremento medio de plantilla de al menos 1 persona en 24 meses, mantenido otros 24
+- Excepcion: Sociedades laborales y cooperativas exentas de requisitos de empleo/formacion
 
-- **Cuantía/Porcentaje:** Incrementos adicionales segun modalidad
-- **Base maxima:** Normativa autonómica
-- **Límite:** Incompatible con descendiente
-- **Requisitos:**
-  - Residencia municipios en riesgo despoblamiento
-  - Empadronamiento acreditativo
-  - Municipios listados Generalitat
-- **Incompatibilidades:** Incompatible con mismos descendientes/asimilados en otras deducciónes
-- **Novedad 2025:** Ninguna
+**Deduccion incrementada (total 45%):** Cuando la entidad cumple al menos una condicion:
+- PYME innovadora conforme RD 475/2014 o participada por universidad
+- Ubicada en municipios con riesgo de despoblamiento (Ley 5/2023)
+- Calificada como "Empresa Emergente de la Comunitat Valenciana"
+- **Limite incrementado:** 15.000 euros (9.900 euros para fallecidos antes del 30/12/2025)
 
-### 34. Por tratamientos fertilidad
+**Arrastre:** Deducciones no aplicadas trasladables a los 3 ejercicios siguientes.
+**Incompatibilidad:** No combinable con deducciones DANA para la misma entidad en el mismo periodo.
 
-- **Cuantía/Porcentaje:** Segun costes tratamiento
-- **Base maxima:** Normativa autonómica
-- **Límite:** Tratamientos acreditados
-- **Requisitos:**
-  - Tratamientos PMA/fertilidad realizados
-  - Factura centro especializado
-  - Documentacion medica
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+### 33. Por residir habitualmente en municipio con riesgo de despoblamiento
 
-### 35. Por cantidades gastos de salud (determinados)
+- **Cuantia base:** 330 euros
+- **Incrementos por hijos dependientes:**
+  - 1 dependiente: +132 euros
+  - 2 dependientes: +198 euros
+  - 3 o mas dependientes: +264 euros
+- **Residencia:** En municipio beneficiario del Fondo de Cooperacion Municipal para combatir la despoblacion (Ley 5/2023) durante el ejercicio actual o el anterior.
+- **Los incrementos se aplican una vez por hogar. Si varios contribuyentes reclaman por el mismo hijo, se divide a partes iguales. En conjunta, mismos importes que en individual.**
+- **Incompatibilidad:** No reclamable para el mismo dependiente junto con deducciones 1, 2 o 3.
 
-- **Cuantía/Porcentaje:** 30% de gastos salud mental
-- **Base maxima:** No especificado en AEAT
-- **Límite:** Gastos acreditados
-- **Requisitos:**
-  - Gastos profesionales salud mental (psicologos, psiquiatras)
-  - Enfermedades cronicas/raras acreditadas
-  - Tratamientos especializados autorizados
-  - Diagnostico acreditado por profesional
-  - Documentacion medica/psicologica
-  - Factura/recibo centro sanitario
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Cuantías maximas en regulacion autonómica de Comunitat Valenciana
+### 34. Por cantidades satisfechas en tratamientos de fertilidad
 
-### 36. Por gastos deporte y actividades saludables
+- **Cuantia:** 100 euros
+- **Requisitos:** Mujer de 40 a 45 anos (inclusive) a la fecha de devengo del IRPF, que reciba tratamientos de fertilidad en clinicas o centros autorizados.
+- **Limites de renta:** Estructura comun (30.000/47.000)
 
-- **Cuantía/Porcentaje:** 30% de gastos actividades
-- **Base maxima:** 150 euros
-- **Límite:** Para mayores 75 años o discapacidad >= 65%: hasta 100%
-- **Requisitos:**
-  - Gastos clubs/centros deportivos autorizados
-  - Documentacion de gastos
-  - Edad o discapacidad especifica en algunos supuestos
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+### 35. Por cantidades satisfechas en determinados gastos de salud
 
-### 37. Por gastos fomento y formacion musicales
+- **Cuantias fijas (hasta maximo):**
+  - Hasta 100 euros por enfermedades cronicas complejas y raras, dano cerebral adquirido o tratamiento de Alzheimer
+  - 150 euros maximo para familias numerosas o monoparentales
+  - 30% de gastos de salud dental (no estetica): maximo 150 euros
+  - 30% de gastos de tratamiento de salud mental: maximo 150 euros
+  - 30% de gastos de gafas/lentes de contacto con receta: maximo 100 euros
+- **Limites de renta (diferentes de los comunes):**
+  - Individual: BLG + BLA <= 60.000 euros; integra si < 54.000; reducida 54.000-60.000
+  - Conjunta: <= 78.000 euros; integra si < 72.000; reducida 72.000-78.000
+- **Documentacion:** Factura valida, justificante de pago (tarjeta, transferencia, cheque, ingreso). Informe medico profesional. Servicios de centros o profesionales registrados oficialmente.
+- **No incluye primas de seguros ni importes reembolsables por Seguridad Social. Si varios contribuyentes reclaman gastos del mismo familiar, se divide a partes iguales.**
 
-- **Cuantía/Porcentaje:** Regulacion especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Comunitat Valenciana
-- **Límite:** Normativa autonómica Comunitat Valenciana (no incluida en Manual AEAT)
-- **Requisitos:**
-  - Gastos en clases de musica/formacion musical
-  - Centro autorizado de enseñanza musical
-  - Descendientes del contribuyente (menores edad tipicamente)
-  - Documentacion inscripcion y asistencia
-  - Facturas de pago de cuotas educativas
-  - Periodo gasto durante año impositivo
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Cuantías en regulacion autonómica de Comunitat Valenciana
+### 36. Por cantidades satisfechas en gastos asociados a la practica del deporte y actividades saludables
 
-### 38. EXCEPCIONAL: Por ayudas ERTE y conciliacion familiar (Covid-19)
+- **Porcentajes:**
+  - 30% para contribuyentes generales
+  - 50% para mayores de 65 o discapacidad >= 33%
+  - 100% para mayores de 75 o discapacidad >= 65%
+- **Limite maximo:** 150 euros anuales por contribuyente
+- **Limites de renta (diferentes de los comunes):**
+  - Individual: BLG + BLA <= 60.000 euros; integra si < 54.000; reducida 54.000-60.000
+  - Conjunta: <= 78.000 euros; integra si < 72.000; reducida 72.000-78.000
+- **Gastos elegibles:** Cuotas clubes deportivos y federaciones; equipamiento exigido para deportes federados; entrenamiento personal por profesionales certificados; medicina deportiva, nutricionistas, fisioterapeutas, podologos.
+- **Documentacion:** Factura y justificante de pago.
+- **Beneficiarios:** Contribuyente, conyuge y descendientes que den derecho a minimo familiar.
 
-- **Cuantía/Porcentaje:** Segun cantidad ayuda
-- **Base maxima:** Normativa Decreto Ley 3/2020
-- **Límite:** Ayuda recibida
-- **Requisitos:**
-  - Ayudas trabajadores/as afectados ERTE
-  - Reduccion jornada laboral conciliacion
-  - Periodo estado alarma Covid-19
-  - Documentacion ayuda oficial
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Vigencia condicionada
+### 37. Por cantidades satisfechas en gastos vinculados con el fomento y formacion musicales
 
-### 39. Por donaciones investigacion Covid-19
+- **Porcentaje:** 100% de los gastos
+- **Limite maximo:** 150 euros anuales por contribuyente
+- **Gastos elegibles:** Tasas y cuotas de ensenanza musical en conservatorios y escuelas; cuotas de sociedades musicales de la federacion regional; cursos de formacion y seminarios en centros oficiales; compra de instrumentos y partituras (excluyendo porciones subvencionadas); entradas a conciertos organizados por entidades elegibles.
+- **Los gastos pueden cubrir al contribuyente, conyuge y dependientes familiares.**
+- **Limites de renta (diferentes de los comunes):**
+  - Individual: BLG + BLA <= 60.000 euros; integra si < 54.000; reducida 54.000-60.000
+  - Conjunta: <= 78.000 euros; integra si < 72.000; reducida 72.000-78.000
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuentas.
 
-- **Cuantía/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonómica
-- **Límite:** Donacion realizada
-- **Requisitos:**
-  - Donaciones para investigacion/prevencion Covid-19
-  - Programas cientificos/tecnologicos
-  - Entidades acreditadas
-  - Documentacion donacion
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Vigencia condicionada
+### 38. Por cantidades procedentes de ayudas publicas concedidas por la Generalitat (ERTE/reduccion jornada Covid-19)
 
-### 40. Por donaciones gastos crisis sanitaria Covid-19
+- **Cuantia:** El resultado de aplicar el tipo medio de gravamen general autonomico sobre la cuantia de las ayudas publicas
+- **Beneficiarios:** Contribuyentes que obtuvieron ayudas publicas de la Generalitat conforme Decreto Ley 3/2020 de 10 de abril, para trabajadores afectados por ERTE o que redujeron jornada por conciliacion familiar durante el estado de alarma por Covid-19.
+- **Requisito:** Las cantidades de ayudas publicas deben haberse integrado en la base imponible del contribuyente.
 
-- **Cuantía/Porcentaje:** Segun cuantia donacion
-- **Base maxima:** Normativa autonómica
-- **Límite:** Donacion realizada
-- **Requisitos:**
-  - Donaciones financiacion gastos crisis sanitaria
-  - Efectos de Covid-19
-  - Entidades acreditadas
-  - Documentacion donacion
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Vigencia condicionada
+### 39. Por donaciones dinerarias para financiar programas de I+D+i sobre tratamiento y prevencion de Covid-19
 
-### 41. NUEVA 2025: Por destinar cantidades para paliar daños DANA octubre 2024
+- **Porcentajes:** 20% para los primeros 150 euros; 25% para el resto
+- **Entidades beneficiarias:**
+  - Generalitat Valenciana y entidades instrumentales dependientes
+  - Entidades sin animo de lucro (Ley 49/2002) cuyo fin sea la investigacion, desarrollo cientifico/tecnologico o innovacion en la CV
+  - Universidades publicas, institutos de investigacion publicos y centros tecnologicos de la CV
+- **Las donaciones deben financiar programas de investigacion sobre tratamiento y prevencion de infecciones por Covid-19.**
 
-- **Cuantía/Porcentaje:** Segun cantidad aportada
-- **Base maxima:** Normativa autonómica
-- **Límite:** Cantidad destinada
-- **Requisitos:**
-  - Destinado a paliar daños materiales vivienda habitual
-  - Causados por temporal DANA octubre 2024
-  - Personas afectadas zonas territorio Valencia
-  - Documentacion daño/reparacion
-  - Ambito territorial de aplicacion: municipios afectados DANA
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** NUEVA en 2025 - muy importante
+### 40. Por donaciones para contribuir a la financiacion de gastos por la crisis sanitaria Covid-19
 
----
+- **Porcentajes:** 20% hasta 150 euros; 25% para el resto
+- **Tipos de donacion:** En metalico o en especie
+- **Conforme Art. 4 Decreto Ley 4/2020 de 17/4/2020:**
+  - Donaciones dinerarias: a la cuenta de Tesoreria de la Generalitat (IBAN ES03 2100 8681 5002 0009 0086)
+  - Donaciones de equipos/suministros: aceptadas al ser recibidas por la autoridad sanitaria
+  - Donaciones de inmuebles: requieren aceptacion por autoridad de patrimonio
+- **Destino:** Financiacion de gastos derivados de la crisis Covid-19 (infraestructura sanitaria, materiales, personal e investigacion).
 
-### ANEXO: Municipios en riesgo de despoblamiento
+### 41. Deducciones dirigidas a personas afectadas por la DANA de octubre de 2024
 
-La deducción por residir habitualmente en un municipio en riesgo de despoblamiento de la Comunitat Valenciana requiere que el municipio este clasificado como tal por la Generalitat.
+#### 41a. Ambito territorial de aplicacion
+- Municipios incluidos en el Anexo final del Acuerdo del Consell de 4 de noviembre de 2024 sobre medidas de emergencia por danos de inundaciones.
+- La lista puede ser modificada por resolucion de la Conselleria de Justicia e Interior, con publicacion en el DOGV.
+- Base regulatoria: Art. 2 del Decreto Ley 12/2024 de 12 de noviembre de 2024.
 
-La relacion de municipios en riesgo de despoblamiento se aprueba mediante normativa de la Generalitat Valenciana. El contribuyente debe verificar que su municipio de residencia habitual a 31 de diciembre de 2025 esta incluido en la lista vigente antes de aplicar esta deducción.
+#### 41b. Por destinar cantidades a paliar danos materiales en vivienda habitual
+- **Porcentaje:** 100% de los gastos de reparacion por danos directos y determinantes en la vivienda habitual
+- **Base elegible:** Costes de reparacion de vivienda habitual y elementos comunes. Solo cantidades NO cubiertas por seguros. Excluye enseres y reparaciones en inmuebles afectos a actividad economica. Ayudas publicas recibidas se restan de la base.
+- **Limites de renta:**
+  - Individual: BLG + BLA <= 45.000 euros
+  - Conjunta: <= 60.000 euros
+- **Limites maximos de deduccion:**
+  - BLG+BLA hasta 40.000 (individual) / 55.000 (conjunta): maximo 2.000 euros
+  - BLG+BLA entre 40.000-45.000 (individual) / 55.000-60.000 (conjunta): limite reducido (exceso / 5.000)
+  - Si varios contribuyentes reclaman por el mismo inmueble, limite dividido a partes iguales
+- **Forma de pago:** Tarjeta, transferencia, cheque nominativo o ingreso bancario. No efectivo.
+- **Periodo aplicable:** Ejercicios 2024 y 2025 unicamente.
+- **Arrastre:** Deducciones no aplicadas trasladables hasta 4 periodos posteriores.
 
-Consultar en: Generalitat Valenciana - Agenda Valenciana Antidespoblament (AVANT)
-https://avant.gva.es/es/municipios
-
----
-
-## PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
-
-1. Has tenido o adoptado hijos en 2025? Cuantos y cual es tu base liquidable?
-2. Alguno de tus hijos tiene discapacidad reconocida?
-3. Pagas alquiler en la Comunitat Valenciana? Cual es tu renta?
-4. Eres familia numerosa o monoparental acreditada?
-5. Tienes menores de 3 años en guarderia autorizada?
-6. Has realizado gastos de conciliacion familia-trabajo?
-7. Tienes discapacidad >= 33% o edad >= 65 años?
-8. Tienes ascendientes mayores 75 años con discapacidad?
-9. Has contratado empleado de hogar indefinido?
-10. Has invertido en energias renovables o autoconsumo?
-11. Tienes < 35 años y has comprado tu primera vivienda?
-12. Has realizado donaciones patrimonio cultural valenciaño o fomento lengua valenciana?
-13. Has invertido en nuevas empresas o municipios despoblamiento?
-14. Tienes gastos de fertilidad, salud, deporte o musica?
-15. Has realizado obras de mejora en tu vivienda habitual?
-16. Vives en municipio en riesgo despoblamiento?
-17. Has sufrido daños en tu vivienda habitual por DANA octubre 2024?
+#### 41c. Por aportaciones a fondos propios de entidades que desarrollen actividades economicas
+- **Porcentaje:** 45% de las cantidades invertidas en suscripciones de participaciones y ampliaciones de capital
+- **Limite maximo:** 9.900 euros por contribuyente
+- **Base de deduccion:** No puede superar el 30% de la base imponible del contribuyente
+- **Requisitos de la entidad:**
+  - Domicilio social y fiscal dentro del ambito territorial afectado, mantenido 3 anos
+  - Entidades preexistentes (a 12/11/2024): demostrar ERTE por las inundaciones
+  - Nuevas entidades: no pueden consistir en misma actividad previamente realizada bajo distinta titularidad
+  - Actividad economica durante 3 anos
+  - Al menos 1 trabajador a jornada completa (excepto sociedades laborales o cooperativas)
+- **Formalizacion:** Escritura publica especificando inversores e importes. Cooperativas: certificacion de secretario con firmas notariales.
+- **Periodo de mantenimiento:** Participaciones mantenidas minimo 3 anos.
+- **Periodo de inversion elegible:** 13 noviembre 2024 a 31 diciembre 2025.
+- **Arrastre:** Deducciones no aplicadas trasladables a los 3 ejercicios siguientes.
+- **Incompatibilidad:** No combinable con deduccion 32 para la misma entidad en el mismo periodo.
 
 ---
 
 ## FUENTES
-
-- Manual Práctico Renta 2025 Parte 2 Deducciones Autonómicas: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonómicas.html
-- AEAT Comunitat Valenciana: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciónes-autonómicas/comunitat-valenciana.html
-- Ley 5/2025 Medidas fiscales Generalitat Valenciana
-- Orden 5/2020 Categorías vehículos
+- AEAT Manual Practico Renta 2025 - Comunitat Valenciana: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunitat-valenciana.html
+- Ley 13/1997, de 23 de diciembre, modificada por Ley 5/2025
+- Decreto Ley 12/2024, de 12 de noviembre (DANA)

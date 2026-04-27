@@ -1,389 +1,248 @@
-# IRPF 2025 - Deducciones Autonómicas: Galicia
+# IRPF 2025 - Deducciones Autonomicas: Galicia
 
-Fuente oficial: Manual Práctico de Renta 2025, Parte 2 - Deducciones Autonómicas (AEAT)
-https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonómicas.html
+Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
+https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-galicia.html
+Base legal: Decreto Legislativo 1/2011, de 28 de julio (Texto Refundido de disposiciones legales de Galicia en materia de tributos cedidos)
 
 ---
 
 ## DEDUCCIONES
 
-### 1. Por nacimiento o adopción de hijos
+### 1. Por nacimiento o adopcion de hijos
 
-- **Cuantía/Porcentaje:** 
-  - Renta <= 22.000 euros: 360 euros (1er hijo), 1.200 euros (2do hijo), 2.400 euros (3er y sucesivos)
-  - Renta > 22.000 euros: 300 euros por hijo
-  - Parto multiple: 360 euros por hijo
-- **Base maxima:** Aplicable en año de nacimiento/adopción y dos años posteriores
-- **Límite renta:** Progressivo segun años de aplicacion
-- **Requisitos:**
-  - Hijo nacido o adoptado conviviendo con el contribuyente a 31 de diciembre
-  - En municipios < 5.000 habitantes: incremento del 20%
-  - Discapacidad >= 33%: deducción duplicada
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Aplicable para hijos nacidos en 2023 o 2024
+- **Cuantias si (BIG+BIA) - minimo personal y familiar <= 22.000 euros:**
+  - 1er hijo: 360 euros
+  - 2o hijo: 1.200 euros
+  - 3er hijo y sucesivos: 2.400 euros
+- **Cuantias si > 22.000 euros:**
+  - 300 euros por hijo; 360 euros por hijo en parto multiple
+- **Dos periodos impositivos siguientes:**
+  - <= 22.000 euros: 360/1.200/2.400 euros
+  - 22.000,01 - 31.000 euros: 300 euros por hijo
+  - > 31.000 euros: 0 euros
+- **Incremento municipios < 5.000 hab.:** +20%
+- **Discapacidad >= 33%:** Se DUPLICAN las cuantias
 
 ### 2. Para familias con dos hijos e hijas
 
-- **Cuantía/Porcentaje:** 250 euros (base); 500 euros si discapacidad >= 65%
-- **Base maxima:** Por familia con dos hijos
-- **Límite:** No especificado
-- **Requisitos:**
-  - Dos hijos que generen derecho a mínimo por descendientes
-  - Discapacidad >= 65%: duplicar cantidad
-  - Si multiples contribuyentes: prorrata por partes iguales
-- **Incompatibilidades:** Incompatible con deducción "Por familia numerosa"
-- **Novedad 2025:** Ninguna
+- **Cuantia:** 250 euros
+- **Con discapacidad >= 65% (contribuyente o hijo):** 500 euros
+- **Incompatibilidad:** Con familia numerosa
 
 ### 3. Por familia numerosa
 
-- **Cuantía/Porcentaje:** 
-  - Hasta 2 hijos: 250 euros (general) o 400 euros (categoria especial)
-  - Mas de 2 hijos: incremento de 250 euros por cada hijo adicional
-  - Con discapacidad >= 65%: cantidad se duplica
-- **Base maxima:** Por titulo de familia numerosa
-- **Límite:** Sin limite especificado
-- **Requisitos:**
-  - Titulo de familia numerosa vigente a 31 de diciembre
-  - Categoria especial: duplicar deducción si hay discapacidad >= 65%
-- **Incompatibilidades:** Incompatible con deducción "Para familias con dos hijos"
-- **Novedad 2025:** Ninguna
+- **Cuantias:**
+  - Hasta 2 hijos: 250 euros; categoria especial: 400 euros
+  - Mas de 2 hijos: incremento adicional de 250 euros por hijo
+- **Con discapacidad >= 65%:** Se duplican todas las cantidades (500/800/+500 euros)
+- **Incompatibilidad:** Con familias con dos hijos
 
 ### 4. Por acogimiento de menores
 
-- **Cuantía/Porcentaje:** 300 euros por menor acogido
-- **Base maxima:** Por cada menor en acogimiento formalizado
-- **Límite:** No especificado
-- **Requisitos:**
-  - Acogimiento familiar formalizado por orgaño competente Xunta de Galicia
-  - Acogimientos: urgencia, temporal, permanente, preadoptivo
-  - En matrimonios: prorrata por partes iguales si tributacion individual
-  - En parejas de hecho: prorrata por partes iguales
-  - Excepción: no se aplica si hay adopción en el mismo año
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Cuantia:** 300 euros por menor
 
 ### 5. Por cuidado de hijos menores
 
-- **Cuantía/Porcentaje:** 30% de cantidades satisfechas en guarderias o empleada de hogar
-- **Base maxima:** 400 euros (general) o 600 euros (2+ hijos menores de 3 años)
-- **Límite renta:** 
-  - 22.000 euros (tributacion individual)
-  - 31.000 euros (tributacion conjunta)
-- **Requisitos:**
-  - Hijos menores de 3 años a 31 de diciembre
-  - Ambos padres con actividad por cuenta propia o ajena
-  - Empleada del hogar dada de alta en Sistema Especial de Seguridad Social
-  - Escuelas infantiles de 0-3 años
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 30%
+- **Limite:** 400 euros; 600 euros si 2 o mas hijos de 3 o menos anos
+- **Edad hijos:** <= 3 anos
+- **Limite de renta:** (BIG+BIA) - minimo personal y familiar no supere 22.000 euros (individual) / 31.000 euros (conjunta)
+- **Ambos padres:** Dados de alta en SS/Mutualidad
 
-### 6. Por contribuyentes con discapacidad (>= 65 años) que precisen ayuda de terceras personas
+### 6. Por contribuyentes con discapacidad >= 65%, edad >= 65 anos, que precisen ayuda de terceras personas
 
-- **Cuantía/Porcentaje:** 10% de cantidades satisfechas a terceros
-- **Base maxima:** 600 euros maximo
-- **Límite renta:** 
-  - 22.000 euros (tributacion individual)
-  - 31.000 euros (tributacion conjunta)
-- **Requisitos:**
-  - Edad >= 65 años
-  - Discapacidad >= 65%
-  - Acreditacion de necesidad de ayuda de terceras personas
-  - No ser usuario de residencias públicas o concertadas Galicia
-  - Certificado o resolucion del grado de discapacidad
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 10% de cantidades satisfechas a terceros
+- **Limite:** 600 euros
+- **Limite de renta:** (BIG+BIA) - minimo personal y familiar no supere 22.000 euros (individual) / 31.000 euros (conjunta)
+- **Condicion:** No usuario de residencias publicas o concertadas de Galicia
 
-### 7. Por alquiler de vivienda habitual
+### 7. Por alquiler de la vivienda habitual
 
-- **Cuantía/Porcentaje:** 
-  - 10% del alquiler pagado (general)
-  - 20% si hay 2+ hijos menores de edad
-  - Duplicar si arrendatario con discapacidad >= 33%
-- **Base maxima:** 
-  - 300 euros/contrato/año (sin hijos)
-  - 600 euros/contrato/año (con hijos)
-- **Límite:** Por contrato de alquiler
-- **Requisitos:**
-  - Alquiler de vivienda habitual
-  - En tributacion conjunta: ambos titulares del contrato
-  - Acreditacion mediante contrato y recibos de pago
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **General:** 10%, maximo 300 euros/contrato/ano
+- **Con 2 o mas hijos menores:** 20%, maximo 600 euros/contrato/ano
+- **Discapacidad >= 33% del arrendatario:** Se DUPLICAN las cuantias
+- **Edad:** <= 35 anos
+- **Contrato:** Posterior a 1 enero 2003, fianza depositada en IGVS
+- **Limite de renta:** BIG + BIA no supere 22.000 euros (individual y conjunta)
 
-### 8. Por gastos dirigidos al uso de nuevas tecnologias en hogares gallegos
+### 8. Por gastos en nuevas tecnologias en hogares gallegos
 
-- **Cuantía/Porcentaje:** 30% de las cantidades satisfechas en cuota de alta y cuotas mensuales de Internet de alta velocidad
-- **Base maxima:** 100 euros (tanto en tributacion individual como conjunta)
-- **Límite:** Aplicable a todas las cantidades satisfechas durante el ejercicio (un solo contrato o varios simultaneos)
-- **Requisitos:**
-  - Residente en Galicia
-  - Contratacion de lineas de alta velocidad para acceso a Internet
-  - Cuotas de alta y mensuales durante el ejercicio
-  - Para matrimonios en sociedad legal de gananciales: maximo 50 euros por conyuge
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Deduccion del 30% de gastos de Internet de alta velocidad, limitada a 100 euros anuales (Manual AEAT 2025, Art. 5.Ocho)
+- **Porcentaje:** 30% de cuota de alta + cuotas mensuales de linea de alta velocidad
+- **Limite:** 100 euros (50 euros si gananciales, por conyuge)
+- **Solo el ejercicio del contrato**
+- **No aplica por cambio de compania**
 
-### 9. Por inversión en acciones o participaciones de entidades nuevas
+### 9. Por inversion en acciones/participaciones de entidades nuevas o de reciente creacion
 
-- **Cuantía/Porcentaje:** 30% de lo invertido en capital social
-- **Base maxima:** 20.000 euros (ampliable a 29.000 para empresas innovadoras)
-- **Límite:** 20.000 euros anuales (incrementable 45% si empresas innovadoras/pymes)
-- **Requisitos:**
-  - Entidades nuevas creadas hace <= 2 años
-  - Domicilio social y fiscal en Galicia
-  - Ejercicio de actividad economica
-  - Contratacion minima: 1 persona a jornada completa durante 3 años
-  - Participacion entre 1%-40% del capital
-  - Mantenimiento de participaciones 3 años mínimo
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Requisitos de mantenimiento 3 años confirmados
+- **Porcentaje:** 30%
+- **Limite:** 6.000 euros
+- **Incremento PYME innovadora/IEBT/universidades:** +15% (total 45%), limite 9.000 euros
+- **Participacion:** 1%-40% capital social, mantenimiento 3 anos
+- **Entidad:** Domicilio social y fiscal en Galicia, actividad economica, minimo 1 trabajador jornada completa residente en Galicia
 
-### 10. Por inversión en acciones en segmento MAB (Mercado Alternativo Bolsista)
+### 10. Por inversion en acciones/participaciones de entidades nuevas y su financiacion
 
-- **Cuantía/Porcentaje:** 15% de las cantidades invertidas en adquisición de acciones
-- **Base maxima:** 4.000 euros de deducción maxima
-- **Límite:** Deduccion se prorratea por partes iguales en el año de inversión y 3 años siguientes
-- **Requisitos:**
-  - Acciones mediante acuerdos de ampliación de capital en segmento de empresas en expansión del MAB
-  - Participacion conseguida <= 10% del capital social
-  - Acciones mantenidas mínimo 3 años en patrimonio
-  - Domicilio social y fiscal de la sociedad en Galicia
-  - Actividad principal no sea gestion de patrimonio mobiliario/inmobiliario
-  - Operaciones formalizadas en escritura publica
-- **Incompatibilidades:** Incompatible con deducciónes por inversión en entidades nuevas, empresas agrarias, proyectos de interés publico
-- **Novedad 2025:** Ninguna
-- **NOTA:** Deduccion del 15% de inversiónes en empresas del segmento MAB (Manual AEAT 2025, Art. 5.Once)
+- **Porcentaje:** 30% (adquisicion capital + prestamos + garantias)
+- **Limite conjunto:** 20.000 euros
+- **Incremento PYME innovadora/IEBT/universidades:** +15% (total 45%), limite 35.000 euros
+- **Participacion:** 1%-40% (excepto cooperativas/laborales con 2 socios)
+- **Prestamos:** Plazo > 5 anos, maximo amortizacion 20% anual
+- **Garantias:** Duracion minima 5 anos
+- **No funciones ejecutivas:** 10 anos
 
-### 11. Por donaciones con finalidad en investigacion y desarrollo cientifico e innovacion tecnologica
+### 11. Por inversion en acciones de entidades que cotizan en segmento de expansion del mercado alternativo bursatil
 
-- **Cuantía/Porcentaje:** Segun cuantia donada
-- **Base maxima:** 10% de la cuota integra autonómica
-- **Límite:** 10% cuota integra
-- **Requisitos:**
-  - Donaciones a entidades públicas o sin animo de lucro
-  - Destinadas a I+D+i
-  - Entidades acreditadas
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 15%
+- **Limite:** 4.000 euros (prorrateado en 4 ejercicios)
+- **Participacion maxima:** 10% capital social
+- **Mantenimiento:** 3 anos
+- **Entidad:** Domicilio en Galicia, no gestion de patrimonio
 
-### 12. Por inversión en instalaciones de climatizacion y/o agua caliente sanitaria con energias renovables
+### 12. Por donaciones a investigacion y desarrollo cientifico e innovacion tecnologica
 
-- **Cuantía/Porcentaje:** Regulación especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Galicia
-- **Límite:** Normativa autonómica Galicia (no incluida en Manual AEAT)
-- **Requisitos:**
-  - Instalaciones en vivienda habitual
-  - Energias renovables (placas solares termicas, aerotermia, biomasa, etc.)
-  - Climatizacion o agua caliente sanitaria
-  - Certificacion tecnica de instalacion conforme normas
-  - Obra realizada durante periodo impositivo
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Regulación completa en normativa autonómica de Galicia
+- **Porcentaje:** 25%
+- **Limite:** 10% cuota integra autonomica
+- **Destinatarios:** Centros de investigacion de universidades gallegas, entidades sin animo de lucro acogidas a Ley 49/2002
 
-### 13. Por rehabilitación de bienes inmuebles situados en centros históricos
+### 13. Por inversion en instalaciones de climatizacion y/o agua caliente sanitaria con energias renovables
 
-- **Cuantía/Porcentaje:** Regulación especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Galicia
-- **Límite:** Normativa autonómica Galicia (no incluida en Manual AEAT)
-- **Requisitos:**
-  - Inmuebles situados en centro historico declarado por administracion
-  - Obras de rehabilitación/conservacion/restauracion
-  - Vivienda habitual, secundaria o inversión (rental)
-  - Documentacion obra (proyectos, facturas, certificaciones)
-  - Cumplimiento normativa arquitectonica
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Cuantías y limites en regulación autonómica de Xunta de Galicia
+- **Porcentaje:** 5%
+- **Limite:** 280 euros por contribuyente
+- **Condicion:** Vivienda habitual, instalacion registrada en OVI
+- **Pago:** No efectivo (tarjeta, transferencia, cheque, ingreso)
+- **Incompatibilidad:** Con obras mejora eficiencia energetica y aldeas modelo (mismas cantidades)
 
-### 14. Por inversión en empresas que desarrollen actividades agrarias
+### 14. Por rehabilitacion de bienes inmuebles en centros historicos
 
-- **Cuantía/Porcentaje:** Regulación especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Galicia
-- **Límite:** Normativa autonómica Galicia (no incluida en Manual AEAT)
-- **Requisitos:**
-  - Empresas desarrollando actividades agrarias (produccion, transformacion, comercializacion)
-  - Nuevas empresas o ampliación de existentes
-  - Participacion del contribuyente en capital
-  - Minimo de participacion accionarial requerido
-  - Residencia de empresa en Galicia
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Cuantías en regulación especifica de Xunta de Galicia (consejeria agricola)
+- **Porcentaje:** 15%
+- **Limite:** 9.000 euros (individual y conjunta)
+- **Condicion:** Rehabilitacion (coste > 25% precio adquisicion), inmueble propiedad del contribuyente
 
-### 15. Por subvenciones y ayudas por daños de incendios forestales
+### 15. Por inversion en empresas que desarrollen actividades agrarias
 
-- **Cuantía/Porcentaje:** 100% de la subvencion recibida (no imputable)
-- **Base maxima:** Segun cantidad subvension
-- **Límite:** No especificado
-- **Requisitos:**
-  - Subvention oficial por daños de incendios
-  - Documentacion acreditativa
-  - Anos 2024-2025
-- **Incompatibilidades:** Con otras deducciónes por daño similar
-- **Novedad 2025:** Nueva deducción en 2025
+- **Porcentaje:** 20% (adquisicion capital, prestamos, aportaciones cuentas en participacion)
+- **Limite conjunto:** 20.000 euros
+- **Mantenimiento:** 5 anos
+- **Prestamos:** Plazo >= 5 anos, maximo amortizacion 20% anual
+- **No funciones ejecutivas:** 10 anos
+- **Entidades:** Sociedades de fomento forestal, cooperativas agrarias, entidades de movilizacion de tierras agrarias
 
-### 16. Por obras de mejora de eficiencia energetica en edificios
+### 16. Por subvenciones/ayudas por danos de incendios forestales Galicia 2025
 
-- **Cuantía/Porcentaje:** Regulación especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Galicia
-- **Límite:** Normativa autonómica Galicia (no incluida en Manual AEAT)
-- **Requisitos:**
-  - Obras de mejora de eficiencia energetica (aislamiento, ventanas, calderas, etc.)
-  - Certificacion de mejora energetica (certificado energetico previo/posterior)
-  - Vivienda habitual, secundaria o inmueble de inversión
-  - Documentacion obra (proyectos, certificaciones, facturas)
-  - Cumplimiento normas tecnicas de eficiencia
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Vigente
-- **NOTA:** Cuantías en regulación autonómica de Galicia
+- **Cuantia:** Resultado de aplicar tipos medios de gravamen al importe de subvencion/ayuda integrada en base liquidable
+- **Condicion:** Ayudas incluidas en Decreto 76/2025 de la Xunta
 
-### 17. Por ayudas a deportistas de alto nivel
+### 17. Por obras de mejora de eficiencia energetica de edificios de viviendas o viviendas unifamiliares
 
-- **Cuantía/Porcentaje:** Segun programa de ayudas
-- **Base maxima:** No especificado
-- **Límite:** Normativa autonómica
-- **Requisitos:**
-  - Clasificacion como deportista de alto nivel
-  - Residencia en Galicia
-  - Cumplimiento de requisitos de programa
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 15%
+- **Base maxima:** 9.000 euros por contribuyente
+- **Certificado de eficiencia:** 100% honorarios + tasas inscripcion, limite 150 euros (unico por certificado, prorrateable)
+- **Condicion:** Salto de letra en calificacion energetica (CO2 y energia primaria no renovable)
+- **Pago:** No efectivo
+- **Incompatibilidad:** Con instalaciones climatizacion renovables y aldeas modelo (mismas cantidades)
 
-### 18. Por adquisición y rehabilitación de viviendas en proyectos de aldeas modelo
+### 18. Por ayudas y subvenciones a deportistas de alto nivel de Galicia
 
-- **Cuantía/Porcentaje:** 15% de cantidades satisfechas en adquisición o rehabilitación
-- **Base maxima:** Segun coste total de obra/adquisición
-- **Límite:** Normativa autonómica Galicia (dato del Manual AEAT 2025)
-- **Requisitos:**
-  - Viviendas ubicadas en proyectos de aldeas modelo declarados
-  - Reconocimiento oficial por Xunta de Galicia
-  - Vivienda habitual (residencia principal)
-  - Adquisicion, construccion o rehabilitación
-  - Documentacion de proyecto y adquisición
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Aldeas modelo deben estar oficialmente declaradas. Cuantías en normativa autonómica
+- **Cuantia:** Tipos medios de gravamen sobre subvencion/ayuda en base liquidable
+- **Condicion:** Reconocimiento deportista alto nivel, actividad no genere rendimientos de actividades economicas
 
-### 19. Por inversiónes en proyectos de interés publico, social o economico
+### 19. Por adquisicion y rehabilitacion de viviendas en proyectos de aldeas modelo
 
-- **Cuantía/Porcentaje:** Regulación especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Galicia
-- **Límite:** Segun tipo proyecto e inversión (no incluida en Manual AEAT)
-- **Requisitos:**
-  - Proyectos declarados de interés publico, social o economico
-  - Resolucion oficial de declaracion
-  - Inversion capital mínimo requerido
-  - Participacion accionarial del contribuyente
-  - Documentacion proyecto y certificacion de inversión
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Cuantías y tipos en normativa de declaracion de interés publico de Galicia
+- **Porcentaje:** 15%
+- **Base maxima:** 9.000 euros/ano (vivienda habitual); 4.500 euros/ano (no habitual)
+- **Desde:** 1 enero 2021 (adquisicion) / obras iniciadas desde 1 enero 2021 (rehabilitacion)
+- **Condicion:** Terrenos integrados en proyectos de aldeas modelo (Ley 11/2021)
+- **Incompatibilidad:** Con instalaciones climatizacion renovables y obras eficiencia energetica (mismas inversiones)
 
-### 20. Por gastos derivados de adecuacion de inmueble vacio con destino al arrendamiento
+### 20. Por inversion en acciones/participaciones en entidades con proyectos de especial interes publico, social o economico
 
-- **Cuantía/Porcentaje:** Regulación especifica no disponible en Manual AEAT 2025
-- **Base maxima:** Consultar normativa especifica Galicia
-- **Límite:** Normativa autonómica Galicia (no incluida en Manual AEAT)
-- **Requisitos:**
-  - Inmueble vacio durante periodo previo arrendamiento
-  - Adecuacion/reforma para ponerlo en condiciones rental
-  - Contrato de arrendamiento posterior para vivienda habitual
-  - Documentacion de gastos de adecuacion (facturas)
-  - Documentacion contrato arrendamiento
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Cuantías y condiciones en regulación autonómica de Galicia
+- **Porcentaje:** 20%
+- **Base maxima:** 10.000 euros por entidad (vida entera de la inversion)
+- **Condicion:** Proyectos declarados de especial interes (arts. 17 y 20 Ley 2/2024)
+- **Incompatibilidad:** Con todas las demas deducciones de inversion en capital (mismas inversiones)
 
-### 21. Por el arrendamiento de viviendas vacias
+### 21. Por gastos de adecuacion de inmueble vacio para arrendamiento como vivienda
 
-- **Cuantía/Porcentaje:** 500 euros por cada inmueble
-- **Base maxima:** 500 euros por vivienda
-- **Límite:** Normativa autonómica Galicia (dato del Manual AEAT 2025)
-- **Requisitos:**
-  - Vivienda vacia durante mínimo 2 años previos al arrendamiento
-  - Arrendamiento para vivienda habitual del inquilino
-  - Contrato de arrendamiento formalizado
-  - Vivienda puesta en mercado de alquiler
-  - Documentacion de contrato y pagos alquiler
-  - Control cumplimiento: entrega de claves, habilitacion vivienda
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
-- **NOTA:** Destinado a potenciar alquiler de viviendas desocupadas. Cuantías en regulación autonómica
+- **Porcentaje:** 15% (obras reparacion, conservacion, gastos necesarios, certificado, formalizacion contrato)
+- **Base maxima total:** 9.000 euros por vivienda
+- **Base maxima anual:** 3.000 euros (excesos deducibles 2 ejercicios siguientes); si se adecuan 2-3 viviendas: 6.000 euros anuales (excesos 4 ejercicios)
+- **Condiciones:**
+  - Inmueble radicado en Galicia
+  - Vacio >= 1 ano antes de obras
+  - Obras a concluir en 2 anos
+  - Arrendar en 6 meses desde fin de obras
+  - Contrato de duracion efectiva >= 3 anos
+  - Valor inmueble <= 250.000 euros
+  - Arrendatario: no conyuge ni pariente hasta 3er grado
+  - Propietario: maximo 3 viviendas (excluidos garajes, trasteros, vivienda habitual)
 
-### 22. Por ayudas para personas con ELA (Esclerosis Lateral Amiotrofica)
+### 22. Por el arrendamiento de viviendas vacias
 
-- **Cuantía/Porcentaje:** Segun programa de ayudas
-- **Base maxima:** No especificado
-- **Límite:** Normativa autonómica
-- **Requisitos:**
-  - Diagnostico de ELA acreditado
-  - Residencia en Galicia
-  - Cumplimiento de requisitos de programa
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Cuantia fija:** 500 euros por inmueble
+- **Aplicable:** Primer periodo impositivo del contrato
+- **Condiciones:**
+  - Inmueble radicado en Galicia
+  - Vacio >= 1 ano
+  - Contrato >= 3 anos efectivos
+  - No conyuge/pariente hasta 3er grado como arrendatario
+  - Alquiler mensual maximo 700 euros
+  - Propietario maximo 3 viviendas
+- **Prorrateo:** Segun porcentaje de titularidad
+- **Saldos pendientes:** 4 ejercicios siguientes
 
-### 23. Por libros de texto y material escolar
+### 23. Por ayudas y subvenciones a personas con diagnostico de ELA
 
-- **Cuantía/Porcentaje:** 15% de cantidades satisfechas
-- **Base maxima:** 105 euros por descendiente
-- **Límite renta:** Renta per capita <= 30.000 euros
-- **Requisitos:**
-  - Centro publico
-  - Descendiente del contribuyente
-  - Renta per capita <= 30.000 euros
-  - Comprobante de gasto
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Cuantia:** Tipos medios de gravamen sobre subvencion/ayuda en base liquidable
 
-### 24. Por gastos de afectados por talidomida
+### 24. Por adquisicion de libros de texto y material escolar
 
-- **Cuantía/Porcentaje:** Segun programa de ayudas
-- **Base maxima:** No especificado
-- **Límite:** Normativa autonómica
-- **Requisitos:**
-  - Acreditacion como afectado por talidomida
-  - Residencia en Galicia
-  - Cumplimiento de requisitos del programa
-- **Incompatibilidades:** Ninguna especificada
-- **Novedad 2025:** Ninguna
+- **Porcentaje:** 15%
+- **Limite por descendiente:** 105 euros (libros); limite material escolar: 300 euros; limite material deportivo: 150 euros
+- **Renta per capita unidad familiar:** <= 30.000 euros
+- **Centros:** Sostenidos con fondos publicos
+- **Niveles:** Educacion Primaria, ESO, Educacion Especial
+- **Facturas:** Entre 1 julio y 31 diciembre
+- **Pago:** No efectivo (excepcion 2025: tambien efectivo)
+- **Incompatibilidad:** Con becas/ayudas publicas que cubran mismos gastos (por descendiente)
 
-### 25. Por inversiónes en entidades que cotizan en segmento de empresas en crecimiento
+### 25. Por ayudas recibidas por personas afectadas por talidomida 1950-1985
 
-- **Cuantía/Porcentaje:** 15% de las cantidades invertidas en adquisición de acciones (o 45% si se dan circunstancias adicionales: PYME innovadora, iniciativa base tecnologica, participada por universidades)
-- **Base maxima:** 4.000 euros en caso general; 35.000 euros si se dan circunstancias adicionales
-- **Límite:** Deduccion se prorratea por partes iguales en el año de inversión y 3 años siguientes
-- **Requisitos:**
-  - Acciones mediante acuerdos de ampliación de capital en segmento de empresas en expansión del MAB
-  - Participacion conseguida <= 10% del capital social
-  - Acciones mantenidas mínimo 3 años en patrimonio
-  - Domicilio social y fiscal en Galicia
-  - Actividad principal no sea gestion de patrimonio
-  - Operaciones formalizadas en escritura publica
-  - Para incremento 45%: PYME innovadora, iniciativa base tecnologica, o participada por universidades
-- **Incompatibilidades:** Incompatible con deducciónes por inversión en entidades nuevas, empresas agrarias, proyectos de interés publico
-- **Novedad 2025:** Ninguna
-- **NOTA:** Deduccion del 15% (o 45% con circunstancias especiales) por inversiónes en empresas del segmento de expansión (Manual AEAT 2025, Art. 5.Once)
+- **Cuantia:** Tipos medios de gravamen sobre ayuda publica en base liquidable
+- **Aplicable:** Ejercicios 2023 y sucesivos
 
 ---
 
 ## PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
 
-1. Has tenido o adoptado hijos en 2025 o años anteriores dentro de plazo?
-2. Tus ingresos (base imponible menos mínimos) superan los 22.000 o 31.000 euros?
-3. Vives en un municipio de menos de 5.000 habitantes y tienes acceso a incremento del 20%?
-4. Tienes hijos menores de 3 años en guarderia o con empleada de hogar?
-5. Eres contribuyente con discapacidad >= 65% que necesita ayuda de terceras personas?
-6. Pagas alquiler de vivienda habitual? Tienes 2+ hijos menores?
-7. Has realizado inversiónes en empresas agrarias, acciones de entidades nuevas o proyectos especiales?
-8. Tienes ascendientes discapacitados mayores de 65 años a tu cargo?
-9. Has recibido subvenciones por daños de incendios forestales en 2024-2025?
-10. Tienes gastos en eficiencia energetica, rehabilitación de centros históricos o aldeas modelo?
+1. Has tenido hijos en 2025? Resides en municipio < 5.000 hab.? Tiene alguno discapacidad >= 33%?
+2. Tienes exactamente 2 hijos/hijas?
+3. Eres familia numerosa? Categoria general o especial?
+4. Tienes menores en acogimiento?
+5. Tienes hijos de 3 anos o menos con gastos de cuidado? Ambos progenitores trabajan?
+6. Tienes discapacidad >= 65%, edad >= 65 anos, y necesitas ayuda de terceros?
+7. Pagas alquiler y eres menor de 35? Tienes 2+ hijos menores?
+8. Has contratado linea de alta velocidad en tu hogar?
+9. Has invertido en startups gallegas o PYMEs innovadoras?
+10. Has invertido en nuevas entidades incluyendo prestamos y garantias?
+11. Has invertido en entidades del MAB con domicilio en Galicia?
+12. Has donado a centros de investigacion de universidades gallegas?
+13. Has instalado sistema de climatizacion o ACS con energias renovables?
+14. Has rehabilitado inmueble en centro historico?
+15. Has invertido en empresas agrarias, forestales o cooperativas?
+16. Has recibido subvenciones por danos de incendios forestales 2025?
+17. Has realizado obras de mejora de eficiencia energetica?
+18. Eres deportista de alto nivel con subvenciones de la Xunta?
+19. Has comprado o rehabilitado vivienda en proyecto de aldea modelo?
+20. Has invertido en entidades con proyectos de especial interes publico?
+21. Has adecuado un inmueble vacio para arrendar como vivienda?
+22. Has puesto en alquiler una vivienda vacia?
+23. Has recibido ayudas por ELA?
+24. Tienes hijos en Primaria, ESO o Educacion Especial con gastos de libros/material?
+25. Eres persona afectada por talidomida con ayudas publicas?
 
 ---
 
 ## FUENTES
 
-- Manual Práctico Renta 2025 Parte 2 Deducciones Autonómicas: https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100/deducciónes-autonómicas.html
-- AEAT Comunidad Autónoma Galicia: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciónes-autonómicas/comunidad-autonoma-galicia.html
+- Manual Practico Renta 2025 Parte 2 Deducciones Autonomicas: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-galicia.html
+- Decreto Legislativo 1/2011, de 28 de julio (Texto Refundido de Galicia en materia de tributos cedidos)

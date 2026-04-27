@@ -1,7 +1,8 @@
-# IRPF 2025 - Deducciónes Autónomas: Illes Balears
+# IRPF 2025 - Deducciones Autonomicas: Illes Balears
 
-Fuente oficial: Manual Práctico de Renta 2025, Parte 2 - Deducciónes Autónomas (AEAT)
+Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
 https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-illes-balears.html
+Base legal: Decreto Legislativo 1/2014, de 6 de junio (Texto Refundido de disposiciones legales de les Illes Balears en materia de tributos cedidos)
 
 ---
 
@@ -9,325 +10,282 @@ https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manual
 
 ### 1. Por determinadas inversiones de mejora de la sostenibilidad en la vivienda habitual
 
-- **Porcentaje:** 50% del importe de las inversiones
-- **Base maxima:** 10.000 euros anuales
-- **Tipos de inversiones:**
-  - Instalacion de equipos de generacion o uso de energias renovables (solar, biomasa, geotermia)
-  - Mejoras en instalaciones de suministro de agua y mecanismos de ahorro de agua
-  - Implantacion de redes de saneamiento separativas y sistemas de reutilizacion de aguas grises/pluviales
-  - Minimo mejora en un nivel la calificacion de eficiencia energética
-- **Base imponible:** No supera 33.000 euros (individual) o 52.800 euros (conjunta)
-- **Requisitos:**
-  - Inversiones en inmueble situado en Illes Balears
-  - Vivienda constituye o va a constituir la vivienda habitual del propietario o arrendatario
-  - Registro de certificados de eficiencia energética antes y despues de las inversiones
-  - Acreditacion mediante facturas que cumplan requisitos legales
-  - Si es arrendador: contrato de arrendamiento >= 1 año, deposito de fianza constituido, contribuyente declara rendimientos del capital inmobiliario, no repercute costes a arrendatario
+- **Porcentaje:** 50% de las cantidades invertidas
+- **Base maxima anual:** 10.000 euros por ejercicio
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Inversiones elegibles:**
+  - Instalaciones de energias renovables (solar fotovoltaica, paneles termicos, biomasa, geotermia)
+  - Mejoras de conservacion de agua y reutilizacion de aguas grises/pluviales
+- **Requisito de eficiencia:** Mejora minima de un nivel en calificacion energetica, acreditada con certificados antes y despues
+- **Inmueble:** Situado en Illes Balears, vivienda habitual (propietario o arrendatario)
+- **Requisitos adicionales arrendadores:** Duracion minima 1 ano, fianza en Instituto Balear de la Vivienda, rendimientos declarados como capital inmobiliario, no repercutir coste al arrendatario
 
-### 2. Por arrendamiento de la vivienda habitual en el territorio de las Illes Balears
+### 2. Por arrendamiento de la vivienda habitual en Illes Balears
 
-#### A. Jovenes (< 36 años) y mayores (>= 65 años sin actividad laboral)
-- **Porcentaje:** 15% de importes satisfechos
-- **Límite máximo:** 530 euros
-
-#### B. Menores de 30 años, discapacidad >= 33%, derecho mínimo por discapacidad, familias númerosas/monoparentales, autonomos
-- **Porcentaje:** 20% de importes satisfechos
-- **Límite máximo:** 650 euros
-
-#### Requisitos comunes
-- **Base imponible:**
+- **15% de cantidades satisfechas, maximo 530 euros:**
+  - Menores de 36 anos
+  - Mayores de 65 anos sin actividad laboral/profesional
+- **20% de cantidades satisfechas, maximo 650 euros:**
+  - Menores de 30 anos
+  - Discapacidad >= 33%
+  - Derecho al minimo por discapacidad de ascendientes/descendientes
+  - Padre/madre en familia numerosa (Ley 8/2018)
+  - Familia monoparental con 2+ hijos
+  - Autonomo dado de alta >= 183 dias
+- **Limites de renta (BIG+BIA):**
   - General: 33.000 euros (individual) / 52.800 euros (conjunta)
-  - Familias númerosas categoria general o monoparentales con 2+ hijos: 39.600 euros (individual) / 63.360 euros (conjunta)
-  - Familias númerosas categoria especial: 42.900 euros (individual) / 68.640 euros (conjunta)
-- **Requisitos:**
-  - Vivienda habitual ocupada efectivamente por el contribuyente
-  - Contrato de arrendamiento >= 1 año
-  - Durante al menos la mitad del periodo: ni el contribuyente ni miembros de unidad familiar titulares de otra vivienda distante < 70 km (excepto fuera de Baleares o que genere rendimientos)
-  - No tiene derecho a deduccion por inversion en vivienda habitual en el mismo periodo
-  - Solo el/los titulares del contrato de arrendamiento
+  - Familias numerosas generales/monoparentales 2+ hijos: 39.600 euros (individual) / 63.360 euros (conjunta)
+  - Familias numerosas categoria especial: 42.900 euros (individual) / 68.640 euros (conjunta)
+- **Requisitos:** Contrato >= 1 ano, vivienda habitual efectivamente ocupada, no propietario ni derechos reales sobre otra vivienda en radio de 70 km (salvo fuera de Baleares, otra isla, o generando rendimientos de arrendamiento)
+- **Incompatibilidad:** Con deduccion por inversion en vivienda habitual
 
-### 3. Por determinadas subvenciones y ayudas otorgadas por razón de una declaración de zona afectada gravemente por una emergencia de protección civil
+### 3. Por determinadas subvenciones y ayudas por declaracion de zona afectada gravemente por emergencia de proteccion civil
 
-- **Cuantia:** Resultado de aplicar el tipo medio de gravamen al importe de la subvension en la base liquidable
-- **Requisitos:**
-  - Contribuyente integra en la base imponible general rendimientos de subvenciones/ayudas por danios de emergencias
-  - Emergencias declaradas por el Consejo de Ministros como zonas afectadas gravemente conforme a la Ley 17/2015
+- **Cuantia:** Tipo medio de gravamen aplicado al importe de la subvencion integrada en BIG
+- **Condicion:** Subvenciones/ayudas de la CAIB por emergencias declaradas conforme al art. 23 de la Ley 17/2015
 
-### 4. Por gastos de adquisición de libros de texto
+### 4. Por gastos de adquisicion de libros de texto
 
-- **Porcentaje:** 100% de importes destinados a la adquisicion
-- **Límite máximo:**
-  - 220 euros por hijo (general)
-  - 350 euros por hijo (menores de 30 años, discapacidad >= 33%, derecho mínimo por discapacidad, familias númerosas/monoparentales, autonomos)
-- **Requisitos:**
-  - Libros editados para segundo ciclo educacion infantil, educacion primaria, educacion secundaria obligatoria, bachillerato, ciclos formativos de formacion profesional especifica
-  - Solo hijos que den derecho al mínimo por descendientes
-  - Si ambos padres con tributacion individual, se prorratea por partes iguales
-  - Base imponible no supera los limites establecidos
-  - Conservar facturas y documentos equivalentes
+- **Porcentaje:** 100% de los gastos
+- **Limite por hijo general:** 220 euros
+- **Limite por hijo incrementado:** 350 euros (menores de 30 anos, discapacidad >= 33%, derecho al minimo por discapacidad, familia numerosa, familia monoparental 2+ hijos, autonomo >= 183 dias)
+- **Limite de renta (BIG+BIA):**
+  - General: 33.000 euros (individual) / 52.800 euros (conjunta)
+  - Familias numerosas/monoparentales: 39.600 euros (individual) / 63.360 euros (conjunta)
+  - Familias numerosas categoria especial: 42.900 euros (individual) / 68.640 euros (conjunta)
+- **Niveles:** Desde infantil hasta ciclos formativos
+- **Prorrateo:** A partes iguales cuando ambos progenitores convivan
 
 ### 5. Por gastos de aprendizaje extraescolar de idiomas extranjeros
 
-- **Porcentaje:** 15% de importes destinados
-- **Límite máximo:** 110 euros por hijo (aplicable globalmente para el conjunto de hijos)
-- **Enseñanza deducible:**
-  - Hijos cursen segundo ciclo educacion infantil, primaria, secundaria obligatoria, bachillerato, ciclos formativos
-  - Enseñanza fuera del horario del curriculum escolar (escuelas oficiales de idiomas, academias)
-- **Enseñanza no deducible:**
-  - Estudios cursados en el extranjero
-  - Campamentos de veraño en el extranjero o territorio nacional
-- **Base imponible:** No supera 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Porcentaje:** 15% de los gastos
+- **Maximo por hijo:** 110 euros (limite global para todos los hijos)
+- **Gastos elegibles:** Ensenanza extraescolar de idiomas, tasas escuelas oficiales de idiomas, matriculas academias privadas
+- **No elegibles:** Estudios en el extranjero, campamentos de verano
+- **Niveles:** Segundo ciclo infantil, primaria, ESO, bachillerato, ciclos formativos
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Prorrateo:** A partes iguales cuando hijos convivan con ambos progenitores
 
-### 6. Para cursar estudios de educación superior fuera de la isla de residencia habitual
+### 6. Para cursar estudios de educacion superior fuera de la isla de residencia habitual
 
-- **Cuantia:** 1.800 euros por cada descendiente
-- **Límite máximo:** 50% de la cuota integra autonomica (casilla 0546)
-- **Aplicacion:** En la declaracion del ejercicio en que se inicia el curso academico
-- **Estudios elegibles:**
-  - Universitarios
-  - Ensenanzas artisticas superiores
-  - Formacion profesional de grado superior
-  - Ensenanzas profesionales de artes plasticas y diseño de grado superior
-  - Ensenanzas deportivas de grado superior
-- **Requisitos:**
-  - Descendientes dependan economicamente del contribuyente
-  - Estudios abarquen un curso academico completo o un mínimo de 30 creditos
-  - Base imponible no supera 33.000 euros (individual) / 52.800 euros (conjunta)
-  - Descendiente no obtiene rentas por importe superior a 8.000 euros
-  - Si multiples contribuyentes, se prorratea
+- **Importe fijo:** 1.800 euros por descendiente
+- **Limite:** No puede exceder 50% de la cuota integra autonomica
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Limite renta descendiente:** No superar 8.000 euros en el ejercicio
+- **Estudios elegibles:** Universitarios, ensenanzas artisticas superiores, FP grado superior, artes plasticas y diseno, ensenanzas deportivas superiores
+- **Duracion minima:** Curso academico completo o minimo 30 creditos
+- **Prorrateo:** Entre contribuyentes con derecho, incluso si uno supera el umbral de 33.000 euros
 
-### 7. Para el arrendador de bienes inmuebles destinados a vivienda permanente en el territorio de las Illes Balears. Primas de seguros
+### 7. Para el arrendador de bienes inmuebles destinados a vivienda permanente - Primas de seguros
 
-- **Porcentaje:** 75% de gastos en primas de seguros
-- **Límite máximo:** 440 euros anuales
-- **Requisitos:**
-  - Contrato de arrendamiento de vivienda >= 1 año con mismo arrendatario
-  - Deposito de fianza constituido conforme a la normativa legal
-  - Seguros cubran total o parcialmente el impago de las rentas
-  - Bienes inmuebles situados en Illes Balears destinados a vivienda
+- **Porcentaje:** 75% de gastos en primas de seguros de impago de rentas
+- **Maximo:** 440 euros anuales
+- **Limite de renta (BIG+BIA):** 52.800 euros (individual) / 84.480 euros (conjunta)
+- **Requisitos:** Contrato >= 1 ano, fianza en Instituto Balear de la Vivienda, rendimientos declarados como capital inmobiliario
+- **Compatibilidad:** Compatible con deduccion 8 (otros gastos arrendadores)
 
-### 8. Para el arrendador de bienes inmuebles destinados a vivienda permanente en el territorio de las Illes Balears. Otros gastos
+### 8. Para el arrendador de bienes inmuebles destinados a vivienda permanente - Otros gastos
 
-- **Porcentaje:** Varia segun el tipo de gasto
-- **Tipos de gastos:**
-  - Gastos de reparacion, conservacion y mantenimiento de la vivienda
-  - Gastos de administracion
-  - Otros gastos necesarios para la adecuada utilizacion de la vivienda
-- **Límite máximo:** 440 euros anuales (aplicable de forma global)
-- **Requisitos:**
-  - Contrato de arrendamiento >= 1 año
-  - Bienes en Illes Balears destinados a vivienda
-  - Acreditacion documental mediante facturas
+- **Porcentaje:** 50% de gastos elegibles
+- **Gastos elegibles:** Primas seguros de danos, reparacion/mantenimiento, comunidad de propietarios, tributos, formalizacion contratos, certificados eficiencia energetica
+- **Limite general:** 1.500 euros
+- **Limite para inmuebles arrendados a administracion autonomica/Alquiler Seguro:** 1.800 euros
+- **Limite de renta (BIG+BIA):** 52.800 euros (individual) / 84.480 euros (conjunta)
+- **Requisitos:** Inmueble en Illes Balears, contrato >= 1 ano, fianza en Instituto Balear de la Vivienda, alquiler <= 15 euros/m2 de superficie util, inmueble no arrendado en los 2 ejercicios anteriores
+- **Frecuencia:** Deduccion unica en el primer ejercicio en que se cumplen todos los requisitos
+- **Compatibilidad:** Compatible con deduccion 7 (primas de seguros)
 
-### 9. Por arrendamiento de vivienda en el territorio de las Illes Balears derivado del traslado temporal de residencia por motivos laborales
+### 9. Por arrendamiento de vivienda derivado del traslado temporal de residencia por motivos laborales
 
-- **Porcentaje:** Compensacion de gastos derivados del traslado
-- **Límite máximo:** 600 euros anuales
-- **Requisitos:**
-  - Traslado temporal de residencia a otra isla del archipiélago por motivo laboral
-  - Contrato de trabajo por cuenta ajena en la isla de destino
-  - El centro de trabajo debe estar situado en la isla de destino
-  - Traslado temporal no rebase los tres años de duracion
-  - Acreditacion documentalizada ante la administracion tributaria
+- **Porcentaje:** 15% de gastos de arrendamiento
+- **Maximo:** 440 euros por contribuyente
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Requisitos:** Vivienda efectivamente ocupada, fianza en Instituto Balear de la Vivienda, traslado no puede exceder 3 anos, certificado del empleador confirmando cambio de centro de trabajo a otra isla
 
-### 10. Para compensar los gastos derivados de una vivienda ocupada ilegalmente o por razón de suspensión del lanzamiento
+### 10. Para compensar gastos derivados de vivienda ocupada ilegalmente o suspension de lanzamiento
 
-- **Cuantia:** Cantidad fija segun circunstancias
-- **Requisitos:**
-  - Vivienda ocupada ilegalmente por terceros
-  - O situacion de suspension del lanzamiento de la vivienda habitual
-  - Gastos derivados de esta situacion (seguridad, reparaciones, etc.)
-  - Acreditacion mediante documentacion legal
+- **Porcentaje:** 40% de gastos (IBI, tasa residuos, suministros, comunidad, conservacion/mantenimiento, procedimientos judiciales)
+- **Maximo:** 500 euros por declaracion
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Prorrateo:** Proporcional a duracion de la ocupacion ilegal/suspension
+- **Requisitos:** Inmueble vivienda residencial, contribuyente propietario
 
-### 11. Por donaciones a determinadas entidades destinadas a la investigación, el desarrollo científico o tecnológico, o la innovación
+### 11. Por donaciones a entidades destinadas a investigacion, desarrollo cientifico o tecnologico, o innovacion
 
-- **Porcentaje:** 15% de donaciones dinerarias realizadas
-- **Límite máximo:** 150 euros por contribuyente
-- **Beneficiarios elegibles:**
-  - Universidades públicas o privadas en Illes Balears
-  - Centros públicos de investigacion
-  - Organismos públicos de investigacion
-- **Requisitos:**
-  - Donaciones dinerarias efectuadas durante el periodo impositivo
-  - Acreditacion mediante certificacion de la entidad donataria con NIF, datos identificativos, fecha y importe
+- **Porcentaje:** 25% de donaciones dinerarias
+- **Limite:** 15% de la cuota integra autonomica
+- **Entidades:** Administracion autonomica, Universidad de les Illes Balears, entidades sin animo de lucro (Ley 49/2002) dedicadas a I+D+i inscritas en Registro de Fundaciones CAIB
 
-### 12. Por donaciones, cesiones de uso o contratos de comodato y convenios de colaboración empresarial, relativos al mecenazgo cultural, científico y de desarrollo tecnológico y al consumo cultural
+### 12. Por donaciones relativas al mecenazgo cultural, cientifico, de desarrollo tecnologico y consumo cultural
 
-- **Porcentaje:** 20% de cantidades donadas o cedidas
-- **Límite máximo:** 300 euros por contribuyente anuales
-- **Beneficiarios:**
-  - Organismos públicos de Illes Balears
-  - Entidades sin fines lucrativos inscritas en registros correspondientes
-  - Empresas culturales o cientificas constituidas conforme a normativa
-- **Requisitos:**
-  - Donaciones, cesiones de uso o contratos de comodato
-  - Efectividad acreditada mediante certificacion de entidad donataria
-  - Destino declarado: investigacion, desarrollo, cultura o consumo cultural
+- **15% para donaciones, cesiones de uso, comodatos y convenios de colaboracion:**
+  - Limite anual: 660 euros
+  - Limite de renta (BIG+BIA): 33.000 euros (individual) / 52.800 euros (conjunta)
+- **25% cuando el beneficiario es administracion autonomica o entidades publicas:**
+  - Limite anual: 1.200 euros
+  - Sin limite de renta
+- **Cesiones inferiores a 1 ano:** Base = 4% valor del bien proporcional a dias; limite prorrateado
+- **Duracion superior a 1 ano:** Maximo 3 periodos impositivos
+- **Incompatibilidad:** Con deduccion 14 (fomento lengua catalana) para mismas cantidades
 
-### 13. Por donaciones, cesiones de uso o contratos de comodato y convenios de colaboración, relativos al mecenazgo deportivo
+### 13. Por donaciones relativas al mecenazgo deportivo
 
-- **Porcentaje:** 20% de cantidades
-- **Límite máximo:** 200 euros anuales
-- **Beneficiarios:**
-  - Federaciones deportivas inscritas en registros
-  - Entidades deportivas sin fines lucrativos
-  - Clubes deportivos de Illes Balears
-- **Requisitos:**
-  - Acreditacion mediante certificacion de la entidad
-  - Donaciones o cesiones para actividades deportivas autorizadas
+- **Porcentaje:** 15% de donaciones, cesiones de uso, comodatos y convenios de colaboracion
+- **Limite:** 660 euros anuales (global para todas las aportaciones deportivas)
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Prorrateo:** Convenios < 1 ano: prorrateado por dias; > 1 ano: maximo 3 ejercicios
 
-### 14. Por donaciones a determinadas entidades que tengan por objeto el fomento de la lengua catalana
+### 14. Por donaciones a entidades de fomento de la lengua catalana
 
-- **Porcentaje:** 20% de donaciones
-- **Límite máximo:** 100 euros anuales
-- **Beneficiarios:**
-  - Entidades inscritas cuya finalidad principal sea el fomento y uso de la lengua catalana
-  - Organismos públicos con similar finalidad
-- **Requisitos:**
-  - Donaciones dinerarias efectuadas
-  - Certificacion de la entidad donataria
+- **Porcentaje:** 15% de donaciones dinerarias
+- **Limite:** 10% de la cuota integra autonomica
+- **Entidades:** Administracion autonomica, Universidad de les Illes Balears, centros de investigacion, entidades sin animo de lucro inscritas en Registro de Fundaciones
+- **Incompatibilidad:** Con deduccion 12 (mecenazgo cultural) para mismas cantidades
 
 ### 15. Por donaciones a entidades del tercer sector
 
-- **Porcentaje:** 25% del importe de donaciones dinerarias
-- **Límite máximo:** 165 euros anuales
-- **Beneficiarios:**
-  - Entidades sin animo de lucro inscritas en registros correspondientes
-  - Entidades de la Ley 3/2018 de tercer sector
-  - Que cumplan requisitos de la Ley 49/2002
-- **Requisitos:**
-  - Donaciones dinerarias durante el periodo impositivo
-  - Certificacion de la entidad beneficiaria
-  - Inscritas en registros de Consejeria de Familias y Asuntos Sociales
+- **Porcentaje:** 25% de donaciones dinerarias
+- **Base maxima:** 165 euros anuales
+- **Entidades:** Sin animo de lucro inscritas en Registro de Consejeria de Familias y Asuntos Sociales (Ley 3/2018), cumplimiento arts. 2-3 Ley 49/2002
 
-### 16. Para los declarantes con discapacidad física, psíquica o sensorial o con descendientes con esta condición
+### 16. Para declarantes con discapacidad fisica, psiquica o sensorial o con descendientes con esta condicion
 
-- **Cuantia variable segun grado de discapacidad:**
-  - 88 euros: Discapacidad fisica o sensorial >= 33% e inferior a 65%
-  - 165 euros: Discapacidad fisica o sensorial >= 65%
-  - 165 euros: Discapacidad psiquica >= 33%
-- **Requisitos:**
-  - Contribuyente o descendientes/ascendientes del contribuyente residen en Illes Balears
-  - Personas con discapacidad conforme a normativa legal
-  - Base imponible no supera 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Cuantias:**
+  - 88 euros: discapacidad fisica o sensorial (33% a <65%)
+  - 165 euros: discapacidad fisica o sensorial (>= 65%)
+  - 165 euros: discapacidad psiquica (>= 33%)
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Aplica a:** Contribuyente y miembros de la familia residentes en Illes Balears
 
-### 17. Por gastos relativos a los descendientes o acogidos menores de seis años por motivos de conciliación
+### 17. Por gastos relativos a descendientes o acogidos menores de 6 anos por conciliacion
 
-- **Porcentaje:** 40% de cantidades satisfechas
-- **Límite máximo:** 660 euros anuales (general) o 900 euros (familias númerosas, menores de 30, con discapacidad >= 33%, autonomos)
-- **Tipos de gastos deducibles:**
-  - Guarderia y centros de educacion infantil
-  - Servicios de cuidado (empleados del hogar, asistencia personal)
-  - Centros de educacion preescolar
-- **Requisitos:**
-  - Solo descendientes o acogidos que den derecho al mínimo por descendientes
-  - Base imponible dentro de los limites establecidos
-  - Pago mediante tarjeta, transferencia, cheque nominativo o ingreso en cuenta bancaria
-  - Si se contrata empleado del hogar, debe estar dado de alta en Seguridad Social
+- **40% del importe anual, maximo 660 euros (caso general)**
+- **50% del importe anual, maximo 900 euros (caso incrementado):**
+  - Menores de 36 anos, discapacidad >= 33%, derecho al minimo por discapacidad, familia numerosa, familia monoparental 2+ hijos, autonomo >= 183 dias
+- **Limite de renta (BIG+BIA):**
+  - General: 33.000 euros (individual) / 52.800 euros (conjunta)
+  - Familias numerosas/monoparentales: 39.600 euros (individual) / 63.360 euros (conjunta)
+  - Familias numerosas categoria especial: 42.900 euros (individual) / 68.640 euros (conjunta)
+- **Gastos elegibles:** Atencion menores 0-3, custodia/comidas/actividades menores 3-6, empleados del hogar
+- **Pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuenta
+- **Incompatibilidad:** Con deduccion 20 (gastos personas mayores 65/discapacidad)
 
 ### 18. Por nacimiento
 
-- **Cuantia:** 1.000 euros por cada nacimiento
-- **Aplicacion:** Periodo impositivo en que nace el hijo
-- **Requisitos:**
-  - Hijo nacido durante el ejercicio
-  - Contribuyente que da derecho al mínimo por descendientes
-  - Hijo debe constar registrado en empadronamiento municipal
-- **Incompatibilidades:** No compatible con ayudas y prestaciones públicas de la Comunidad Autónoma por causa de nacimiento
+- **Cuantias:**
+  - Primer hijo: 800 euros
+  - Segundo hijo: 1.000 euros
+  - Tercer hijo: 1.200 euros
+  - Cuarto y sucesivos: 1.400 euros
+- **Limite de renta (BIG+BIA):**
+  - General: 52.800 euros (individual) / 84.480 euros (conjunta)
+  - Familias numerosas/monoparentales 2+ hijos: 63.360 euros (individual) / 101.376 euros (conjunta)
+- **Regla de exceso:** Contribuyentes que superen limites reciben 50% de la deduccion
+- **Requisitos:** Residencia fiscal en Illes Balears durante el ano anterior, hijo genera derecho al minimo por descendientes, convivencia
+- **Prorrateo:** 50% cada progenitor si declaran individualmente
+- **Incompatibilidad:** Con otras ayudas/prestaciones publicas de la CAIB por nacimiento
+- **Orden de aplicacion:** Se aplica en primer lugar entre las deducciones autonomicas; no genera cuota negativa
 
-### 19. Por adopción
+### 19. Por adopcion
 
-- **Cuantia:** 1.000 euros por cada adopcion
-- **Aplicacion:** Periodo impositivo en que se formaliza la adopcion
-- **Requisitos:**
-  - Menor adoptado durante el ejercicio conforme a normativa legal
-  - Contribuyente que da derecho al mínimo por descendientes
-  - Sentencia de adopcion o resolucion administrativa firme
-- **Incompatibilidades:** No compatible con otras deducciones adoptivas estatales en el mismo periodo
+- **Cuantias:**
+  - Primer hijo: 800 euros
+  - Segundo hijo: 1.000 euros
+  - Tercer hijo: 1.200 euros
+  - Cuarto y sucesivos: 1.400 euros
+- **Limite de renta (BIG+BIA):**
+  - General: 33.000 euros (individual) / 52.800 euros (conjunta)
+  - Familias numerosas/monoparentales: 39.600 euros (individual) / 63.360 euros (conjunta)
+- **Requisitos:** Adoptado genera derecho al minimo por descendientes, inscripcion en Registro Civil en el periodo, no aplica a adopcion de hijo de conyuge/pareja
+- **Orden de aplicacion:** En primer lugar; si cuota insuficiente, se puede solicitar el importe no deducido a la hacienda autonomica
+- **Incompatibilidad:** Con ayudas/prestaciones publicas de la CAIB por nacimiento
 
-### 20. Por determinados gastos relativos a personas mayores de 65 años o a personas con discapacidad
+### 20. Por determinados gastos relativos a personas mayores de 65 anos o a personas con discapacidad
 
-- **Cuantia:** 660 euros anuales por persona a cargo
-- **Tipos de gastos:**
-  - Servicios de cuidado personal
-  - Centros de dia
-  - Servicios de asistencia en el hogar
-  - Residencias asistidas
-- **Requisitos:**
-  - Personas mayores de 65 años o con discapacidad >= 33%
-  - Ascendientes o descendientes que no dan derecho a mínimos (aunque puedan aplicarse mínimos)
-  - Base imponible no supera 52.800 euros (individual) / 84.480 euros (conjunta)
-  - Pago documentado mediante medios seguros
+- **Porcentaje:** 40% de los gastos
+- **Maximo:** 660 euros por persona elegible
+- **Personas elegibles:** Contribuyentes >= 65 anos, < 65 con discapacidad >= 33%, ascendientes/descendientes discapacidad >= 33%, ascendientes >= 65 anos
+- **Servicios elegibles:** Estancias en residencias/centros de dia, custodia/comida/actividades centros de dia, empleo de cuidador
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Pago:** Tarjeta, transferencia, cheque nominativo o ingreso en cuenta
+- **Cuidador:** Debe estar dado de alta en SS
+- **Compatibilidad:** Con deduccion 21 (gastos ELA)
+- **Incompatibilidad:** Con deduccion 17 (gastos menores 6 anos conciliacion)
 
-### 21. Por gastos derivados de la esclerosis lateral amiotrófica (ELA)
+### 21. Por gastos derivados de la esclerosis lateral amiotrofica (ELA)
 
-- **Cuantia:** 3.500 euros anuales como limite maximo
-- **Tipos de gastos:**
-  - Servicios de cuidado personal
-  - Medicamentos y tratamientos
-  - Asistencia personal y servicios relacionados
-  - Adaptaciones en el domicilio
-- **Requisitos:**
-  - Descendientes o ascendientes del contribuyente con diagnóstico de ELA
-  - Que generen derecho al mínimo por descendientes/ascendientes
-  - Base imponible no supera 52.800 euros (individual) / 84.480 euros (conjunta)
-  - Acreditacion mediante facturación documentada
+- **Porcentaje:** 100% de los gastos
+- **Maximo:** 3.500 euros (limite conjunto para todos los contribuyentes respecto misma persona)
+- **Limite de renta (BIG+BIA):** 52.800 euros (individual) / 84.480 euros (conjunta)
+- **Gastos:** Del contribuyente, descendientes a cargo, ascendientes a cargo
+- **Excluidos:** Primas de seguro de salud y gastos no relacionados con ELA
+- **Compatibilidad:** Con deduccion 20 (gastos mayores 65/discapacidad)
 
-### 22. Por inversión en la adquisición de acciones o de participaciones sociales de nuevas entidades o de reciente creación
+### 22. Por inversion en adquisicion de acciones o participaciones sociales de nuevas entidades o de reciente creacion
 
-- **Porcentaje:** 20% de cantidades invertidas (en general)
-- **Límite máximo:** 6.000 euros anuales (para inversiones 2023-2025)
-- **Requisitos:**
-  - Entidades constituidas entre 2 y 10 años antes de la inversion
-  - Domicilio social y fiscal en Illes Balears
-  - Participacion no superior al 25% del capital social
-  - Inversion mantenida un mínimo de 5 años
-  - Empresa no puede ser resultado de concentracion de actividades preexistentes
-  - Que ejerza una actividad economica
-- **Incompatibilidades:** No aplicable a empresas que cesen en actividades
+- **Caso general:** 30% de cantidades invertidas, maximo 6.000 euros por contribuyente
+- **Sociedades participadas por universidades/centros de investigacion:** 50%, maximo 12.000 euros por contribuyente (maximo combinado con general: 12.000 euros)
+- **Deduccion aplicable:** Ano de inversion + 2 ejercicios siguientes, tope 6.000 euros anuales
+- **Participacion maxima:** 40% capital social (contribuyente + conyuge + familiares hasta 3er grado)
+- **Requisitos entidad:** SA/SL/SAL/SLL/Cooperativa, domicilio social y fiscal en Illes Balears, actividad economica (no gestion patrimonial), minimo 1 trabajador jornada completa (no socio) domiciliado en Illes Balears, facturacion <= 2.000.000 euros, constituida en los 2 anos anteriores (salvo PYME innovadora)
+- **Restricciones inversor:** Puede ser consejero pero no funciones ejecutivas ni direccion, no relacion laboral con la entidad
+- **Mantenimiento:** Minimo 4 anos; escritura publica
+- **Perdida:** Incumplimiento obliga a devolucion con intereses de demora
 
-### 23. Para el fomento de la autoocupación
+### 23. Para el fomento de la autoocupacion
 
-- **Cuantia:** 2.000 euros anuales
-- **Aplicacion:** Ejercicio en que se inicia la actividad economica
-- **Requisitos:**
-  - Contribuyente que se da de alta como trabajador autonomo
-  - Inscripcion en el Régimen Especial de Trabajadores Autónomos (RETA)
-  - Actividad debe mantener durante al menos 3 años
-  - Base imponible no supera 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Importe:** 1.000 euros por contribuyente
+- **Condicion:** Primera alta en Censo de Empresarios, Profesionales y Retenedores
+- **Limite de renta (BIG+BIA):** 33.000 euros (individual) / 52.800 euros (conjunta)
+- **Requisitos:** Actividad principalmente en Illes Balears, permanencia minima 1 ano desde alta
+- **Fallecimiento:** Si fallece en el ano del alta, no se aplica la deduccion
 
-### 24. Por ocupación de plazas declaradas de difícil cobertura en las Illes Balears
+### 24. Por ocupacion de plazas declaradas de dificil cobertura en les Illes Balears
 
-- **Porcentaje:** Compensacion especial por ocupacion de puestos
-- **Cuantia:** 1.200 euros por plaza ocupada
-- **Requisitos:**
-  - Puestos de trabajo declarados de difícil cobertura
-  - Declaración realizada por la Administracion Publica competente
-  - Mantenimiento de la plaza durante el periodo impositivo
-  - Acreditacion mediante resolucion administrativa
+- **Porcentaje:** 40% de gastos en adquisicion/construccion/arrendamiento de vivienda y transporte aereo/maritimo interinsular
+- **Limites maximos (empleados generales):**
+  - Renta <= 33.000/52.800: 2.000 euros por declaracion
+  - Renta <= 52.800/84.480: 1.000 euros por declaracion
+- **Limites maximos (Policia Nacional/Guardia Civil en Mallorca):**
+  - 1.400 euros / 700 euros (segun tramo de renta)
+- **Limites maximos (Policia Nacional/Guardia Civil en Formentera):**
+  - 2.600 euros / 1.300 euros (segun tramo de renta)
+- **Limite de renta (BIG+BIA):** 52.800 euros (individual) / 84.480 euros (conjunta)
+- **Requisitos:** Percepcion del complemento de dificil/muy dificil cobertura durante todo el periodo o mas de la mitad
+- **Prorrateo:** Para destinos en diferentes islas, limites prorrateados por dias de destino en cada isla
 
 ---
 
 ## PREGUNTAS CLAVE PARA EL CONTRIBUYENTE
 
-1. Pagas alquiler de vivienda habitual en Baleares? Tienes menos de 36 años o mas de 65 años sin actividad?
-2. Has realizado inversiones en mejora de sostenibilidad en vivienda habitual (energias renovables, ahorro agua)?
-3. Cual es tu base imponible? Entras en limites de renta para deducciones?
-4. Has tenido hijos en 2025? Han cursado educacion primaria/secundaria?
-5. Pagas libros de texto o clases de idiomas para tus hijos?
-6. Tienes descendientes cursando estudios superiores fuera de tu isla?
-7. Tienes hijos menores de 6 años en guarderia o servicios de cuidado?
-8. Tienes ascendientes o descendientes mayores de 65 años o con discapacidad?
-9. Arrendas viviendas en Baleares? Tienes primas de seguros de impago?
-10. Has sufrido danios por emergencia de proteccion civil y recibido subvenciones?
-11. Has realizado donaciones a entidades culturales, deportivas o de investigacion?
-12. Te has dado de alta como autonomo en 2025?
-13. Tienes algún familiar con esclerosis lateral amiotrófica (ELA)?
-14. Has invertido en nuevas empresas o startups con domicilio en Baleares?
+1. Has realizado inversiones en sostenibilidad de tu vivienda (renovables, agua)?
+2. Pagas alquiler? Eres menor de 36, de 30, autonomo, discapacidad >= 33%, familia numerosa/monoparental?
+3. Has recibido subvenciones por emergencia de proteccion civil?
+4. Tienes hijos con gastos de libros de texto?
+5. Tienes hijos con gastos extraescolares de idiomas?
+6. Tienes hijos cursando estudios superiores fuera de su isla de residencia?
+7. Eres arrendador de vivienda y tienes seguro de impago?
+8. Eres arrendador de vivienda con gastos de reparacion, seguros, comunidad?
+9. Te has trasladado temporalmente a otra isla por motivos laborales?
+10. Has tenido vivienda ocupada ilegalmente?
+11. Has donado a entidades de I+D+i de Illes Balears?
+12. Has realizado donaciones a entidades de mecenazgo cultural?
+13. Has donado a entidades de mecenazgo deportivo?
+14. Has donado a entidades de fomento de la lengua catalana?
+15. Has donado a entidades del tercer sector?
+16. Tienes discapacidad fisica, psiquica o sensorial? O descendientes con discapacidad?
+17. Tienes hijos/acogidos menores de 6 anos con gastos de conciliacion?
+18. Has tenido un hijo en 2025?
+19. Has adoptado en 2025?
+20. Tienes gastos por personas mayores de 65 o con discapacidad (residencia, centro de dia, cuidador)?
+21. Tienes gastos relacionados con ELA?
+22. Has invertido en startups o entidades de reciente creacion en Illes Balears?
+23. Te has dado de alta por primera vez como autonomo en Illes Balears?
+24. Ocupas una plaza de dificil cobertura en Illes Balears?
 
 ---
 
 ## FUENTES
 
-- Manual Práctico Renta 2025 Parte 2 Deducciónes Autónomas: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-illes-balears.html
-- Texto Refundido Disposiciones Illes Balears Tributos Cedidos: Decreto Legislativo 1/2014
+- Manual Practico Renta 2025 Parte 2 Deducciones Autonomicas: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-illes-balears.html
+- Decreto Legislativo 1/2014, de 6 de junio (Texto Refundido de les Illes Balears en materia de tributos cedidos)
