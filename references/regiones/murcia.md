@@ -203,12 +203,18 @@ Base legal: Decreto Legislativo 1/2010, de 5 de noviembre (Texto Refundido de di
 
 ### 20. Por gastos de acceso a Internet
 
-- **Porcentaje:** 30% de cuotas alta y mensualidades
-- **Limite:** 300 euros por ejercicio
-- **Residencia:** Municipios de Murcia < 15.000 habitantes (a 31 de diciembre)
-- **Servicio:** Linea de alta velocidad, uso exclusivo en vivienda habitual, no vinculada a actividad economica
-- **Solo en el ejercicio de formalizacion del contrato:** No aplica por cambio de proveedor si contrato previo era de otro ejercicio
-- **Prorrateo:** A partes iguales entre contribuyentes del mismo domicilio que califiquen
+- **Base legal:** Art. 1.18, Decreto Legislativo 1/2010, de 5 de noviembre
+- **Porcentaje:** 30% de cuotas de alta y mensualidades de contratos de acceso a Internet de alta velocidad
+- **Limite:** 300 euros por ejercicio fiscal (el limite se prorratea a partes iguales entre todos los contribuyentes elegibles del mismo domicilio)
+- **Residencia:** Municipios de la Region de Murcia con poblacion inferior a 15.000 habitantes (segun padron a 31 de diciembre)
+- **Servicio:** Linea de alta velocidad de uso exclusivo en la vivienda habitual del contribuyente, no vinculada a actividad economica o profesional
+- **Restriccion temporal:** La deduccion solo se aplica en el ejercicio en que se formaliza el contrato de conexion
+- **Deduccion unica:** Se aplica una sola vez por residencia y por contribuyente, independientemente de cambios en la situacion de ocupacion
+- **Cambio de proveedor:** No genera nueva deduccion si el contrato previo se formalizo en un ejercicio distinto
+- **Incompatibilidad:** Incompatible con el mantenimiento simultaneo de lineas contratadas en ejercicios anteriores
+- **Multiples contratos:** Solo son deducibles si todos se formalizaron en el mismo ejercicio fiscal para la misma residencia
+- **Prorrateo entre contribuyentes:** Cuando varios contribuyentes del mismo domicilio cumplen requisitos, cada uno deduce el 30% de sus propios pagos, pero el limite de 300 euros se prorratea a partes iguales entre todos ellos
+- **Documentacion:** Conservar justificantes del contrato formalizado y comprobantes de pago
 
 ### 21. Por adquisicion de nueva vivienda habitual o ampliacion por familias numerosas
 
