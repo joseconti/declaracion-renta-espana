@@ -45,12 +45,12 @@ Este documento contiene las preguntas que el SKILL debe formular al contribuyent
 
 29. ¿Has vendido acciones, fondos de inversión u otros valores?
 30. ¿Has operado con criptomonedas (compra, venta, permuta, staking)?
-31. ¿Tienes saldo en criptomonedas en exchanges extranjeros superior a 50.000 euros?
+31. ¿Tienes saldo en criptomonedas en exchanges extranjeros (Binance, Coinbase, Kraken, Bitstamp, etc.; no incluye wallets de auto-custodia)? **Sumar el saldo de TODOS los exchanges a 31/12 antes de comparar con 50.000 EUR**. Si supera, hay obligación de Modelo 721. Si ya presentaste Modelo 721 algún año, verificar también la regla del incremento >20.000 EUR respecto a la última declaración presentada. Ver `references/casos-especiales.md` sección 5.3.
 32. ¿Has aportado a planes de pensiones? ¿Tu empresa ha aportado?
 33. ¿Has invertido en empresas de nueva creación (business angels)?
 34. ¿Has traspasado fondos de inversión?
 35. ¿Has recibido dividendos de acciones?
-36. ¿Tienes cuentas o bienes en el extranjero con valor superior a 50.000 euros?
+36. ¿Tienes cuentas, valores, fondos, seguros o inmuebles en el extranjero? **Para cada bloque, sumar TODAS las entidades extranjeras** (brokers tipo Trading 212, eToro, DEGIRO, Interactive Brokers, XTB, Saxo; plataformas de pago tipo Wise, Revolut, N26, Bunq, PayPal). Si algún bloque (cuentas, valores, IIC, seguros, inmuebles) supera 50.000 EUR a 31/12, hay obligación de Modelo 720. Si ya presentaste otros años, verificar también la regla del incremento >20.000 EUR respecto a la última declaración presentada. Ver `references/casos-especiales.md` sección 5.3.
 
 ## DONACIONES Y DEDUCCIONES ESPECÍFICAS
 
