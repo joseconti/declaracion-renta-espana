@@ -210,6 +210,48 @@ Exencion de hasta 60.100 euros anuales por rendimientos del trabajo obtenidos en
 Si las rentas del extranjero no estan exentas por el artículo 7.p, se puede deducir de la cuota:
 - El menor importe entre: el impuesto pagado en el extranjero por esas rentas, o la cuota que corresponderia en Espana
 
+#### 5.2.1. Doble entrada en Renta Web (casillas regulares + apartado 0588)
+
+Los rendimientos del capital mobiliario obtenidos en el extranjero (intereses bancarios, dividendos via brokers no españoles, cashback de plataformas de pago de otros paises, etc.) NO suelen aparecer en el borrador AEAT porque esas entidades no presentan Modelo 196. Se declaran manualmente en Renta Web en DOS sitios distintos, no en uno solo:
+
+**1) Casillas regulares del apartado B "Rendimientos del capital mobiliario a integrar en la base imponible del ahorro":**
+
+- **0027** Intereses de cuentas, depositos y activos financieros en general: importe integro de intereses de cuentas bancarias y de pago extranjeras, intereses cash de brokers, cashback de plataformas de pago si aplica
+- **0029** Dividendos y rendimientos por participacion en fondos propios de entidades: importe integro de dividendos via brokers extranjeros
+- **0030** / **0031** Otros activos financieros
+- Importe **integro** (no neto), sumado junto con los rendimientos de fuente española
+- La columna "Retenciones" recoge solo retenciones españolas (0 si la entidad pagadora es extranjera)
+
+**2) Apartado "Deducción por doble imposición internacional"** (entorno casilla 0588), subapartado "Rentas incluidas en la base del ahorro":
+
+- Se vuelve a indicar la PARTE extranjera del importe integro (no el neto)
+- Mas el **impuesto satisfecho en el extranjero** (con tope CDI, ver 5.2.2)
+- Renta Web calcula automaticamente el credito por doble imposicion
+
+**Critico**: omitir el paso 1 y rellenar solo el 2 genera un borrador inconsistente. El credito por doble imposicion se aplicaria sobre rentas que no aparecen en la base imponible del ahorro, lo que AEAT puede detectar y regularizar.
+
+#### 5.2.2. Topes CDI para el credito
+
+El campo "Impuesto satisfecho en el extranjero" del apartado de doble imposicion esta limitado al **menor** de tres importes:
+
+1. Impuesto efectivamente retenido en origen
+2. Cuota española teorica sobre esa renta (Renta Web lo calcula automaticamente)
+3. Tope maximo del Convenio de Doble Imposicion (CDI) entre España y el pais de origen
+
+Topes CDI tipicos (consultar siempre el CDI especifico):
+
+| Tipo de renta | Tope CDI tipico |
+|---|---|
+| Intereses | 10% (España/Belgica art. 11, similar otros), variable segun pais |
+| Dividendos | 15% (clausula general OCDE), variable segun pais |
+| Canones | varia segun CDI |
+
+Si el pais de origen retiene mas que el tope CDI (ej. Belgica retiene 30% de derecho interno sobre cashback de plataformas de pago, pero el CDI España/Belgica solo permite 10%), el exceso NO se recupera via IRPF español. Hay que reclamarlo directamente a la administracion fiscal del pais de origen mediante el procedimiento de devolucion correspondiente.
+
+Fuentes verificadas:
+- OCU Inversiones, mayo 2026: https://www.ocu.org/inversiones/fiscalidad-y-derechos/impuestos/articulos/2026/05/dividendos-extranjeros-renta-2025-evite-pagar-dos-veces (*"Los dividendos cobrados en el extranjero deben declararse como rendimientos del capital mobiliario, por su importe integro... la deduccion por doble imposicion internacional se incluye en la casilla 0588"*)
+- Rankia, campaña 2026: https://www.rankia.com/blog/irpf-declaracion-renta/2754760-como-tributan-dividendos-extranjeros (*"Casilla 0029: incluye todos los dividendos brutos recibidos, tanto nacionales como extranjeros. Casilla 0588: introduce los mismos dividendos brutos sobre los que hubo retencion en origen"*)
+
 ### 5.3. Cuentas y bienes en el extranjero
 
 - **Modelo 720:** Declaracion informativa de bienes y derechos en el extranjero. Obligatorio si superan 50.000 euros en alguna de las tres categorias (cuentas, valores, inmuebles).
