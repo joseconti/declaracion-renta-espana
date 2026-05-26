@@ -252,6 +252,34 @@ Requisitos del descendiente:
 | Cuarto y siguientes | 4.500 |
 | Adicional por menor de 3 años | +2.800 |
 
+**Custodia compartida (regla especial de prorrateo):**
+
+En casos de guarda y custodia compartida de los hijos, **el minimo por descendientes se prorratea SIEMPRE al 50% entre ambos progenitores** (cada uno aplica el 50% en su propia declaracion), con independencia de:
+
+- Quien conviva con el menor en la fecha de devengo del impuesto
+- Quien pague una mayor proporcion de los gastos del menor
+- Cual de los dos progenitores incluya al hijo en su unidad familiar (tributacion conjunta)
+
+**Regla CRITICA de no transferibilidad**: si uno de los progenitores no aplica el 50% que le corresponde (por no presentar declaracion, por renuncia formal, o por cualquier otra razon), **el otro progenitor NO puede aplicar el 100% en su lugar**. El 50% no aplicado se pierde. La AEAT no admite la transferencia entre progenitores en custodia compartida.
+
+Texto literal AEAT:
+> "En caso de guarda y custodia compartida de los hijos, el minimo por descendientes se prorrateara por partes iguales entre ambos progenitores."
+
+> "Si uno de los progenitores no aplica el minimo por descendientes que le corresponde (50 por 100), el otro progenitor no tiene derecho a la aplicacion en su totalidad del senalado minimo por descendientes."
+
+Fuente: AEAT Manual Practico Renta 2025, Cap. 14: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c14-adecuacion-impuesto-circunstancias-personales/minimo-descendientes/concepto-requisitos-descendientes.html
+
+**Distincion importante con la opcion de tributacion conjunta**: la regla 50/50 del minimo descendientes es distinta e independiente de la regla de inclusion en unidad familiar para la tributacion conjunta. En custodia compartida:
+
+| Concepto | Regla en custodia compartida |
+|---|---|
+| **Minimo descendientes** (entorno casillas 0513/0514) | AMBOS progenitores aplican el 50% en sus respectivas declaraciones (siempre, no transferible) |
+| **Inclusion del hijo en unidad familiar para tributacion conjunta** (casilla 0069) | SOLO UN progenitor puede incluir al hijo en su U.F. cada ano, alternando por mutuo acuerdo (ver seccion 12.3) |
+
+Estas dos reglas son acumulativas, no excluyentes: el progenitor que ese ano declara conjunta con el hijo (y por tanto accede a la reduccion de unidad familiar monoparental de 2.150 EUR, casilla 0491) aplica TAMBIEN el 50% del minimo descendientes. El otro progenitor declara individual ese ano y aplica el OTRO 50% del minimo.
+
+**Confusion frecuente**: pensar que la alternancia anual de "quien declara al peque en su U.F." (cuyo origen suele ser una clausula del convenio regulador de divorcio sobre empadronamiento o similar) tambien aplica al minimo descendientes. NO es asi. La alternancia regula solo la opcion conjunta; el minimo descendientes es siempre 50/50, todos los anos, para ambos progenitores.
+
 ### 4.3. Mínimo por ascendientes
 
 Requisitos del ascendiente:
