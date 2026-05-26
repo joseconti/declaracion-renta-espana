@@ -215,6 +215,22 @@ Si las rentas del extranjero no estan exentas por el artículo 7.p, se puede ded
 - **Modelo 720:** Declaracion informativa de bienes y derechos en el extranjero. Obligatorio si superan 50.000 euros en alguna de las tres categorias (cuentas, valores, inmuebles).
 - **Modelo 721:** Declaracion informativa de criptomonedas en el extranjero (> 50.000 euros).
 
+### 5.4. Topes CDI por pais (referencia oficial)
+
+Los topes maximos de retencion en origen que cada pais pagador puede aplicar a residentes fiscales espanoles vienen establecidos por cada Convenio de Doble Imposicion (CDI) bilateral firmado por Espana. La AEAT mantiene una tabla consolidada actualizada en el Manual de Tributacion de No Residentes, Anexo III.
+
+**Fuente oficial AEAT (Anexo III)**: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/anexos/limites-imposicion-convenios.html
+
+La tabla AEAT especifica tipos maximos por pais para tres categorias principales:
+
+- **Dividendos**: tipicamente entre 5% y 15% segun pais y supuesto (participacion significativa, inversor institucional, etc.). El tipo general OCDE es 15%.
+- **Intereses**: tipicamente entre 0% y 10% segun pais y supuesto. Algunos paises mantienen tipos superiores al modelo OCDE.
+- **Canones / royalties**: tipicamente entre 0% y 10% segun pais.
+
+Algunos paises tienen multiples tipos en la misma categoria segun el supuesto concreto (por ejemplo: dividendos de matriz-filial con participacion >25%, dividendos de fondos de inversion, dividendos generales). Para casos atipicos consultar siempre el texto literal del CDI bilateral.
+
+**Importante**: cuando la retencion efectivamente practicada en origen excede el tope CDI, el exceso NO se recupera via deduccion por doble imposicion internacional en el IRPF espanol (la deduccion se limita al menor entre impuesto pagado, cuota espanola teorica, y tope CDI). El exceso se reclama directamente a la administracion fiscal del pais de origen mediante el procedimiento de devolucion que cada pais tenga establecido (por ejemplo, formulario W-8BEN para EEUU permite aplicar el tipo CDI directamente y evitar el exceso; en otros paises hay que reclamar a posteriori).
+
 ---
 
 ## 6. REGIMEN DE NOMADAS DIGITALES
