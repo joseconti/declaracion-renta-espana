@@ -71,7 +71,7 @@ Este documento contiene las preguntas que el SKILL debe formular al contribuyent
 48. ¿Te has trasladado de comunidad autónoma en 2025?
 49. ¿Has llegado a España desde el extranjero? ¿Podrías acogerte a la Ley Beckham?
 50. ¿Has dejado de ser residente fiscal en España (exit tax)?
-51. ¿Recibes pensión compensatoria o pagas anualidades por alimentos?
+51. ¿Recibes pensión compensatoria o pagas anualidades por alimentos? **Si pagas anualidades por alimentos a un hijo, aclara tambien qué tipo de custodia tienes**: el régimen especial de escalas separadas (entorno casilla 527) SOLO aplica si NO tienes guarda y custodia, ni siquiera compartida. Si tienes custodia compartida o exclusiva, aplicas el mínimo por descendientes en lugar de las escalas separadas. Ver `references/nacional.md` sección 10.3.
 52. ¿Has heredado bienes o recibido donaciones?
 53. ¿Has realizado actividades de minería de criptomonedas?
 54. ¿Tienes rentas en el extranjero (alquileres, dividendos, trabajo)?
