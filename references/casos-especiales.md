@@ -130,6 +130,60 @@ Los NFTs se tratan fiscalmente segun su naturaleza:
 - Si son objetos de coleccion/arte digital: ganancias patrimoniales en la transmision
 - Si generan royalties: rendimientos del capital mobiliario o actividad economica segun el caso
 
+### 2.5. Guia practica de cumplimentacion en Renta Web: apartado "Monedas Virtuales" (casillas 1800-1814)
+
+Al declarar ganancias o perdidas derivadas de la transmision de criptomonedas (brokers tipo eToro, Binance, Coinbase, Kraken, Bitstamp, exchanges nacionales como Bit2Me, wallets de auto-custodia, etc.), Renta Web abre una ventana de captura especifica para cada cripto distinta. La estructura es:
+
+| Campo | Descripcion | Casilla |
+|---|---|---|
+| Contribuyente titular de las monedas virtuales transmitidas | DECLARANTE; o cada conyuge / hijo de la UF por separado si tienen posiciones propias | 1800 |
+| Imputación temporal | Marcar X solo si se opta por el criterio de operaciones a plazos o con precio aplazado (raro en cripto) | 1801 |
+| Denominacion de la moneda virtual transmitida | Nombre comun de la cripto (bitcoin, ethereum, xrp, cardano, solana, etc). Campo de texto, **solo acepta letras minusculas y numeros**, max ~30 caracteres. Sin tildes ni mayusculas | 1802 |
+| Identificacion de lo recibido a cambio (dropdown) | F = Moneda de curso legal (vendio por euros/dolares/etc); N = Otra moneda virtual (permuta cripto-cripto); O = Otro activo virtual (ej. NFT, token); B = Bienes o servicios (uso como medio de pago) | 1803 |
+| Valor de transmision: Importe de la transmision | Suma total de las ventas (o equivalente fiat en permutas/pagos) durante el ejercicio en EUR | 1804 |
+| Valor de transmision: Gastos de la transmision | Comisiones del exchange asociadas a la venta (suelen ser 0 si ya estan incluidas en el precio) | 1804 (subcampo) |
+| Valor de adquisicion: Importe de la adquisicion | Coste original de las unidades cripto vendidas, valorado al tipo de cambio del dia de compra | 1806 |
+| Valor de adquisicion: Gastos de la adquisicion | Comisiones del exchange asociadas a la compra (suelen ser 0 si ya estan incluidas en el precio) | 1806 (subcampo) |
+| Checkbox "Operaciones a plazo" | Marcar solo si parte del cobro se difiere a anos posteriores | (texto) |
+| Exencion por reinversion en rentas vitalicias por mayores de 65 anos: Importe reinvertido | Solo cumplimentar si >=65 anos, reinvierte hasta 240.000 EUR en una renta vitalicia, y cumple los plazos | (texto) |
+
+**Resultado automatico calculado por Renta Web**:
+- Si Valor adquisicion > Valor transmision: rellena la 1807 (Perdida patrimonial obtenida) y la 1808 (Perdida patrimonial imputable a 2025).
+- Si Valor adquisicion < Valor transmision: rellena la 1809 (Ganancia patrimonial obtenida), la 1811 (Ganancia no exenta) y la 1812 (Ganancia no exenta imputable a 2025).
+- Las casillas 1813 y 1814 son la suma de perdidas y ganancias respectivamente de todas las entradas del apartado.
+
+**Reglas practicas**:
+
+1. **Agregacion por cripto homogenea**: cada cripto distinta es una entrada propia. Si el contribuyente cerro varios lotes de la misma cripto en el ejercicio (por ejemplo, 3 ventas de XRP en distintos dias), se agregan en una sola entrada. Si cerro lotes de criptos distintas (XRP + BTC + ETH), van en entradas separadas. Esto es consecuencia directa del concepto de "valores homogeneos" del art. 8 RIRPF aplicado a cripto.
+
+2. **Metodo de valoracion FIFO**: cuando solo se transmite una parte de las unidades tenidas de una cripto, se considera que se venden primero las adquiridas en primer lugar (criterio FIFO). El contribuyente puede tambien optar por el metodo de coste medio si lo aplica consistentemente, pero FIFO es el criterio por defecto y el mas extendido.
+
+3. **Tipo de contraprestacion (campo 1803)**:
+   - F (Moneda de curso legal): el caso mas habitual; vendio cripto a cambio de EUR/USD/GBP/etc.
+   - N (Otra moneda virtual): permuta directa cripto-cripto (por ejemplo, vendio ETH a cambio de SOL). Genera ganancia/perdida calculada en EUR al tipo de cambio del momento.
+   - O (Otro activo virtual): por ejemplo, intercambio por un NFT, token de gobernanza, etc.
+   - B (Bienes o servicios): uso de la cripto como medio de pago para comprar algo. Genera ganancia/perdida igual.
+
+4. **Conversion a EUR**: los valores de transmision y adquisicion **deben expresarse en EUR**. Tres enfoques aceptados (de mas preciso a mas simple):
+   - **Por operacion al tipo BCE del dia**: convertir cada compra/venta al tipo oficial del Banco Central Europeo de ese dia (mas preciso, mas trabajo).
+   - **Ratio implicito del broker**: si el broker emite estados de cuenta con totales en USD y EUR, usar el ratio implicito de los totales para convertir.
+   - **Tipo medio anual BCE**: para volumenes pequenos, aceptable usar el promedio anual del ejercicio publicado por la AEAT.
+
+5. **CFDs sobre cripto NO van en este apartado**: los contratos por diferencia sobre criptomonedas (ej. CFD sobre BTC en eToro, Plus500, IG, etc.) son derivados financieros, no monedas virtuales. Su P/L va en "Otras ganancias y perdidas patrimoniales" (casillas 0341 entorno). El apartado de monedas virtuales es solo para tenencia spot.
+
+6. **Recompra de valores homogeneos: NO aplica directamente a cripto**. El art. 33.5.f LIRPF (regla anti-lavado de cupones) se refiere a "valores admitidos a negociacion en mercados secundarios oficiales", y las criptomonedas no cotizan en mercados regulados oficiales. Por tanto, una perdida en cripto recomprada dentro de 2 meses **si se computa** en el ejercicio en que se realiza, a diferencia de lo que ocurre con acciones cotizadas. **Aviso**: la DGT ha aplicado en consultas vinculantes (V0999-22, V1604-22 y similares) criterios analogos al art. 33.5.f para criptomonedas en algunos casos, considerando la recompra como abusiva. La interpretacion no es uniforme y conviene documentar la operativa por si la AEAT cuestionara la imputacion temporal de perdidas.
+
+**Soporte documental ante posible comprobacion AEAT**:
+- Account statements del broker/exchange con fechas, importes, comisiones y valoracion en EUR (o USD con conversion documentada)
+- Tax reports si el broker los emite (eToro emite un tax report orientado a Modelo 720/721 + ganancia/perdida realizada)
+- Para wallets de auto-custodia: registros propios del usuario (export CSV de la wallet, screenshot de operaciones)
+- Si hubo permutas cripto-cripto (campo 1803 = N): justificante del tipo de cambio EUR al momento de cada permuta (relevante porque la AEAT exige valorar la permuta en EUR aunque ambas patas sean cripto)
+
+Fuentes:
+- AEAT Manual Practico Renta 2025, Cap. 11, seccion "Monedas Virtuales": https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c11-ganancias-perdidas-patrimoniales/monedas-virtuales.html
+- DGT V0999-22, V1604-22 (recompra cripto)
+- Art. 33.5 LIRPF y art. 8 RIRPF (concepto de valores homogeneos)
+
 ---
 
 ## 3. NO RESIDENTES CON RENTAS EN ESPANA
