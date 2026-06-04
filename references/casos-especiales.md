@@ -264,10 +264,68 @@ Exencion de hasta 60.100 euros anuales por rendimientos del trabajo obtenidos en
 Si las rentas del extranjero no estan exentas por el artículo 7.p, se puede deducir de la cuota:
 - El menor importe entre: el impuesto pagado en el extranjero por esas rentas, o la cuota que corresponderia en Espana
 
-### 5.3. Cuentas y bienes en el extranjero
+### 5.3. Cuentas y bienes en el extranjero (Modelo 720 y Modelo 721)
 
-- **Modelo 720:** Declaracion informativa de bienes y derechos en el extranjero. Obligatorio si superan 50.000 euros en alguna de las tres categorias (cuentas, valores, inmuebles).
-- **Modelo 721:** Declaracion informativa de criptomonedas en el extranjero (> 50.000 euros).
+**El Modelo 720 y el Modelo 721 son declaraciones puramente INFORMATIVAS, no tributarias. NO se paga impuesto al presentarlas. Plazo: 1 enero a 31 marzo del año siguiente al ejercicio declarado.**
+
+#### 5.3.1. Modelo 720, bienes y derechos en el extranjero
+
+Obligatorio para residentes fiscales en España que tengan a 31 de diciembre saldos en el extranjero superiores a **50.000 EUR en cualquiera de los siguientes bloques INDEPENDIENTES** (cada bloque tiene su propio umbral; se presenta solo el o los bloques que lo superen):
+
+- **Bloque C:** Cuentas en entidades bancarias en el extranjero
+- **Bloque V:** Valores representativos de participación en entidades (acciones, bonos)
+- **Bloque I:** Acciones y participaciones en Instituciones de Inversión Colectiva (fondos, ETFs)
+- **Bloque B:** Seguros de vida o invalidez y rentas temporales o vitalicias
+- **Bloque Inmuebles:** Bienes inmuebles y derechos sobre los mismos
+
+**El umbral mira la suma TOTAL agregada de cada bloque a 31/12**, incluyendo activos de años anteriores, NO solo nuevas adquisiciones del año. Si el contribuyente tiene cuentas o valores en VARIAS entidades extranjeras (varios brokers, varias plataformas de pago), hay que **sumar todos los saldos del mismo bloque ANTES de comparar con el umbral**. Ejemplo: si tiene 30.000 EUR en valores en un broker UE y 25.000 EUR en valores en otro broker UE, el bloque V combinado es 55.000 EUR y hay obligación.
+
+#### 5.3.2. Frecuencia en años sucesivos
+
+Tras la primera presentación, solo se vuelve a presentar un bloque si:
+
+1. El **saldo total del bloque a 31/12** ha aumentado en **más de 20.000 EUR** respecto al valor de la **última declaración presentada** (no respecto al año inmediatamente anterior), O
+2. Se deja de ser titular de algún activo previamente declarado (cierre de cuenta, venta total, etc.), aunque no haya incremento de 20.000 EUR.
+
+Texto literal AEAT: *"solamente deberá volver a presentarse este Modelo, cuando en relación con una o varias de estas obligaciones se produzca un incremento del límite conjunto establecido para cada bloque de información superior a 20.000 euros respecto del que determinó la presentación de la última declaración."*
+
+Ejemplo: si el contribuyente presentó el bloque V en 2026 con 70.000 EUR, en 2027 solo vuelve a presentarlo si el saldo a 31/12/2027 supera 90.000 EUR. Si en 2027 está en 85.000 EUR, no presenta. Si en 2028 está en 95.000 EUR, compara contra 70.000 (última presentada, no contra 85.000) y como el incremento es 25.000 > 20.000, presenta.
+
+#### 5.3.3. Modelo 721, criptoactivos en el extranjero
+
+Análogo al Modelo 720 pero específico para criptomonedas en exchanges extranjeros (no en wallets de auto-custodia). Mismo umbral: 50.000 EUR a 31/12. Mismo plazo: 1 enero a 31 marzo. Misma regla de frecuencia (>20.000 EUR de incremento respecto a la última presentada).
+
+#### 5.3.4. Régimen sancionador (post Ley 5/2022)
+
+El régimen sancionador específico pre-2022 fue derogado tras la sentencia TJUE caso C-788/19 (27 enero 2022) por desproporcionado. Sanciones eliminadas:
+- Multa fija de 5.000 EUR por cada dato no declarado, con un mínimo de 10.000 EUR
+- Recargo del 150% sobre el valor de los activos no declarados
+- Imprescriptibilidad del incumplimiento
+
+Régimen actual aplicable (Ley 58/2003 LGT, artículos 198 y 199): infracciones tributarias por presentación fuera de plazo o con errores, típicamente entre 300 y 20.000 EUR según el caso. La presentación correcta no conlleva tributación adicional.
+
+Riesgo indirecto: si AEAT detecta activos extranjeros no declarados por otros medios (CRS, requerimientos, etc.), puede tratarlos como "ganancia patrimonial no justificada" (art. 39 LIRPF), pero ahora con prescripción normal de 4 años, no imprescriptible.
+
+#### 5.3.5. Checklist de revisión durante la Fase 3 (descubrimiento)
+
+Si el contribuyente responde Sí a las preguntas 31, 36 o 54 del cuestionario (`references/regiones/preguntas-descubrimiento.md`), aplicar esta lista:
+
+1. **Sumar por bloque a 31/12 del ejercicio**, agregando TODAS las entidades:
+   - Bloque C: todos los saldos en cuentas bancarias o de pago no españolas (plataformas de pago tipo Wise, Revolut, N26, Bunq, PayPal; cuentas cash de brokers extranjeros)
+   - Bloque V: todos los valores en brokers extranjeros (tipo Trading 212, eToro, DEGIRO, Interactive Brokers, XTB, Saxo Bank)
+   - Bloque I: todas las IIC (fondos, ETFs) en custodia extranjera
+   - Modelo 721: todas las criptomonedas en exchanges extranjeros (tipo Binance, Coinbase, Kraken, Bitstamp; excluir wallets de auto-custodia)
+2. **Comparar cada bloque con el umbral de 50.000 EUR**. Si supera, hay obligación de presentar ese bloque.
+3. **Si ha presentado Modelo 720 en años anteriores**, comparar el saldo actual con el de la última declaración presentada. Si el incremento supera 20.000 EUR en algún bloque, también hay obligación.
+4. **Advertir al contribuyente**:
+   - Es declaración informativa, NO se paga impuesto al presentar
+   - Plazo: 31 marzo del año siguiente
+   - El régimen sancionador actual es el general LGT (300 a 20.000 EUR), no el brutal pre-2022
+
+Fuentes oficiales:
+- AEAT FAQ Modelo 720, Frecuencia de presentación: https://sede.agenciatributaria.gob.es/Sede/todas-gestiones/impuestos-tasas/declaraciones-informativas/modelo-720-decla_____sobre-bienes-derechos-extranjero_/preguntas-frecuentes/frecuencia-presentacion-declaracion.html
+- AEAT FAQ Modelo 720, Sanciones y efectos: https://sede.agenciatributaria.gob.es/Sede/todas-gestiones/impuestos-tasas/declaraciones-informativas/modelo-720-decla_____sobre-bienes-derechos-extranjero_/preguntas-frecuentes/sanciones-efectos.html
+- Ley 5/2022 (BOE): https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3771
 
 ---
 
