@@ -302,9 +302,11 @@ Topes CDI tipicos (consultar siempre el CDI especifico):
 
 Si el pais de origen retiene mas que el tope CDI (ej. Belgica retiene 30% de derecho interno sobre cashback de plataformas de pago, pero el CDI España/Belgica solo permite 10%), el exceso NO se recupera via IRPF español. Hay que reclamarlo directamente a la administracion fiscal del pais de origen mediante el procedimiento de devolucion correspondiente.
 
-Fuentes verificadas:
-- OCU Inversiones, mayo 2026: https://www.ocu.org/inversiones/fiscalidad-y-derechos/impuestos/articulos/2026/05/dividendos-extranjeros-renta-2025-evite-pagar-dos-veces (*"Los dividendos cobrados en el extranjero deben declararse como rendimientos del capital mobiliario, por su importe integro... la deduccion por doble imposicion internacional se incluye en la casilla 0588"*)
-- Rankia, campaña 2026: https://www.rankia.com/blog/irpf-declaracion-renta/2754760-como-tributan-dividendos-extranjeros (*"Casilla 0029: incluye todos los dividendos brutos recibidos, tanto nacionales como extranjeros. Casilla 0588: introduce los mismos dividendos brutos sobre los que hubo retencion en origen"*)
+Fuentes oficiales:
+- AEAT, Manual Practico Renta 2025, Cap. 18, "Deduccion por doble imposicion internacional, por razon de las rentas obtenidas y gravadas en el extranjero" (Art. 80 LIRPF): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c18-cuota-liquida-resultante-autoliquidacion/deducciones-cuota-liquida-total/deduccion-doble-imposicion-internacional.html
+- Art. 80 Ley 35/2006 del IRPF (BOE): https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764&tn=1#a80
+- AEAT, Manual Practico Renta 2025, Cap. 18, "Objeto y regimen general de la deduccion": https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c18-cuota-liquida-resultante-autoliquidacion/deducciones-cuota-liquida-total/deduccion-doble-imposicion-internacional/objeto-regimen-general-deduccion.html
+- Topes CDI por pais: AEAT, Anexo III "Limites de imposicion en los convenios" (Manual de Tributacion de No Residentes): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/anexos/limites-imposicion-convenios.html
 
 ### 5.3. Cuentas y bienes en el extranjero (Modelo 720 y Modelo 721)
 
