@@ -332,6 +332,33 @@ Desde el 1 de enero de 2025 (Disposicion adicional sexagesima LIRPF), se aplica 
 - **Prestaciones de desempleo:** Exentas hasta ciertos limites (en situaciones especiales)
 - **Indemnizaciones por responsabilidad civil:** Exentas (no son renta del trabajo sino compensacion)
 
+### 5.4.bis. Retribuciones en especie EXENTAS (articulo 42.3 LIRPF)
+
+Algunas retribuciones en especie estan EXENTAS del IRPF y NO se incluyen en la base imponible del trabajador. La empresa SI las reporta a AEAT en el Modelo 190 (resumen anual de retenciones e ingresos a cuenta) con fines informativos, y aparecen en el Certificado de Retenciones (Modelo 10T) que se entrega al trabajador cada ano bajo el epigrafe **"Rentas exentas del IRPF incluidas por la empresa o entidad pagadora en el resumen anual de retenciones e ingresos a cuenta"**.
+
+**Punto de confusion frecuente**: el contribuyente ve este importe en el Modelo 10T y se pregunta si debe sumarlo a casilla 0003 o 0004 al declarar la Renta. **La respuesta es NO**. Estas rentas estan exentas y no se declaran. El borrador AEAT ya las excluye correctamente. Sumarlas seria perjudicar al contribuyente al incrementar artificialmente la base imponible.
+
+**Principales conceptos exentos** (art. 42.3 LIRPF y desarrollos reglamentarios):
+
+| Concepto | Limite cuantitativo de la exencion |
+|---|---|
+| Vales/cheques restaurante o tarjeta restaurante (art. 42.3.a) | 11,00 EUR/dia laborable (art. 45 RIRPF) |
+| Seguros de enfermedad/medico para el trabajador, conyuge e hijos hasta 25 anos (art. 42.3.c) | 500 EUR/persona/ano (1.500 EUR/persona/ano si discapacidad) |
+| Servicios de educacion infantil de primer ciclo (guarderia, 0-3 anos) prestados por la empresa o pagados mediante vales (art. 42.3) | Sin limite cuantitativo (NO se considera retribucion en especie) |
+| Transporte colectivo de empleados (vales/tarjetas para transporte publico) (art. 42.3.f) | 136,36 EUR/mes y 1.500 EUR/ano |
+| Formacion profesional o reciclaje pagado por el empleador, vinculado a la actividad (art. 42.2.b) | Sin limite |
+| Entrega de acciones o participaciones de la propia empresa o del grupo (art. 42.3.f) | 12.000 EUR/ano (con requisitos adicionales de mantenimiento) |
+| Comedor de empresa (entrega de productos a precios rebajados) (art. 42.3.a) | Sin limite |
+| Servicios sociales y culturales del personal (gimnasio empresa, biblioteca, instalaciones deportivas) (art. 42.3.b) | Exentos cuando son colectivos |
+| Seguros de accidente laboral o responsabilidad civil pagados por la empresa (art. 42.2.b) | Sin limite |
+
+> Al revisar el borrador AEAT o reconstruir desde nominas, verificar que estos importes NO se han añadido por error a las casillas 0003 (retribuciones dinerarias) o 0004 (retribuciones en especie). Aparecen en el Modelo 10T solo como informacion, son ya rentas exentas.
+
+Fuentes oficiales:
+- Articulo 42 LIRPF (Ley 35/2006): https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764&p=20240514&tn=1#a42
+- AEAT Manual Practico Renta 2025, Cap. 3 (Rendimientos del trabajo en especie exentos): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c03-rendimientos-trabajo/rendimientos-trabajo-especie/rendimientos-trabajo-especie-exentos.html
+- AEAT Cap. 3, gastos por seguros de enfermedad: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c03-rendimientos-trabajo/rendimientos-trabajo-especie/rendimientos-trabajo-especie-exentos/gastos-seguros-enfermedad.html
+
 ### 5.5. Cómo reconstruir el rendimiento del trabajo desde datos crudos
 
 **Documentos necesarios:**
