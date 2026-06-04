@@ -252,33 +252,42 @@ Requisitos del descendiente:
 | Cuarto y siguientes | 4.500 |
 | Adicional por menor de 3 años | +2.800 |
 
-**Custodia compartida (regla especial de prorrateo):**
+**Regla del prorrateo obligatorio en custodia compartida (50/50)**
 
-En casos de guarda y custodia compartida de los hijos, **el minimo por descendientes se prorratea SIEMPRE al 50% entre ambos progenitores** (cada uno aplica el 50% en su propia declaracion), con independencia de:
+En supuestos de divorcio o separacion con custodia compartida, el minimo por descendientes se prorratea SIEMPRE al 50% entre ambos progenitores, con independencia de con cual de los dos convive el descendiente la mayor parte del tiempo y de quien decida tributar conjuntamente con el. Esta regla es obligatoria y NO se puede modificar por mutuo acuerdo entre los progenitores.
 
-- Quien conviva con el menor en la fecha de devengo del impuesto
-- Quien pague una mayor proporcion de los gastos del menor
-- Cual de los dos progenitores incluya al hijo en su unidad familiar (tributacion conjunta)
-
-**Regla CRITICA de no transferibilidad**: si uno de los progenitores no aplica el 50% que le corresponde (por no presentar declaracion, por renuncia formal, o por cualquier otra razon), **el otro progenitor NO puede aplicar el 100% en su lugar**. El 50% no aplicado se pierde. La AEAT no admite la transferencia entre progenitores en custodia compartida.
-
-Texto literal AEAT:
-> "En caso de guarda y custodia compartida de los hijos, el minimo por descendientes se prorrateara por partes iguales entre ambos progenitores."
+**Regla de no transferibilidad**: si uno de los progenitores no aplica el 50% que le corresponde (por ejemplo, por no presentar declaracion o por renuncia expresa), el otro progenitor NO puede aplicar el 100%. El 50% del progenitor que no lo aplica simplemente se pierde. Cita literal de la AEAT:
 
 > "Si uno de los progenitores no aplica el minimo por descendientes que le corresponde (50 por 100), el otro progenitor no tiene derecho a la aplicacion en su totalidad del senalado minimo por descendientes."
 
 Fuente: AEAT Manual Practico Renta 2025, Cap. 14: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c14-adecuacion-impuesto-circunstancias-personales/minimo-descendientes/concepto-requisitos-descendientes.html
 
-**Distincion importante con la opcion de tributacion conjunta**: la regla 50/50 del minimo descendientes es distinta e independiente de la regla de inclusion en unidad familiar para la tributacion conjunta. En custodia compartida:
+**Distincion importante: tres ejes independientes en custodia compartida**: el minimo por descendientes, la opcion conjunta y las deducciones autonomicas por gastos del descendiente son TRES reglas distintas, regidas por criterios diferentes y aplicables de forma INDEPENDIENTE entre si.
 
-| Concepto | Regla en custodia compartida |
-|---|---|
-| **Minimo descendientes** (entorno casillas 0513/0514) | AMBOS progenitores aplican el 50% en sus respectivas declaraciones (siempre, no transferible) |
-| **Inclusion del hijo en unidad familiar para tributacion conjunta** (casilla 0069) | SOLO UN progenitor puede incluir al hijo en su U.F. cada ano, alternando por mutuo acuerdo (ver seccion 12.3) |
+| Concepto | Regla en custodia compartida | Quien lo aplica | Independiente de... |
+|---|---|---|---|
+| **Minimo descendientes** (entorno casillas 0513/0514) | AMBOS progenitores aplican el 50% en sus respectivas declaraciones (siempre, no transferible) | Ambos progenitores, cada uno el 50% | Quien declare conjunta y quien pague los gastos del menor |
+| **Inclusion del hijo en unidad familiar para tributacion conjunta** (casilla 0069) | SOLO UN progenitor puede incluir al hijo en su U.F. cada ano, alternando por mutuo acuerdo (ver seccion 12.3) | El que ese ano declara conjunta (rotacion anual) | Minimo descendientes y deducciones autonomicas |
+| **Deducciones autonomicas por gastos del descendiente** (idiomas, deporte, libros, guarderia, etc., variables por CCAA) | El derecho a deducir va por (a) quien efectivamente pago, y (b) que el descendiente le genere derecho al minimo. Cuando los gastos se pagan desde una cuenta conjunta, presuncion 50/50 salvo prueba en contrario | Cualquier progenitor que cumpla (a) y (b), independientemente de quien declare conjunta ese ano | Minimo descendientes (siempre 50/50) y opcion conjunta (rotacion anual) |
 
-Estas dos reglas son acumulativas, no excluyentes: el progenitor que ese ano declara conjunta con el hijo (y por tanto accede a la reduccion de unidad familiar monoparental de 2.150 EUR, casilla 0491) aplica TAMBIEN el 50% del minimo descendientes. El otro progenitor declara individual ese ano y aplica el OTRO 50% del minimo.
+Las tres reglas son acumulativas, no excluyentes:
+- El progenitor que ese ano declara conjunta con el hijo aplica el 50% del minimo descendientes + la reduccion de unidad familiar monoparental de 2.150 EUR (casilla 0491) + las deducciones autonomicas por su parte efectiva de los gastos del menor.
+- El otro progenitor declara individual ese ano y aplica el OTRO 50% del minimo + sus propias deducciones autonomicas por su parte efectiva de los gastos del menor (no pierde nada por no declarar conjunta).
 
-**Confusion frecuente**: pensar que la alternancia anual de "quien declara al peque en su U.F." (cuyo origen suele ser una clausula del convenio regulador de divorcio sobre empadronamiento o similar) tambien aplica al minimo descendientes. NO es asi. La alternancia regula solo la opcion conjunta; el minimo descendientes es siempre 50/50, todos los anos, para ambos progenitores.
+**Confusiones frecuentes**:
+
+1. *"Como este ano la declaracion conjunta la presento yo, mi ex-pareja no puede aplicar deducciones autonomicas por los gastos del nino"*. INCORRECTO. La rotacion anual regula solo la opcion conjunta (eje 2); las deducciones autonomicas (eje 3) van por pago efectivo + derecho al minimo, ambos elementos que NO dependen de quien declare conjunta ese ano.
+
+2. *"Como no aplico el minimo descendientes al 100%, no tengo derecho a deducciones autonomicas por mi hijo"*. INCORRECTO. El requisito de "que el descendiente le genere derecho al minimo" en las deducciones autonomicas se cumple si el contribuyente tiene derecho al 50% del minimo (custodia compartida); no se exige el 100%.
+
+3. *"Pago los gastos del nino desde mi cuenta personal, asi que solo yo deduzco"*. CORRECTO si la cuenta es privativa. INCORRECTO si la cuenta es conjunta con el otro progenitor (presuncion 50/50 salvo prueba en contrario, similar a la regla aplicable a bienes gananciales en matrimonios).
+
+4. *"La alternancia anual de quien declara al peque en U.F. tambien aplica al minimo descendientes"*. NO es asi. La alternancia regula solo la opcion conjunta; el minimo descendientes es siempre 50/50, todos los anos, para ambos progenitores.
+
+Fuentes:
+- AEAT Manual Practico Renta 2025, Cap. 14: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c14-adecuacion-impuesto-circunstancias-personales/minimo-descendientes/concepto-requisitos-descendientes.html
+- AEAT Guia Deducciones Autonomicas 2025 (introduccion comun sobre titularidad y cuotas pagadas desde cuenta conjunta): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/guia-deducciones-autonomicas.html
+- DGT V0598-19, V1664-21 y V0142-23: confirman que el requisito de "personas que generen derecho al minimo por descendientes" se cumple aunque el minimo este prorrateado al 50% por custodia compartida
 
 ### 4.3. Mínimo por ascendientes
 
@@ -359,6 +368,33 @@ Desde el 1 de enero de 2025 (Disposicion adicional sexagesima LIRPF), se aplica 
 - **Ingreso Minimo Vital (IMV):** Exento hasta el importe de la prestacion pagada
 - **Prestaciones de desempleo:** Exentas hasta ciertos limites (en situaciones especiales)
 - **Indemnizaciones por responsabilidad civil:** Exentas (no son renta del trabajo sino compensacion)
+
+### 5.4.bis. Retribuciones en especie EXENTAS (articulo 42.3 LIRPF)
+
+Algunas retribuciones en especie estan EXENTAS del IRPF y NO se incluyen en la base imponible del trabajador. La empresa SI las reporta a AEAT en el Modelo 190 (resumen anual de retenciones e ingresos a cuenta) con fines informativos, y aparecen en el Certificado de Retenciones (Modelo 10T) que se entrega al trabajador cada ano bajo el epigrafe **"Rentas exentas del IRPF incluidas por la empresa o entidad pagadora en el resumen anual de retenciones e ingresos a cuenta"**.
+
+**Punto de confusion frecuente**: el contribuyente ve este importe en el Modelo 10T y se pregunta si debe sumarlo a casilla 0003 o 0004 al declarar la Renta. **La respuesta es NO**. Estas rentas estan exentas y no se declaran. El borrador AEAT ya las excluye correctamente. Sumarlas seria perjudicar al contribuyente al incrementar artificialmente la base imponible.
+
+**Principales conceptos exentos** (art. 42.3 LIRPF y desarrollos reglamentarios):
+
+| Concepto | Limite cuantitativo de la exencion |
+|---|---|
+| Vales/cheques restaurante o tarjeta restaurante (art. 42.3.a) | 11,00 EUR/dia laborable (art. 45 RIRPF) |
+| Seguros de enfermedad/medico para el trabajador, conyuge e hijos hasta 25 anos (art. 42.3.c) | 500 EUR/persona/ano (1.500 EUR/persona/ano si discapacidad) |
+| Servicios de educacion infantil de primer ciclo (guarderia, 0-3 anos) prestados por la empresa o pagados mediante vales (art. 42.3) | Sin limite cuantitativo (NO se considera retribucion en especie) |
+| Transporte colectivo de empleados (vales/tarjetas para transporte publico) (art. 42.3.f) | 136,36 EUR/mes y 1.500 EUR/ano |
+| Formacion profesional o reciclaje pagado por el empleador, vinculado a la actividad (art. 42.2.b) | Sin limite |
+| Entrega de acciones o participaciones de la propia empresa o del grupo (art. 42.3.f) | 12.000 EUR/ano (con requisitos adicionales de mantenimiento) |
+| Comedor de empresa (entrega de productos a precios rebajados) (art. 42.3.a) | Sin limite |
+| Servicios sociales y culturales del personal (gimnasio empresa, biblioteca, instalaciones deportivas) (art. 42.3.b) | Exentos cuando son colectivos |
+| Seguros de accidente laboral o responsabilidad civil pagados por la empresa (art. 42.2.b) | Sin limite |
+
+> Al revisar el borrador AEAT o reconstruir desde nominas, verificar que estos importes NO se han añadido por error a las casillas 0003 (retribuciones dinerarias) o 0004 (retribuciones en especie). Aparecen en el Modelo 10T solo como informacion, son ya rentas exentas.
+
+Fuentes oficiales:
+- Articulo 42 LIRPF (Ley 35/2006): https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764&p=20240514&tn=1#a42
+- AEAT Manual Practico Renta 2025, Cap. 3 (Rendimientos del trabajo en especie exentos): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c03-rendimientos-trabajo/rendimientos-trabajo-especie/rendimientos-trabajo-especie-exentos.html
+- AEAT Cap. 3, gastos por seguros de enfermedad: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c03-rendimientos-trabajo/rendimientos-trabajo-especie/rendimientos-trabajo-especie-exentos/gastos-seguros-enfermedad.html
 
 ### 5.5. Cómo reconstruir el rendimiento del trabajo desde datos crudos
 
@@ -771,6 +807,70 @@ Ganancia/Perdida = Valor de transmision - Valor de adquisicion
 - Si el causante adquirió el bien después de 1994, NO se aplican coeficientes de abatimiento
 - El coeficiente depende de la generación del heredero y del valor del patrimonio transmitido
 
+### 9.7. Pérdidas patrimoniales que no se computan (art. 33.5 LIRPF)
+
+El articulo 33.5 LIRPF enumera supuestos en los que una perdida patrimonial NO se computa fiscalmente en el ejercicio en que se obtiene. Los mas relevantes para el contribuyente medio son las letras e), f) y g), todas referidas a recompras del mismo elemento patrimonial o de valores homogeneos en plazos breves.
+
+#### 9.7.1. Recompra de valores admitidos a cotizacion (art. 33.5.f LIRPF)
+
+**Regla**: NO se computan como perdidas patrimoniales las derivadas de la transmision de valores o participaciones admitidos a negociacion en mercados secundarios oficiales cuando el contribuyente hubiera adquirido valores HOMOGENEOS dentro de los DOS MESES anteriores o posteriores a dicha transmision.
+
+**Concepto de valores homogeneos** (art. 8 RIRPF): valores que proceden del mismo emisor, forman parte de una misma operacion financiera o responden a una unidad de proposito, tienen igual naturaleza y regimen de transmision, y atribuyen un contenido sustancialmente similar de derechos y obligaciones. En la practica, equivale a "mismo ISIN" para acciones cotizadas.
+
+**Diferimiento, no eliminacion**: la perdida no se pierde permanentemente, se difiere. Debe declararse y cuantificarse en el ejercicio en que se genero, marcando en Renta Web el checkbox correspondiente; se integrara a efectos liquidatorios cuando se transmita el elemento patrimonial recomprado (siempre que la nueva transmision no caiga tambien en el supuesto de recompra).
+
+**Riesgo CRITICO para usuarios de brokers fraccionarios** (Trading 212, eToro, DEGIRO, Interactive Brokers, XTB, Saxo, etc.): es muy frecuente cerrar posiciones con perdida y reabrir el mismo ISIN dentro de los 2 meses, especialmente en estrategias de copy-trading, autoinversion o dollar-cost averaging. En esos casos la perdida NO se imputa en el ejercicio actual, aunque aparezca neta en el statement anual del broker. Cumplimentar mal este punto es una de las regularizaciones AEAT mas comunes para inversores retail.
+
+**Cuando NO aplica la regla** (la perdida se computa normalmente):
+- Si no ha habido recompra del mismo ISIN dentro de la ventana de 2 meses
+- Si lo recomprado es un ISIN distinto, aunque sea del mismo sector o tipo (por ejemplo, cierras Apple con perdida y compras Microsoft, la perdida si se computa)
+- Hay matices sobre proporcionalidad cuando la recompra es de cantidad muy inferior; consultar consultas vinculantes DGT (V3282-18, V2995-20) para casos limite
+
+#### 9.7.2. Otras letras del art. 33.5 (resumen)
+
+- Letra a: perdidas no justificadas
+- Letra b: perdidas debidas al consumo
+- Letra c: perdidas por transmisiones lucrativas (donaciones por actos inter vivos al donante)
+- Letra d: perdidas por juego, dentro de los limites de las ganancias por juego del mismo ejercicio
+- Letra e: recompra del MISMO elemento patrimonial (no valores homogeneos sino el mismo bien fisico o derecho) dentro del año posterior a la transmision
+- Letra g: similar a la f) pero para valores NO admitidos a negociacion en mercados oficiales: ventana de recompra de 1 año en lugar de 2 meses
+
+Fuentes:
+- Art. 33.5 LIRPF (Ley 35/2006): https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764&p=20240514&tn=1#a33
+- AEAT Manual Practico Renta 2025, Cap. 11 (Ganancias y perdidas patrimoniales), seccion "Perdidas patrimoniales que no se computan fiscalmente como tales": https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2021/capitulo-11-ganancias-perdidas-patrimoniales/ganancias-perdidas-patrimoniales/perdidas-patrimoniales-que-no-se-tales.html
+
+### 9.8. Guía práctica de cumplimentación en Renta Web: apartado "Acciones admitidas a cotización"
+
+Al declarar ganancias o perdidas derivadas de la transmision de acciones cotizadas (brokers tipo Trading 212, eToro, DEGIRO, Interactive Brokers, XTB, Saxo, brokers nacionales, etc.), Renta Web abre una ventana de captura con la siguiente estructura:
+
+| Campo | Descripcion | Casilla |
+|---|---|---|
+| Modalidad (dropdown arriba derecha) | Selecciona DECLARANTE; o cada conyuge / hijo de la UF por separado si tienen posiciones propias | n/a |
+| Entidad Emisora | Nombre corto del bloque (max 20 caracteres). Para agregacion por broker es practica habitual: ej. "Broker X cierres 2025" | (texto, no casilla) |
+| Valor de transmision | Suma total de las ventas durante el ejercicio en EUR | 0328 |
+| Valor de adquisicion | Suma total de las compras correspondientes en EUR | 0331 |
+| Checkbox "Exencion por reinversion en rentas vitalicias por mayores de 65 años" | Marcar solo si el contribuyente tiene >=65 años, reinvierte hasta 240.000 EUR en una renta vitalicia, y cumple los plazos | 0333 |
+| Checkbox "No imputacion de perdidas por recompra de valores homogeneos" | Marcar si se cumple el supuesto del art. 33.5.f LIRPF (ver seccion 9.7.1) | afecta a 0338 |
+| Checkbox "Aplicacion de coeficientes reductores DT 9.ª" | Marcar SOLO si las acciones se adquirieron antes del 31/12/1994 | 0329, 0330, 0334, 0335 |
+
+**Resultado automatico calculado por Renta Web**:
+- Si valor adquisicion > valor transmision: Renta Web rellena la casilla 0337 (Perdidas patrimoniales. Importe obtenido) con el importe absoluto de la perdida y la 0338 (Importe computable) con el mismo importe. Si se marca el checkbox de recompra de valores homogeneos, la 0338 queda en 0 (perdida diferida).
+- Si valor adquisicion < valor transmision: Renta Web rellena la 0332 (Ganancias patrimoniales) y la 0336 (Ganancias reducidas no exentas).
+
+**Reglas practicas**:
+
+1. **Agregacion por broker**: la normativa permite agregar transmisiones de un mismo broker en una sola entrada, siempre que el contribuyente disponga del detalle por operacion (statements del broker) para justificar ante AEAT si lo requiere. Para inversores con muchas posiciones cerradas en un ejercicio (frecuente en brokers fraccionarios), la agregacion por broker es la practica habitual y mas eficiente.
+
+2. **Limite "Entidad Emisora"**: 20 caracteres. Si quieres descripcion descriptiva, abreviar (ej. "T212 cierres 2025", "Broker XYZ 2025").
+
+3. **Modalidad CONJUNTA**: en tributacion conjunta, cada miembro de la unidad familiar (DECLARANTE, conyuge, hijos) se cumplimenta por separado seleccionando del dropdown superior derecho. Las posiciones de cada miembro van por separado, no se suman entre miembros.
+
+4. **CFDs y derivados financieros**: NO van en este apartado. Los CFD sobre acciones (ej. CFD sobre Microsoft) son contratos por diferencia, no acciones admitidas a cotizacion. Van en "Otras ganancias y perdidas patrimoniales" o en el apartado especifico de derivados.
+
+5. **Criptomonedas**: NO van aqui. Tienen casillas propias en el apartado de monedas virtuales (entorno casilla 1804, ver seccion 2 de `casos-especiales.md`).
+
+6. **Brokers extranjeros**: las posiciones cerradas en brokers establecidos en otros paises (Chipre, Irlanda, etc.) se declaran aqui igual que las nacionales si las acciones subyacentes estan admitidas a cotizacion en mercados oficiales (la inmensa mayoria de stocks US, UK, EU lo estan). El pais del broker no es relevante para el apartado: lo que importa es la naturaleza del valor subyacente.
+
 ---
 
 ## 10. REDUCCIONES DE LA BASE IMPONIBLE
@@ -888,6 +988,24 @@ Notas:
 - El porcentaje se aplica sobre el total o sobre tramos (hasta 250 euros y resto)
 - Si se supera el limite anual, el exceso puede arrastrase a ejercicios siguientes (máximo 5 años)
 - Requiere documentacion de la entidad receptora
+
+**Quien deduce un donativo: regla del donante nominal**
+
+A diferencia de las deducciones por gastos (sanidad, educacion, alquiler, deporte, etc.), donde la regla general es "quien paga efectivamente deduce" y los pagos desde cuentas conjuntas se presumen al 50/50, los donativos siguen una regla distinta:
+
+**El donante es la persona que figura nominalmente en el certificado emitido por la entidad receptora**, independientemente del origen de los fondos. La entidad receptora informa a la AEAT del donativo via Modelo 182 identificando al donante por NIF, y la AEAT cruza ese NIF con la declaracion del IRPF.
+
+Consecuencias practicas:
+- Si una persona realiza una donacion de 200 EUR a su nombre desde una cuenta conjunta con su pareja/conyuge, solo el donante nominal puede deducir el 80% (= 160 EUR) en su IRPF. La pareja no puede prorratear el 50% en su propia declaracion.
+- Si una pareja quiere que ambos deduzcan, deben realizar DOS donaciones SEPARADAS (cada uno con su propio certificado a su nombre y NIF), no una unica donacion que luego se intenta repartir.
+- Si una donacion conjunta de matrimonios en regimen de gananciales lleva ambos nombres en el certificado (formato menos comun), entonces si se puede prorratear 50/50 entre los dos conyuges.
+
+Esta regla aplica igualmente a los donativos a entidades de la Ley 49/2002, partidos politicos, sindicatos, y mecenazgo. El criterio rector es siempre la identidad del donante segun el documento informativo.
+
+Fuentes:
+- Art. 24 Ley 49/2002 (justificacion documental de los donativos): https://www.boe.es/buscar/act.php?id=BOE-A-2002-25039&p=20250712&tn=1#a24
+- Modelo 182 (declaracion informativa de donativos por las entidades): https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G414.shtml
+- DGT V0598-19 sobre donativos desde cuentas mancomunadas (criterio del donante nominal frente a origen de fondos)
 
 ### 11.4. Deducción por rentas obtenidas en Ceuta o Melilla
 
