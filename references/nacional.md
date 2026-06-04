@@ -332,6 +332,33 @@ Desde el 1 de enero de 2025 (Disposicion adicional sexagesima LIRPF), se aplica 
 - **Prestaciones de desempleo:** Exentas hasta ciertos limites (en situaciones especiales)
 - **Indemnizaciones por responsabilidad civil:** Exentas (no son renta del trabajo sino compensacion)
 
+### 5.4.bis. Retribuciones en especie EXENTAS (articulo 42.3 LIRPF)
+
+Algunas retribuciones en especie estan EXENTAS del IRPF y NO se incluyen en la base imponible del trabajador. La empresa SI las reporta a AEAT en el Modelo 190 (resumen anual de retenciones e ingresos a cuenta) con fines informativos, y aparecen en el Certificado de Retenciones (Modelo 10T) que se entrega al trabajador cada ano bajo el epigrafe **"Rentas exentas del IRPF incluidas por la empresa o entidad pagadora en el resumen anual de retenciones e ingresos a cuenta"**.
+
+**Punto de confusion frecuente**: el contribuyente ve este importe en el Modelo 10T y se pregunta si debe sumarlo a casilla 0003 o 0004 al declarar la Renta. **La respuesta es NO**. Estas rentas estan exentas y no se declaran. El borrador AEAT ya las excluye correctamente. Sumarlas seria perjudicar al contribuyente al incrementar artificialmente la base imponible.
+
+**Principales conceptos exentos** (art. 42.3 LIRPF y desarrollos reglamentarios):
+
+| Concepto | Limite cuantitativo de la exencion |
+|---|---|
+| Vales/cheques restaurante o tarjeta restaurante (art. 42.3.a) | 11,00 EUR/dia laborable (art. 45 RIRPF) |
+| Seguros de enfermedad/medico para el trabajador, conyuge e hijos hasta 25 anos (art. 42.3.c) | 500 EUR/persona/ano (1.500 EUR/persona/ano si discapacidad) |
+| Servicios de educacion infantil de primer ciclo (guarderia, 0-3 anos) prestados por la empresa o pagados mediante vales (art. 42.3) | Sin limite cuantitativo (NO se considera retribucion en especie) |
+| Transporte colectivo de empleados (vales/tarjetas para transporte publico) (art. 42.3.f) | 136,36 EUR/mes y 1.500 EUR/ano |
+| Formacion profesional o reciclaje pagado por el empleador, vinculado a la actividad (art. 42.2.b) | Sin limite |
+| Entrega de acciones o participaciones de la propia empresa o del grupo (art. 42.3.f) | 12.000 EUR/ano (con requisitos adicionales de mantenimiento) |
+| Comedor de empresa (entrega de productos a precios rebajados) (art. 42.3.a) | Sin limite |
+| Servicios sociales y culturales del personal (gimnasio empresa, biblioteca, instalaciones deportivas) (art. 42.3.b) | Exentos cuando son colectivos |
+| Seguros de accidente laboral o responsabilidad civil pagados por la empresa (art. 42.2.b) | Sin limite |
+
+> Al revisar el borrador AEAT o reconstruir desde nominas, verificar que estos importes NO se han añadido por error a las casillas 0003 (retribuciones dinerarias) o 0004 (retribuciones en especie). Aparecen en el Modelo 10T solo como informacion, son ya rentas exentas.
+
+Fuentes oficiales:
+- Articulo 42 LIRPF (Ley 35/2006): https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764&p=20240514&tn=1#a42
+- AEAT Manual Practico Renta 2025, Cap. 3 (Rendimientos del trabajo en especie exentos): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c03-rendimientos-trabajo/rendimientos-trabajo-especie/rendimientos-trabajo-especie-exentos.html
+- AEAT Cap. 3, gastos por seguros de enfermedad: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c03-rendimientos-trabajo/rendimientos-trabajo-especie/rendimientos-trabajo-especie-exentos/gastos-seguros-enfermedad.html
+
 ### 5.5. Cómo reconstruir el rendimiento del trabajo desde datos crudos
 
 **Documentos necesarios:**
@@ -742,6 +769,70 @@ Ganancia/Perdida = Valor de transmision - Valor de adquisicion
 - Los coeficientes de abatimiento (reducción por generaciones) se aplican SOLO si el bien fue **adquirido por el fallecido antes del 31/12/1994**
 - Si el causante adquirió el bien después de 1994, NO se aplican coeficientes de abatimiento
 - El coeficiente depende de la generación del heredero y del valor del patrimonio transmitido
+
+### 9.7. Pérdidas patrimoniales que no se computan (art. 33.5 LIRPF)
+
+El articulo 33.5 LIRPF enumera supuestos en los que una perdida patrimonial NO se computa fiscalmente en el ejercicio en que se obtiene. Los mas relevantes para el contribuyente medio son las letras e), f) y g), todas referidas a recompras del mismo elemento patrimonial o de valores homogeneos en plazos breves.
+
+#### 9.7.1. Recompra de valores admitidos a cotizacion (art. 33.5.f LIRPF)
+
+**Regla**: NO se computan como perdidas patrimoniales las derivadas de la transmision de valores o participaciones admitidos a negociacion en mercados secundarios oficiales cuando el contribuyente hubiera adquirido valores HOMOGENEOS dentro de los DOS MESES anteriores o posteriores a dicha transmision.
+
+**Concepto de valores homogeneos** (art. 8 RIRPF): valores que proceden del mismo emisor, forman parte de una misma operacion financiera o responden a una unidad de proposito, tienen igual naturaleza y regimen de transmision, y atribuyen un contenido sustancialmente similar de derechos y obligaciones. En la practica, equivale a "mismo ISIN" para acciones cotizadas.
+
+**Diferimiento, no eliminacion**: la perdida no se pierde permanentemente, se difiere. Debe declararse y cuantificarse en el ejercicio en que se genero, marcando en Renta Web el checkbox correspondiente; se integrara a efectos liquidatorios cuando se transmita el elemento patrimonial recomprado (siempre que la nueva transmision no caiga tambien en el supuesto de recompra).
+
+**Riesgo CRITICO para usuarios de brokers fraccionarios** (Trading 212, eToro, DEGIRO, Interactive Brokers, XTB, Saxo, etc.): es muy frecuente cerrar posiciones con perdida y reabrir el mismo ISIN dentro de los 2 meses, especialmente en estrategias de copy-trading, autoinversion o dollar-cost averaging. En esos casos la perdida NO se imputa en el ejercicio actual, aunque aparezca neta en el statement anual del broker. Cumplimentar mal este punto es una de las regularizaciones AEAT mas comunes para inversores retail.
+
+**Cuando NO aplica la regla** (la perdida se computa normalmente):
+- Si no ha habido recompra del mismo ISIN dentro de la ventana de 2 meses
+- Si lo recomprado es un ISIN distinto, aunque sea del mismo sector o tipo (por ejemplo, cierras Apple con perdida y compras Microsoft, la perdida si se computa)
+- Hay matices sobre proporcionalidad cuando la recompra es de cantidad muy inferior; consultar consultas vinculantes DGT (V3282-18, V2995-20) para casos limite
+
+#### 9.7.2. Otras letras del art. 33.5 (resumen)
+
+- Letra a: perdidas no justificadas
+- Letra b: perdidas debidas al consumo
+- Letra c: perdidas por transmisiones lucrativas (donaciones por actos inter vivos al donante)
+- Letra d: perdidas por juego, dentro de los limites de las ganancias por juego del mismo ejercicio
+- Letra e: recompra del MISMO elemento patrimonial (no valores homogeneos sino el mismo bien fisico o derecho) dentro del año posterior a la transmision
+- Letra g: similar a la f) pero para valores NO admitidos a negociacion en mercados oficiales: ventana de recompra de 1 año en lugar de 2 meses
+
+Fuentes:
+- Art. 33.5 LIRPF (Ley 35/2006): https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764&p=20240514&tn=1#a33
+- AEAT Manual Practico Renta 2025, Cap. 11 (Ganancias y perdidas patrimoniales), seccion "Perdidas patrimoniales que no se computan fiscalmente como tales": https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2021/capitulo-11-ganancias-perdidas-patrimoniales/ganancias-perdidas-patrimoniales/perdidas-patrimoniales-que-no-se-tales.html
+
+### 9.8. Guía práctica de cumplimentación en Renta Web: apartado "Acciones admitidas a cotización"
+
+Al declarar ganancias o perdidas derivadas de la transmision de acciones cotizadas (brokers tipo Trading 212, eToro, DEGIRO, Interactive Brokers, XTB, Saxo, brokers nacionales, etc.), Renta Web abre una ventana de captura con la siguiente estructura:
+
+| Campo | Descripcion | Casilla |
+|---|---|---|
+| Modalidad (dropdown arriba derecha) | Selecciona DECLARANTE; o cada conyuge / hijo de la UF por separado si tienen posiciones propias | n/a |
+| Entidad Emisora | Nombre corto del bloque (max 20 caracteres). Para agregacion por broker es practica habitual: ej. "Broker X cierres 2025" | (texto, no casilla) |
+| Valor de transmision | Suma total de las ventas durante el ejercicio en EUR | 0328 |
+| Valor de adquisicion | Suma total de las compras correspondientes en EUR | 0331 |
+| Checkbox "Exencion por reinversion en rentas vitalicias por mayores de 65 años" | Marcar solo si el contribuyente tiene >=65 años, reinvierte hasta 240.000 EUR en una renta vitalicia, y cumple los plazos | 0333 |
+| Checkbox "No imputacion de perdidas por recompra de valores homogeneos" | Marcar si se cumple el supuesto del art. 33.5.f LIRPF (ver seccion 9.7.1) | afecta a 0338 |
+| Checkbox "Aplicacion de coeficientes reductores DT 9.ª" | Marcar SOLO si las acciones se adquirieron antes del 31/12/1994 | 0329, 0330, 0334, 0335 |
+
+**Resultado automatico calculado por Renta Web**:
+- Si valor adquisicion > valor transmision: Renta Web rellena la casilla 0337 (Perdidas patrimoniales. Importe obtenido) con el importe absoluto de la perdida y la 0338 (Importe computable) con el mismo importe. Si se marca el checkbox de recompra de valores homogeneos, la 0338 queda en 0 (perdida diferida).
+- Si valor adquisicion < valor transmision: Renta Web rellena la 0332 (Ganancias patrimoniales) y la 0336 (Ganancias reducidas no exentas).
+
+**Reglas practicas**:
+
+1. **Agregacion por broker**: la normativa permite agregar transmisiones de un mismo broker en una sola entrada, siempre que el contribuyente disponga del detalle por operacion (statements del broker) para justificar ante AEAT si lo requiere. Para inversores con muchas posiciones cerradas en un ejercicio (frecuente en brokers fraccionarios), la agregacion por broker es la practica habitual y mas eficiente.
+
+2. **Limite "Entidad Emisora"**: 20 caracteres. Si quieres descripcion descriptiva, abreviar (ej. "T212 cierres 2025", "Broker XYZ 2025").
+
+3. **Modalidad CONJUNTA**: en tributacion conjunta, cada miembro de la unidad familiar (DECLARANTE, conyuge, hijos) se cumplimenta por separado seleccionando del dropdown superior derecho. Las posiciones de cada miembro van por separado, no se suman entre miembros.
+
+4. **CFDs y derivados financieros**: NO van en este apartado. Los CFD sobre acciones (ej. CFD sobre Microsoft) son contratos por diferencia, no acciones admitidas a cotizacion. Van en "Otras ganancias y perdidas patrimoniales" o en el apartado especifico de derivados.
+
+5. **Criptomonedas**: NO van aqui. Tienen casillas propias en el apartado de monedas virtuales (entorno casilla 1804, ver seccion 2 de `casos-especiales.md`).
+
+6. **Brokers extranjeros**: las posiciones cerradas en brokers establecidos en otros paises (Chipre, Irlanda, etc.) se declaran aqui igual que las nacionales si las acciones subyacentes estan admitidas a cotizacion en mercados oficiales (la inmensa mayoria de stocks US, UK, EU lo estan). El pais del broker no es relevante para el apartado: lo que importa es la naturaleza del valor subyacente.
 
 ---
 
