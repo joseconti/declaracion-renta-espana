@@ -252,6 +252,43 @@ Requisitos del descendiente:
 | Cuarto y siguientes | 4.500 |
 | Adicional por menor de 3 años | +2.800 |
 
+**Regla del prorrateo obligatorio en custodia compartida (50/50)**
+
+En supuestos de divorcio o separacion con custodia compartida, el minimo por descendientes se prorratea SIEMPRE al 50% entre ambos progenitores, con independencia de con cual de los dos convive el descendiente la mayor parte del tiempo y de quien decida tributar conjuntamente con el. Esta regla es obligatoria y NO se puede modificar por mutuo acuerdo entre los progenitores.
+
+**Regla de no transferibilidad**: si uno de los progenitores no aplica el 50% que le corresponde (por ejemplo, por no presentar declaracion o por renuncia expresa), el otro progenitor NO puede aplicar el 100%. El 50% del progenitor que no lo aplica simplemente se pierde. Cita literal de la AEAT:
+
+> "Si uno de los progenitores no aplica el minimo por descendientes que le corresponde (50 por 100), el otro progenitor no tiene derecho a la aplicacion en su totalidad del senalado minimo por descendientes."
+
+Fuente: AEAT Manual Practico Renta 2025, Cap. 14: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c14-adecuacion-impuesto-circunstancias-personales/minimo-descendientes/concepto-requisitos-descendientes.html
+
+**Distincion importante: tres ejes independientes en custodia compartida**: el minimo por descendientes, la opcion conjunta y las deducciones autonomicas por gastos del descendiente son TRES reglas distintas, regidas por criterios diferentes y aplicables de forma INDEPENDIENTE entre si.
+
+| Concepto | Regla en custodia compartida | Quien lo aplica | Independiente de... |
+|---|---|---|---|
+| **Minimo descendientes** (entorno casillas 0513/0514) | AMBOS progenitores aplican el 50% en sus respectivas declaraciones (siempre, no transferible) | Ambos progenitores, cada uno el 50% | Quien declare conjunta y quien pague los gastos del menor |
+| **Inclusion del hijo en unidad familiar para tributacion conjunta** (casilla 0069) | SOLO UN progenitor puede incluir al hijo en su U.F. cada ano, alternando por mutuo acuerdo (ver seccion 12.3) | El que ese ano declara conjunta (rotacion anual) | Minimo descendientes y deducciones autonomicas |
+| **Deducciones autonomicas por gastos del descendiente** (idiomas, deporte, libros, guarderia, etc., variables por CCAA) | El derecho a deducir va por (a) quien efectivamente pago, y (b) que el descendiente le genere derecho al minimo. Cuando los gastos se pagan desde una cuenta conjunta, presuncion 50/50 salvo prueba en contrario | Cualquier progenitor que cumpla (a) y (b), independientemente de quien declare conjunta ese ano | Minimo descendientes (siempre 50/50) y opcion conjunta (rotacion anual) |
+
+Las tres reglas son acumulativas, no excluyentes:
+- El progenitor que ese ano declara conjunta con el hijo aplica el 50% del minimo descendientes + la reduccion de unidad familiar monoparental de 2.150 EUR (casilla 0491) + las deducciones autonomicas por su parte efectiva de los gastos del menor.
+- El otro progenitor declara individual ese ano y aplica el OTRO 50% del minimo + sus propias deducciones autonomicas por su parte efectiva de los gastos del menor (no pierde nada por no declarar conjunta).
+
+**Confusiones frecuentes**:
+
+1. *"Como este ano la declaracion conjunta la presento yo, mi ex-pareja no puede aplicar deducciones autonomicas por los gastos del nino"*. INCORRECTO. La rotacion anual regula solo la opcion conjunta (eje 2); las deducciones autonomicas (eje 3) van por pago efectivo + derecho al minimo, ambos elementos que NO dependen de quien declare conjunta ese ano.
+
+2. *"Como no aplico el minimo descendientes al 100%, no tengo derecho a deducciones autonomicas por mi hijo"*. INCORRECTO. El requisito de "que el descendiente le genere derecho al minimo" en las deducciones autonomicas se cumple si el contribuyente tiene derecho al 50% del minimo (custodia compartida); no se exige el 100%.
+
+3. *"Pago los gastos del nino desde mi cuenta personal, asi que solo yo deduzco"*. CORRECTO si la cuenta es privativa. INCORRECTO si la cuenta es conjunta con el otro progenitor (presuncion 50/50 salvo prueba en contrario, similar a la regla aplicable a bienes gananciales en matrimonios).
+
+4. *"La alternancia anual de quien declara al peque en U.F. tambien aplica al minimo descendientes"*. NO es asi. La alternancia regula solo la opcion conjunta; el minimo descendientes es siempre 50/50, todos los anos, para ambos progenitores.
+
+Fuentes:
+- AEAT Manual Practico Renta 2025, Cap. 14: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c14-adecuacion-impuesto-circunstancias-personales/minimo-descendientes/concepto-requisitos-descendientes.html
+- AEAT Guia Deducciones Autonomicas 2025 (introduccion comun sobre titularidad y cuotas pagadas desde cuenta conjunta): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/guia-deducciones-autonomicas.html
+- DGT V0598-19, V1664-21 y V0142-23: confirman que el requisito de "personas que generen derecho al minimo por descendientes" se cumple aunque el minimo este prorrateado al 50% por custodia compartida
+
 ### 4.3. Mínimo por ascendientes
 
 Requisitos del ascendiente:
@@ -922,6 +959,24 @@ Notas:
 - El porcentaje se aplica sobre el total o sobre tramos (hasta 250 euros y resto)
 - Si se supera el limite anual, el exceso puede arrastrase a ejercicios siguientes (máximo 5 años)
 - Requiere documentacion de la entidad receptora
+
+**Quien deduce un donativo: regla del donante nominal**
+
+A diferencia de las deducciones por gastos (sanidad, educacion, alquiler, deporte, etc.), donde la regla general es "quien paga efectivamente deduce" y los pagos desde cuentas conjuntas se presumen al 50/50, los donativos siguen una regla distinta:
+
+**El donante es la persona que figura nominalmente en el certificado emitido por la entidad receptora**, independientemente del origen de los fondos. La entidad receptora informa a la AEAT del donativo via Modelo 182 identificando al donante por NIF, y la AEAT cruza ese NIF con la declaracion del IRPF.
+
+Consecuencias practicas:
+- Si una persona realiza una donacion de 200 EUR a su nombre desde una cuenta conjunta con su pareja/conyuge, solo el donante nominal puede deducir el 80% (= 160 EUR) en su IRPF. La pareja no puede prorratear el 50% en su propia declaracion.
+- Si una pareja quiere que ambos deduzcan, deben realizar DOS donaciones SEPARADAS (cada uno con su propio certificado a su nombre y NIF), no una unica donacion que luego se intenta repartir.
+- Si una donacion conjunta de matrimonios en regimen de gananciales lleva ambos nombres en el certificado (formato menos comun), entonces si se puede prorratear 50/50 entre los dos conyuges.
+
+Esta regla aplica igualmente a los donativos a entidades de la Ley 49/2002, partidos politicos, sindicatos, y mecenazgo. El criterio rector es siempre la identidad del donante segun el documento informativo.
+
+Fuentes:
+- Art. 24 Ley 49/2002 (justificacion documental de los donativos): https://www.boe.es/buscar/act.php?id=BOE-A-2002-25039&p=20250712&tn=1#a24
+- Modelo 182 (declaracion informativa de donativos por las entidades): https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G414.shtml
+- DGT V0598-19 sobre donativos desde cuentas mancomunadas (criterio del donante nominal frente a origen de fondos)
 
 ### 11.4. Deducción por rentas obtenidas en Ceuta o Melilla
 
