@@ -43,7 +43,7 @@ Este documento contiene las preguntas que el SKILL debe formular al contribuyent
 
 ## INVERSIONES Y AHORRO
 
-29. ¿Has vendido acciones, fondos de inversión u otros valores?
+29. ¿Has vendido acciones, fondos de inversión u otros valores? **Aviso CRITICO**: si has cerrado posiciones con PERDIDA y has recomprado el mismo ISIN (valores homogeneos) dentro de los DOS MESES anteriores o posteriores al cierre, esa perdida NO se imputa este ejercicio (se difiere hasta que vendas la posicion recomprada sin volver a recomprar). Art. 33.5.f LIRPF. Es un punto de confusion muy frecuente en brokers fraccionarios (Trading 212, eToro, DEGIRO, IBKR, XTB, etc.). Ver `references/nacional.md` seccion 9.7.
 30. ¿Has operado con criptomonedas (compra, venta, permuta, staking)?
 31. ¿Tienes saldo en criptomonedas en exchanges extranjeros superior a 50.000 euros?
 32. ¿Has aportado a planes de pensiones? ¿Tu empresa ha aportado?
