@@ -4,6 +4,38 @@ Todas las versiones notables de este skill se documentan en este archivo.
 
 ---
 
+## v2025-5.1 -- Casos especiales: fiscalidad internacional, criptomonedas, custodia compartida y retribuciones en especie
+
+**Fecha:** 4 de junio de 2026
+
+### Resumen
+
+Incorporacion de ocho aportaciones de la comunidad que amplian las secciones de casos especiales y normativa nacional, con foco en fiscalidad internacional, criptomonedas, custodia compartida, retribuciones en especie exentas y cumplimentacion practica en Renta Web. Todas citan fuentes oficiales (Manual Practico de Renta 2025 de la AEAT, BOE y consultas vinculantes de la DGT).
+
+### Cambios en references/casos-especiales.md
+
+- **Monedas virtuales en Renta Web (nueva seccion 2.5).** Guia de cumplimentacion del apartado "Monedas Virtuales" (casillas 1800-1814): mapeo de campos editables, criterio FIFO, tipos de contraprestacion (F/N/O/B), conversion a EUR, permutas cripto-cripto y CFDs, y soporte documental ante comprobacion. (PR #14, @agigante80)
+- **Capital mobiliario extranjero (nuevas secciones 5.2.1 y 5.2.2).** Flujo dual en Renta Web (casillas regulares 0027/0029 mas apartado de doble imposicion 0588) y topes CDI que limitan el credito por doble imposicion internacional. (PR #9, @agigante80)
+- **Modelo 720 y Modelo 721 (ampliacion de la seccion 5.3).** Bloques independientes, regla de frecuencia (mas de 20.000 euros), regimen sancionador posterior a la Ley 5/2022 y checklist de revision en Fase 3. (PR #8, @agigante80)
+- **Topes CDI por pais (nueva seccion 5.4).** Referencia oficial al Anexo III del Manual de Tributacion de No Residentes de la AEAT. (PR #11, @agigante80)
+
+### Cambios en references/nacional.md
+
+- **Retribuciones en especie exentas (nueva seccion 5.4.bis).** Articulo 42.3 LIRPF: conceptos exentos y sus limites (vales restaurante, seguro medico, transporte, formacion, entrega de acciones, etc.) y aclaracion de que no deben sumarse a las casillas 0003/0004. (PR #12, @agigante80)
+- **Perdidas no computables y acciones cotizadas (nuevas secciones 9.7 y 9.8).** Perdidas no computables del articulo 33.5 LIRPF (recompra de valores homogeneos) y cumplimentacion de transmisiones de acciones cotizadas. (PR #13, @agigante80)
+- **Custodia compartida (secciones 4.2 y 10.3).** Tres ejes independientes (minimo por descendientes 50/50 no transferible, opcion de tributacion conjunta y deducciones autonomicas), regla del prorrateo obligatorio, y anualidades por alimentos con escalas separadas e incompatibilidad con la custodia. (PRs #15 y #10, @agigante80)
+- **Donativos: regla del donante nominal (seccion 11.3).** El donante que deduce es quien figura nominalmente en el certificado (Modelo 182), con independencia del origen de los fondos. (PR #15, @agigante80)
+
+### Mantenimiento
+
+- Sustitucion de las fuentes no oficiales (OCU, Rankia) de la seccion 5.2.2 por citas oficiales: Manual Practico de Renta 2025 (cap. 18), articulo 80 LIRPF (BOE) y Anexo III de limites por convenio de la AEAT.
+
+### Agradecimientos
+
+Gracias a @agigante80 por las ocho aportaciones (PRs #8, #9, #10, #11, #12, #13, #14, #15) que componen esta version.
+
+---
+
 ## v2025-5.0 -- Reescritura completa de deducciones autonomicas + Bizkaia IRPF 2025
 
 **Fecha:** 27 de abril de 2026
