@@ -915,8 +915,37 @@ Se aplica tambien el plazo de aportacion del 31/12 del ejercicio N indicado en l
 
 ### 10.3. Pensiones compensatorias y anualidades por alimentos
 
-- Pensiones compensatorias a favor del conyuge (fijadas judicialmente): reducen la base imponible
-- Anualidades por alimentos a hijos: se aplica la escala de gravamen de forma separada (no reducen la base pero minoran el impuesto)
+#### Pensiones compensatorias al conyuge (fijadas judicialmente)
+
+- Reducen la base imponible general del pagador (entorno casilla 0476)
+- El perceptor las declara como rendimientos del trabajo
+
+#### Anualidades por alimentos a hijos por decision judicial
+
+NO reducen la base imponible del pagador y NO tributan en el hijo perceptor (estan exentas, art. 7.k LIRPF). En su lugar, se aplica un regimen de calculo especial llamado "escalas separadas":
+
+- Se aplican las escalas general y autonomica SEPARADAMENTE al importe de las anualidades y al resto de la base liquidable general
+- Esto beneficia al pagador con renta alta, porque las anualidades "arrancan" en el tramo inferior de la escala en lugar de tributar al marginal del contribuyente
+
+**Requisito CRITICO de aplicabilidad (incompatibilidad con custodia compartida o exclusiva):**
+
+El regimen de escalas separadas SOLO aplica al progenitor pagador que NO tenga asignada la guarda y custodia del hijo, ni siquiera de forma compartida. Si tiene custodia compartida (o exclusiva), aplica el minimo por descendientes y NO puede aplicar adicionalmente las escalas separadas para las anualidades.
+
+Texto literal AEAT:
+
+> "el progenitor que satisfaga anualidades por alimentos en favor de los hijos en los terminos previstos por el articulo 7.k) de la Ley del IRPF y que no tenga asignada la guarda y custodia de estos, ni siquiera de forma compartida, aplicara el regimen previsto para las anualidades por alimentos, pero no el minimo por descendientes."
+
+Resumen practico:
+
+| Situacion del progenitor pagador | Regimen aplicable |
+|---|---|
+| Sin guarda y custodia (ni siquiera compartida) y paga anualidades por decision judicial | Escalas separadas (NO minimo descendientes) |
+| Con custodia compartida y paga anualidades | Minimo por descendientes (NO escalas separadas) |
+| Con custodia exclusiva | Minimo por descendientes (no aplica el regimen de anualidades) |
+
+La custodia compartida es muy frecuente en divorcios modernos; este matiz es la fuente mas habitual de confusion al rellenar el regimen especial de anualidades.
+
+Fuente AEAT: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras/especialidades-determinacion-cuota-integra-estatal-autonomica/anualidades-alimentos-favor-hijos/especialidad-tratamiento-anualidades-alimentos.html
 
 ---
 
