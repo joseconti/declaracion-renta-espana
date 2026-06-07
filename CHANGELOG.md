@@ -4,6 +4,69 @@ Todas las versiones notables de este skill se documentan en este archivo.
 
 ---
 
+## v2025-5.2 -- Revisión de exactitud fiscal y arquitectura: correcciones críticas, Cataluña 2025, split nacional/detalle
+
+**Fecha:** 7 de junio de 2026
+
+### Resumen
+
+Ronda de revisión y corrección derivada de una auditoría multi-agente del skill. Se corrigen errores fiscales materiales (gastos de difícil justificación, topes de vehículo eléctrico, amortización EDS, vehículo IVA vs. IRPF, modelo 130, bienes de inversión, tributación conjunta, business angels, coeficientes de abatimiento), se añade la escala autonómica catalana 2025 ausente, se refactoriza la arquitectura de carga de nacional.md (carga condicional + split núcleo/detalle), y se actualiza la documentación de mantenimiento.
+
+### Correcciones fiscales
+
+- `references/autonomos.md` — **Gastos de difícil justificación: 7% → 5%.** El 7% fue una medida excepcional exclusiva del ejercicio 2023. Para el ejercicio 2025 el porcentaje vigente es el 5% sobre el rendimiento neto previo positivo, con tope de 2.000 EUR/año (art. 30 RIRPF). Corregido el ejemplo numérico (30.000 × 5% = 1.500 EUR). Fuente: AEAT Manual Práctico Renta 2025, cap. 7.
+- `references/autonomos.md` — **Tabla de amortización simplificada EDS:** sustituida la tabla de 12 filas con coeficientes incorrectos por la tabla oficial de 10 grupos de la Orden de 27 de marzo de 1998. Coeficientes corregidos: equipos informáticos 26%/10a (antes 25%/4a), elementos de transporte 16%/14a (antes 12,5%/8a), edificios 3%/68a (antes 3%/33a). Fuente: AEAT Manual Práctico Renta 2025, cap. 7.
+- `references/autonomos.md` — **Gastos de vehículo:** eliminada la "presunción general 50%" aplicada erróneamente al IRPF. El 50% es regla de IVA (art. 95 LIVA); el IRPF exige afectación exclusiva del vehículo. Excepciones al 100% en IRPF: transporte de viajeros/mercancías, agentes comerciales, autoescuelas. Añadida tabla comparativa IVA vs. IRPF.
+- `references/autonomos.md` — **Modelo 130, exoneración:** eliminado el umbral de 20.000 EUR sin base normativa. Sustituido por el criterio legal correcto del art. 109 RIRPF: exoneración cuando en el año natural anterior al menos el 70% de los ingresos hayan sido objeto de retención o ingreso a cuenta.
+- `references/autonomos.md` — **Bienes de inversión:** reescrita la sección para separar IVA (bien de inversión ≥ 3.005,06 EUR, art. 108 LIVA) e IRPF (libertad de amortización para elementos de escaso valor ≤ 300 EUR, límite 25.000 EUR/año).
+- `references/nacional.md` — **Vehículo eléctrico/PHEV y pila de combustible:** corregido el tope de deducción de 300 EUR a 3.000 EUR (15% × base máx. 20.000 EUR). El punto de recarga (600 EUR) no se ha modificado. Fuente: AEAT Manual Práctico Renta 2025, cap. 16.
+- `references/nacional.md` — **Tributación conjunta:** eliminada la fila "biparental SIN hijos / 2.400 EUR" que carecía de base en el art. 84 LIRPF. La tabla recoge únicamente las dos modalidades legales: Modalidad 1ª (matrimonio) → 3.400 EUR; Modalidad 2ª (monoparental) → 2.150 EUR.
+- `references/nacional.md` — **Business Angels:** corregido el requisito de "empresa creada hace ≤ 2 años" por la redacción legal correcta: acciones o participaciones adquiridas en el momento de la constitución o en ampliación de capital dentro de los 3 años siguientes a la constitución.
+- `references/nacional.md` — **Coeficientes de abatimiento (DT 9ª LIRPF):** añadido el cómputo correcto (11,11% por cada año de permanencia que exceda de 2, hasta 31/12/1996) y el límite conjunto de 400.000 EUR de valor de transmisión acumulado por contribuyente.
+- `references/nacional.md` — URL de seguros de enfermedad actualizada de irpf-2024 a irpf-2025 (verificada).
+- `references/casos-especiales.md` — URLs de monedas virtuales actualizadas de irpf-2024 a irpf-2025 (verificadas).
+
+### Cataluña 2025 (Decreto Ley 5/2025)
+
+- `references/regiones/cataluna.md` — **Escala autonómica 2025 añadida** (8 tramos, 9,5%–25,5%), reformada por Decreto Ley 5/2025 (DOGC 26/03/2025, BOE-A-2025-10270, efectos 01/01/2025). La ausencia de esta escala impedía calcular correctamente la cuota autonómica en modo preparación.
+- `references/regiones/cataluna.md` — **Novedad 2025** señalada: Decreto Ley 5/2025 como fuente de la escala reformada y de la nueva deducción por violencia machista.
+- `references/regiones/cataluna.md` — **Mínimo del contribuyente:** añadida nota de que el mínimo catalán elevado (6.105 EUR, Ley 5/2020) fue anulado por STC 186/2021; para 2025 aplica el mínimo estatal de 5.550 EUR sin ajuste manual.
+- `references/regiones/cataluna.md` — **Competencia ATC/AEAT:** aclarado que Cataluña es régimen común y el IRPF se presenta ante la AEAT (Renta WEB), no ante la Agència Tributària de Catalunya.
+- `references/regiones/cataluna.md` — Sección FUENTES ampliada con Decreto Ley 5/2025, STC 186/2021 y URL de competencias ATC.
+
+### Arquitectura y SKILL.md
+
+- `SKILL.md` — **Carga condicional de nacional.md:** eliminado el "cargar siempre"; nacional.md se carga solo en régimen común; NO se carga para residentes en territorios forales. La residencia y el régimen se resuelven en Fase 0 antes de cualquier carga de referencia.
+- `SKILL.md` — **Split nacional/detalle:** añadida entrada para nacional-detalle.md (cargar al llegar a Fase 4/Fase 4-prep o cuando se necesite el detalle). Punteros de Fase 4 y Fase 4-prep actualizados a nacional-detalle.md para deducciones estatales, reconstrucciones y ejemplos.
+- `SKILL.md` — **Tiebreaks de selección de modo:** añadido bloque explícito en Fase 0: borrador → Modo A; borrador con datos no incluidos → Modo C; sin borrador → Modo B; ante ambigüedad, confirmar con una sola pregunta.
+- `SKILL.md` — **Aviso Bizkaia inline:** advertencia de que las cifras de bizkaia.md pueden corresponder al ejercicio 2024 y deben contrastarse con la normativa vigente de la Hacienda Foral.
+- `SKILL.md` — **Frontmatter:** recortada la descripción de ~989 a ~730 caracteres eliminando prosa redundante; conservados todos los keywords de activación.
+- `SKILL.md` — **Nota de comportamiento #12:** corregida la referencia al porcentaje de gastos de difícil justificación (5% para 2025, no 7%).
+- `SKILL.md`, `references/modo-preparacion.md` — **Nueva sección "REGLAS DE CÁLCULO EXACTO":** la aritmética del IRPF debe ejecutarse mediante código (script Python con `decimal.Decimal`, prohibidos los floats binarios), nunca con cálculo mental sobre escalas progresivas; traza tramo a tramo por escala estatal y autonómica; prohibido aproximar ("~", "aprox.") en casillas o resultado final; verificación cruzada de la cuota diferencial por vía independiente antes de presentar. Complementa (no contradice) las notas #3 y #11, que rigen los datos de entrada. Convención de redondeo confirmada contra fuente oficial: el tipo medio de gravamen "se expresará con dos decimales sin redondeo" (AEAT Manual Práctico Renta 2025, cap. 15). Añadida referencia cruzada desde Fase 4-prep y desde los principios y la sección de cálculo de `modo-preparacion.md`.
+- `references/nacional.md` — Reescrito como núcleo ligero (~878 líneas). Secciones de detalle (reconstrucciones, perfiles especiales, obligaciones formales, ejemplos) movidas a nacional-detalle.md.
+- `references/nacional-detalle.md` — **Nuevo archivo** (~788 líneas) con el detalle bajo demanda: deducciones estatales 11.1–11.10, secciones de reconstrucción 5.5/6.4/7.3/9.5, perfiles especiales 5.6–5.12/8.4/9.6, flujo y ejemplos numéricos 13.1–13.4.
+- `references/modo-preparacion.md` — Seis referencias cruzadas actualizadas para apuntar a nacional-detalle.md en secciones de detalle y flujo.
+
+### Documentación
+
+- `MAINTENANCE.md` — **Nuevo archivo.** Checklist de actualización anual del skill: enumera todos los archivos, clases de valores volátiles (escalas, mínimos, reducción por trabajo, obligación de declarar, deducciones con fecha de caducidad, límites de pensiones, fechas de campaña, URLs del manual AEAT, hardcoded "2025"), estado de Bizkaia, script de auditoría de recuentos de deducciones y proceso del CHANGELOG.
+- `references/regiones/indice-regiones.md` — **Fuente de verdad de recuentos:** corregidos los conteos verificados contra los archivos reales: Canarias 29 (antes "28-29"), Castilla y León 17 (antes 20), Madrid 23 (antes "10+"), La Rioja 24 (antes 26).
+- `README.md` — Árbol de ficheros: añadidos MAINTENANCE.md y nacional-detalle.md; eliminado .gitignore (el archivo no existe en el repositorio); recuentos de deducciones del árbol sincronizados con indice-regiones.md. Descripción de autonomos.md corregida (5%, tabla de 10 grupos). Descripción de normativa estatal actualizada para reflejar el split núcleo/detalle. Recuento de La Rioja corregido a 24 en el cuerpo del texto. Referencia a indice-regiones.md como fuente de verdad añadida.
+
+### Fuentes
+
+- AEAT Manual Práctico Renta 2025, caps. 7, 11, 15, 16: `https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Manual/100.html`
+- AEAT Manual Práctico Renta 2025, cap. 15 (tipo medio de gravamen "dos decimales sin redondeo"): `https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras/gravamen-base-liquidable-general/gravamen-estatal.html`
+- Decreto Ley 5/2025 (escala autonómica Cataluña): `https://www.boe.es/ccaa/dogc/2025/9379/f00001-00028.pdf` (BOE-A-2025-10270)
+- STC 186/2021 (anulación mínimo contribuyente Cataluña): `https://hj.tribunalconstitucional.es/en/Resolucion/Show/26844`
+- Art. 30 RIRPF (gastos difícil justificación 5%)
+- Art. 109 RIRPF (exoneración modelo 130)
+- Art. 108 LIVA (bienes de inversión IVA)
+- Art. 84 LIRPF (reducción tributación conjunta)
+- Orden de 27 de marzo de 1998 (tabla amortización simplificada EDS)
+
+---
+
 ## v2025-5.1 -- Casos especiales: fiscalidad internacional, criptomonedas, custodia compartida y retribuciones en especie
 
 **Fecha:** 4 de junio de 2026

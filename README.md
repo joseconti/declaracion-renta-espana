@@ -31,15 +31,15 @@ El IRPF español es uno de los impuestos más complejos de Europa. No es un impu
 
 Para dar una idea del volumen de información que maneja este skill:
 
-**Normativa estatal (references/nacional.md):** contiene la residencia fiscal (regla de los 183 dias, centro de intereses economicos, presuncion por familia), la individualizacion de rentas (gananciales vs separacion de bienes, art. 11 LIRPF), las escalas de gravamen general (6 tramos del 9,50% al 24,50%) y del ahorro (5 tramos del 9,50% al 15,00%), los minimos personales y familiares (contribuyente, descendientes, ascendientes, discapacidad), las formulas de reduccion por rendimientos del trabajo (con 3 tramos y formulas como 7.302 - [1,75 x (RNT - 14.852)]), los gastos deducibles, las rentas exentas, las reducciones de base imponible, 11 categorias de deducciones estatales con sus porcentajes y bases maximas, la tributacion conjunta vs individual con estrategia detallada de decision (cuando conviene cada opcion, parejas de hecho), y las obligaciones formales completas (8 modelos de declaracion, 5 formas de presentacion incluyendo Renta Directa, medios de identificacion, fraccionamiento 60/40 con fechas, autoliquidacion rectificativa, conservacion documental).
+**Normativa estatal (references/nacional.md + references/nacional-detalle.md):** la normativa estatal se reparte en un núcleo de carga permanente (`nacional.md`) y un archivo de detalle bajo demanda (`nacional-detalle.md`). El núcleo contiene la residencia fiscal (regla de los 183 dias, centro de intereses economicos, presuncion por familia), la individualizacion de rentas (gananciales vs separacion de bienes, art. 11 LIRPF), las escalas de gravamen general (6 tramos del 9,50% al 24,50%) y del ahorro (5 tramos del 9,50% al 15,00%), los minimos personales y familiares (contribuyente, descendientes, ascendientes, discapacidad), las formulas de reduccion por rendimientos del trabajo (con 3 tramos y formulas como 7.302 - [1,75 x (RNT - 14.852)]), los gastos deducibles, las rentas exentas, las reducciones de base imponible, el indice de las 11 categorias de deducciones estatales (con detalle de porcentajes y bases maximas en `nacional-detalle.md`) y la tributacion conjunta vs individual con estrategia detallada de decision (cuando conviene cada opcion, parejas de hecho). El archivo de detalle añade el detalle completo de cada deduccion estatal, la reconstruccion desde datos en bruto, los perfiles especiales de contribuyente y las obligaciones formales completas (8 modelos de declaracion, 5 formas de presentacion incluyendo Renta Directa, medios de identificacion, fraccionamiento 60/40 con fechas, autoliquidacion rectificativa, conservacion documental) con ejemplos numericos completos.
 
-**Deducciones autonómicas (references/regiones/):** cada comunidad autónoma tiene competencia para establecer sus propias deducciones de la cuota. Este skill incluye un archivo por cada una de las 15 CCAA de régimen común más Ceuta y Melilla, con un total de más de 350 deducciones autonómicas documentadas. La Comunitat Valenciana tiene 41 deducciones propias, Canarias 29, Región de Murcia 28, Asturias 27, Castilla-La Mancha 27, La Rioja 26, Galicia 25, Illes Balears 24 y así sucesivamente. Cada deducción tiene sus propios porcentajes, límites, requisitos de renta, condiciones de edad, situación familiar, incompatibilidades con otras deducciones, y en muchos casos requisitos documentales específicos.
+**Deducciones autonómicas (references/regiones/):** cada comunidad autónoma tiene competencia para establecer sus propias deducciones de la cuota. Este skill incluye un archivo por cada una de las 15 CCAA de régimen común más Ceuta y Melilla, con un total de más de 350 deducciones autonómicas documentadas. La Comunitat Valenciana tiene 41 deducciones propias, Canarias 29, Región de Murcia 28, Asturias 27, Castilla-La Mancha 27, La Rioja 24, Galicia 25, Illes Balears 24 y así sucesivamente. (El recuento exacto y actualizado por CCAA se encuentra en references/regiones/indice-regiones.md, que es la fuente de verdad.) Cada deducción tiene sus propios porcentajes, límites, requisitos de renta, condiciones de edad, situación familiar, incompatibilidades con otras deducciones, y en muchos casos requisitos documentales específicos.
 
 **Casos especiales (references/casos-especiales.md):** regimenes fiscales no habituales como la Ley Beckham (con su escala propia del 24%/47% para trabajo y del 19%-30% para ahorro), la tributacion de criptomonedas (metodo FIFO, casillas especificas, modelos 721/172/173), el exit tax, la exencion del articulo 7.p para trabajo en el extranjero, el regimen de nomadas digitales (comparativa detallada con Beckham clasica, visa de nomada digital con requisitos y duracion, exclusion de autonomos), la atribucion de rentas (comunidades de bienes, herencias yacentes, Modelo 184, ejemplos practicos), y las ganancias patrimoniales complejas con coeficientes de abatimiento.
 
 **Territorios forales (references/regiones/navarra.md, alava.md, bizkaia.md, gipuzkoa.md):** Navarra y las tres provincias vascas (Álava, Bizkaia, Gipuzkoa) tienen un IRPF completamente independiente del estatal, con sus propias escalas de gravamen, mínimos personales y familiares, reducciones y deducciones. Cada archivo foral es un sistema fiscal completo en sí mismo. Por ejemplo, Navarra tiene 11 tramos del 13% al 52% (frente a los 6 tramos estatales), y las tres provincias vascas comparten una estructura de 7-8 tramos del 23% al 49% pero con deducciones propias cada una.
 
-**Actividades económicas (references/autonomos.md):** referencia completa para contribuyentes autónomos y profesionales. Incluye los 3 regímenes disponibles (Estimación Directa Simplificada hasta 600.000 EUR, Estimación Directa Normal, y Módulos hasta 250.000 EUR), un catálogo de 24 categorías de gastos deducibles con criterios y límites, la tabla simplificada de amortización (12 grupos de activos), los gastos de difícil justificación (7%, hasta 2.000 EUR), las retenciones por tipo de actividad (10 tipos), los pagos fraccionados trimestrales (modelos 130 y 131 con fórmulas de cálculo), y la conciliación anual con la cuota diferencial del IRPF.
+**Actividades económicas (references/autonomos.md):** referencia completa para contribuyentes autónomos y profesionales. Incluye los 3 regímenes disponibles (Estimación Directa Simplificada hasta 600.000 EUR, Estimación Directa Normal, y Módulos hasta 250.000 EUR), un catálogo de 24 categorías de gastos deducibles con criterios y límites, la tabla simplificada de amortización (10 grupos de activos según la Orden de 27 de marzo de 1998), los gastos de difícil justificación (5% sobre el rendimiento neto previo positivo, hasta 2.000 EUR, art. 30 RIRPF), las retenciones por tipo de actividad (10 tipos), los pagos fraccionados trimestrales (modelos 130 y 131 con fórmulas de cálculo), y la conciliación anual con la cuota diferencial del IRPF.
 
 **Modo preparación (references/modo-preparacion.md):** flujo de trabajo genérico para calcular la declaración desde cero cuando el contribuyente no tiene borrador. Define 9 bloques de datos a recoger (identidad, trabajo, capital financiero, inmuebles, autónomo, ganancias, retenciones, donaciones, deducciones), instrucciones para normalizar documentos heterogéneos (PDF, Excel, CSV, imágenes escaneadas, texto pegado), el proceso de consolidación y cálculo, y el entregable final ("paquete Renta WEB") con las casillas principales y una checklist de verificación profesional.
 
@@ -77,17 +77,18 @@ declaracion-renta-espana/
 |
 |-- SKILL.md                          # Skill principal (flujo de trabajo)
 |-- README.md                         # Este archivo
+|-- MAINTENANCE.md                    # Checklist de actualizacion anual del skill
 |-- LICENSE                           # Licencia GPLv3
-|-- .gitignore                        # Archivos excluidos de git
 |
 |-- references/
-|   |-- nacional.md                   # Normativa IRPF estatal 2025 completa (~1.200 lineas)
+|   |-- nacional.md                   # Nucleo IRPF estatal 2025 (escalas, minimos, reduccion trabajo, indice deducciones, conjunta)
+|   |-- nacional-detalle.md           # Detalle bajo demanda: deducciones estatales, reconstruccion, perfiles especiales, obligaciones formales, ejemplos
 |   |-- casos-especiales.md           # Ley Beckham, cripto, no residentes, nomadas digitales, atribucion de rentas
 |   |-- autonomos.md                  # Actividades economicas: EDS/EDN/Modulos, gastos, pagos fraccionados
 |   |-- modo-preparacion.md           # Flujo de preparacion desde cero (modo B)
 |   |
 |   |-- regiones/
-|       |-- indice-regiones.md        # Tabla resumen de todas las CCAA
+|       |-- indice-regiones.md        # Tabla resumen de todas las CCAA (fuente de verdad de recuentos)
 |       |-- preguntas-descubrimiento.md  # Cuestionario por categorias
 |       |-- andalucia.md              # 17 deducciones
 |       |-- aragon.md                 # 19 deducciones
@@ -96,13 +97,13 @@ declaracion-renta-espana/
 |       |-- canarias.md               # 29 deducciones
 |       |-- cantabria.md              # 21 deducciones
 |       |-- castilla-la-mancha.md     # 27 deducciones
-|       |-- castilla-y-leon.md        # 18 deducciones
+|       |-- castilla-y-leon.md        # 17 deducciones
 |       |-- cataluna.md               # 13 deducciones
 |       |-- extremadura.md            # 19 deducciones
 |       |-- galicia.md                # 25 deducciones
 |       |-- madrid.md                 # 23 deducciones
 |       |-- murcia.md                 # 28 deducciones
-|       |-- la-rioja.md               # 26 deducciones
+|       |-- la-rioja.md               # 24 deducciones
 |       |-- comunidad-valenciana.md   # 41 deducciones
 |       |-- ceuta.md                  # Regimen especial (60%)
 |       |-- melilla.md                # Regimen especial (60%)
@@ -259,7 +260,7 @@ Toda la información fiscal de este skill procede exclusivamente de fuentes ofic
 - [Gravamen ahorro estatal IRPF 2025](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras/gravamen-base-liquidable-ahorro/gravamen-estatal.html)
 - [Mínimo personal y familiar 2025](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c14-adecuacion-impuesto-circunstancias-personales/cuadro-resumen-minimo-personal-familiar.html)
 - [Régimen especial impatriados (Ley Beckham)](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/regimenes-opcionales/regimen-especial-impatriados.html)
-- [Monedas virtuales - Tributación IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c11-ganancias-perdidas-patrimoniales/monedas-virtuales/compra-venta-monedas-virtuales-tributacion-inversor.html)
+- [Monedas virtuales - Tributación IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c11-ganancias-perdidas-patrimoniales/monedas-virtuales/compra-venta-monedas-virtuales-tributacion-inversor.html)
 - [Campaña de Renta 2025](https://sede.agenciatributaria.gob.es/Sede/Renta.html)
 - [Servicios de ayuda Campaña Renta 2025](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c01-campana-declaracion-renta/servicios-ayuda-campana-renta.html)
 - [Residencia habitual en territorio español](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/residencia-habitual-territorio-espanol.html)
@@ -296,7 +297,7 @@ Toda la información fiscal de este skill procede exclusivamente de fuentes ofic
 - 15 comunidades autónomas de régimen común cubiertas
 - 4 territorios forales cubiertos (Navarra, Álava, Bizkaia, Gipuzkoa) con IRPF completo propio
 - 2 ciudades autónomas (Ceuta y Melilla) con régimen especial
-- Mas de 383 deducciones autonomicas documentadas con porcentajes exactos, importes en euros, limites de renta individual/conjunta, formulas de reduccion, requisitos de edad/discapacidad/situacion personal, incompatibilidades y reglas de prorrateo (todos verificados contra las paginas AEAT)
+- Mas de 350 deducciones autonomicas documentadas con porcentajes exactos, importes en euros, limites de renta individual/conjunta, formulas de reduccion, requisitos de edad/discapacidad/situacion personal, incompatibilidades y reglas de prorrateo (todos verificados contra las paginas AEAT)
 - 11 categorias de deducciones estatales
 - 8 regimenes y casos especiales (Beckham, cripto, no residentes, nomadas digitales, atribucion de rentas, etc.)
 - Residencia fiscal completa (3 criterios del art. 9 LIRPF, paraisos fiscales, clausula anti-deslocalizacion)

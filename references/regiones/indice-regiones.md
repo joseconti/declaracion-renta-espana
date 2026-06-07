@@ -10,16 +10,16 @@ Guía rápida para localizar las deducciones por comunidad autónoma.
 | Aragón | aragon.md | 19 | Zonas despobladas, guardería, inversiones empresariales |
 | Asturias | asturias.md | 27 | Familia numerosa hasta 2.000 EUR, transporte rural, vehículos eléctricos |
 | Baleares | baleares.md | 24 | Estudios fuera isla, sostenibilidad, viviendas ocupadas |
-| Canarias | canarias.md | 28-29 | Traslado entre islas, revisar manualmente borrador |
+| Canarias | canarias.md | 29 | Traslado entre islas, revisar manualmente borrador |
 | Cantabria | cantabria.md | 21 | Mudanza, gastos sanitarios, viviendas vacías, nuevos residentes |
 | Castilla-La Mancha | castilla-la-mancha.md | 27 | Zonas rurales 15%, material escolar, animales asistencia |
-| Castilla y León | castilla-y-leon.md | 20 | Nacimiento hasta 2.351 EUR, zonas rurales, vehículos eléctricos |
+| Castilla y León | castilla-y-leon.md | 17 | Nacimiento hasta 2.351 EUR, zonas rurales, vehículos eléctricos |
 | Cataluña | cataluna.md | 13 | Business angels 40-50%, violencia machista, viudedad |
 | Extremadura | extremadura.md | 19 | Zonas rurales <3.000 hab, ELA, traslado residencia |
 | Galicia | galicia.md | 25 | Nacimiento hasta 2.400 EUR, incendios, aldeas modelo |
-| Madrid | madrid.md | 10+ | Alquiler 30% jóvenes, intereses hipotecarios, MAB |
+| Madrid | madrid.md | 23 | Alquiler 30% jóvenes, intereses hipotecarios, MAB |
 | Murcia | murcia.md | 28 | Vehículos eléctricos 7.000 EUR, lentes, idiomas, agua |
-| La Rioja | la-rioja.md | 26 | Celiaquía 250 EUR, bicicletas, jóvenes emancipados |
+| La Rioja | la-rioja.md | 24 | Celiaquía 250 EUR, bicicletas, jóvenes emancipados |
 | C. Valenciana | comunidad-valenciana.md | 41 | Más deducciones, salud mental, fertilidad, música |
 
 ## Ciudades Autónomas
