@@ -14,6 +14,8 @@ Flujo de trabajo para calcular la declaración del IRPF cuando el contribuyente 
 
 - **Trazabilidad**: Cada importe calculado debe poder rastrearse a un documento origen específico. Se mantiene un registro de qué certificado, nómina o factura genera cada línea de cálculo.
 
+- **Cálculo exacto**: Toda la aritmética (escalas por tramos, integración de bases, reducciones, mínimos, cuotas, comparativa individual vs. conjunta) se ejecuta mediante código con `decimal.Decimal`, nunca con cálculo mental ni floats binarios, y se verifica de forma cruzada antes de presentar. Reglas completas en la sección **REGLAS DE CÁLCULO EXACTO** de `SKILL.md`.
+
 - **Información incompleta**: Cuando falta documentación, el skill la pide explícitamente. Nunca asume valores (salarios medios, tasas de rendimiento, etc.).
 
 - **Responsabilidad final**: El contribuyente o su asesor deben revisar todos los importes calculados y verificarlos contra sus datos fiscales en la AEAT antes de presentar.
@@ -65,7 +67,7 @@ El modo preparación estructura la recogida de información en bloques temático
 4. Reducción por rendimientos del trabajo (sistemas de tramos y fórmulas según el importe neto previo)
 5. Rendimiento neto reducido del trabajo
 
-Ver referencias completas en `nacional.md` sección 5.
+Ver referencias en `nacional.md` sección 5; reconstrucción desde datos en bruto en `nacional-detalle.md` sección 5.5.
 
 ---
 
@@ -88,7 +90,7 @@ Ver referencias completas en `nacional.md` sección 5.
 - Rendimientos a integrar en base del ahorro: la mayoría (intereses, dividendos de no relacionadas, fondos, etc.)
 - Rendimientos a integrar en base general: propiedad intelectual del propio autor, rentas de activos cesan o transmiten
 
-Ver referencias en `nacional.md` sección 7.
+Ver referencias en `nacional.md` sección 7; reconstrucción desde datos en bruto en `nacional-detalle.md` sección 7.3.
 
 ---
 
@@ -116,7 +118,7 @@ Ver referencias en `nacional.md` sección 7.
 
 **Inmuebles NO arrendados** (segundas viviendas, locales vacíos): imputación de renta inmobiliaria = 1,1% o 2% del valor catastral según revisión catastral reciente
 
-Ver referencias en `nacional.md` sección 6.
+Ver referencias en `nacional.md` sección 6; reconstrucción desde datos en bruto en `nacional-detalle.md` sección 6.4.
 
 ---
 
@@ -158,7 +160,7 @@ b) **Ganancias no derivadas de transmisión**: premios, subvenciones, indemnizac
 
 c) **Pérdidas**: compensables con ganancias del mismo tipo en 2025 y 4 años posteriores
 
-Ver referencias en `nacional.md` sección 9 y `referencias/casos-especiales.md` para criptomonedas y exit tax.
+Ver referencias en `nacional.md` sección 9; reconstrucción desde datos en bruto en `nacional-detalle.md` sección 9.5; y `referencias/casos-especiales.md` para criptomonedas y exit tax.
 
 ---
 
@@ -236,7 +238,9 @@ No importa el formato: se normaliza a datos estructurados.
 
 ## 4. Consolidación y cálculo
 
-Una vez completos todos los bloques relevantes, el cálculo IRPF sigue el flujo de `nacional.md` sección 13:
+**Recordatorio de cálculo exacto:** ejecutar toda esta aritmética mediante código (script Python con `decimal.Decimal` o céntimos enteros), nunca de cabeza ni con floats binarios; mostrar la traza tramo a tramo de cada escala (estatal y autonómica por separado) y recomputar la cuota diferencial por una vía independiente antes de presentar. Reglas completas en la sección **REGLAS DE CÁLCULO EXACTO** de `SKILL.md`.
+
+Una vez completos todos los bloques relevantes, el cálculo IRPF sigue el flujo de `nacional-detalle.md` sección 13:
 
 1. **Base imponible general** = rendimientos trabajo + capital inmobiliario + actividades económicas + ganancias no derivadas de transmisión + imputaciones renta
 2. **Base imponible ahorro** = capital mobiliario (ahorro) + ganancias derivadas de transmisión
@@ -249,7 +253,7 @@ Una vez completos todos los bloques relevantes, el cálculo IRPF sigue el flujo 
 9. Restar retenciones + pagos a cuenta + pagos fraccionados
 10. **Cuota diferencial** (positiva = ingresar, negativa = devolver)
 
-Este flujo está completo en `nacional.md`. No se duplica aquí.
+Este flujo está completo en `nacional-detalle.md` sección 13. No se duplica aquí.
 
 ---
 
