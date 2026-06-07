@@ -112,17 +112,16 @@ Referencia completa para el cálculo de rendimientos de actividades económicas.
 - Deducible: 100% si préstamo 100% afecto; proporción si es mixto
 
 #### 11. Amortizaciones
-- **En EDS**: tabla simplificada con grupos de bienes y coeficientes lineales máximos (art. 30.1 RIRPF):
-  - Edificios y construcciones: 3% (período máximo 33 años)
-  - Instalaciones técnicas: 8% (período máximo 12,5 años)
-  - Utillaje: 12% (período máximo 8 años)
-  - Mobiliario: 10% (período máximo 10 años)
-  - Equipos informáticos y sistemas: 25% (período máximo 4 años)
-  - Vehículos turismos: 12,5% (período máximo 8 años)
-  - Elementos de transporte (camiones, furgonetas, autobuses): 10% (período máximo 10 años)
+- **En EDS**: tabla simplificada con grupos de bienes y coeficientes lineales máximos (Orden de 27 de marzo de 1998, 10 grupos):
+  - Edificios y construcciones: 3% (período máximo 68 años)
+  - Instalaciones, mobiliario, equipos y otros inmovilizados materiales: 10% (período máximo 20 años)
+  - Maquinaria: 12% (período máximo 18 años)
+  - Elementos de transporte (turismos, camiones, furgonetas): 16% (período máximo 14 años)
+  - Equipos informáticos y sistemas y programas informáticos: 26% (período máximo 10 años)
+  - Útiles y herramientas: 30% (período máximo 8 años)
   - Nota: los coeficientes son máximos; puede amortizarse a menor velocidad
-- **En EDN**: según tablas del art. 30 RIRPF (más pormenorizadas)
-- Requisitos: bien adquirido (no será arrendado salvo mejoras), vida útil > 1 año, coste > 300 €
+- **En EDN**: según tablas del IS (más pormenorizadas)
+- Requisitos: bien adquirido, vida útil > 1 año
 - Base: valor de adquisición menos valor residual (generalmente 0)
 - Deducible: 100%
 
@@ -167,11 +166,16 @@ Referencia completa para el cálculo de rendimientos de actividades económicas.
 #### 16. Gastos de vehículo
 - Descripción: combustible, seguro, ITV, reparaciones, aparcamiento, peajes, lavado
 - Requisitos: facturas y recibos a nombre del titular
-- Criterio de afectación: **presunción general 50%** (salvo actividades de transporte, donde puede ser 100%)
-  - Ejemplo: combustible 2.000 € anuales → deducible 1.000 € (50%)
-  - Para profesionales del transporte y taxi: 100% deducible si es vehículo de actividad
-- Amortización del vehículo: según tabla (12,5% máximo 8 años para turismo)
-- Deducible: 50% salvo justificación de mayor afectación
+
+**Régimen de IVA (art. 95 LIVA)**: existe una presunción de afectación del **50%** para turismos, lo que permite deducir el 50% del IVA soportado en gastos del vehículo (salvo prueba en contrario).
+
+**Régimen de IRPF**: las reglas son distintas y más estrictas. Para deducir los gastos de vehículo en el IRPF se exige **afectación exclusiva** a la actividad. Un turismo con uso mixto (personal y profesional) **no genera deducción en IRPF**, independientemente del porcentaje de uso profesional.
+  - Excepciones en las que se admite deducción al 100% en IRPF: vehículos destinados al transporte de viajeros o mercancías, agentes comerciales, autoescuelas y, en general, los que por su naturaleza solo se usen en la actividad (furgonetas de reparto, ambulancias, taxis).
+  - Ejemplo turismo con uso mixto: combustible 2.000 € anuales → deducible en IVA: 1.000 € (50%); deducible en IRPF: 0 € (sin afectación exclusiva).
+  - Ejemplo furgoneta de reparto: 100% deducible tanto en IVA como en IRPF.
+
+- Amortización del vehículo: según tabla simplificada EDS, grupo 4 — elementos de transporte: 16% máximo, período máximo 14 años (ver §2.4).
+- Fuente: AEAT Manual Práctico Renta 2025, c07; art. 95 LIVA.
 
 #### 17. Gastos de vivienda usada como despacho
 - Descripción: alquiler, suministros, IBI, comunidad, seguro del hogar
@@ -199,11 +203,12 @@ Referencia completa para el cálculo de rendimientos de actividades económicas.
 
 #### 20. Gastos de difícil justificación (SOLO EDS)
 - Descripción: Gastos que presentan dificultad para ser documentados o justificados de manera individual.
-- Deducción admitida: Hasta el 7% del rendimiento neto previo (Ley 6/2017, de Reformas Urgentes del Trabajo Autónomo, vigente desde 2018), con tope máximo de 2.000 EUR anuales.
+- Deducción admitida: Hasta el **5%** del rendimiento neto previo positivo (art. 30 RIRPF), con tope máximo de 2.000 EUR anuales. La Ley 6/2017 introdujo el tope de 2.000 EUR (no el porcentaje del 5%).
 - Combinación: La deducción por gastos de difícil justificación y provisiones deducibles no puede exceder los 2.000 EUR anuales en conjunto.
 - Requisito: No es necesaria justificación pormenorizada; solo indicar el porcentaje en la declaración del IRPF.
-- Ejemplo: Rendimiento previo 30.000 EUR → máximo gasto difícil justificación = min(30.000 × 7% = 2.100 EUR, 2.000 EUR) = 2.000 EUR
+- Ejemplo: Rendimiento previo 30.000 EUR → máximo gasto difícil justificación = min(30.000 × 5% = 1.500 EUR, 2.000 EUR) = 1.500 EUR
 - Deducible: Hasta el límite indicado
+- **Atención**: El 7% fue una medida temporal excepcional aplicable exclusivamente al ejercicio 2023. Para 2024 y 2025 el porcentaje vuelve al 5% ordinario. Algunas fuentes desactualizadas siguen citando el 7%; usar siempre el 5% para la declaración de renta 2025. Fuente: AEAT Manual Práctico Renta 2025, c07; art. 30 RIRPF.
 - **Nota**: Esta deducción simplificada NO existe en Estimación Directa Normal, donde todos los gastos deben estar documentados.
 
 #### 21. Pérdidas por deterioro e insolvencias
@@ -235,28 +240,26 @@ Referencia completa para el cálculo de rendimientos de actividades económicas.
 
 ### 2.4 Tabla de amortización simplificada (EDS)
 
-Aplicable a contribuyentes en Estimación Directa Simplificada según Orden de 27 de marzo de 1998. Se aplica método lineal con coeficientes máximos y períodos máximos por grupo de activos:
+Aplicable a contribuyentes en Estimación Directa Simplificada según la Orden de 27 de marzo de 1998. Contiene 10 grupos de activos. Se aplica método lineal con coeficientes máximos y períodos máximos:
 
-| Grupo de activos | Coeficiente máximo anual (%) | Período máximo (años) |
-|---|---|---|
-| Edificios | 3% | 33 |
-| Construcciones e instalaciones | 7% | 14 |
-| Maquinaria | 12% | 8 |
-| Herramientas | 15% | 6 |
-| Mobiliario | 10% | 10 |
-| Equipos informáticos | 25% | 4 |
-| Programas informáticos | 33% | 3 |
-| Vehículos | 16% | 6 |
-| Vehículos de transporte (camiones, furgonetas) | 12% | 8 |
-| Elementos de transporte (motos, bicicletas) | 12% | 8 |
-| Instalaciones deportivas | 10% | 10 |
-| Elementos fungibles (menaje, utensilios) | 20% | 5 |
+| Grupo | Categoría de activo | Coeficiente máximo anual (%) | Período máximo (años) |
+|---|---|---|---|
+| 1 | Edificios y construcciones | 3% | 68 |
+| 2 | Instalaciones, mobiliario, equipos y otros inmovilizados materiales | 10% | 20 |
+| 3 | Maquinaria | 12% | 18 |
+| 4 | Elementos de transporte (turismos, camiones, furgonetas, motos) | 16% | 14 |
+| 5 | Equipos informáticos, sistemas y programas informáticos | 26% | 10 |
+| 6 | Útiles y herramientas | 30% | 8 |
+| 7 | Ganado vacuno, porcino, ovino y caprino | 16% | 14 |
+| 8 | Ganado equino y frutales no cítricos | 8% | 25 |
+| 9 | Frutales cítricos y viñedos | 4% | 50 |
+| 10 | Olivar | 2% | 100 |
 
-**Cálculo**: Valor de adquisición x Coeficiente máximo anual = Amortización anual. No se pueden superar los años máximos indicados.
+**Cálculo**: Valor de adquisición × Coeficiente máximo anual = Amortización anual. No se pueden superar los años máximos indicados.
 
-**Bienes de inversión**: Se considera bien de inversión aquel cuyo valor sea superior a 300 EUR y tenga vida útil superior a 1 año. Estos bienes se registran en el libro de bienes de inversión.
+**Bienes de inversión y registro**: Los bienes con vida útil superior a 1 año que se amortizan deben registrarse en el libro de bienes de inversión (ver §6.2 para el tratamiento por regímenes).
 
-Fuente: Orden de 27 de marzo de 1998 (BOE 28 de marzo). Nota: estos coeficientes son máximos; el contribuyente puede elegir períodos más largos.
+Fuente: Orden de 27 de marzo de 1998 (BOE 28 de marzo); AEAT Manual Práctico Renta 2025, c07. Nota: estos coeficientes son máximos; el contribuyente puede elegir períodos más largos (amortización más lenta).
 
 ### 2.5 Reducciones del rendimiento neto
 
@@ -386,7 +389,7 @@ Las retenciones son ingresos a cuenta del IRPF. Aplicables cuando el autónomo e
 
 **Obligación de pago fraccionado**:
 - Obligatoriedad: Todos los contribuyentes en estimación directa simplificada o normal están obligados a efectuar pagos fraccionados trimestrales.
-- Exoneración: Exonerados aquellos contribuyentes cuya cifra de negocios no supere 20.000 EUR anuales (desde 2018) o que acrediten que el 70% o más de sus ingresos tuvieron retención a cuenta.
+- Exoneración (art. 109 RIRPF): quedan exonerados de presentar el modelo 130 los contribuyentes que ejerzan actividades profesionales cuando, en el año natural anterior, al menos el **70% de los ingresos de la actividad** hayan sido objeto de retención o ingreso a cuenta. No existe un umbral de cifra de negocios de 20.000 EUR como criterio de exoneración; ese dato carece de base normativa oficial. Fuente: art. 109 RIRPF; AEAT folleto de actividades económicas, sección 3.7.
 
 **Cálculo trimestral del Modelo 130**:
 - Fórmula: Rendimiento neto acumulado (ingresos - gastos) desde inicio de año x 20% - Retenciones soportadas acumuladas - Pagos fraccionados anteriores del mismo ejercicio = Importe a ingresar o devolución
@@ -465,12 +468,16 @@ Las retenciones son ingresos a cuenta del IRPF. Aplicables cuando el autónomo e
 
 ### 6.2 Bienes de inversión
 
-**Definición**: bienes con valor > 300 € y vida útil estimada > 1 año
+El concepto de "bien de inversión" varía según el régimen fiscal. Es importante no mezclarlos:
 
-**Tratamiento**:
-- No se deducen como gasto corriente, sino que se amortizan
-- Deben registrarse en Libro de Bienes de Inversión
-- La amortización se deduce anualmente según tablas (§2.4)
+**En IVA (art. 108 LIVA)**: bien de inversión es aquel cuyo valor de adquisición sea igual o superior a **3.005,06 EUR** (IVA excluido) y esté destinado a ser utilizado durante más de un año. Para estos bienes existe un período de regularización del IVA deducido (5 años en general, 10 años para inmuebles).
+
+**En IRPF/actividades económicas (a efectos de amortización)**: no existe un umbral mínimo de valor legal para la obligación de amortizar; el criterio práctico es que el bien tenga vida útil superior a un año y no sea consumible. Sin embargo, la normativa del Impuesto sobre Sociedades (aplicable supletoriamente) permite **libertad de amortización** para elementos de escaso valor con valor unitario igual o inferior a **300 EUR**, con un límite conjunto de 25.000 EUR anuales. Los bienes que superen ese importe unitario se amortizan según las tablas del §2.4.
+
+**Tratamiento contable/registral en actividades económicas**:
+- Los bienes a amortizar no se deducen como gasto corriente, sino que se amortizan anualmente
+- Deben registrarse en el Libro de Bienes de Inversión
+- La amortización anual se deduce según la tabla simplificada EDS (§2.4)
 
 **Baja y enajenación**:
 - Si bien se vende antes de amortizarse totalmente:
