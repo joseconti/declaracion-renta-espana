@@ -116,12 +116,16 @@ Referencia completa para el cálculo de rendimientos de actividades económicas.
   - Edificios y construcciones: 3% (período máximo 68 años)
   - Instalaciones, mobiliario, equipos y otros inmovilizados materiales: 10% (período máximo 20 años)
   - Maquinaria: 12% (período máximo 18 años)
-  - Elementos de transporte (turismos, camiones, furgonetas): 16% (período máximo 14 años)
+  - Elementos de transporte (turismos, camiones, furgonetas): 16% (período máximo 14 años). Nota: los bienes ya en amortización deben continuar con el coeficiente elegido al inicio; no se cambia de coeficiente a mitad de vida útil.
   - Equipos informáticos y sistemas y programas informáticos: 26% (período máximo 10 años)
   - Útiles y herramientas: 30% (período máximo 8 años)
+  - Ganado vacuno, porcino, ovino y caprino: 16% (período máximo 14 años)
+  - Ganado equino y frutales no cítricos: 8% (período máximo 25 años)
+  - Frutales cítricos y viñedos: 4% (período máximo 50 años)
+  - Olivar: 2% (período máximo 100 años)
   - Nota: los coeficientes son máximos; puede amortizarse a menor velocidad
 - **En EDN**: según tablas del IS (más pormenorizadas)
-- Requisitos: bien adquirido, vida útil > 1 año
+- Requisitos: bien adquirido, vida útil > 1 año. Para elementos de valor unitario ≤ 300 EUR se puede aplicar libertad de amortización (deducción inmediata total); ver §6.2.
 - Base: valor de adquisición menos valor residual (generalmente 0)
 - Deducible: 100%
 

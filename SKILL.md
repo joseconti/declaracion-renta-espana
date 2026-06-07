@@ -9,7 +9,9 @@ description: >
   fiscales en España, impuestos en España, renta 2025, campaña de la renta, Agencia
   Tributaria, preparar la renta, calcular la renta, autónomo/autónoma, o cualquier
   consulta sobre fiscalidad personal en España; cuando quiera revisar si su gestor
-  incluyó todas las deducciones; o cuando suba un PDF del borrador de la AEAT.
+  incluyó todas las deducciones; cuando suba un PDF del borrador de la AEAT; o cuando
+  quiera calcular su declaración a partir de documentación en bruto (nóminas,
+  certificados bancarios, facturas).
 ---
 
 # Declaración de la Renta - España (IRPF 2025)
@@ -49,7 +51,10 @@ de cualquier archivo de referencia: si el contribuyente reside en un territorio
 foral (Navarra, Álava, Bizkaia o Gipuzkoa) NO se carga `references/nacional.md`,
 sino el archivo foral correspondiente (ver Fase 2). Si tributa en régimen común,
 se carga `references/nacional.md`. En caso de duda sobre la residencia, preguntarla
-antes de continuar.
+antes de continuar. **AVISO Bizkaia:** el archivo `bizkaia.md` contiene el ejercicio
+2024 (2025 pendiente de actualización); advertir expresamente al contribuyente de
+Bizkaia de que las cifras pueden corresponder a 2024 y deben contrastarse con la
+Hacienda Foral de Bizkaia.
 
 Para el modo de trabajo, preguntar al usuario o deducirlo del contexto:
 
@@ -164,7 +169,8 @@ Confirmar con el usuario los siguientes datos esenciales:
    - Esto determina qué deducciones autonómicas aplican
    - Cargar el archivo regional correspondiente de `references/regiones/`
    - **Si el contribuyente reside en Navarra, Álava, Bizkaia o Gipuzkoa:**
-     El flujo cambia significativamente. Estos territorios tienen su propio IRPF
+     (Confirmación y detalle del routing establecido en Fase 0.) El flujo cambia
+     significativamente. Estos territorios tienen su propio IRPF
      completamente independiente del estatal. Cargar el archivo foral correspondiente
      (navarra.md, alava.md, bizkaia.md o gipuzkoa.md) EN LUGAR de nacional.md.
      NO usar el borrador de la AEAT (no existe para contribuyentes forales).
@@ -475,7 +481,7 @@ Archivos regionales disponibles (régimen común):
 ### Territorios forales (cargar si el contribuyente reside en territorio foral)
 - `references/regiones/navarra.md` - IRPF foral completo de Navarra (escalas, mínimos, deducciones)
 - `references/regiones/alava.md` - IRPF foral completo de Álava/Araba
-- `references/regiones/bizkaia.md` - IRPF foral de Bizkaia (ejercicio 2024, pendiente 2025)
+- `references/regiones/bizkaia.md` - IRPF foral de Bizkaia (ejercicio 2024, pendiente 2025). **AVISO:** advertir siempre al contribuyente de Bizkaia de que las cifras pueden ser de 2024 y deben contrastarse con la normativa vigente de la Hacienda Foral de Bizkaia.
 - `references/regiones/gipuzkoa.md` - IRPF foral completo de Gipuzkoa
 
 NOTA: Los territorios forales tienen un IRPF completamente independiente del estatal.

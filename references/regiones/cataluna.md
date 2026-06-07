@@ -74,7 +74,7 @@ Escala autonómica aplicable a la base liquidable general para residentes en Cat
 - **Porcentaje:** 10% de las cantidades satisfechas
 - **Limite maximo:** 1.000 euros anuales
 
-**Umbral de renta (base imponible general + ahorro - minimo personal y familiar):**
+**Umbral de renta (art. 611-3 Codigo tributario de Catalunya: suma de bases imponibles general y del ahorro menos el minimo personal y familiar):**
 - 30.000 euros en tributacion individual
 - 45.000 euros en tributacion conjunta
 
@@ -161,7 +161,7 @@ Escala autonómica aplicable a la base liquidable general para residentes en Cat
 - **Requisitos:**
   - Acreditar condicion de victima de violencia machista (Ley 5/2008)
   - Figurar como titular del contrato de alquiler
-  - Base imponible general + ahorro - minimo personal y familiar no superior a 30.000 euros anuales
+  - Base imponible general + ahorro - minimo personal y familiar no superior a 30.000 euros anuales (art. 611-3 Codigo tributario de Catalunya)
 - **Ambito temporal:** Maximo 3 ejercicios consecutivos
 
 ### 12. Por inversion en sociedades cooperativas agrarias y de vivienda
