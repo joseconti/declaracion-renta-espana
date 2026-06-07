@@ -81,7 +81,7 @@ El contribuyente debe cumplir TODOS los siguientes:
 ### Marco normativo
 La AEAT considera las criptomonedas como "monedas virtuales" a efectos del IRPF. Su tributación se rige por las normas generales de ganancias patrimoniales y rendimientos del capital mobiliario.
 
-Fuente: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c11-ganancias-perdidas-patrimoniales/monedas-virtuales/compra-venta-monedas-virtuales-tributacion-inversor.html
+Fuente: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c11-ganancias-perdidas-patrimoniales/monedas-virtuales/compra-venta-monedas-virtuales-tributacion-inversor.html
 
 ### 2.1. Compraventa de criptomonedas (trading)
 
@@ -553,7 +553,7 @@ El incumplimiento de la obligacion de presentar el Modelo 720 conlleva sanciones
 - AEAT Regimen impatriados: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/regimenes-opcionales/regimen-especial-impatriados.html
 - AEAT Modelo 149: https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G606.shtml
 - AEAT Modelo 151: https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G615.shtml
-- AEAT Monedas virtuales: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c11-ganancias-perdidas-patrimoniales/monedas-virtuales/compra-venta-monedas-virtuales-tributacion-inversor.html
+- AEAT Monedas virtuales: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c11-ganancias-perdidas-patrimoniales/monedas-virtuales/compra-venta-monedas-virtuales-tributacion-inversor.html
 - AEAT Modelo 721: https://sede.agenciatributaria.gob.es/Sede/procedimientoini/GI55.shtml
 - BOE Ley 28/2022 (Startups): https://www.boe.es/buscar/act.php?id=BOE-A-2022-21739
 - AEAT Rentas Ceuta/Melilla: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota/deduccion-rentas-obtenidas-ceuta-melilla.html
