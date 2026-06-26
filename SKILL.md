@@ -2,17 +2,16 @@
 name: declaracion-renta-espana
 description: >
   Asistente para la Declaración de la Renta (IRPF) en España, ejercicio 2025.
-  Dos modos de trabajo: (1) Revisión: analiza borradores de la AEAT o de haciendas
-  forales, identifica deducciones no aplicadas y oportunidades de ahorro fiscal.
-  (2) Preparación: calcula la declaración desde cero a partir de nóminas, certificados
-  bancarios, facturas y otros documentos en bruto. Usa este skill siempre que el
+  Dos modos: (1) Revisión de borradores de la AEAT o de haciendas forales para
+  identificar deducciones no aplicadas y ahorro fiscal; (2) Preparación desde cero
+  a partir de nóminas, certificados bancarios y facturas. Usa este skill cuando el
   usuario mencione declaración de la renta, IRPF, borrador de Hacienda, deducciones
   fiscales en España, impuestos en España, renta 2025, campaña de la renta, Agencia
   Tributaria, preparar la renta, calcular la renta, autónomo/autónoma, o cualquier
-  consulta relacionada con la fiscalidad personal en España. También cuando el
-  usuario quiera revisar si su gestor ha incluido todas las deducciones posibles,
-  o cuando suba un PDF/documento del borrador de la AEAT, o cuando quiera calcular
-  su declaración a partir de documentación en bruto.
+  consulta sobre fiscalidad personal en España; cuando quiera revisar si su gestor
+  incluyó todas las deducciones; cuando suba un PDF del borrador de la AEAT; o cuando
+  quiera calcular su declaración a partir de documentación en bruto (nóminas,
+  certificados bancarios, facturas).
 ---
 
 # Declaración de la Renta - España (IRPF 2025)
@@ -46,8 +45,18 @@ No saltar fases ni hacer todas las preguntas de golpe.
 
 ### FASE 0: Selección de modo
 
-Antes de cualquier otra acción, determinar en qué modo trabaja el skill. Preguntar
-al usuario o deducirlo del contexto:
+Antes de cualquier otra acción, determinar (a) la residencia/régimen fiscal y
+(b) el modo de trabajo. Resolver SIEMPRE la residencia antes de instruir la carga
+de cualquier archivo de referencia: si el contribuyente reside en un territorio
+foral (Navarra, Álava, Bizkaia o Gipuzkoa) NO se carga `references/nacional.md`,
+sino el archivo foral correspondiente (ver Fase 2). Si tributa en régimen común,
+se carga `references/nacional.md`. En caso de duda sobre la residencia, preguntarla
+antes de continuar. **AVISO Bizkaia:** el archivo `bizkaia.md` contiene el ejercicio
+2024 (2025 pendiente de actualización); advertir expresamente al contribuyente de
+Bizkaia de que las cifras pueden corresponder a 2024 y deben contrastarse con la
+Hacienda Foral de Bizkaia.
+
+Para el modo de trabajo, preguntar al usuario o deducirlo del contexto:
 
 **Modo A - Revisión:** El contribuyente YA tiene un borrador (de la AEAT o de su
 Hacienda Foral) y quiere revisarlo para identificar deducciones no aplicadas o
@@ -70,6 +79,13 @@ Si el usuario dice "quiero preparar mi renta", "tengo mis nóminas y certificado
 
 Si el usuario dice "tengo el borrador pero me faltan los ingresos de autónomo",
 "el borrador no incluye la venta del piso" -> Modo C.
+
+**Desempate cuando las señales son mixtas:**
+- Tiene borrador -> Modo A.
+- Tiene borrador pero menciona datos no incluidos en él (ingresos de autónomo,
+  ventas de inmuebles o inversiones no comunicadas) -> Modo C.
+- Sin borrador -> Modo B.
+- Ante ambigüedad, confirmar con UNA sola pregunta antes de continuar.
 
 Documentos de referencia para el modo preparación:
 - `references/modo-preparacion.md` - Flujo genérico de preparación desde cero
@@ -153,13 +169,18 @@ Confirmar con el usuario los siguientes datos esenciales:
    - Esto determina qué deducciones autonómicas aplican
    - Cargar el archivo regional correspondiente de `references/regiones/`
    - **Si el contribuyente reside en Navarra, Álava, Bizkaia o Gipuzkoa:**
-     El flujo cambia significativamente. Estos territorios tienen su propio IRPF
+     (Confirmación y detalle del routing establecido en Fase 0.) El flujo cambia
+     significativamente. Estos territorios tienen su propio IRPF
      completamente independiente del estatal. Cargar el archivo foral correspondiente
      (navarra.md, alava.md, bizkaia.md o gipuzkoa.md) EN LUGAR de nacional.md.
      NO usar el borrador de la AEAT (no existe para contribuyentes forales).
      Preguntar si tienen el borrador de su Hacienda Foral correspondiente.
      Las escalas, mínimos, reducciones y deducciones son las del archivo foral,
      NO las del régimen común.
+     **AVISO Bizkaia:** el archivo `bizkaia.md` recoge el ejercicio 2024 (2025
+     pendiente de actualización). Advertir expresamente al contribuyente de Bizkaia
+     de que las cifras pueden corresponder a 2024 y deben contrastarse con la
+     normativa vigente de la Hacienda Foral de Bizkaia para 2025.
 
 2. **Situación personal y familiar:**
    - Estado civil a 31/12/2025
@@ -253,7 +274,7 @@ que aparecen en la sección "PREGUNTAS CLAVE PARA EL CONTRIBUYENTE".
 
 Con toda la información recogida, cruzar los datos con:
 
-1. **Deducciones estatales** (`references/nacional.md`, sección 11):
+1. **Deducciones estatales** (índice en `references/nacional.md` sección 11; detalle en `references/nacional-detalle.md` sección 11):
    - Vivienda habitual (régimen transitorio pre-2013)
    - Empresas de nueva creación
    - Donativos
@@ -318,21 +339,25 @@ En modo preparación (o en la parte de preparación del modo híbrido), calcular
 declaración siguiendo las reglas de `references/nacional.md` (o del archivo foral
 correspondiente). El flujo detallado está en `references/modo-preparacion.md` sección 4.
 
+**IMPORTANTE:** este orden define QUÉ se calcula y en qué secuencia, pero toda la
+aritmética debe ejecutarse según las **REGLAS DE CÁLCULO EXACTO** (ver sección al
+final de este documento): mediante código, con `decimal.Decimal`, sin aproximaciones.
+
 **Orden de cálculo:**
 
 1. **Rendimientos netos por tipo de renta:**
    - Trabajo: ingresos brutos - gastos deducibles - reducción por rendimientos
-     del trabajo (ver `references/nacional.md` sección 5, incluyendo subsección 5.5
-     para reconstrucción desde datos en bruto)
+     del trabajo (ver `references/nacional.md` sección 5; subsección 5.5
+     para reconstrucción desde datos en bruto en `references/nacional-detalle.md`)
    - Capital inmobiliario: ingresos - gastos deducibles - reducción 60% alquiler
-     vivienda (ver sección 6, subsección 6.4 para reconstrucción)
+     vivienda (ver sección 6; subsección 6.4 para reconstrucción en `references/nacional-detalle.md`)
    - Capital mobiliario: intereses + dividendos + seguros + otros - gastos deducibles
-     (ver sección 7, subsección 7.3 para reconstrucción)
+     (ver sección 7; subsección 7.3 para reconstrucción en `references/nacional-detalle.md`)
    - Actividades económicas: si hay autónomo, aplicar el régimen correspondiente
      de `references/autonomos.md` (EDS, EDN o Módulos). Calcular rendimiento neto,
      aplicar reducciones, restar pagos fraccionados
    - Ganancias/pérdidas patrimoniales: calcular por operación, separando base
-     general (< 1 año) y base del ahorro (>= 1 año). Ver sección 9, subsección 9.5
+     general (< 1 año) y base del ahorro (>= 1 año). Ver sección 9; subsección 9.5 en `references/nacional-detalle.md`
 
 2. **Integración y compensación:**
    - Base imponible general = rendimientos netos del trabajo + inmobiliario +
@@ -361,7 +386,7 @@ correspondiente). El flujo detallado está en `references/modo-preparacion.md` s
    - Cuota diferencial = cuota líquida - retenciones - pagos fraccionados -
      deducción por maternidad anticipada - otras deducciones anticipadas
    - Resultado positivo = a ingresar; negativo = a devolver
-   - Ver `references/nacional.md` sección 13.1 para el subflujo de conciliación
+   - Ver `references/nacional-detalle.md` sección 13.1 para el subflujo de conciliación
      y secciones 13.2-13.4 para ejemplos numéricos completos
 
 **Trazabilidad:** Cada importe debe poder rastrearse al documento origen. Mantener
@@ -427,9 +452,20 @@ Cerrar SIEMPRE con el recordatorio:
 La información fiscal está distribuida en archivos especializados. Cargar solo
 los que sean necesarios según el caso:
 
-### Referencia nacional (cargar siempre)
-- `references/nacional.md` - Normativa estatal IRPF 2025 completa: tramos, mínimos,
-  deducciones estatales, rendimientos, reducciones, tributación conjunta/individual
+### Referencia nacional (cargar SOLO en régimen común)
+- `references/nacional.md` - NÚCLEO de la normativa estatal IRPF 2025: escalas estatal
+  y del ahorro, mínimos personal y familiar, reducción por rendimientos del trabajo,
+  obligación de declarar, residencia fiscal, reducciones de la base, índice de
+  deducciones estatales y tributación conjunta/individual. Cargar para régimen común.
+  NO cargar para residentes en territorios forales (Navarra, Álava, Bizkaia, Gipuzkoa),
+  que tienen su propio IRPF independiente. Resolver la residencia/régimen en
+  Fase 0 / Fase 2 ANTES de instruir cualquier carga de referencia.
+- `references/nacional-detalle.md` - DETALLE bajo demanda del IRPF estatal: detalle
+  completo de las deducciones estatales (sección 11), reconstrucción desde datos en
+  bruto (5.5, 6.4, 7.3, 9.5), perfiles especiales de contribuyente (5.6-5.12, 8.4, 9.6),
+  obligaciones formales y plazos y ejemplos numéricos completos (sección 13). Cargar al
+  llegar a Fase 4 / Fase 4-prep o cuando se necesite el detalle de una deducción o de un
+  perfil especial. NO cargar para residentes en territorios forales.
 
 ### Referencia regional (cargar según CCAA del contribuyente)
 - `references/regiones/[comunidad].md` - Deducciones autonómicas específicas
@@ -445,7 +481,7 @@ Archivos regionales disponibles (régimen común):
 ### Territorios forales (cargar si el contribuyente reside en territorio foral)
 - `references/regiones/navarra.md` - IRPF foral completo de Navarra (escalas, mínimos, deducciones)
 - `references/regiones/alava.md` - IRPF foral completo de Álava/Araba
-- `references/regiones/bizkaia.md` - IRPF foral de Bizkaia (ejercicio 2024, pendiente 2025)
+- `references/regiones/bizkaia.md` - IRPF foral de Bizkaia (ejercicio 2024, pendiente 2025). **AVISO:** advertir siempre al contribuyente de Bizkaia de que las cifras pueden ser de 2024 y deben contrastarse con la normativa vigente de la Hacienda Foral de Bizkaia.
 - `references/regiones/gipuzkoa.md` - IRPF foral completo de Gipuzkoa
 
 NOTA: Los territorios forales tienen un IRPF completamente independiente del estatal.
@@ -465,6 +501,57 @@ deducciones propias de ese territorio.
 ### Casos especiales (cargar solo si aplica)
 - `references/casos-especiales.md` - Ley Beckham, criptomonedas, no residentes,
   ganancias patrimoniales complejas, rentas extranjero, nómadas digitales
+
+---
+
+## REGLAS DE CÁLCULO EXACTO
+
+El skill define el ORDEN de la liquidación del IRPF (Fase 4-prep), pero el orden no
+basta: la aritmética debe ser EXACTA. El modelo NUNCA debe aproximar ni hacer cálculo
+mental sobre escalas progresivas. Estas reglas rigen CÓMO se ejecuta cada operación
+numérica y complementan las notas #3 y #11 (que rigen los DATOS de entrada): aquellas
+prohíben inventar o estimar cifras; estas prohíben aproximar la aritmética.
+
+1. **Calcular con código, nunca de cabeza.** Toda aritmética no trivial —aplicación
+   de escalas por tramos, integración y compensación de bases, reducciones por tramos,
+   prorrateos, mínimos personal y familiar, cuotas íntegra/líquida/diferencial,
+   comparativa individual vs. conjunta— debe ejecutarse mediante código (un script
+   Python), no con cálculo mental del modelo. Si hay herramienta de ejecución de código
+   disponible (p. ej. `python_repl`, o `Bash` con `python3`), su uso es OBLIGATORIO para
+   estos cálculos.
+
+2. **Dinero con `Decimal`, nunca con float binario.** Los importes monetarios se manejan
+   con `decimal.Decimal` de Python (o en céntimos enteros). PROHIBIDO usar floats
+   binarios (el `float` de Python o de JavaScript) para dinero: el estándar IEEE 754
+   introduce errores de representación (p. ej. `0.1 + 0.2 != 0.3`).
+
+3. **Precisión completa en los intermedios; redondear solo donde lo marque la norma.**
+   Mantener la precisión completa en los cálculos intermedios y redondear a dos decimales
+   (céntimos) únicamente en los puntos en que la normativa lo establece, documentando en
+   cada paso qué criterio de redondeo se aplica. Convención oficial confirmada: el **tipo
+   medio de gravamen** (estatal y autonómico) "se expresará con dos decimales SIN redondeo"
+   (truncamiento), según el Manual Práctico de Renta 2025 de la AEAT (capítulo 15, gravamen
+   de la base liquidable general). Para cualquier otra casilla cuya regla de redondeo no se
+   haya confirmado contra fuente oficial, aplicar el redondeo que indique la normativa para
+   esa casilla; ante la duda, conservar dos decimales y señalar expresamente el criterio
+   usado. No asumir convenciones de redondeo no verificadas.
+
+4. **Escala por tramos con traza visible.** Al aplicar una escala progresiva, mostrar al
+   usuario la traza tramo a tramo (base gravada en el tramo × tipo = cuota parcial, y la
+   suma total), por separado para la escala estatal y la autonómica (p. ej. la escala
+   catalana de 8 tramos de `references/regiones/cataluna.md`). Nunca presentar solo el
+   resultado final de la escala sin el desglose.
+
+5. **Prohibido aproximar en casillas y en el resultado final.** PROHIBIDO presentar
+   importes calculados con "~", "aprox." o "alrededor de" en las casillas o en el paquete
+   Renta WEB. Las estimaciones solo se permiten cuando falten datos, etiquetadas
+   explícitamente como estimación y con su causa, y NUNCA en el resultado final de la
+   declaración.
+
+6. **Verificación cruzada antes de presentar.** Antes de mostrar el resultado, recomputar
+   la cuota diferencial por una vía independiente (p. ej. recalcular desde las bases con un
+   segundo script, o sumar las líneas en orden distinto) y comprobar que ambas coinciden al
+   céntimo. Si no coinciden, investigar la discrepancia ANTES de presentar nada al usuario.
 
 ---
 
@@ -514,10 +601,12 @@ deducciones propias de ese territorio.
     pagador o de los datos fiscales de la AEAT (Sede Electrónica > Mis datos fiscales).
     Nunca estimar retenciones a partir de porcentajes genéricos.
 
-12. **Los gastos de difícil justificación del autónomo son el 7% (no el 5%).**
-    La Ley 6/2017 elevó el porcentaje del 5% al 7% desde 2023. Algunas fuentes
-    desactualizadas mantienen el 5%. Aplicar siempre el 7% vigente, con límite
-    de 2.000 euros anuales.
+12. **Los gastos de difícil justificación del autónomo (EDS) son el 5%, no el 7%.**
+    El porcentaje vigente para el ejercicio 2025 es el 5% sobre la diferencia
+    positiva, con límite de 2.000 euros anuales. El 7% fue una elevación
+    excepcional y transitoria que solo aplicó al ejercicio 2023. Algunas fuentes
+    desactualizadas siguen citando el 7%: NO aplicarlo para 2025; usar siempre el 5%.
+    (Fuente: AEAT Manual Práctico Renta 2025, capítulo 7, cuadro-resumen EDS.)
 
 13. **En modo preparación, presentar siempre la comparación individual vs conjunta**
     si hay cónyuge, calculando ambas opciones completas. La diferencia puede ser
@@ -534,7 +623,7 @@ deducciones propias de ese territorio.
     trabajadores del hogar, herederos que venden bienes, consejeros de administración,
     deportistas, religiosos, agricultores/ganaderos y cooperativistas. Los detalles
     fiscales de estos perfiles están en las secciones correspondientes de
-    `references/nacional.md` (secciones 5.6-5.10, 8.4 y 9.6).
+    `references/nacional-detalle.md` (secciones 5.6-5.12, 8.4 y 9.6).
 
 ---
 

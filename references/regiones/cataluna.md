@@ -2,7 +2,39 @@
 
 Fuente oficial: Manual Practico de Renta 2025, Parte 2 - Deducciones Autonomicas (AEAT)
 https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-cataluna.html
-Base legal: Decreto Legislativo 1/2024, de 12 de marzo (Codigo tributario de Catalunya, libro sexto - tributos cedidos)
+Base legal: Decreto Legislativo 1/2024, de 12 de marzo (Codigo tributario de Catalunya, libro sexto - tributos cedidos), modificado por Decreto Ley 5/2025, de 25 de marzo (DOGC 26/03/2025, BOE-A-2025-10270), con efectos desde el 1 de enero de 2025
+
+---
+
+## NOVEDADES Y ACLARACIONES
+
+**Novedad 2025 — Decreto Ley 5/2025:** El Decret-llei 5/2025, de 25 de marzo (DOGC num. 9379, de 26/03/2025; BOE-A-2025-10270), reformo la escala autonomica del IRPF (art. 611-1 del Codigo tributario de Catalunya) y creo la deduccion por alquiler de vivienda habitual para victimas de violencia machista (seccion 11 de este archivo). Todas las cuantias y tipos recogidos en este archivo son los vigentes tras dicha reforma.
+Fuente: https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270
+
+**Minimo del contribuyente:** El minimo personal incrementado catalan de 6.105 euros previsto en el art. 88 de la Ley 5/2020 fue anulado por la Sentencia del Tribunal Constitucional 186/2021. Para el ejercicio 2025 aplica el minimo personal estatal general de 5.550 euros; no debe realizarse ningun ajuste manual por este concepto.
+Fuente: https://hj.tribunalconstitucional.es/en/Resolucion/Show/26844
+
+**Competencia AEAT vs. Agencia Tributaria de Catalunya (ATC):** Cataluna es territorio de regimen comun. El IRPF se presenta ante la AEAT a traves de Renta WEB; la Agencia Tributaria de Catalunya gestiona los tributos autonómicos propios (ISD, ITP-AJD), pero no el IRPF.
+Fuente: https://atc.gencat.cat/es/tributs/irpf/
+
+---
+
+## ESCALA AUTONOMICA 2025
+
+Escala autonómica aplicable a la base liquidable general para residentes en Cataluña en 2025 (art. 611-1 Codigo tributario de Catalunya, en la redaccion dada por el Decreto Ley 5/2025, con efectos desde 01/01/2025).
+
+| Base liquidable hasta (euros) | Cuota integra acumulada (euros) | Resto base hasta (euros) | Tipo marginal (%) |
+|-------------------------------|--------------------------------|--------------------------|-------------------|
+| 12.500,00                     | 0,00                           | 12.500,00                | 9,50              |
+| 22.000,00                     | 1.187,50                       | 9.500,00                 | 12,50             |
+| 33.000,00                     | 2.375,00                       | 11.000,00                | 16,00             |
+| 53.000,00                     | 4.135,00                       | 20.000,00                | 19,00             |
+| 90.000,00                     | 7.935,00                       | 37.000,00                | 21,50             |
+| 120.000,00                    | 15.890,00                      | 30.000,00                | 23,50             |
+| 175.000,00                    | 22.940,00                      | 55.000,00                | 24,50             |
+| En adelante                   | 36.415,00                      | —                        | 25,50             |
+
+**Fuentes:** AEAT Manual Practico Renta 2025, capitulo 15 (gravamen autonomico, Cataluna): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras/gravamen-base-liquidable-general/gravamen-autonomico/comunidad-autonoma-cataluna.html | Decreto Ley 5/2025 (BOE-A-2025-10270): https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270
 
 ---
 
@@ -42,7 +74,7 @@ Base legal: Decreto Legislativo 1/2024, de 12 de marzo (Codigo tributario de Cat
 - **Porcentaje:** 10% de las cantidades satisfechas
 - **Limite maximo:** 1.000 euros anuales
 
-**Umbral de renta (base imponible general + ahorro - minimo personal y familiar):**
+**Umbral de renta (art. 611-3 Codigo tributario de Catalunya: suma de bases imponibles general y del ahorro menos el minimo personal y familiar):**
 - 30.000 euros en tributacion individual
 - 45.000 euros en tributacion conjunta
 
@@ -129,7 +161,7 @@ Base legal: Decreto Legislativo 1/2024, de 12 de marzo (Codigo tributario de Cat
 - **Requisitos:**
   - Acreditar condicion de victima de violencia machista (Ley 5/2008)
   - Figurar como titular del contrato de alquiler
-  - Base imponible general + ahorro - minimo personal y familiar no superior a 30.000 euros anuales
+  - Base imponible general + ahorro - minimo personal y familiar no superior a 30.000 euros anuales (art. 611-3 Codigo tributario de Catalunya)
 - **Ambito temporal:** Maximo 3 ejercicios consecutivos
 
 ### 12. Por inversion en sociedades cooperativas agrarias y de vivienda
@@ -180,4 +212,8 @@ Base legal: Decreto Legislativo 1/2024, de 12 de marzo (Codigo tributario de Cat
 ## FUENTES
 
 - Manual Practico Renta 2025 Parte 2 Deducciones Autonomicas: https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/comunidad-autonoma-cataluna.html
+- Manual Practico Renta 2025 Cap. 15 Gravamen autonomico (Cataluna, escala): https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c15-calculo-impuesto-determinacion-cuotas-integras/gravamen-base-liquidable-general/gravamen-autonomico/comunidad-autonoma-cataluna.html
 - Decreto Legislativo 1/2024, de 12 de marzo (Codigo tributario de Catalunya, libro sexto - tributos cedidos)
+- Decreto Ley 5/2025, de 25 de marzo (DOGC num. 9379, 26/03/2025) — reforma escala autonomica y crea deduccion alquiler victimas violencia machista: https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270
+- STC 186/2021 — anulacion minimo personal incrementado catalan (Ley 5/2020 art. 88): https://hj.tribunalconstitucional.es/en/Resolucion/Show/26844
+- Agencia Tributaria de Catalunya — competencias ISD/ITP-AJD (no IRPF): https://atc.gencat.cat/es/tributs/irpf/
