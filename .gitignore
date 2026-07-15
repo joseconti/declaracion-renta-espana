@@ -21,3 +21,10 @@ node_modules/
 *.tmp
 *.bak
 *.log
+
+# Keel: version the embedded skill (portability lock) while keeping the rest of .claude/ local
+!.claude/
+.claude/*
+!.claude/skills/
+.claude/skills/*
+!.claude/skills/keel/

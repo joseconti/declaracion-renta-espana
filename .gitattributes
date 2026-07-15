@@ -1,0 +1,3 @@
+# Keel: workflow files — never in the distributable (git archive)
+.claude/ export-ignore
+CLAUDE.md export-ignore
