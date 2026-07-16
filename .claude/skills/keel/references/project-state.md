@@ -17,8 +17,10 @@ Created the moment Phase 1 starts producing artifacts — NOT in Phase 5. Before
 | `docs/api/INDEX.md` | One line per public surface — the cheap lookup layer for the reuse rule | Phase 5, first slice | Same slice that adds/changes a surface |
 | `docs/issues.md` | Living log of forge issues: inventory + one entry per issue worked (diagnosis, resolution, commits, what remains) | First time forge issues are triaged or worked (any phase) | The moment an issue is triaged, worked, or closed |
 | `docs/token-ledger.md` | Actual token usage: one row per working session; final reconciliation (cost + deviation vs estimate) at release | With Estimate v1 (Phase 1 close), per `references/estimation-budget.md` | At the end of every working session; verified at phase/sprint closes |
-| `CLAUDE.md` (repo root) | The portability lock: binds ANY assistant/environment opening the repo to the Keel workflow | Phase 1, first action (or adoption) | When Keel's protocol block changes (between its delimiters only) |
+| `CLAUDE.md` (repo root) | The portability lock: binds ANY assistant/environment opening the repo to the Keel workflow | Phase 1, first action (or adoption) | When Keel's protocol block changes (between its delimiters only) — verified every session by the lock-freshness check (version stamp on the BEGIN delimiter) |
 | `.claude/skills/keel/` | Embedded copy of the skill (optional, recommended) — makes the repo self-sufficient | Phase 1, first action (with user approval) | Version-synced from the installed skill, one direction |
+| `.claude/rules/`, `.claude/agents/` | Optional native Claude Code config: path-scoped rules + reviewer subagents, generated from recorded decisions | Phase 2 close, if accepted at 0a (adoption: after its step 4) — per `references/claude-config.md` | When a recorded decision changes their source — deliberately, never silently |
+| `.claude/settings.json`, `.githooks/pre-commit`, `.mcp.json` | Optional: confirmed permission allow-list, confidential-data commit gate, dev MCP servers | Phase 5 scaffold (gate at adoption step 2 if accepted) | Tooling/playground commands or the dev MCP set change |
 
 Everything else in `docs/` (specs, flows, design handoff, BUILD-SPEC, sprint files) is a **stable artifact**: written once at its phase, amended deliberately, never casually rewritten. The state files above are the only ones that change constantly — keeping them small and the artifacts stable is what makes context cheap and cache-friendly.
 
@@ -43,6 +45,8 @@ Keep it to roughly one page. Detail lives in the linked files, never accumulated
 - Installed base: [fresh v1 / upgrades vX.Y in production with data]
 - Design system: [existing — source/location / founding — canonical, will live at X / one-off / n/a no UI]
 - Keel portability: [lock only / lock + embedded vX.Y.Z]
+- Claude config: [none / rules / rules+agents / full — per references/claude-config.md]
+- Keel baseline: [vX.Y.Z — last Keel version this project was reconciled to]
 - Website intent: [yes — own domain|subdomain / no]
 
 ## Phase status
@@ -90,7 +94,7 @@ Append-only; never edit or delete past entries (if a decision is reversed, appen
 - Supersedes: [D-0XX or none]
 ```
 
-Record here: project type, stack choice, license, i18n and accessibility levels, scope cuts, architecture choices, anything where a future session could plausibly "re-decide" differently. Phase 6's `architecture.md` consolidates from this log instead of reconstructing memory.
+Record here: project type, stack choice, license, i18n and accessibility levels, scope cuts, architecture choices, anything where a future session could plausibly "re-decide" differently. Phase 6's `architecture.md` consolidates from this log instead of reconstructing memory. When an entry must reference a secret-shaped string (a token format, a key pattern), describe it or split it apart — never paste it verbatim: the confidential-data gate scans decision notes like any other file (SKILL.md "Confidential data never reaches Git", point 5).
 
 ## `docs/lessons-learned.md` — template
 
@@ -197,8 +201,8 @@ The prompt must be self-sufficient: assume the new session knows nothing except 
 
 These rules exist so sessions are cheap, deterministic, and cache-friendly. Follow them literally.
 
-1. **Fixed session-start reading order.** On resume, read in this exact order and nothing more: `docs/PROGRESS.md` → `docs/decisions.md` → `docs/lessons-learned.md` → the current phase's reference file → only the inputs PROGRESS.md names for the current position. The same order every session keeps context predictable and maximizes prompt-cache reuse.
-2. **Read each static reference once per session.** Phase references and templates do not change mid-session — never re-read a file already loaded in this conversation; rely on the copy in context.
+1. **Fixed session-start reading order.** On resume, read in this exact order and nothing more: `docs/PROGRESS.md` → `docs/decisions.md` → `docs/lessons-learned.md` → the current phase's reference file → only the inputs PROGRESS.md names for the current position. The same order every session keeps context predictable and maximizes prompt-cache reuse. While reading PROGRESS.md, compare the card's `Keel baseline:` with the running Keel version — if it is older or missing, offer the post-update reconciliation (see below) before continuing.
+2. **Read each static reference once per session.** Phase references and templates do not change mid-session — never re-read a file already loaded in this conversation; rely on the copy in context. Single exception: immediately after a Keel update, the copies in context belong to the old version — re-read the new `SKILL.md` and the current phase's reference (see "Post-update reconciliation").
 3. **Orient by state, not by scanning code.** The project's shape lives in `docs/03-technical-plan.md` (code map, conventions), `docs/architecture.md` (once it exists), and `docs/api/INDEX.md`. A session that needs to know "where is X / does Y exist" consults these first, then opens the one specific file it needs. Tree-wide code exploration is a signal that the state files are incomplete — fix the state files, don't normalize the scanning.
 4. **Surgical code reads.** When code must be read, read the specific file/function the state points to — not whole directories "for context".
 5. **Small living state, stable artifacts.** Only PROGRESS.md, decisions.md, lessons-learned.md, the DR register, INDEX.md, sprint files, and 05-test-points.md change routinely. Specs, flows, design handoff, and BUILD-SPEC are amended only deliberately (a recorded decision or Design Request), because every rewrite invalidates what other sessions and caches rely on.
@@ -217,22 +221,38 @@ Two mechanisms, created at Phase 1 step 0a (and during adoption step 2):
 The project root carries a `CLAUDE.md` with the Keel block below. Claude Code, Cowork and the Claude app read the project's `CLAUDE.md` automatically — that is what makes this the lock: it is read before anything else, in every environment, by every session, without depending on any skill being installed. If `CLAUDE.md` already exists, insert the block between its delimiters without touching the rest; the delimiters make it safely updatable later.
 
 ```
-<!-- KEEL:BEGIN — do not remove: binds every AI/session in this repo to the Keel workflow -->
+<!-- KEEL:BEGIN — v1.11.0 do not remove: binds every AI/session in this repo to the Keel workflow -->
 # Keel protocol (mandatory for ANY assistant working in this repository)
 
 This project is governed by the Keel workflow. Before reading code or changing ANYTHING:
 
-1. Read `docs/PROGRESS.md` (project card, current position, next action), then
-   `docs/decisions.md` (decisions are NEVER re-opened on your initiative), then
-   `docs/lessons-learned.md` (recorded mistakes are never repeated).
-2. If the `keel` skill is installed in this environment, it governs. If it is NOT,
-   read the embedded copy at `.claude/skills/keel/SKILL.md` plus the phase reference
-   it names for the current phase, and follow it literally.
+1. Read the FULL Keel `SKILL.md` FIRST, before anything else in this repository —
+   from the installed `keel` skill if present, otherwise from the embedded copy
+   at `.claude/skills/keel/SKILL.md` — and follow it literally, starting with its
+   session-start update check. Remembering the protocol from an earlier chat, or
+   having this lock in context, does NOT count as having read it: a session that
+   works without having read SKILL.md in this session is out of protocol. If the
+   update check installs a newer Keel, re-read the new `SKILL.md` and run its
+   post-update reconciliation (defined in Keel's `references/project-state.md`)
+   BEFORE normal work continues, so this project is brought up to date with
+   everything the new version requires — new files or directories, new
+   project-card lines, this very lock block, questions never asked here.
+2. Then read `docs/PROGRESS.md` (project card, current position, next action),
+   `docs/decisions.md` (decisions are NEVER re-opened on your initiative), and
+   `docs/lessons-learned.md` (recorded mistakes are never repeated), plus the
+   phase reference SKILL.md names for the current phase. If the project card's
+   `Keel baseline:` is older than the running Keel (or missing), offer the
+   post-update reconciliation before continuing.
 3. Follow the recorded specs and design exactly: no reinterpretation, no silent
    deviation, no "improving" recorded decisions. Anything undefined → ask the user.
    Design gaps → Design Request (Keel Phase 4).
 4. Update `docs/PROGRESS.md` and `docs/decisions.md` at the moment of every change.
-   Commit at passed test points. If ending mid-work, produce the continuation prompt
+   Commit at passed test points — never without first checking the staged files for
+   confidential data (secrets, credentials, private keys, tokens, real personal or
+   customer data). A finding STOPS the commit: warn the user file by file that
+   pushing it is a serious security risk, and exclude it via `.gitignore` (already
+   tracked: untrack it too; ever pushed: purge history AND rotate the credential)
+   before committing anything. If ending mid-work, produce the continuation prompt
    from `.claude/skills/keel/references/project-state.md`.
 5. Work with execution discipline, whatever model or environment is running:
    - Batch independent tool calls in ONE parallel block; never run sequentially what
@@ -249,12 +269,21 @@ This project is governed by the Keel workflow. Before reading code or changing A
      with an explicit verification step (diff, test, or re-read) before calling it
      done.
 
+This block itself can be outdated: the version stamp on the `KEEL:BEGIN`
+delimiter names the Keel that last wrote it. If that stamp differs from the
+running Keel version (or is missing), refresh this whole block from the
+canonical copy in Keel's `references/project-state.md` ("Portability") —
+between the delimiters only, with the user's OK, restamped with the running
+version. The stamp alone decides; no content comparison is needed.
+
 If neither the skill nor the embedded copy is available: STOP and tell the user to
 install Keel (or restore `.claude/skills/keel/`) before continuing.
 <!-- KEEL:END -->
 ```
 
 If the user also works with non-Claude assistants, mirror the same block in `AGENTS.md` (the multi-agent convention file) so those tools are bound too.
+
+**Version stamp and freshness.** The `KEEL:BEGIN` delimiter carries the version of the Keel that last wrote the block (`KEEL:BEGIN — vX.Y.Z do not remove: …`); every write and every refresh stamps it with the RUNNING Keel version — when inserting the canonical block above, replace its stamp with the running version if they differ. The check is stamp-only, by design: stamp equal to the running version → the block is current, nothing else to read; stamp different or missing (blocks written before v1.11.0 carry no stamp) → rewrite the block between the delimiters from this canonical copy, restamped — never a content comparison. Match delimiters by the `KEEL:BEGIN` prefix, never by exact text. The lock-freshness check in SKILL.md ("Update check") runs this in every session; the refresh asks the user's OK (or rides the post-update reconciliation's batched plan). The same applies to the `AGENTS.md` mirror when the project keeps one.
 
 ### 2. The embedded skill copy (recommended — ask the user once)
 
@@ -273,6 +302,37 @@ Rules for the embedded copy:
 
 Project card line: `Keel portability: [lock only / lock + embedded vX.Y.Z]`.
 
+### 3. Native Claude Code configuration (optional)
+
+Beyond the lock and the embedded skill, a project may carry `.claude/rules/`, `.claude/agents/`, `.claude/settings.json`, a confidential-data pre-commit gate (`.githooks/pre-commit`), and `.mcp.json`, generated by Keel from the project's own recorded decisions. Only Claude Code loads these natively — the lock remains the universal mechanism, and nothing critical to the workflow lives only there. Offered once at Phase 1 step 0a / adoption step 2; materialized at Phase 2 close and the Phase 5 scaffold; recorded in the project card (`Claude config:` line); covered by the same Phase 7 export-ignore. Full definition: `references/claude-config.md`.
+
+## Post-update reconciliation — after a Keel update, bring the PROJECT up to date
+
+A Keel update changes the workflow; it does not automatically change the project. A project created (or last reconciled) under an older Keel may be missing what newer versions introduced: state files or directories that now exist, project-card lines that now exist, lock-block changes, questions a phase now asks that this project was never asked, new one-time verifications. This procedure closes that gap deliberately, on the record, without re-opening anything already decided.
+
+### When it runs
+
+- Immediately after the session-start update check (SKILL.md "Update check") replaces any copy, when the session is working inside a Keel project.
+- On resume, when the project card's `Keel baseline:` is older than the running Keel version — or the line is missing (legacy project: treat the baseline as unknown and reconcile).
+
+Never skip it silently. If the user defers it, record `Reconciliation pending vX → vY` in PROGRESS.md open items so every later session re-offers it.
+
+### The procedure
+
+1. **Re-read the governing files from the NEW copy.** After an update, the `SKILL.md` and the current phase's reference in context belong to the old version — re-read both. This is the single exception to the read-once rule (context & cache discipline, rule 2).
+2. **Diff the versions via the changelog.** Read every new `CHANGELOG.md` entry after the baseline version, oldest → newest. The changelog is written to make this cheap — never re-read every reference to find what changed.
+3. **Extract what touches the PROJECT, not only the assistant's behavior.** From each entry: files/directories the project should now have; project-card lines that now exist; changes to the lock block (between its `KEEL:BEGIN/END` delimiters); questions a phase now asks that were never asked here; new one-time verifications or gates. Behavior-only changes need nothing — they apply by themselves from the new references.
+4. **Present ONE batched catch-up plan.** What would be created or refreshed, which new questions need answers, what the new version requires versus what is optional. The user approves, trims, or defers. Optional mechanisms stay optional: reconciliation asks their never-asked question (e.g. the Claude config package for a project older than v1.10.0) — it never force-installs.
+5. **Apply.** Refresh the lock block between its delimiters (user OK — the existing safely-updatable mechanism); create missing files/directories from their templates; add new project-card lines without touching the rest; ask the batched questions and record their D-entries; run new one-time verifications where they apply.
+6. **Record.** One D-entry — `Keel vX → vY reconciliation: applied …; declined …` — update `Keel baseline:` to the running version, and update PROGRESS.md at the moment, as always.
+
+### Rules
+
+- **Nothing already decided is re-opened.** Reconciliation adds what the new version introduces. If something new conflicts with a recorded decision, surface it — the recorded decision wins until the user explicitly reverses it (a new D-entry).
+- **No phase is re-run.** Completed phases stay completed; new questions are asked standalone and recorded, never by replaying the phase.
+- **It never blocks urgent work.** Deferring is legitimate — but it is recorded as pending, never forgotten.
+- **`Keel baseline:` advances ONLY by completing a reconciliation** (or is stamped at creation — Phase 1 step 0a / adoption step 2 — with the running version). A skill update alone never advances it: an advanced baseline over an unapplied catch-up would hide exactly the gap this mechanism exists to close.
+
 ## Archiving (`docs/old/`) — what moves, what never moves
 
 At each sprint close (Phase 5) move to `docs/old/sprint-<N>/` only documents that are finished AND no longer consulted: closed sprint files, resolved one-off scratch documents, superseded drafts. Move — never delete.
@@ -288,3 +348,4 @@ These NEVER move while the project is alive: `PROGRESS.md`, `decisions.md`, `les
 - If forge issues were ever accessed: `docs/issues.md` exists, its inventory reflects the forge, and every worked issue has its entry (diagnosis, resolution, changes, verification, pending).
 - From Phase 5: `docs/api/INDEX.md` exists and matches the docs; sprint files follow the template.
 - Any session ending mid-work produced a continuation prompt.
+- The project card carries `Keel baseline:`; a completed reconciliation updated it and left its D-entry; a deferred one is listed in PROGRESS.md open items.
